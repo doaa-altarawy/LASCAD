@@ -1,0 +1,36 @@
+{
+  "base_dir": "/Users/doaa/Documents/LASCAD/LASCAD",
+  "source_dir": "showcases_data",
+  "out_dir": "showcases_out",
+  "log_file": "logs/logs.log",
+  "lang_extensions": "config/language_extension.json",
+
+  "dataset_largeDataset": "largeDataset",
+  "largeDataset_data": "config/largeDataset_config_filtered_final.csv",
+
+  "dataset_largeDataset_readme": "largeDataset_readme",
+
+  "dataset_timeseries": "config/projects_timeSeries_config.json",
+
+  "dataset_showcases": "showcases",
+  "dataset_showcase_noStem": "showcase_noStem",
+  "dataset_showcase_noStem2": "showcase_noStem2",
+
+  "showcases_data": "config/showcases_config.json",
+
+  "dataset_LACT41": "LACT41",
+  "LACT41_data": "LACT2009/msr09-data/41-software-systems.corpus",
+  "LACT41_names": "LACT2009/msr09-data/41-software-systems.names",
+
+  "dataset_LACT43": "LACT43",
+  "LACT43_data": "LACT2009/msr09-data/43-software-systems.corpus",
+  "LACT43_names": "LACT2009/msr09-data/43-software-systems.names",
+
+  "final_processed": "final-processed-without-stemming.out",
+
+  "projects_details": "projects_details.csv",
+  "topic_word_raw": "topic_word_raw_",
+  "topic_word": "topic_word_",
+  "topic_word_freq": "topic_word_freq_",
+  "project_topic": "project_topic_"
+}

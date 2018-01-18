@@ -1,0 +1,1002 @@
+name	full_name	id	description	language	size	watchers	forks	stargazers_count
+express	expressjs/express	237159	Fast, unopinionated, minimalist web framework for node.	JavaScript	13746	27387	5113	27387
+django	django/django	4164482	The Web framework for perfectionists with deadlines.	Python	198635	21196	8551	21196
+tornado	tornadoweb/tornado	301742	Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.	Python	10587	12090	3705	12090
+martini	go-martini/martini	13975314	Classy web framework for Go	Go	820	8732	915	8732
+beego	astaxie/beego	3577919	beego is an open-source, high-performance web framework for the Go programming language.	Go	8829	8118	2010	8118
+gin	gin-gonic/gin	20904437	Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.	Go	1805	7555	837	7555
+revel	revel/revel	2945088	A high productivity, full-stack web framework for the Go language.	Go	6757	7286	1023	7286
+cphalcon	phalcon/cphalcon	2854337	Web framework delivered as a C-extension for PHP	PHP	168186	7185	1343	7185
+carrierwave	carrierwaveuploader/carrierwave	47087	Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks	Ruby	4497	6963	1237	6963
+vapor	vapor/vapor	49910095	A web framework and server for Swift that works on macOS and Ubuntu.	HTML	8901	5334	288	5334
+iris	kataras/iris	50709152	The fastest web framework for Go in (THIS) Earth.	Go	31129	5068	265	5068
+Kitura	IBM-Swift/Kitura	51308720	A Swift Web Framework and HTTP Server	Swift	2217	4122	242	4122
+webpy	webpy/webpy	57419	web.py is a web framework for python that is as simple as it is powerful. 	Python	1728	4023	1052	4023
+iron	iron/iron	20702627	An Extensible, Concurrent Web Framework for Rust	Rust	851	3317	241	3317
+volt	voltrb/volt	15805577	A Ruby web framework where your Ruby runs on both server and client	Ruby	3537	3307	202	3307
+goji	zenazn/goji	17327241	Goji is a minimalistic web framework for Golang that's high in antioxidants.	Go	367	3143	224	3143
+crow	ipkn/crow	18250334	Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)	C++	947	2407	260	2407
+spring-mvc-showcase	spring-projects/spring-mvc-showcase	1843047	Demonstrates the features of the Spring MVC web framework	Java	1529	2254	2219	2254
+pyramid	Pylons/pyramid	1020639	Pyramid web framework	Python	28983	2086	699	2086
+scalatra	scalatra/scalatra	214710	Tiny Scala high-performance, async web framework, inspired by Sinatra	Scala	7677	2025	292	2025
+Swifton	necolt/Swifton	52214257	A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X	Swift	139	1996	80	1996
+geddy	geddy/geddy	561616	Web framework for Node.js	JavaScript	9524	1906	269	1906
+mojo	kraih/mojo	65646	:sparkles: Mojolicious - Perl real-time web framework	Perl	28598	1740	410	1740
+nickel.rs	nickel-org/nickel.rs	20462243	An expressjs inspired web framework for Rust	Rust	12680	1656	122	1656
+django-reversion	etianen/django-reversion	695611	django-reversion is an extension to the Django web framework that provides version control for model instances.	Python	2189	1651	323	1651
+blade	biezhi/blade	37173512	:rocket: A Simple, Elegant Java Web Framework! website →	Java	6445	1587	329	1587
+yesod	yesodweb/yesod	237904	A RESTful Haskell web framework built on WAI.	Haskell	9364	1541	268	1541
+ninja	ninjaframework/ninja	4610430	Ninja is a full stack web framework for Java. Rock solid, fast and super productive.	Java	38455	1474	438	1474
+lapis	leafo/lapis	6062770	A web framework for Lua and OpenResty written in MoonScript	MoonScript	2733	1337	132	1337
+redis-store	redis-store/redis-store	173446	Namespaced Rack::Session, Rack::Cache, I18n and cache Redis stores for Ruby web frameworks	Ruby	3309	1329	303	1329
+angular.dart	angular/angular.dart	9505974	A web framework for Dart	Dart	13450	1286	274	1286
+Raphters	danielwaterworth/Raphters	1567541	[DEPRECATED] A web framework for C.	C	672	1266	109	1266
+Django-facebook	tschellenbach/Django-facebook	648127	Facebook open graph api implementation using the Django web framework in python	Python	3720	1227	507	1227
+macaron	go-macaron/macaron	21677533	Package macaron is a high productive and modular web framework in Go.	Go	628	1222	134	1222
+silicon	matt-42/silicon	26010099	A high performance, middleware oriented C++14 http web framework	C++	609	1185	75	1185
+notejam	komarserjio/notejam	7594560	Unified sample web app. The easy way to learn web frameworks.	PHP	3028	1150	122	1150
+kemal	sdogruyol/kemal	44826364	Lightning Fast, Super Simple web framework for Crystal	Crystal	435	1033	60	1033
+lazy_high_charts	michelson/lazy_high_charts	451554	Make highcharts a la ruby , works in rails 4.X / 3.X, and other ruby web frameworks	Ruby	1785	968	205	968
+scotty	scotty-web/scotty	3077100	Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository)	Haskell	611	941	104	941
+locomotive	jaredhanson/locomotive	2500281	Powerful MVC web framework for Node.js.	JavaScript	2310	825	127	825
+api-platform	api-platform/api-platform	31790438	API-first web framework on top of Symfony with JSON-LD, Schema.org and Hydra support	PHP	359	798	65	798
+nitrogen	nitrogen/nitrogen	68626	Nitrogen Web Framework for Erlang (now with websockets!)	Erlang	6009	796	146	796
+rapidoid	rapidoid/rapidoid	18525371	Rapidoid - Extremely Fast, Simple and Powerful Java Web Framework and HTTP Server!	Java	17193	764	61	764
+go-http-routing-benchmark	julienschmidt/go-http-routing-benchmark	15237681	Go HTTP request router and web framework benchmark	Go	379	760	102	760
+fab	jed/fab	391267	a modular async web framework for node.js	JavaScript	1079	742	30	742
+pakyow	pakyow/pakyow	970401	Web Framework for Ruby	Ruby	2231	675	58	675
+RabbitMqBundle	php-amqplib/RabbitMqBundle	1389143	RabbitMQ Bundle for the Symfony2 web framework	PHP	860	659	253	659
+sailor	sailorproject/sailor	15582132	A Lua MVC Web Framework.	Lua	2028	641	94	641
+Growler	pyGrowler/Growler	25556740	A micro web-framework using asyncio coroutines and chained middleware.	Python	555	620	23	620
+polyglot	sausheong/polyglot	21591788	Polyglot is a distributed web framework that allows programmers to create web applications in multiple programming languages	Go	12299	579	32	579
+goweb	stretchr/goweb	7564005	A lightweight RESTful web framework for Go	Go	1849	573	58	573
+citrus	webx/citrus	2618757	Java-based Web Framework for Alibaba Group	Java	8789	538	314	538
+django-notification	jtauber-archive/django-notification	194807	user notification management for the Django web framework	Python	428	525	370	525
+ChromeSnifferPlus	justjavac/ChromeSnifferPlus	14324504	Sniff web framework and javascript libraries run on browsing website.	JavaScript	3267	516	100	516
+vanilla	idevz/vanilla	40606693	An OpenResty Lua MVC Web Framework	Lua	2412	513	142	513
+phoenix-showdown	mroth/phoenix-showdown	22300494	:horse_racing: benchmark Sinatra-like web frameworks	Elixir	1274	508	58	508
+pippo	decebals/pippo	25979437	Micro Java Web Framework	Java	2866	495	55	495
+traffic	pilu/traffic	12004328	Sinatra inspired regexp/pattern mux and web framework for Go	Go	149	486	19	486
+blink	bixuehujin/blink	43488468	A high performance web framework and application server in PHP. 	PHP	227	472	65	472
+zotonic	zotonic/zotonic	1847706	Zotonic - The Erlang Web Framework & CMS	JavaScript	51014	465	149	465
+tango	lunny/tango	28118640	Micro & pluggable web framework for Go	Go	358	464	64	464
+uliweb	limodou/uliweb	283042	Simple and easy use python web framework	Python	4809	414	91	414
+fuqit	zedshaw/fuqit	11393423	The FuqIt Web Framework. Shit files into a dir, get some web.	Python	514	414	33	414
+http-framework	Raynos/http-framework	14634314	A web framework based purely on require('http')	JavaScript	729	410	41	410
+learn-hapi	dwyl/learn-hapi	20352444	:sunny: Learn to use Hapi.js (Node.js) web framework to build scalable apps in less time	HTML	190	407	42	407
+amethyst	Codcore/amethyst	36121102	Amethyst is a Rails inspired web-framework for Crystal language	Crystal	1474	395	29	395
+xitrum	xitrum-framework/xitrum	785509	Async and clustered Scala web framework and HTTP(S) server	Scala	23136	385	46	385
+django-mailer	pinax/django-mailer	419570	mail queuing and management for the Django web framework	Python	379	384	280	384
+jester	dom96/jester	4178258	A sinatra-like web framework for Nim.	Nimrod	229	382	41	382
+weppy	gi0baro/weppy	25485025	The web framework for humans	Python	1883	379	39	379
+itty	toastdriven/itty	144321	The itty-bitty Python web framework.	Python	225	375	47	375
+django-photologue	jdriscoll/django-photologue	5278549	A customizable plug-in photo management application for the Django web framework.	Python	5358	372	161	372
+weber	elixir-web/weber	12669962	[WiP] Web framework for Elixir inspired by Rails [#WeberMVC at freenode]	Elixir	1052	371	39	371
+muffin	klen/muffin	30243627	Muffin is a fast, simple and asyncronous web-framework for Python 3	Python	451	368	17	368
+raptor	garybernhardt/raptor	2413268	An experimental web framework.	Ruby	535	360	30	360
+cinatra	topcpporg/cinatra	38724816	A sinatra inspired modern c++ web framework	C++	943	358	106	358
+webargs	sloria/webargs	16899445	A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks, including Flask, Django, Bottle, Tornado, Pyramid, webapp2, Falcon, and aiohttp.	Python	1720	358	48	358
+sapper	sappworks/sapper	56665880	A lightweight web framework built on async hyper, implemented in Rust language.	Rust	122	350	26	350
+asset-rack	techpines/asset-rack	4876139	Static Web Framework for Nodejs	CoffeeScript	1144	338	59	338
+Spock	agrafix/Spock	12626767	Another Haskell web framework for rapid development	Haskell	733	335	34	335
+tako	mikeal/tako	3564777	Functional web framework.	JavaScript	206	334	18	334
+lazo	lazojs/lazo	12765913	A client-server web framework built on Node.js that allows front-end developers to easily create a 100% SEO compliant, component MVC structured web application with an optimized first page load.	JavaScript	3672	329	43	329
+the-great-web-framework-shootout	seedifferently/the-great-web-framework-shootout	3482574	Benchmarks and test code for The Great Web Framework Shootout [DEPRECATED -- See techempower's benchmarks instead]	PHP	6135	317	29	317
+gondola	rainycape/gondola	22271452	The web framework for writing faster sites, faster	Go	8494	299	19	299
+diet	bayorigin/diet	15193721	A tiny, fast and modular node.js web framework. Good for making fast & scalable apps and apis.	JavaScript	383	299	19	299
+framework	golangers/framework	5783199	Golanger Web Framework is a lightweight framework for writing web applications in Go.	Go	658	297	84	297
+sugar	sugar-framework/sugar	15920083	Modular web framework for Elixir	Elixir	241	287	23	287
+kara	TinyMission/kara	7249845	Kotlin Web Framework for the JVM	Kotlin	29932	286	54	286
+koa.io	koajs/koa.io	25695632	Realtime web framework combine koa and socket.io.	JavaScript	89	280	41	280
+neo	ivpusic/neo	30316179	Go Web Framework	Go	134	276	22	276
+tufao	vinipsmaker/tufao	7250825	An asynchronous web framework for C++ built on top of Qt	C++	7053	274	69	274
+nyny	alisnic/nyny	10401753	a (ridiculously) small and powerful web framework.	Ruby	674	271	16	271
+jooby	jooby-project/jooby	25446835	Scalable, fast and modular micro web framework for Java	Java	35622	270	55	270
+ella	ella/ella	132401	Ella is a CMS based on Python web framework Django with a main focus on high-traffic news websites and Internet magazines.	Python	30003	269	65	269
+Kyoukai	SunDwarf/Kyoukai	58387667	A fully asynchronous web framework for Python3.5+	Python	1563	267	9	267
+go-start	ungerik/go-start	3854642	A high level web-framework for Go	Go	11135	265	36	265
+iUI	iui/iUI	4025716	iUI Web Framework	JavaScript	16129	261	87	261
+cobol-on-wheelchair	azac/cobol-on-wheelchair	15296644	Micro web-framework for COBOL	COBOL	70	254	7	254
+Tir	mongrel2/Tir	1781184	A Simple Lua Web Framework For Mongrel2	Lua	446	253	28	253
+moustache	cgrand/moustache	197728	a micro web framework/internal DSL to wire Ring handlers and middlewares	Clojure	159	252	9	252
+juno	breily/juno	100428	a lightweight and simple python web framework	Python	362	246	20	246
+lessgo	lessgo/lessgo	55132507	Lessgo 是一款简单、稳定、高效、灵活的 golang web 开发框架，支持动态路由、自动化API测试文档、热编译、热更新等，实现前后端分离、系统与业务分离，完美兼容MVC与MVVC等多种开发模式，非常利于企业级应用与API接口的开发。[A simple, stable, efficient and flexible web framework.]	Go	3361	240	45	240
+goviz-frameworks	groob/goviz-frameworks	67243118	pretty pictures of web frameworks and applications	null	15393	229	18	229
+Scorched	Wardrop/Scorched	5364066	Light-weight, DRY as a desert, web framework for Ruby.	Ruby	279	225	11	225
+rango	botanicus/rango	160373	Rango is ultralightweight, ultracustomizable, ultracool web framework inspired by Django.	Ruby	13167	225	6	225
+rust-web-framework-comparison	flosse/rust-web-framework-comparison	40813887	A comparison of some web frameworks and libs written in Rust	Rust	61	224	13	224
+webfui	drcode/webfui	6696037	Client-Side Web Framework for ClojureScript	Clojure	3390	223	19	223
+gongular	mustafaakin/gongular	61715151	A different approach to Go web frameworks	Go	718	220	5	220
+bamboo	daogangtang/bamboo	1392303	Bamboo is the web framework of Lua based on Mongrel2, ZeroMQ and NoSQL database.	Lua	5038	219	34	219
+django-smuggler	semente/django-smuggler	420384	Django Smuggler is a pluggable application for Django Web Framework that helps you to import/export fixtures via the automatically-generated administration interface.	Python	354	218	19	218
+takes	yegor256/takes	28924109	True Object-Oriented and Immutable Java Web Framework	Java	31106	215	101	215
+django-friends	jtauber-archive/django-friends	194810	friendship, contact and invitation management for the Django web framework	Python	411	212	93	212
+lor	sumory/lor	49632904	a fast, minimalist web framework for lua based on OpenResty	Lua	224	212	36	212
+coweb	opencoweb/coweb	1247870	Open Cooperative Web Framework	JavaScript	3473	211	26	211
+deft	rschildmeijer/deft	916697	High performance non blocking web framework	Java	4514	209	23	209
+IVORY	kanthvallampati/IVORY	6734082	Simple, Flexible, & Powerful responsive web framework, Makes your web development faster and easier. It takes you all the way from 1200px on down to 320px. 	CSS	60	207	42	207
+restas	archimag/restas	233418	Common Lisp web framework	Common Lisp	1019	202	49	202
+go-web-framework-benchmark	smallnest/go-web-framework-benchmark	55581236	:zap: Go web framework benchmark	Go	88181	194	21	194
+tangelo	Kitware/tangelo	6885877	A simple, quick, powerful web framework	JavaScript	9054	193	35	193
+moochine	appwilldev/moochine	3393947	MOOCHINE - A simple and lightweight web framework based on OpenResty(ngx_lua, http://openresty.org).	Lua	578	193	61	193
+pinot	ibdknox/pinot	2127264	the ClojureScript client-side web framework	Clojure	141	191	11	191
+yog2	fex-team/yog2	27371509	A Node Web Framework based on FIS & Express http://fex.baidu.com/yog2/	JavaScript	10110	188	55	188
+chocolatejs	jclevy/chocolatejs	8979087	Chocolate - Full stack and isomorphic Node.js web framework and online ide	CoffeeScript	6521	184	17	184
+webasyst-framework	webasyst/webasyst-framework	1910405	Webasyst PHP Framework	PHP	36696	183	136	183
+golf	dinever/golf	46426592	The Golf web framework :golf:	Go	194	180	11	180
+kami	guregu/kami	29841963	web "framework" with context	Go	97	177	20	177
+ffead-cpp	sumeetchhetri/ffead-cpp	4089214	Framework for Enterprise Application Development, c++ framework, c++ web framework, c++ application framework, c++ rest framework, c++ soap framework, c++ web sites,c++ web applications, c++ driven web development - c++	C++	62896	176	65	176
+w	simonask/w	17512415	A simple C++ web framework based on Libevent.	C++	2597	171	12	171
+choco	ahe/choco	790561	A delicious Javascript web framework made in Belgium!	Ruby	272	170	5	170
+typeframework	zekelevu/typeframework	21794506	A TypeScript MVC Web Framework	TypeScript	566	167	21	167
+albatross	kespindler/albatross	62277979	A modern, fast, simple async python3 web framework	Python	87	167	10	167
+pygreen	nicolas-van/pygreen	10083103	A micro web framework/static web site generator.	Python	2031	162	14	162
+erlyweb	yariv/erlyweb	59626	The Erlang twist on web frameworks	Erlang	680	161	26	161
+pecan	stackforge/pecan	12088902	A WSGI object-dispatching web framework, designed to be lean and fast with few dependencies.	null	2253	158	15	158
+firefly	hypercube1024/firefly	3458429	Firefly framework - A high performance full-stack java web framework	Java	23541	157	98	157
+lattice	celluloid/lattice	2957110	A concurrent realtime web framework for Ruby	Ruby	1336	155	5	155
+apejs	lmatteis/apejs	1653192	A tiny JavaScript web framework targeted for Google App Engine	JavaScript	2347	154	8	154
+elefant	jbroadway/elefant	1702670	Elefant, the refreshingly simple PHP CMS and web framework.	PHP	13480	153	35	153
+kibi	jed/kibi	2437749	a client-side web framework in 1,024 bytes	JavaScript	141	150	11	150
+toa	toajs/toa	27128928	A pithy and powerful web framework.	JavaScript	665	149	16	149
+chp	runexec/chp	9929356	ClojureHomePage is a Compojure based web framework that allows you to write the backend and frontend with Clojure.	Clojure	787	147	4	147
+PadrinoBook	wikimatze/PadrinoBook	2691235	The Guide To Master The Elegant Ruby Web Framework.	TeX	3959	145	30	145
+pjax-api	falsandtru/pjax-api	7358336	The second generation PJAX for advanced web framework.	TypeScript	4095	142	18	142
+frankie	deadprogram/frankie	7927	Easy creation of Facebook applications in Ruby using plugin for Sinatra web framework that integrates with Facebooker gem.	Ruby	86	142	22	142
+pando.py	AspenWeb/pando.py	1347497	Filesystem dispatch + Simplates + Python = a nice web framework.	Python	18055	141	41	141
+ace	plimble/ace	27669616	Blazing fast Go Web Framework	Go	64	140	18	140
+busker	pachacamac/busker	21734372	An extremely simple web framework.	Ruby	27	140	15	140
+bottle-cork	FedericoCeratto/bottle-cork	3964172	Authentication module for the Bottle and Flask web frameworks	Python	809	139	83	139
+guava	StarfruitStack/guava	21072534	Guava is a lightweight Python web framework written in C	C	923	138	9	138
+graphp	mikeland86/graphp	10572390	The GraPHP web framework 	PHP	906	135	5	135
+Tatsumaki	miyagawa/Tatsumaki	337798	Plack-based nonblocking Web framework for IO-bound delayed response, server push (streaming) and long-poll comet	JavaScript	469	132	18	132
+golang-mux-benchmark	cypriss/golang-mux-benchmark	14865571	Performance shootout of popular Go mux/routers/middleware web frameworks	Go	232	129	15	129
+Moonshine	dhruvrajvanshi/Moonshine	34553660	Web framework for Crystal language	Crystal	106	128	13	128
+dubious	mirah/dubious	766975	A Web Framework Written in Mirah for running on AppEngine	Mirah	3958	126	16	126
+Bowler	bowler-framework/Bowler	1162806	RESTful Web Framework based on Scala, built on top of Scalatra & Scalate	Scala	14403	126	15	126
+spooky	flashingpumpkin/spooky	1919600	Minimum viable Erlang web framework	Erlang	218	122	8	122
+lime	aheinze/lime	5664706	micro php web framework	PHP	60	121	14	121
+SpaceMagic	xcoderzach/SpaceMagic	3044315	A real-time web framework for node.js	JavaScript	1122	121	4	121
+beego-mgo	goinggo/beego-mgo	14982671	Sample Application For Using the BeeGo web framework with MGO	Go	5704	119	43	119
+gas	go-gas/gas	61975154	Gas is a web framework writing in go	Go	1006	119	9	119
+wee	mneumann/wee	83998	A high-level light-weight web framework with many ideas from Seaside.	Ruby	3416	119	13	119
+substanced	Pylons/substanced	3897821	An application server based on the Pyramid web framework (http://substanced.net)	Python	12301	117	57	117
+examples	iris-contrib/examples	56411601	The repository contains small but practical examples for Iris Web Framework	Go	957	116	39	116
+amazium	OwlyStuff/amazium	5483088	The responsive CSS web framework	CSS	3103	113	45	113
+widok	widok/widok	24756717	Reactive web framework for the JVM and Scala.js	Scala	761	113	12	113
+meryl	kadirpekel/meryl	766135	Minimalist web framework for nodejs	JavaScript	2151	111	8	111
+activeweb	javalite/activeweb	10385373	ActiveWeb is a full stack Java Web Framework for rapid development	Java	12577	110	42	110
+wut4lunch_demos	ryansb/wut4lunch_demos	24819455	Demos to accompany an article comparing the Flask, Django, and Pyramid web frameworks.	Python	191	110	48	110
+php-phalcon-mamp	majksner/php-phalcon-mamp	11851779	Phalcon is a web framework implemented as a C extension offering high performance and lower resource consumption http://phalconphp.com/	null	22507	110	28	110
+node-api-examples	caio-ribeiro-pereira/node-api-examples	62854182	A set of Node Tasklist APIs which explores some databases and web frameworks.	JavaScript	74	108	19	108
+coServ	coimotion/coServ	19331550	A web framework helping developers to fully utilize HTML, CSS and Javascript. 	JavaScript	26292	107	20	107
+app-turbo	wecatch/app-turbo	25961303	A web framework based on tornado for easier development, scaling up and maintenance	Python	328	106	12	106
+awesome-webframeworks	planetruby/awesome-webframeworks	38115409	A collection of awesome Ruby web frameworks, libraries, tools, etc.	null	232	106	6	106
+router	iron/router	20944780	Router middleware for the Iron web framework.	Rust	161	105	61	105
+django-colorful	charettes/django-colorful	1236911	Extension to the Django web framework that provides database and form color fields	Python	76	105	49	105
+qdjango	jlaine/qdjango	14255651	QDjango, a Qt-based C++ web framework	C++	814	104	45	104
+jolla	salamer/jolla	56244790	Python Web Framework	Python	164	102	13	102
+django-email-confirmation	jtauber-archive/django-email-confirmation	194813	simple email confirmation for the Django web framework	Python	184	102	89	102
+graffiti	webdevwilson/graffiti	986056	Graffiti is a lightweight web framework for Groovy inspired by Sinatra	Groovy	6628	101	12	101
+nacho	avelino/nacho	12015969	 Python micro web-framework and asynchronous networking library tulip, support Python >= 3.3	Python	435	101	7	101
+joodo	slagyr/joodo	2086242	Clojure Web Framework	Clojure	661	100	16	100
+domcom	taijiweb/domcom	40072969	the web framework to provide dom component	JavaScript	9665	100	16	100
+Lemmachine	larrytheliquid/Lemmachine	495517	REST'ful web framework in Agda	Haskell	3195	97	4	97
+ufront	ufront/ufront	9787687	Ufront is a powerful MVC web framework for Haxe. It gives you quick development, shared code on the client and server, powerful extensibility, easy testing, and targets PHP or Neko.  This is the mothership repo - most of the actual code is contained in the other ufront repos, such as ufront-mvc.	Shell	691	96	16	96
+turbinado	alsonkemp/turbinado	76548	MVC Web Framework for Haskell.  See http://github.com/turbinado/turbinado-website for example code	Haskell	2027	94	8	94
+zero	sskyy/zero	23172416	modern nodejs web framework	JavaScript	5864	90	27	90
+trek	trekjs/trek	19660568	[WIP] 😎 Fast Async Web Framework For Modern Node.js	JavaScript	675	90	7	90
+nyara	luikore/nyara	10511522	Fast and fuzzy ruby web framework + server	C	4305	89	10	89
+flancy	toenuff/flancy	45089457	A micro web framework for Windows PowerShell	PowerShell	835	88	15	88
+orbit	keplerproject/orbit	313433	Orbit is an MVC web framework for Lua.	Lua	1543	87	29	87
+mwf	ucla/mwf	1723395	UCLA Mobile Web Framework	JavaScript	17752	86	32	86
+oxidize	jroweboy/oxidize	15830030	A very basic web framework for Rust	Rust	2216	86	7	86
+ESPWebFramework	fdivitto/ESPWebFramework	30917788	Web framework for ESP8266	C++	69017	85	30	85
+fastr	chrismoos/fastr	673371	Event-based web framework for Ruby.	Ruby	743	85	6	85
+eweb4j-framework	laiweiwei/eweb4j-framework	4886730	easy web framework for java 	Java	2516	84	73	84
+handlebars-iron	sunng87/handlebars-iron	28865900	Handlebars middleware for Iron web framework	Rust	753	84	21	84
+lucerne	eudoxia0/lucerne	27279362	A web framework for Common Lisp, built on Clack	Common Lisp	293	83	12	83
+frost	ysbaddaden/frost	48559853	Full Featured Web Framework for the Crystal Programming Language	Crystal	248	83	6	83
+phalcon-php	scento/phalcon-php	17750885	Pure PHP implementation of the Phalcon Web framework.	PHP	5413	81	30	81
+spludo	DracoBlue/spludo	442701	Spludo is high performance, evented, server side, prototype based, javascript mvc web framework. It includes DI+AOP and a Convention-Over-Configuration Approach.	JavaScript	1078	79	9	79
+spludo	DracoBlue/spludo	442701	Spludo is high performance, evented, server side, prototype based, javascript mvc web framework. It includes DI+AOP and a Convention-Over-Configuration Approach.	JavaScript	1078	79	9	79
+juzu	juzu/juzu	2460774	A web framework for portlet and portal	Java	27529	78	45	78
+her	go-code/her	14680729	a web framework for golang	Go	628	78	15	78
+gaeseries	fsouza/gaeseries	808885	Series about using Google App Engine with some Python web frameworks	Python	9483	78	15	78
+nicedog	bastos/nicedog	44842	Nice Dog is a nano web framework for PHP, like web.py for Python, Sinatra or Camping for Ruby	PHP	288	77	21	77
+dart-force	ForceUniverse/dart-force	15165938	Dart Realtime Web Framework!	Dart	3184	76	11	76
+waffle	benglard/waffle	33100294	Fast, asynchronous web framework for Lua/Torch	Lua	65	74	8	74
+clastic	mahmoud/clastic	6820956	A functional web framework that streamlines explicit development practices while eliminating global state.	Python	776	73	12	73
+stapler	stapler/stapler	1548514	Stapler web framework	Java	36519	72	50	72
+slickspeed	kamicane/slickspeed	133775	[dead] Speed / Validity test for css dom queries in JavaScript web Frameworks.	PHP	92	71	14	71
+zorium	Zorium/zorium	26881260	(╯°□°)╯︵ ┻━┻ The CoffeeScript Web Framework	CoffeeScript	2853	69	2	69
+GoInk	fuxiaohei/GoInk	14530767	very simple go web framework	Go	484	68	23	68
+ofbiz-smart	huihoo/ofbiz-smart	36414890	A tiny,smart,powerfull web framework inspired by OFBiz framework, Spring-Boot, Moqui	null	5326	68	40	68
+django-notification	brosner/django-notification	100868	user notification management for the Django web framework	Python	342	66	13	66
+autodafe	jifeon/autodafe	880658	node.js web framework with rich features such as mvc, mysql orm, authentication and role-based access control, testing, logging etc.	JavaScript	1545	66	11	66
+wisdom	wisdom-framework/wisdom	14581444	A modular and dynamic web framework	Java	36970	65	34	65
+torneira	marcelnicolay/torneira	684174	Torneira is a lightweight and rapid web framework build on top of Tornado	Python	493	65	14	65
+broke	brokenseal/broke	458082	Broke Javascript Framework - a porting to Javascript of the Django Web Framework	JavaScript	4911	65	3	65
+espec_phoenix	antonmi/espec_phoenix	34621443	ESpec for Phoenix web framework.	Elixir	312	64	19	64
+pyramid_jinja2	Pylons/pyramid_jinja2	1039711	Jinja2 templating system bindings for the Pyramid web framework	Python	615	64	55	64
+mre	erickt/mre	3946691	MRE: A web framework written in Rust	Rust	211	64	9	64
+YOYOFx	maxzhang1985/YOYOFx	45962516	YOYOFx is a MVC Web Framework base on Owin and .NET CORE	C++	5082	63	16	63
+ashes	nickgartmann/ashes	29114802	A code generation tool for the Phoenix web framework	Elixir	302	62	7	62
+nereid	openlabs/nereid	1900653	Nereid - A web framework for tryton	Python	3141	61	31	61
+omega	jeffknupp/omega	20862969	The Last Python Web Framework	Python	1112	61	9	61
+giallo	kivra/giallo	8135750	Small and flexible web framework on top of Cowboy	Erlang	310	61	4	61
+twitterArchitectureClone	iamtrk/twitterArchitectureClone	13377061	Twitter like API built on Node.js + Redis + Mongoose + Express web framework	JavaScript	1860	61	11	61
+Slimane	noppoMan/Slimane	48130430	An express inspired web framework for swift that works on OSX and Ubuntu.	Swift	346	61	6	61
+Katana	Shogun147/Katana	3030857	Easy to use, modular web framework for any Node.js samurai	JavaScript	1574	60	11	60
+IdrisWeb	idris-hackers/IdrisWeb	10605512	A secure web framework, built in the Idris language.	TeX	947	60	3	60
+arachne-core	arachne-framework/arachne-core	62824861	The core module for the Arachne web framework	Clojure	96	60	4	60
+httptools	surma/httptools	13989775	Augmenting the basic net/http package with functionality found in web frameworks without breaking the original API.	Go	316	60	2	60
+Aura.Web_Project	auraphp/Aura.Web_Project	14574552	A web framework project skeleton.	PHP	554	59	11	59
+fragmenta	fragmenta/fragmenta	39687459	A command line tool for creating, running and deploying golang websites, part of the fragmenta go web framework	Go	72	59	7	59
+dandelion	dandelion/dandelion	7455819	Extensible web framework making web development easier	Java	5286	58	23	58
+Vase	vkryachko/Vase	14759763	Async Web framework based on Tulip/asyncio	Python	434	58	7	58
+xweb	go-xweb/xweb	10862697	A powerful web framework for Go	Go	6606	56	10	56
+iliad	NicolasPetton/iliad	298334	iliad smalltalk web framework	Smalltalk	6083	56	9	56
+pycnic	nullism/pycnic	45515880	A JSON API web framework for lazy people.	Python	40	56	14	56
+apiary	philopon/apiary	19700829	Simple and type safe web framework that can be automatically generate API documentation. 	Haskell	1028	56	3	56
+kelp	naturalist/kelp	9069839	A web framework light, yet rich in nutrients.	Perl	871	55	14	55
+cutelyst	cutelyst/cutelyst	36847099	A Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework.	C++	1621	55	8	55
+django-photologue	praekelt/django-photologue	646363	Powerful image management for the Django web framework.	Python	1999	54	23	54
+seven5	seven5/seven5	2759497	seven5 is an opinionated, stiff web framework for go on the server and client.	JavaScript	5983	54	6	54
+django-bookmarks	brosner/django-bookmarks	177881	bookmark management for the Django web framework	null	117	53	27	53
+backpacking	cdcarter/backpacking	334	An Io web framework of sorts	Io	33	53	5	53
+cpfthw	5aket/cpfthw	4161594	http://www.blog.fruiapps.com/2012/05/Choose-your-Python-Web-Framework-the-Hard-Way	Python	207	53	48	53
+baa	go-baa/baa	51890205	an express Go web framework with routing, middleware, dependency injection, http context.	Go	158	53	11	53
+yesod-dsl	tlaitinen/yesod-dsl	5411340	A domain specific language and a code generator desined to create RESTful services for managing an RDBMS with Yesod web framework and Persistent.	Haskell	10647	53	4	53
+todoapp-spark	shekhargulati/todoapp-spark	20650110	Todo app written using Spark web framework http://www.sparkjava.com/	Java	477	51	54	51
+base	agency/base	9595221	An intelligent, developer-friendly responsive web framework.	CSS	1913	51	14	51
+jellyfish	godfat/jellyfish	6195408	Pico web framework for building API-centric web applications	Ruby	376	51	3	51
+restish	ish/restish	99407	Restish is a simple to use, lightweight WSGI web framework and library with a
+strong focus on resources, request/response, URLs and content negotiation.	JavaScript	4657	51	10	51
+newf	lucky/newf	98508	A New (web) Framework for Python	Python	264	50	6	50
+kiss.py	stanfeldman/kiss.py	2844050	MVC web framework in Python with Gevent, Jinja2, Werkzeug, SqlAlchemy, SASS	Python	491	50	2	50
+bleh	will123195/bleh	40213126	A web framework with automatic Browserify + Less + Express + Handlebars	JavaScript	110	50	1	50
+Abstract.js	dorsywang/Abstract.js	39554439	Abstract.js is a web framework for fast development	JavaScript	1048	49	8	49
+mysticpaste	kinabalu/mysticpaste	499171	A sample pastebin built using the Apache Wicket java web framework	Java	2591	49	14	49
+appgo	GeorgeNava/appgo	1991801	Web framework for creating apps using Go in Google AppEngine	Go	1189	49	8	49
+compare-python-web-frameworks	mattmakai/compare-python-web-frameworks	40148362	Helping you select a Python web framework based on an example app.	Python	68	48	12	48
+titan	drewwilson/titan	92951	Titan: Open Source Javascript Web Framework	JavaScript	2602	48	6	48
+ZKWeb	zkweb-framework/ZKWeb	47885982	A flexible web framework support .Net Framework and .Net Core	C#	9575	48	20	48
+django-microblogging	skabber/django-microblogging	127544	  microblogging for the Django Web Framework  initially spun out of Pinax's zwitschern application	Python	100	48	17	48
+HydraBundle	lanthaler/HydraBundle	6645232	HydraBundle is a Symfony2 bundle which shows how easily Hydra can be integrated in modern Web frameworks. It acts as a proof of concept to show how Hydra can simplify the implementation of interoperable and evolvable RESTful APIs.	PHP	407	48	10	48
+web	masak/web	114854	A Perl 6 web framework	Perl	5194	47	7	47
+pedestal-todo	konrad-garus/pedestal-todo	10107985	Client-side only TODO app written in Pedestal (Clojure web framework)	Clojure	128	47	8	47
+amatista	werner/amatista	34396476	Web Framework for Crystal http://crystal-lang.org	Crystal	116	47	4	47
+skinny-micro	skinny-framework/skinny-micro	41204520	:microphone: Micro Web framework to build Servlet applications in Scala, the core part of Skinny Framework 2	Scala	1717	47	4	47
+soggy	dbrain/soggy	4467388	An fast and simple express/sinatra like web framework.. thing.. for Go.	Go	288	47	1	47
+tornroutes	nod/tornroutes	2493509	routes decorator for the Tornado web framework	Python	149	46	5	46
+meteor-foundation	ewall/meteor-foundation	9903056	Foundation by ZURB — an advanced responsive web framework	JavaScript	797	46	6	46
+minitwit	eh3rrera/minitwit	41017433	Based on Flask's MiniTwit example and written in Java with the Spark web framework, Spring, and HSQLDB	Java	132	46	47	46
+node-bigpipe	xunuoi/node-bigpipe	48615388	A lightweight Bigpie Module for Nodejs,  Express,  Sails, ThinkJS with good intergration for any web framework	JavaScript	60	46	3	46
+q	kataras/q	65244924	HTTP/2 Web framework for Golang. Aims to be developer friendly. 100% compatible with net/http	Go	158	46	1	46
+WebFrameworkGrammar	dcloudio/WebFrameworkGrammar	17701198	JS Framework Grammar	JavaScript	3267	45	32	45
+pyramid_blogr	Pylons/pyramid_blogr	5848025	Pyramid_blogr is an example implementation of Flaskr app with Pyramid Web Framework	Python	294	45	26	45
+django-offline-messages	dym/django-offline-messages	1216974	Offline messages for Django Web Framework	Python	49	44	23	44
+heroku-buildpack-shiny	btubbs/heroku-buildpack-shiny	14131824	For deploying apps running on R's "Shiny" web framework	Shell	148	44	10	44
+ramaze-book	manveru/ramaze-book	16224	The official book for the Ramaze web framework	Ruby	482	44	9	44
+node.kt	jonninja/node.kt	8255594	A web framework built in Kotlin that is inspired by Node.js	Kotlin	614	44	6	44
+aero	aerojs/aero	31572247	:bullettrain_side: The fastest web framework on the node platform.	JavaScript	1002	44	5	44
+merb-internals-handbook	michaelklishin/merb-internals-handbook	46826	A guide through internals of Merb, very fast, flexible and modular web framework in Ruby	null	291	44	8	44
+luv	artemshein/luv	87103	[abandoned] Lua MVC web-framework	Lua	1064	44	0	44
+owl	owl-framework/owl	25516530	PHP Web framework powered by Zephir & delivered as a C-extension	Zephir	27861	44	3	44
+learnmvc	suffering/learnmvc	23959616	通过重建一个Rails-like的ruby web framework来理解Rails.	Ruby	341	44	10	44
+quinn	quinnjs/quinn	20430680	A web framework designed for things to come.	JavaScript	572	44	0	44
+owl	yeaha/owl	31196681	RESTful web framework	null	605	43	12	43
+go-web-frameworks	hfeeki/go-web-frameworks	8945484	Some of go web frameworks I collected	null	128	43	5	43
+webframeworks.kr	KoreaHTML5/webframeworks.kr	20315490	Web Framework / Library / Tool 정보와 튜토리얼을 제공하는 사이트용 저장소입니다.	HTML	29954	43	22	43
+ulfius	babelouest/ulfius	45362021	Web Framework for REST Applications in C	C	299	43	6	43
+haxigniter	ciscoheat/haxigniter	317219	A web framework for Haxe, superseded by ufront.	HaXe	2783	43	5	43
+baseapp	richtr/baseapp	19072037	Bootstrap-based web application scaffolding built in Go on top of the Revel Web Framework w/ Docker build support	Go	1774	43	16	43
+sinatra-ditties	foca/sinatra-ditties	45567	A series of plugins and useful helpers for the Sinatra web framework	Ruby	107	43	2	43
+Portofino	ManyDesigns/Portofino	30921794	Portofino 4 is the next generation of the open source web framework Portofino. Its purpose is to help developers create responsive web enterprise applications with a REST interface.	Java	55936	42	17	42
+vroom	raycmorgan/vroom	251588	Vroom is a simple resource oriented web framework built on top of Node.js	JavaScript	450	42	4	42
+node-resthooksdemo	zapier/node-resthooksdemo	12352012	A simple node.js RESTHooks demo built upon the Sails Web Framework	JavaScript	246	42	3	42
+django_gmapsfield	bocoup/django_gmapsfield	1194479	A Google Maps field type for the django web framework	JavaScript	169	41	10	41
+wheels	stanfeldman/wheels	2410610	Web framework for node.js. Simple and sexy.	CoffeeScript	739	41	2	41
+rainfall	mind1master/rainfall	15674100	Micro web framework around asyncio (ex tulip), similiar to the cyclone or tornado	Python	622	41	4	41
+googleCharts	jcheng5/googleCharts	11085515	Google Charts bindings for the Shiny web framework for R	R	269	40	65	40
+watson	simoncoulton/watson	7158238	A Python 3 web framework	Python	1845	40	4	40
+Thin-PHP-Framework	ngduc/Thin-PHP-Framework	1413779	A micro web framework - lightweight and flexible open source PHP5 MVC framework	PHP	812	40	19	40
+kovert	kohesive/kovert	41204568	The invisible REST and web framework	Kotlin	423	40	3	40
+sixty	emadera52/sixty	27312901	Website built using GO, HTML5, CSS3, Bootstrap, MySQL and the Beego web framework.	JavaScript	4475	40	11	40
+josi	thatismatt/josi	647583	josi - "not so sketchy" - a web framework for node.js.	JavaScript	466	40	0	40
+jogger	elibom/jogger	4153406	Jogger - Java Web Framework	Java	4059	39	12	39
+ceylon-cayla	vietj/ceylon-cayla	11007446	A web framework for Ceylon	Ceylon	317	39	8	39
+staticfile	iron/staticfile	25762279	Static file-serving middleware for the Iron web framework.	Rust	162	39	42	39
+grails-cxf	Grails-Plugin-Consortium/grails-cxf	474954	CXF Plugin for the Grails web framework	Groovy	32954	39	39	39
+flask-simpleldap	admiralobvious/flask-simpleldap	22800941	LDAP authentication extension for the Flask web framework	Python	80	39	11	39
+rouille	tomaka/rouille	39148240	Web framework in Rust	Rust	3860	39	3	39
+web.go	hoisie/web.go	3976091	web.go is a web framework in Go	null	100	39	7	39
+weblit	creationix/weblit	31999048	A web framework for luvit 2.0 and lit	Lua	55	39	12	39
+rawk	kisom/rawk	1315227	rage against web frameworks - posix shell static site generator	Groff	86	39	7	39
+pyramid_mongodb	niallo/pyramid_mongodb	1774605	Basic Pyramid Scaffold to easily use MongoDB for persistence with the Pyramid Web framework	Python	193	39	12	39
+carbon-crystal	benoist/carbon-crystal	43143830	Carbon Crystal - Web framework for Crystal Lang	Crystal	377	39	3	39
+bomberjs	obt/bomberjs	387925	The early stages of a node.js web framework	JavaScript	656	39	4	39
+ww	moro/ww	366990	Double Web, framework to build double Web server.  developing repo.	Ruby	291	39	0	39
+lunar	jasonlvhit/lunar	25725823	A Python Web Framework.	Python	161	38	6	38
+Abstract.js	AlloyTeam/Abstract.js	29426086	Abstract.js is a web framework for fast development	JavaScript	9344	38	11	38
+sw	jroimartin/sw	16575048	sw is a minimal and sane web framework	Awk	11	38	3	38
+Tinyweb	martinrue/Tinyweb	1206056	Tinyweb is a lightweight web framework for ASP.NET that embraces HTTP and aims to be ridiculously simple.	C#	7428	38	4	38
+phoenix-docker	marcelocg/phoenix-docker	33515973	A Docker container for the Phoenix Elixir web framework	null	17	37	27	37
+awful	mario-goulart/awful	4197893	A web framework in CHICKEN Scheme	Scheme	581	36	4	36
+Shake	lucuma/Shake	1508369	A web framework mixed from the best ingredients	Python	1131	36	4	36
+mono	sinizinairina/mono	14257594	Web Framework for Node.js similar to Ruby on Rails.	CoffeeScript	307	36	3	36
+Kunugi	novi/Kunugi	48944944	Minimal web framework and middleware for Swift	Swift	28	36	1	36
+trinity	ruby-rdf/trinity	473648	[UNMAINTAINED] A minimalistic Ruby web framework for publishing Linked Data.	JavaScript	161	36	0	36
+web-frameworks-templates	mfirry/web-frameworks-templates	31326338	Comparing different frameworks for building RESTful API in Scala	Scala	3744	35	11	35
+mnml	bradwright/mnml	129532	A lightweight Python web framework	Python	96	35	10	35
+pyramid_redis_sessions	ericrasmussen/pyramid_redis_sessions	3909676	Pyramid web framework session factory backed by Redis	Python	230	35	17	35
+tide	tide-framework/tide	16765709	The missing web framework for Pharo and Amber	JavaScript	872	35	7	35
+allatpay-python	achimnol/allatpay-python	4723800	AllAtPay (online payments) API Library for Python and Some Examples for Django Web Framework	Python	109	35	12	35
+bustard	mozillazg/bustard	33099268	A tiny WSGI web framework（一个玩具式的 WSGI Web 框架）(Python 3.5+ ).	Python	207	35	2	35
+martini_blog	RabbeN/martini_blog	14702899	Example blog with Martini(web framework for Go)	Go	299	34	12	34
+torndsession	MitchellChu/torndsession	23481649	Torndsession is a tornado web framework session extension.	Python	297	34	21	34
+pyramid_deform	Pylons/pyramid_deform	1118349	Bindings for the Pyramid web framework to the Deform form generation package.	Python	289	34	18	34
+scotty-starter	scotty-web/scotty-starter	12752738	A starter-kit for the Scotty web framework	Haskell	201	34	7	34
+roosevelt	kethinov/roosevelt	8179851	MVC web framework for Node.js designed to make Express easier to use.	JavaScript	315	34	12	34
+purse	Phyramid/purse	19075706	A modern web framework for PHP inspired by Sinatra (with routes, MVC, Jade and Stylus).	CSS	811	34	3	34
+splunk-webframework	splunk/splunk-webframework	7966251	Splunk Web Framework	Python	24931	33	9	33
+pwp	danghvu/pwp	7801462	Python Web framework P0wner	Python	125	33	4	33
+lj-web	kindy/lj-web	7609219	lightweight web framework based on ngx_openresty	Lua	218	33	8	33
+fresh	devinus/fresh	1055606	The freshest Erlang web framework	Erlang	727	33	3	33
+opal	openhealthcare/opal	10037542	A web framework for building highly usable healthcare applications.	JavaScript	16599	33	10	33
+padrino-assets	Cirex/padrino-assets	3161202	Plugin for the Padrino web framework which uses Sprockets to manage and compile assets	Ruby	226	33	11	33
+kobin	c-bata/kobin	42408236	A statically-typed wsgi micro web-framework for Python3.	Python	151	33	4	33
+spawn	soveran/spawn	24180	A ridiculously simple fixtures replacement for your web framework of choice.	Ruby	143	33	4	33
+ginpprof	DeanThompson/ginpprof	26000507	A wrapper for golang web framework gin to use net/http/pprof easily.	Go	5	33	7	33
+fixd	lantunes/fixd	11050125	An HTTP Server Fixture for Testing HTTP Clients and mocking web services, and a Java Micro Web Framework	Java	230	33	4	33
+play-reactive-slick	gupta-himanshu/play-reactive-slick	31590664	This is Play Template with a nice User Interface. If you want to use Play as web framework and Postgres as Database then this demo project can be used as a starting point for your application.	Scala	1292	33	8	33
+Daishi.Armor.WebFramework	daishisystems/Daishi.Armor.WebFramework	15080970	Protect ASP.NET Applications Against CSRF Attacks	C#	6004	32	10	32
+django-firebird	maxirobaina/django-firebird	5129314	Firebird SQL backend for Django web framework	Python	195	32	19	32
+root	mafintosh/root	3751178	a lightweight prototypical middleware web framework	JavaScript	413	32	5	32
+swiplwebtut	Anniepoo/swiplwebtut	5594041	A tutorial for the swipl web framework	HTML	6567	32	11	32
+django-mailer	brosner/django-mailer	165738	mail queuing and management for the Django web framework	Python	120	32	7	32
+apex	infinitered/apex	20827215	Apex: the RubyMotion web framework for OS X.	Ruby	868	32	4	32
+pecan	pecan/pecan	39793378	A WSGI object-dispatching web framework, designed to be lean and fast with few dependencies.	Python	1960	32	19	32
+PythonAndDjango.sugar	atg/PythonAndDjango.sugar	420127	A sugar for both the Python programming language and the Django web framework.	null	332	32	5	32
+valatra	erik/valatra	1997302	A Sinatra inspired web framework for Vala	Vala	115	32	2	32
+phpcan	phpcan/phpcan	4168191	PHP Can is a fast and simple web framework for writing a lightweight stateless or stateful PHP HTTP services based on libevent (http://libevent.org)	C	531	32	9	32
+WebFrameworkBenchmark	nanoant/WebFrameworkBenchmark	33822830	Benchmarking some web frameworks	Java	151	31	12	31
+ronin	kprevas/ronin	1273324	Ronin web framework	Gosu	12595	31	10	31
+fastD	JanHuang/fastD	35930132	PHP Web Framework.	PHP	4093	31	4	31
+spring-mvc-angular-js-hibernate-bootstrap-java-single-page-jwt-auth-rest-api-webapp-framework	ykameshrao/spring-mvc-angular-js-hibernate-bootstrap-java-single-page-jwt-auth-rest-api-webapp-framework	47799570	This project provides sample hibernate entities, spring data entities, angularjs mvc code, models, exception handling interceptors, repositories, services and controllers classes. The UI for the default simple web project bundled in this framework is built using Twiiter Bootstrap and AngularJS Single Page App. The projects brings together Java, Spring 4, Spring MVC 4, Spring JPA, Hibernate, Angular JS, Twitter Bootstrap, JWT Token Authentication technology in a clean easy to use fashion.	Java	1597	31	23	31
+lapis-chan	karai17/lapis-chan	50152232	Image board software written in Lua using the Lapis web framework.	Lua	406	31	8	31
+Restbucks-on-Nancy	horsdal/Restbucks-on-Nancy	3555142	Sample project implementing the Restbucks example from Rest in Practice using the Nancy web framework	C#	631	31	14	31
+Kenji	kballenegger/Kenji	3937217	A lightweight Ruby web framework.	Ruby	115	31	1	31
+vuejs-python	italomaia/vuejs-python	50886227	Examples showing how to use vuejs with python web frameworks (rest, websocket, etc)	Python	31	31	5	31
+NancyRabbit	rhwy/NancyRabbit	6253416	This is a command line self host with auto reload feature for the Nancy web framework	C#	431	31	6	31
+Quark	QuarkX/Quark	62730944	A clean web framework for modern Swift applications (macOS and Linux)	Swift	1117	31	3	31
+coffeebar	fusesource/coffeebar	2637443	The CoffeScript based Web Framework for Rapid Application Development.	JavaScript	712	31	2	31
+yesoddocs	snoyberg/yesoddocs	608927	Yesod Web Framework documentation site	Haskell	2580	30	6	30
+angular-contrib	twarogowski/angular-contrib	2003119	Widgets, formatters and other stuff for angular.js web framework.	JavaScript	330	30	7	30
+SingleLua	nly/SingleLua	43990551	Simple but powerful ngx_lua web framework	Lua	44	30	2	30
+WebNano	zby/WebNano	451227	A really minimalistic web framework.	Perl	668	30	2	30
+frodo	kn9ts/frodo	38623928	Frodo is a tiny Go web framework inspired by ExpressJS. -- 	Go	154	30	5	30
+nitrogen_elements	vim-zz/nitrogen_elements	191499	Elements for Nitrogen Web Framework	Erlang	109	29	13	29
+common	iron/common	21048130	The core middleware, bundled, for the Iron web framework.	Rust	426	29	7	29
+capsela	capsela/capsela	2815168	A high-level, promises-based web framework for Node with an emphasis on testability	JavaScript	1122	29	9	29
+monsoon	benmerckx/monsoon	49820092	Minimal haxe web framework and embedded webserver	Haxe	246	29	1	29
+picasso	adeel/picasso	1663285	A simple web framework built on Pump.	Python	128	29	0	29
+ryan	pirj/ryan	74771	Web framework and a templating engine for Reia programming language.	Erlang	933	29	1	29
+snail	moomerman/snail	68409	Snail is a web interface for Amazon Web Services (AWS) written using the sinatra web framework	JavaScript	125	29	2	29
+imap-js	micha/imap-js	601532	JavaScript clientside IMAP mail client written for the Golf web framework. Talks directly to an IMAP server using a long-polling socket proxy for transport.	JavaScript	503	29	2	29
+flaskage	fgimian/flaskage	16665626	Flaskage is a complete and carefully designed template for use with the Flask web framework.	Python	342	28	3	28
+history-of-web-frameworks-timeline	mraible/history-of-web-frameworks-timeline	529832	The history of web frameworks as described by a timeline of releases.	null	3180	27	4	27
+safaia-framework	dsh0416/safaia-framework	41614733	Web Framework designed for cpp	C++	125	27	6	27
+batpod	fengsp/batpod	13115409	A really tiny web framework	Python	364	27	4	27
+thundr	3wks/thundr	4278951	thundr is a java based web framework designed for use on Google's appengine	Java	3677	27	13	27
+goji-boilerplate	hypebeast/goji-boilerplate	21320398	Project skeleton for Goji GoLang web framework with Bootstrap and Font Awesome.	Go	209	27	3	27
+simple	alevy/simple	17012128	A minimal Haskell web-framework based on the WAI web server interface.	Haskell	309	27	6	27
+django_reddit	Nikola-K/django_reddit	37817620	Reddit clone written in python using django web framework and twitter's bootstrap.	Python	2253	27	4	27
+barista	steadicat/barista	663002	A client-side web framework for rich web sites and apps.	JavaScript	243	27	2	27
+Swifton-TodoApp	necolt/Swifton-TodoApp	52214923	TodoApp example application built on top of Swifton web framework.	Swift	18	26	14	26
+todo-django	indypy/todo-django	8363599	A TODO app written in Django for the IndyPy Web Framework Shootout 2013	Python	338	26	17	26
+ripple	bmbstack/ripple	52713310	a web framework for Go(base on Echo)	Go	14017	26	5	26
+mithril-coat	dailymuse/mithril-coat	27442332	A minimalistic frontend web framework that builds on Mithril.	JavaScript	505	26	3	26
+OpenWeb	Solartisan/OpenWeb	55461087	Help you build a web framework quickly.	Java	1794	25	11	25
+println	fbettag/println	2045405	blogging / publishing software written in Scala (Lift Web Framework)	JavaScript	1871	25	9	25
+Sasquatch	ThoughtLeadr/Sasquatch	3307263	HTML5 Web Framework	JavaScript	10529	25	1	25
+harbor	wiecklabs/harbor	187848	Ruby web framework founded on the principles of composition, testability, and consistency.	Ruby	6742	25	9	25
+solo	whiteclover/solo	29093049	Web framework  Based Gevent & Webob & Routes	Python	369	25	2	25
+micra	noelherrick/micra	17997714	Micra is a Sinatra-inspired, lambda-infused Java web framework	Java	204	25	8	25
+Genie.jl	essenciary/Genie.jl	52076467	High-performance high-productivity full stack Julia web framework.	Julia	6329	25	6	25
+devsite	pbrisbin/devsite	975689	pbrisbin.com source code, using the Yesod haskell web framework	Haskell	178996	25	3	25
+bragg	SamVerschueren/bragg	49717778	AWS λ web framework	JavaScript	15	25	0	25
+HeavyMetal	jawngee/HeavyMetal	230936	No bullshit web framework for PHP.  Used to power massify.com.	PHP	919	25	3	25
+tornado-celery	mayflaver/tornado-celery	12846771	tornado-celery is a non-blocking Celery client for Tornado web framework	Python	160	25	5	25
+funkyweb	pmh/funkyweb	850927	The clojure web framework with route inference	Clojure	232	25	0	25
+induction	brutasse/induction	17142002	A simple web framework based on asyncio.	Python	400	25	0	25
+conformitas	emmanuel/conformitas	2757999	Stealing Django form objects for Ruby web frameworks	Ruby	100	25	1	25
+WebFramework	ScavixSoftware/WebFramework	8476560	Scavix Software Web Development Framework	PHP	32933	24	28	24
+wpp-qt	minixxie/wpp-qt	32595849	Web++ framework for Qt	C++	4867	24	13	24
+decanter	gengo/decanter	8626429	A web framework based on bottle	Python	1564	24	14	24
+web	mpapierski/web	4322358	Web is a C++11 web framework.	C++	27	24	10	24
+simpleS	micnic/simpleS	6513577	Simple Web Framework for Node.JS	JavaScript	1032	24	5	24
+flea	mikejsavage/flea	3888330	A lightweight Lua web framework	Lua	61	24	2	24
+swagger-gin	aiyi/swagger-gin	44310435	Generate REST API boilerplate code for gin web framework	Go	288	24	3	24
+jekyll-foundation-base	groovemonkey/jekyll-foundation-base	5381437	An "empty" jekyll base structure, with the foundation web framework built-in and ready to use	JavaScript	374	24	11	24
+chinook	fregelab/chinook	43327624	Tiny Frege web framework developed on top of sparkjava.com 	Frege	213	24	3	24
+EWF	EiffelWebFramework/EWF	1970902	Eiffel Web Framework -- Provide a common framework to build easily web server application in Eiffel (portable on various connector and platforms)	Eiffel	13335	24	19	24
+weiyu	xen0n/weiyu	3471158	微雨 -- "light rain", yet another Python Web framework	Python	3283	24	3	24
+clevergo	headwindfly/clevergo	62524754	CleverGo built in top of fasthttp, it is a simple, high performance and secure web framework for Go (go programing language). Some useful packages can found at https://github.com/clevergo.	Go	147	24	8	24
+weld	mmcgrana/weld	105961	A Clojure web framework built on Ring: expressive and fast in a functional style	Clojure	124	24	0	24
+dragonfly-newlisp	taoeffect/dragonfly-newlisp	574803	A feature-rich web framework for newLISP	HTML	2324	23	10	23
+weblog	Anniepoo/weblog	7248899	Web Framework for SWI-Prolog	Prolog	4356	23	3	23
+wfdr	crazy2be/wfdr	1896307	Simple web framework for go, still quite beta at this point	Go	5361	23	3	23
+gunstar	allisson/gunstar	12063340	Another python web framework	Python	999	23	1	23
+iceberg	adlerhsieh/iceberg	43174067	A full-stack web framework in Crystal-lang	Crystal	450	23	0	23
+web-framework-benchmark	vishr/web-framework-benchmark	55191424	Web framework benchmark	Go	12	22	5	22
+customers	devsniper/customers	3150077	Pyramid web framework demo app	JavaScript	307	22	8	22
+cppcms-skeleton	allan-simon/cppcms-skeleton	3335025	web framework in C++ built over cppcms	C++	859	22	12	22
+bottle-mongodb-plugin	fdouetteau/bottle-mongodb-plugin	3076357	Plugin for the Bottle Python Micro Web Framework, featuring MongoDB 	Python	169	22	7	22
+strawberry	nicholaskh/strawberry	53123778	An openresty web framework, contains MVC and ORM	Lua	149	22	6	22
+django-asterisk	maxiberta/django-asterisk	1793601	Phone call queuing and management for the Django web framework using an Asterisk server	Python	96	22	3	22
+Glue	aheinze/Glue	1197999	Glue is a web framework for quickly creating web applications in PHP with minimal effort inspired by sinatra	PHP	109	22	2	22
+ObjectWeb	aisola/ObjectWeb	11972385	ObjectWeb is a fast, minimalist, pure-Python web framework that relies on no third party libraries. It is designed around using Python as it was originally intended to be used: as an Object Oriented Programming language. ObjectWeb supports the CGI and WSGI standards and has a built-in development server.	Python	470	22	5	22
+Cassette.Nancy	ChrisMH/Cassette.Nancy	2689766	Implementation of the Cassette resource manager for the Nancy web framework	JavaScript	61059	21	17	21
+bobo	zopefoundation/bobo	8590758	Lightweight web framework that only does publishing.	Python	682	21	10	21
+todoflask	indypy/todoflask	8442571	Todo app for the web framework shootout on Feb 26, 2013 using Flask	JavaScript	335	21	11	21
+go-frameworks-benchmark	najeira/go-frameworks-benchmark	42218377	benchmark for golang web frameworks	Go	15	21	2	21
+koa-mongodb-example	Elzair/koa-mongodb-example	17987920	Simple example of using MongoDB with the Koa web framework and the Swig template engine	JavaScript	157	21	7	21
+tornado_api	didip/tornado_api	3132715	Collection of web service libraries for Tornado web framework 	Python	102	21	4	21
+kerkee_js	kercer/kerkee_js	53509280	keerkee_js is a web framework,it can run in keekee Framework which is Hybrid App Framework, and it can run on system browsers.	JavaScript	362	21	15	21
+gin	jcasts/gin	8189323	A small Ruby web framework, built on Rack, which borrows from Sinatra's expressiveness and performance, and targets larger applications.	Ruby	3553	21	3	21
+ObjectiveHTTPD	mpw/ObjectiveHTTPD	7580130	High performance Objective-C web framework based on libmicrohttpd	C	254	21	1	21
+tord	abhinavsingh/tord	15989844	Websocket + PubSub based web framework built over Tornado, Redis, ZMQ, SockJS	Python	434	21	0	21
+kontrol	georgi/kontrol	91783	Kontrol is a small web framework written in Ruby, which runs directly on Rack.	Ruby	168	21	0	21
+minima	tomerfiliba/minima	2839828	yet another web framework	Python	494	20	4	20
+Mole	JoneXiong/Mole	8645679	A lightweight python wsgi web framework	Python	61	20	5	20
+wgdev	haarg/wgdev	120812	Developer utilities for WebGUI, an open source CMS and web framework	Perl	1803	20	7	20
+django-wurfl	clement/django-wurfl	392763	Equivalent to tera-wurfl for python and django web framework	Python	233	20	6	20
+polaris	siddontang/polaris	17649542	a restful web framework like tornado written by go 	Go	240	20	9	20
+scala-sass-compiler	derekjw/scala-sass-compiler	203284	Reimplementation of Haml's Sass for use with the Lift web framework	Scala	114	20	4	20
+alaska	maichong/alaska	49998480	Componentized and pluggable web framework for Node.js	JavaScript	240	20	2	20
+starbucks	mvalente/starbucks	78014	Serverside Javascript Web Framework	JavaScript	95	20	0	20
+minimalweb	piyasde/minimalweb	30349380	A simple web framework with node.js which has provision to support rest api and traditional http request/response 	JavaScript	1157	20	6	20
+gomvc	sdming/gomvc	4699290	smart web & lightweight  web framework in golang	Go	250	19	3	19
+Blister	DavidSpriggs/Blister	16388134	A NodeJS API and Web Framework for creating killer apps	JavaScript	724	19	4	19
+AcspNet	i4004/AcspNet	13771670	Lightweight and fast .NET web-framework based on MVC and OWIN	C#	4281	19	3	19
+cappuccino-plisteditor	nickjs/cappuccino-plisteditor	114060	A Property List Editor Application for the Cappuccino Web Framework	null	116	19	5	19
+flask-annotated	hhstore/flask-annotated	50486764	flask 源码注释版本. flask 是一个非常赞的Python web framework.	Python	416	19	9	19
+padrino-csrf	Cirex/padrino-csrf	3321750	Plugin for the Padrino web framework which adds cross-site request forgery protection	Ruby	129	19	5	19
+hikaru	najeira/hikaru	7822343	A web framework for Go	Go	93	19	1	19
+charcoalphp2	stk2k/charcoalphp2	12314834	A task oriented PHP web framework	PHP	1932	19	0	19
+django-memcachedstatus	arneb/django-memcachedstatus	60013	A memcached status app for the django web-framework	null	84	19	0	19
+utopian	fukamachi/utopian	1842508	A web framework for Common Lisp never finished.	Common Lisp	44	19	0	19
+Web-Frameworks-for-Mobile-App-Development	KurtRudolph/Web-Frameworks-for-Mobile-App-Development	3322003	Code for a demonstration of Ruby on Rails, jQuery Mobile, Phongap	JavaScript	1006	18	14	18
+fastplaz	fastplaz/fastplaz	26625758	FastPlaz - Pascal Web Framework	Pascal	1089	18	10	18
+ts-framework	tsframework/ts-framework	53392798	A MVC Web Framework for Nodejs	TypeScript	409	18	8	18
+mangooio	svenkubiak/mangooio	36664153	An Intuitive, Lightweight, High Performance Full Stack Java Web Framework.	Java	31085	18	8	18
+silk	tedkulp/silk	94954	Lightweight PHP 5.3+ web framework. It's like awesome sauce for web apps.	PHP	8973	18	5	18
+erlchat	kristiankristensen/erlchat	2955032	Erlchat is a simple chat server built using the Chicago Boss web framework.	JavaScript	376	18	4	18
+play-crud-siena	mandubian/play-crud-siena	1786784	A module for the Play! web framework providing a CRUD mechanism when using Siena DB APIs.	Java	253	18	6	18
+ejango	archaelus/ejango	45928	A Django-ish web framework for Erlang	Erlang	929	18	1	18
+quark.io	asaskevich/quark.io	28631455	[JavaScript] The minimalistic web framework for creating small and beautiful HTTP servers.	JavaScript	229	18	0	18
+Womble	quile/Womble	644084	Objective-J ORM and Web Framework loosely based on WebObjects/EOF	Objective-J	2558	18	1	18
+traffic-chromelogger	pilu/traffic-chromelogger	13032133	Chrome Logger middleware for the Traffic web framework (#Go #Golang)	Go	164	18	1	18
+cuardo	Oslandia/cuardo	23682595	Cuardo, a 3D GIS web framework based on Three.js and WebGL, oriented toward urban visualization.	JavaScript	2776	18	2	18
+esp	embedthis/esp	14213531	Embedthis ESP Web Framework	C	36121	17	5	17
+gottp	meson10/gottp	21373232	A tiny golang web framework	Go	211	17	9	17
+BEAR.Saturday	bearsaturday/BEAR.Saturday	1923031	PHP 5.2 resource oriented web framework.	PHP	16253	17	11	17
+redtea	cfsghost/redtea	4293223	RedTea Web Framework	JavaScript	203	17	2	17
+tanzer	xantronix/tanzer	27901538	tänzer: THE Web Framework for Tcl!!!	Tcl	450	17	3	17
+Skadi.d	Skadi-d/Skadi.d	41805527	Skadi MVC Web Framework D language	D	33828	17	2	17
+modlib	gar1t/modlib	1472402	Web framework based on Erlang's inets httpd framework	Erlang	310	17	5	17
+babou	drbawb/babou	10884301	Babou is a combination web-framework/ torrent-tracker written in Go.	Go	1511	17	3	17
+hector	joa/hector	3798020	Location Transparent Web Framework	Scala	252	17	0	17
+ChicagoBoss-on-Heroku	vorn/ChicagoBoss-on-Heroku	3954877	A template/tutorial project for running ChicagoBoss (Erlang MVC web framework) on Heroku (PaaS hosting platform)	Erlang	267	17	6	17
+bard	wb14123/bard	23813803	A Java web framework that is easy to use, easy to extend.	Java	2183	17	0	17
+Crochet	xllora/Crochet	465589	Crochet is a light weight web framework written in Scala for rapid prototyping of REST APIs.	Scala	1227	17	3	17
+sageo	smlacombe/sageo	10406247	A rewriting of check_mk multisite web interface with the Flask web framework	CSS	8442	17	1	17
+webapp-framework	papyros/webapp-framework	28257054	The webapp framework for Papyros	QML	376	16	4	16
+Lzy	adar-w/Lzy	44300282	Web framework (Restful).	Java	109	16	2	16
+pyramid_mako	Pylons/pyramid_mako	3703169	Mako templating system bindings for the Pyramid web framework	Python	666	16	15	16
+recipebook	marici/recipebook	3357707	Recipe site CMS constructed by Django web framework	Python	851	16	4	16
+Joqd	IKAcc/Joqd	61728701	A modern web framework	CSS	72	16	4	16
+karloop	karloop/karloop	35533098	an python web framework like webpy	Python	58	16	3	16
+hunt	putaolabs/hunt	58442039	A high performance full-stack Web framework.	D	8865	16	4	16
+Joqd	IKAcc/Joqd	61728701	A modern web framework	CSS	72	16	4	16
+Orion	BKcore/Orion	1456360	Orion is a lightweight web framework written in PHP5	PHP	1652	16	3	16
+koala	nixuehan/koala	44158995	a micro web-framework	PHP	139	16	0	16
+tornado-websocket-chat	badubizzle/tornado-websocket-chat	4923860	A chat application build on top of tornado python web framework and websocket.	JavaScript	190	16	5	16
+moonslice	creationix/moonslice	5643175	A fast web framework for luvit	JavaScript	164	16	1	16
+frog	moomerman/frog	56808	Frog is a full-featured blog application written using the sinatra web framework	Ruby	254	16	3	16
+closerve	zhaojw/closerve	14113088	CloServe is a view first web framework in Clojure. It is inspired by the Lift web framework	JavaScript	304	16	1	16
+stirfry	StirFry-js/stirfry	59040503	StirFry is a self contained and lightweight web framework for nodejs	JavaScript	92	16	1	16
+excelsior	ny/excelsior	9033147	The Excelsior Web Framework (EWF) is a way to fast-track your project's user interface development. EWF is a collaboratively built front-end framework that can enable NYS web projects to start on a solid mobile-first responsive foundation. EWF was built using Zurb's Foundation framework as its base.	CSS	44191	16	7	16
+Objectify.scala	learndot/Objectify.scala	4437717	Objectify is a light-weight web framework that helps you structure an application by providing policy management and dependency injection.	Scala	730	16	2	16
+Martin	thegrubbsian/Martin	695677	A lightweight web framework for .NET inspired by ruby's Sinatra.	C#	112	15	10	15
+YoioJava	Yoio/YoioJava	35765040	YoioJava Web Framework.	Java	130	15	1	15
+WebSharp	SirCmpwn/WebSharp	8572345	A lightweight web framework for .NET	C#	1437	15	3	15
+sails-types	aclave1/sails-types	32649583	Typescript definitions for the sails.js web framework 	null	136	15	2	15
+htmleasy	voodoodyne/htmleasy	33152997	A simple, elegant HTML page rendering web framework for Resteasy (JAX-RS)	Java	1464	15	4	15
+YWeb	gwind/YWeb	20067283	YWeb ( YLinux Web Framework ) -- The First Choice For Your Great Site.	JavaScript	5217	15	7	15
+spark	sparkframework/spark	5819340	A classy web framework for Rapid Development	PHP	2767	15	3	15
+kokoropy	goFrendiAsgard/kokoropy	6699977	A 心から educational MVC python web framework	Python	34260	15	3	15
+gearbox	TurboGears/gearbox	5874454	Command line toolkit born as a paster command replacement for the TurboGears2 web framework	Python	81	15	6	15
+butterfly	yjbanov/butterfly	54591374	A web framework for Dart based on Flutter's widget model	Dart	101	15	3	15
+pisces	justinabrahms/pisces	11229242	A testable web framework in Python	Python	96	15	1	15
+galaxy	yosssi/galaxy	20155797	Simple web framework for Go	Go	216	15	0	15
+Feather	Max00355/Feather	11357641	A light weight Python web framework.	Python	26	15	0	15
+jennet	Theodus/jennet	58936387	HTTP web framework written in Pony	Pony	440	15	0	15
+django-atompub	jtauber/django-atompub	239837	implementation of Atom format and protocol for the Django web framework	Python	164	15	2	15
+hops	norman/hops	1588847	A lightweight, pluggable web framework for Lua	Lua	117	15	0	15
+cocopot	zeaphoo/cocopot	21023579	Cocopot is a web framework for Python. Micro and Elegant. Focus on mobile service and cloud service.	Python	521	15	2	15
+warp	brendonh/warp	383696	The best Python web framework ever	JavaScript	1772	14	12	14
+lol-bash-web-framework	travcunn/lol-bash-web-framework	24972418	A web framework written in bash. Please don't use this for anything. Work in progress...	Shell	1014	14	0	14
+rexsl	yegor256/rexsl	9581974	Java RESTful XSL-based Web Framework	Java	20970	14	7	14
+react-examples	mvolkmann/react-examples	43781088	examples of using the React web framework	JavaScript	1179	14	7	14
+eLiteWeb	SkightTeam/eLiteWeb	6886100	eLiteWeb is a light web framework	C#	12505	14	6	14
+fn	positiondev/fn	44848908	A functional web framework	Haskell	117	14	3	14
+flask-mysqldb	admiralobvious/flask-mysqldb	30815364	MySQL extension for the Flask web framework	Python	27	14	4	14
+bottle-utils	Outernet-Project/bottle-utils	23627398	Miscellaneous utiltiies for Bottle, Python web framework	Python	859	14	4	14
+bayside	chawk/bayside	65685617	A simple Node.JS web framework	JavaScript	24	14	3	14
+wiggin	ded/wiggin	16880876	a web framework	JavaScript	757	14	1	14
+Picombo	zombor/Picombo	630514	A Lightweight Ruby MVC Web Framework	Ruby	380	14	2	14
+baby	juxt/baby	35996959	A Clojure 'web framework'	Clojure	140	14	0	14
+generys	josip/generys	160385	Wanna-be web framework for Io	Io	338	14	2	14
+Nano	AmbitEnergyLabs/Nano	25894991	Nano is a .NET cross-platform micro web framework for building web-based HTTP services and websites.	HTML	4078	14	15	14
+vicky	RocksonZeta/vicky	53386945	A restful(rest) web framework for openresty.	Lua	10	14	3	14
+skf	moebiuseye/skf	12039476	Plugin-based static website generator inspired by Suckless Web Framework	Shell	1825	14	2	14
+hypa	nmerouze/hypa	9820547	Web Framework to make Hypermedia APIs	Ruby	389	14	1	14
+FOXopen	Fivium/FOXopen	47987314	FOXopen is an open source (GPL v3) Java based web framework enabling rapid development of secure workflow-based web systems	Java	65097	14	7	14
+MetaWeb	MetaStack-pl/MetaWeb	40020814	Functional low-level web framework for Scala and Scala.js	Scala	1257	14	2	14
+hack	ryan-allen/hack	16963	The tiniest web-framework, ever.	Ruby	121	14	0	14
+estrela	AterCattus/estrela	20025242	Lua web framework for nginx	Lua	780	14	1	14
+prayls	thrivesmart/prayls	725535	A web framework for Google App Engine that aims to emulate some of Rails	Python	97	14	2	14
+Awesome	JosephLenton/Awesome	4235763	An MVC-inspired web framework for Prolog	Tcl	128	14	0	14
+coinmines	fbettag/coinmines	2169933	PoolServerJ and pushpool Web-Frontend written in Scala (Lift Web Framework) for Pooled Bitcoin, Namecoin and Solidcoin Mining with Proportional Rewarding System	Scala	1221	14	5	14
+LTrainNotwork	boxysean/LTrainNotwork	2950895	Mobile web framework for serving content on the New York L Train	JavaScript	6768	14	1	14
+web-framework	alco/web-framework	4098116		Elixir	128	13	2	13
+websocket-framework	wmcmurray/websocket-framework	10868012	Contains a generic PHP server and a JavaScript client. Just extend them to easily create wathever you want.	PHP	1916	13	8	13
+webui-framework	weissjeffm/webui-framework	359857	A java library for running automated web UI tests using selenium and TestNG	Java	30326	13	4	13
+pongo2gin	robvdl/pongo2gin	41592067	Pongo2 template support for the Gin web framework.	Go	116	13	5	13
+simplex	mshakhan/simplex	330810	Web framework	JavaScript	86	13	1	13
+django-examples	riklaunim/django-examples	18274209	Example and demo apps for Django web framework	Python	4024	13	8	13
+golang_webapp_framework_samples	yuroyoro/golang_webapp_framework_samples	20851044	ʕ　 ﾟ皿ﾟ ʔ sample applications of various golang web-app frameworks	CSS	196	13	0	13
+framework	kerisy/framework	11559953	Kerisy - A high performance web framework written in PHP 7.0 (php-fpm / libevent / swoole / reactphp / workman)	PHP	1319	13	9	13
+Nano	jonashaag/Nano	1147756	[DISCONTINUED] Nano WSGI Web Framework in ~100 Lines of Code	Python	125	13	4	13
+roads	Dashron/roads	2916669	An isomophic web framework	JavaScript	1804	13	1	13
+blackpool	pgregory/blackpool	1504625	A heretic web framework in Io, based on Seaside.	Io	9	13	3	13
+nevada	jobandtalent/nevada	61018516	Jobandtalent's web framework	JavaScript	2913	13	0	13
+latino	hustcer/latino	4248092	A dance training manage system based on NodeJS、Express Web Framework、Jade、Markdown and MongoDB, etc..	JavaScript	2330	13	7	13
+snell	jonklein/snell	37787311	A proof-of-concept web framework written in Swift	Objective-C	9543	13	2	13
+ErlanOnNitro_TwitterStream	darkua/ErlanOnNitro_TwitterStream	387595	A tutorial for erlang nitrogen web framework, using twitter stream api	JavaScript	258	13	2	13
+cs	ConnectAi/cs	10827952	Cornerstone, an es6 web framework built on express.js	JavaScript	1274	13	2	13
+Argil	tswicegood/Argil	207445	PHP potter's clay.  A small web framework.	PHP	132	13	0	13
+umobi	c9s/umobi	7067005	µMobi - Micro Mobile Web Framework for Smartphones & Tablets.	JavaScript	9820	13	1	13
+interest	roll/interest	29054301	Interest is a event-driven web framework on top of aiohttp/asyncio.	Python	328	13	1	13
+FFA	ADEOSec/FFA	59123782	Free-For-All 2016 yılında ADEO IWS programı için Rails Web Framework'ü ile hazırlanmış, GNU/GPL v3.0 lisansına sahip bir CTF (Capture-the-Flag) platformu projesidir.	Ruby	434	13	2	13
+spincast-framework	spincast/spincast-framework	56924959	https://www.spincast.org ~ Spincast is an highly flexible Java web framework, based on Guice.	Java	6345	13	0	13
+titanite	nosceon/titanite	18338023	A small web framework for Java 8, inspired by others like Sinatra and Finatra, running on top of Netty	Java	1153	13	0	13
+liftweb	andreum/liftweb	142886	The Lift web framework for Scala	Scala	7712	12	105	12
+ironrhino	ironrhino/ironrhino	16971008	Magical fullstack web framework	JavaScript	682106	12	14	12
+helma	helma-org/helma	745775	Helma web framework	Java	35543	12	9	12
+Borax	jwheare/Borax	1253490	PHP web framework	PHP	1543	12	2	12
+django-manifest	ozgurgunes/django-manifest	3967931	A kickstarter for Django Web Framework projects.	Python	2330	12	4	12
+Riff-js	Riff-js/Riff-js	1273721	Riff js is Mobile Web Framework.	JavaScript	26444	12	3	12
+grape-on-padrino	ruby-grape/grape-on-padrino	13996103	Grape API mounted on the Padrino web framework.	Ruby	13	12	4	12
+ShortPHP	arnorhs/ShortPHP	1172721	The shortest PHP web framework possible	PHP	172	12	3	12
+brightjs	hou80houzhu/brightjs	51206655	An awesome web framework	JavaScript	11049	12	1	12
+koolapp	koolapp/koolapp	3694466	Kotlin based web framework	Kotlin	1123	12	0	12
+fluid	penman/fluid	15557270	An opinionated MVC web framework for Node.js. Unmaintained.	JavaScript	33	12	3	12
+lastaflute	lastaflute/lastaflute	34904870	Typesafe Web Framework for LeAn STArtup with DBFlute and Java8	Java	2145	12	6	12
+Kamalan	cfsghost/Kamalan	4338228	Kamalan Web Framework	JavaScript	164	12	1	12
+cat-mvc	jszoo/cat-mvc	22365965	The best nodejs MVC web framework in .NET MVC style	JavaScript	5042	12	4	12
+pragwork	szw/pragwork	793244	Pragwork - The pragmatic PHP web framework	PHP	779	12	2	12
+viol	feihong/viol	11354469	Asynchronous web framework based on Tulip	Python	140	12	2	12
+webylene-lua	slact/webylene-lua	289582	a bit of a web framework for lua	Lua	305	12	2	12
+mango	singpenguin/mango	21117895	mango is a powerful and simple golang web framework	Go	32	12	2	12
+shift	mariusdanciu/shift	730367	A pure stateless web framework written in Scala	Scala	13523	12	2	12
+zygote	kres/zygote	25648539	A "physical web" framework for the Internet of Things	JavaScript	4598	12	3	12
+express.java	code4craft/express.java	14458253	A tiny RESTful web framework with embed server. Used as instead of JMX for cross-language communication.	Java	247	12	6	12
+ruff-home	vilic/ruff-home	56678639	Home (Web Framework) for Ruff.	TypeScript	31	12	0	12
+LuaMVC	JakobOvrum/LuaMVC	718562	MVC web framework using Lua	Lua	104	12	0	12
+duck	zddhub/duck	38966617	A core web framework via Golang	Go	140	12	2	12
+Torpedo	namsral/Torpedo	3264198	Assist web frameworks with scheduling jobs.	Python	100	12	0	12
+meteor_bash_completions	stef-k/meteor_bash_completions	23022242	Bash completions for the Meteor web framework	Shell	240	12	1	12
+methojure	jenshaase/methojure	8688720	A clojure/clojurescript web framework similar to meteor.js	JavaScript	207	12	1	12
+unchained	dunkelstern/unchained	47152422	Django like Swift Web-Framework in very early Stages	Swift	102	12	1	12
+horus	Pylons/horus	18747445	User registration and login system for the Pyramid Web Framework.	Python	314	12	1	12
+smoothie	tapsters/smoothie	35801088	Cute web framework for Erlang built on top of Cowboy 2	JavaScript	182	12	2	12
+skybreak	skybreak/skybreak	2800179	Skybreak, an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework	JavaScript	1994	12	1	12
+Spanner.py	ChannelOne/Spanner.py	28663940	Spanner.py is a micro web framework written in python for human beings.	Python	244	12	0	12
+kay	IanLewis/kay	337143	Kay is a web framework completely specialising on Google App Engine. But basic design is based on the Django framework, like middleware, settings and pluggable application, etc. Kay uses Werkzeug as lower level framework, uses Jinja2 as template engine, uses babel for handling language translations. This software is distributed under BSD license. See LICENSE for the details.	Python	8377	12	2	12
+Web-Framework-Benchmark	darkredz/Web-Framework-Benchmark	1406924		PHP	12913	11	5	11
+butterfly	yezhiming/butterfly	15577126	Mobile Web Framework	JavaScript	1554	11	6	11
+xscript	bacek/xscript	43943	Distributes web framework.	C++	2734	11	4	11
+boron	troposphere/boron	60868670	web framework made with ❤	Rust	44	11	5	11
+elegant	digital-flowers/elegant	12065226	web framework based on nodejs	JavaScript	5317	11	3	11
+flatiron-passport	travist/flatiron-passport	5580056	A Passport.js integration with the Flatiron.js web framework.	JavaScript	117	11	6	11
+djangocassandra	Knotis/djangocassandra	18423115	Cassandra support for the Django web framework	Python	249	11	5	11
+apis	dimsmol/apis	2978468	Web framework for restful web services development with node.js	JavaScript	1105	11	4	11
+paraviewweb	Kitware/paraviewweb	51617143	Web framework for building interactive visualization relying on VTK or ParaView to produce visualization data	JavaScript	38071	11	9	11
+axio	AxioFramework/axio	52921358	Axio Web Framework for Racket	Shell	18	11	2	11
+chemminetools	TylerBackman/chemminetools	1431989	ChemMine Tools: open source web framework for small molecule analysis	Python	4053	11	4	11
+luvit-mooncake	cyrilis/luvit-mooncake	33803751	Express like web framework but powered by luvit.	Lua	104	11	2	11
+spork	pereckerdal/spork	208810	Web framework based on Gambit and Black Hole	Scheme	145	11	2	11
+Nini	YoloDev/Nini	36526904	Micro web framework for DNX	F#	156	11	1	11
+mturk_coder_quality	drewconway/mturk_coder_quality	6890604	Code, data, and web frameworks for experiments to enhance coder quality in Mechanical Turk jobs	Python	372	11	4	11
+daiquiri	chneukirchen/daiquiri	53550	a Rack-based resourceful web framework	null	89	11	1	11
+turnaround	vti/turnaround	1559551	DEPRECATED: A Perl TIMTOWTDI web framework	Perl	943	11	1	11
+trails	luniki/trails	6846	A minimal web framework for PHP in the wake of RoR and Camping	PHP	714	11	3	11
+watts	pete/watts	697968	Resource-oriented, Rack-based, minimalist web framework.	Ruby	39	11	0	11
+erlang-on-steroids	borovsky/erlang-on-steroids	298612	Erlang Web Framework inspired by Ruby on Rails	Erlang	441	11	1	11
+framework	leonframework/framework	1825896	Python web framework for rich RPC/REST-oriented applications	Python	54887	11	1	11
+kiss	k33g/kiss	27541340	Fast, unopinionated, minimalist (fluent) web framework for Golo 	Golo	4140	11	1	11
+bigfoot	foysavas/bigfoot	3089723	Bigfoot is a mysterious two-legged web framework begot by giants.	Ruby	92	11	0	11
+MicroKernelBundle	avalanche123/MicroKernelBundle	666355	A micro kernel for Symfony 2, inspired by the Ruby Sinatra Web Framework	PHP	153	11	1	11
+noopy	acuros/noopy	49748232	noopy - No ops python - is a serverless web framework using AWS Lambda & API Gateway	Python	43	11	0	11
+Ambassador	envoy/Ambassador	60875957	Lightweight web framework in Swift based on SWSGI for iOS UI Automatic testing data mocking	Swift	38	11	1	11
+starling-on-invisible	jamesgolick/starling-on-invisible	74660	Proof of concept that you can build a queueing server and client RESTfully, leveraging starling's persistent queue code, a lightweight web framework, and thin.	Ruby	92	11	2	11
+angulardart.org	angular/angulardart.org	16123505	Website for AngularDart, a web framework for Dart	HTML	10988	10	20	10
+Tofu	MechanisM/Tofu	3095359	(Yet another) C web framework	C	138	10	7	10
+session	iron/session	21105377	Sessioning middleware for the iron web framework.	Rust	462	10	17	10
+splunk-webframework-toolkit	splunk/splunk-webframework-toolkit	11904989	The Splunk Web Framework Toolkit	JavaScript	9501	10	9	10
+peregrine	dvarelap/peregrine	35853899	Async lightweight Scala web framework	Scala	1014	10	5	10
+phpLightMVC	alvarotala/phpLightMVC	784381	A simple PHP web framework.	PHP	147	10	5	10
+gogo	dolab/gogo	49428252	Microservice web framework of golang	Go	108	10	5	10
+web4sciapps	hplgit/web4sciapps	8798742	Examples on using web frameworks for making scientific applications.	null	11733	10	14	10
+middleware	iris-contrib/middleware	61786881	The middleware packages for the Iris web framework.	Go	34	10	11	10
+giallo_session	kivra/giallo_session	8204800	Session Management for Giallo Web Framework	Erlang	338	10	4	10
+gitbook	iris-contrib/gitbook	57835631	The gitbook for the Iris web framework. https://github.com/kataras/iris	CSS	4885	10	13	10
+iron-postgres-middleware	martinsp/iron-postgres-middleware	29586742	A postgres middleware for Iron web framework	Rust	10	10	7	10
+xingyun	sipin/xingyun	27423642	a simple and flexible web framework	Go	136	10	4	10
+junior	eddanger/junior	454699	An MVC Web Framework	Ruby	94	10	2	10
+MindaPHP	mevdschee/MindaPHP	13712478	A light-weight PHP web framework that is easy to learn	HTML	1141	10	9	10
+Champagne	hyperoslo/Champagne	52731747	The Champagne Web Framework.	Swift	401	10	0	10
+hello	ufront/hello	27534576	"Hello World" example for websites / web-apps built using Ufront - a Web Framework for Haxe.	HTML	79	10	14	10
+overtown	EsmerilProgramming/overtown	17965198	Java micro web framework built on top of Undertow	Java	1466	10	3	10
+webbing	amitrathore/webbing	251631	a clojure web-framework	Clojure	667	10	0	10
+ceylatra	misha/ceylatra	32614719	Ceylon web framework.	Ceylon	80	10	0	10
+baxel	norman784/baxel	36766918	Baxel is a MVC web framework build on top of Koa.io	JavaScript	75	10	4	10
+wsabi	WatchBeam/wsabi	34011964	HTTP-over-websocket layer for the Hapi web framework.	JavaScript	47	10	2	10
+Underwood	swizzlr/Underwood	23545417	A Web Framework For Swift	Swift	59	10	0	10
+doge	pagarme/doge	34838298	Doge(on Rails) Web Framework	JavaScript	70	10	1	10
+Fuga-Framework	bunjlabs/Fuga-Framework	18931546	Small Web Framework for Java	Java	345	10	0	10
+luvit-heart	ioddly/luvit-heart	10259478	A micro web framework for Luvit	Lua	144	10	0	10
+cafe-grader-web	cafe-grader-team/cafe-grader-web	6011721	This is a web-based component of Cafe Grader. It is written in Ruby, using Ruby on Rails web framework.	Ruby	1378	10	6	10
+chocolate	Grabli66/chocolate	43594534	Simple web framework and template engine	Crystal	192	10	0	10
+redeyes	jdegoes/redeyes	16529902	A next-generation web framework for building robust, purely-functional, strongly-typed, richly annotated RESTful web services.	null	0	10	1	10
+Sails	DanToml/Sails	43604180	A Simple Swift Web Framework. Made at Hackference 2015	Swift	141	10	0	10
+pyramid_modern	KamiQuasi/pyramid_modern	3475904	Modern front-end scaffold for the Pyramid python web framework	JavaScript	308	10	0	10
+aiotraversal	zzzsochi/aiotraversal	35507645	Web framework for big complicated applications based on aiohttp	Python	549	10	0	10
+Demoniac	neveralso/Demoniac	32023082	Demoniac is a C++ web framework and asynchronous networking library.	C++	583	10	0	10
+tytorn	tianyuwu/tytorn	57470612	A simple MVC web framework based on tornado	JavaScript	100	10	1	10
+mobius-js	bcoe/mobius-js	643493	MVC Web-Framework for JavaScript using Node.js and Express	JavaScript	249	10	0	10
+framework-interop	mnapoli/framework-interop	15900639	Run several web frameworks in a single application	PHP	444	10	1	10
+rinjani	apit/rinjani	354547	app for my local community. my first app using tornado web framework	JavaScript	933	10	1	10
+Twitfaced	grippy/Twitfaced	330369	A two-faced realtime Twitter/Facebook client built on Tornado Web Framework and Server	Python	224	10	0	10
+slim	vanackere/slim	23696491	Slim is a fork of Goji, a minimalistic web framework for Golang	Go	428	10	1	10
+pete	ndeet/pete	48770606	PErformance TEst of different web frameworks: phoenix (elixir), slim (PHP), phalcon (PHP), tbc	HTML	1403	10	1	10
+Amazonia	EricsonWillians/Amazonia	43570343	Amazonia is an open-source request-based WSGI-compliant web framework for Python 3.x.	Python	170	10	2	10
+homepage	exicon/homepage	27715802	Exicon's public website ( http://exiconglobal.com ) source code, written in the http://hoplon.io Clojure web framework.	JavaScript	57106	10	1	10
+Gardel	diegok/Gardel	255357	Gardel is a very simple perl web framework that also has a hat. ( Inspired on sinatra.rb )	Perl	84	10	0	10
+django-klisha	zenzire/django-klisha	9620552	klisha is a standards-compliant photoblog web application, written in Python  and uses the Django web framework.	Python	1107	10	1	10
+autotest.web.framework	LinuxSuRen/autotest.web.framework	66226788	WebUI自动化测试框架	Java	4156	9	3	9
+webplatform-framework	blackberry-webworks/webplatform-framework	3315985		JavaScript	1360	9	3	9
+openshift-cartridge-python-3.5	Praisebetoscience/openshift-cartridge-python-3.5	44993388	Embedded python (no web framework) support for openshift	Shell	8	9	12	9
+attean	kasei/attean	22775351	A Perl Semantic Web Framework	Perl	2518	9	6	9
+pyramid_storage	danjac/pyramid_storage	15222189	File upload management for the Pyramid web framework	Python	221	9	6	9
+wicked-forms	thombergs/wicked-forms	14043412	Create dynamic web forms with Java web frameworks.	Java	379	9	5	9
+pyramid-examples	invisibleroads/pyramid-examples	1506506	Example applications using the web framework Pyramid	Python	325	9	4	9
+merengueproj	merengue-cms/merengueproj	14649182	Merengue is a pretty CMS built with Django web framework.	JavaScript	20958	9	2	9
+orivil	orivil/orivil	55824201	Orivil is a full-featured GO web framework	Go	61	9	5	9
+jimhttp	dbohdan/jimhttp	24094642	A web framework prototype for Jim Tcl	Tcl	148	9	3	9
+web-shootout	indypy/web-shootout	5799110	Details about the IndyPy web framework shootout	null	237	9	2	9
+craneweb	mojaves/craneweb	2380346	A modern micro web framework for C	C	579	9	3	9
+durap	doujiang24/durap	3504068	lua web framework	HTML	17473	9	4	9
+ngw	mjason/ngw	9642278	一个简单的web framework	Go	132	9	3	9
+makiavelo	deleteman/makiavelo	6807337	PHP web framework  with all sorts of helpers designed for fast development	PHP	1060	9	5	9
+scalatra-netty	scalatra/scalatra-netty	3233163	Tiny Scala web framework, inspired by Sinatra	Java	624	9	3	9
+django-alchemy	TrendBreaker/django-alchemy	45479407	[POC] Experimental project for integrating SQLAlchemy properly  with django web framework.	Python	138	9	3	9
+goober	bigs/goober	6781481	micro web framework for go that uses a trie to handle route matching	Go	221	9	4	9
+java-ee-spike-kata	jhannes/java-ee-spike-kata	610944	Multiple attempts as creating a simple web-to-database application in Java with TDD without a web framework	Java	1148	9	4	9
+Minor	Orlion/Minor	46551746	A Simple PHP Web Framework	PHP	86	9	0	9
+nacelle	nacelle/nacelle	5528479	A lightweight Python web framework (built on top of webapp2) for use on Google Appengine	Python	7592	9	3	9
+on-a-horse	jhp/on-a-horse	10458299	Combinatorial web framework for Haskell	Haskell	126	9	0	9
+Minor	Orlion/Minor	46551746	A Simple PHP Web Framework	PHP	86	9	0	9
+drape	lexdene/drape	8250175	drape is a web framework by Python	Python	644	9	1	9
+patchwork	neemzy/patchwork	25429963	PHP 5.4+ full-stack web framework	HTML	916	9	0	9
+godzilla	jackdoe/godzilla	5563772	micro-mini-nano Go web framework #golang	Go	2013	9	1	9
+lib.web	dimgel/lib.web	486703	Thin, stateless, strictly typed Scala web framework.	Scala	1008	9	0	9
+growler	iand675/growler	23293609	A small Sinatra-esque web framework for Haskell	Haskell	231	9	1	9
+dynamo_heroku_demo	tsloughter/dynamo_heroku_demo	10021867	Sample Heroku app for Elixir web framework Dynamo	Elixir	112	9	0	9
+MessageClassifier	Buddhima/MessageClassifier	15446841	Message Classifier project based on Akka (http://akka.io/) distributed application building tool & Play framework (http://www.playframework.com/) the high velocity web framework for Java and Scala	Java	1081	9	3	9
+perl6-App-prancer	drforr/perl6-App-prancer	51960147	Prancer web framework for Perl 6 and Crust	Perl6	110	9	1	9
+werti	adimit/werti	31107	A web framework and platform for interactive computer aided language learning.	Java	3109	9	1	9
+dudley	jimweirich/dudley	16962438	Techniques for Decoupling your application logic from Rails (or any web framework for that matter).	Ruby	245	9	1	9
+wall	bredele/wall	18255530	Express inspired web framework for your browser -- insanely flexible, and simple	JavaScript	1129	9	1	9
+swift-webframeworks-docker	joshdholtz/swift-webframeworks-docker	50596354	Docker containers used for spinning up different Swift web frameworks	Swift	17	9	0	9
+ajde	nabble/ajde	4463831	:package: Ajde is a web framework to kickstart your PHP projects.	PHP	5179	9	1	9
+vana-templating	sgrove/vana-templating	1080039	An HTML templating system in Common Lisp, used in the vana web framework	Common Lisp	96	9	1	9
+cl-registry	eslick/cl-registry	2439170	A Common Lisp-based web framework supporting custom clinical and patient medical registries.  Leverages Weblocks and Elephant to enable a highly dynamic and flexible schemata.	Common Lisp	3840	9	1	9
+exit-web-framework	zheng108/exit-web-framework	6348873	exit-web-framework是对常用的java web开发封装实用功能来提高开发效率。exit-web-framework基于Spring 3、Hibernate4框架来对做项目核心三层和MVC的管理。使用到的新功能有spring缓存工厂、apeche shiro安全框架、spring mvc 3等主要技术。	Java	837	8	82	8
+web-frameworks-benchmark	oleganza/web-frameworks-benchmark	63066	Merb, rails and ramaze benchmark	Ruby	433	8	15	8
+almidon	guegue/almidon	1352599	Almidon Web Framework	PHP	14032	8	8	8
+django	turnkeylinux-apps/django	11402575	Django - High-level Python Web Framework	Python	198	8	14	8
+MyOwnPythonWebFramework	Marcelo-Theodoro/MyOwnPythonWebFramework	51484500		Python	10	8	0	8
+tornado-rest-swagger	flier/tornado-rest-swagger	11119020	Swagger Documentation Generator for the Tornado Web Framework	JavaScript	184	8	6	8
+jdonmvc	vsmysee/jdonmvc	10550280	java web framework working on jdon and spring	Java	574	8	9	8
+frmwrk	mlmorg/frmwrk	40030557	A web framework	JavaScript	124	8	0	8
+webpages	webpages/webpages	6505185	WebPages - full-stack JS web framework	Python	943	8	2	8
+bamboo_doc_cn	daogangtang/bamboo_doc_cn	3060657	The documents of Bamboo web framework for Chinese.	null	482	8	5	8
+purity	robsix/purity	18230513	A web framework for complex realtime web apps	Dart	192	8	3	8
+archetype	jefftrudeau/archetype	1095960	A web framework leveraging Node.js.	JavaScript	137	8	3	8
+apiary-benchmark	philopon/apiary-benchmark	23399071	  benchmark result of haskell lightweight web frameworks	Haskell	921	8	4	8
+courser	cfsghost/courser	5270276	Route manager for express web framework	JavaScript	131	8	3	8
+charlotte	LeakyBucket/charlotte	15847080	Elixir Web Framework	Elixir	952	8	1	8
+django-comments	marazmiki/django-comments	533194	Yet another threaded deiscussion resuable application for Django Web Framework	Python	573	8	4	8
+kotchasan	goragod/kotchasan	65167426	Kotchasan Web Framework (Fastest PHP Framework) from thai people	PHP	1410	8	5	8
+yesod-admin-crud	yairchu/yesod-admin-crud	2628521	Admin CRUD interface for the yesod web framework	Haskell	101	8	3	8
+plastic	dahlia/plastic	4818740	Plastic is a Python web framework built on top of Werkzeug.	Python	247	8	4	8
+stripes-guice	bgoodin/stripes-guice	843834	Guice DI for the Stripes web framework	Java	478	8	2	8
+traitorous	traitorous/traitorous	18260788	The hack-lang web framework with teeth!	PHP	772	8	1	8
+spark-groovy	spinscale/spark-groovy	7995271	Groovy syntactic sugar on top of the spark web framework	Groovy	94	8	3	8
+vitali	lunastorm/vitali	13408685	vitali is yet another web framework for Go	Go	499	8	2	8
+django-mongotesting	snormore/django-mongotesting	6021938	An extension to the Django web framework that provides testing support for mongoengine dependent modules.	Python	212	8	6	8
+dust	LevelFourAB/dust	486214	Web framework for Java based on JAX-RS	Java	1781	8	2	8
+handy	trajber/handy	16764971	Web framework for Golang that supports URI variables , codecs and interceptors	Go	121	8	3	8
+hakker	ulasakdeniz/hakker	58658816	A backend web framework - WIP	Scala	80	8	0	8
+arasu	arasuresearch/arasu	22604924	A Lightning Fast Web Framework	Go	359	8	1	8
+dragon	lfex/dragon	53237809	A Web Framework for LFE	JavaScript	8263	8	0	8
+weby	jperla/weby	388681	Weby: The lazy man's web framework	Python	287	8	0	8
+scalavlet	scalavlet/scalavlet	18279337	yet another Scala web framework on top of Servlet	Scala	368	8	0	8
+mootiro_web	it3s/mootiro_web	1296514	Utilities for Pyramid and other Python web frameworks	Python	260	8	0	8
+go-web	matt-west/go-web	3480107	A simple template-based web framework built with GO.	Go	6688	8	0	8
+example_wiki	rambocoder/example_wiki	3137262	Example wiki application in ChicagoBoss web framework	Erlang	405	8	1	8
+microscope-web	microscopejs/microscope-web	18421662	ES6, Express/Connect fully compatible, POO & Modular Web framework.	JavaScript	657	8	1	8
+django-blog	liuenyan/django-blog	58688823	Personal blog powered by django web framework.	Python	92	8	1	8
+rakkar	raghavneesh/rakkar	5271204	A web framework to create HTML on fly	JavaScript	976	8	0	8
+HelloNancy	zappan/HelloNancy	1436623	Hello World in Nancy web framework with WebMatrix, Simple.Data, Spark View Engine and more...	C#	507	8	3	8
+Frank-example	nestproject/Frank-example	50345646	Example Swift web application using the Frank web framework	Swift	2	8	0	8
+lua-lapis-vagrant	ounos/lua-lapis-vagrant	47001643	A vagrant box for lapis - lua web framework	Shell	28	8	0	8
+mole	moomerman/mole	74996	Mole is a simple project time tracking tool using the sinatra web framework	Ruby	109	8	1	8
+pynta	lig/pynta	1080010	Pynta is web framework written in Python. It is made with WSGI, speed and flexibility in mind and is fully Python3 (py3k) compatible.	Python	523	8	3	8
+droidbottle	schlamar/droidbottle	1836206	Running the bottle web framework on android. Just a demo. Use AirDroid or anything else for real production usage.	Python	133	8	2	8
+clj-routing	mmcgrana/clj-routing	105902	Fast, 2-way, generic URL routing library for use by Clojure web frameworks	Clojure	84	8	0	8
+astley	matschaffer/astley	255042	A web framework written in Bash. It's kinda like Sinatra, but only really enjoyable as a joke.	Shell	189	8	1	8
+university	vapor/university	63438372	Web application, iOS app, and API providing access to tutorials for the Vapor web framework. 	Swift	4197	8	1	8
+darkroast-framework	bcowdery/darkroast-framework	10368551	A super lightweight MVC web framework built to leverage Java EE 6 CDI. Brew better software with better beans.	Java	340	8	0	8
+skematic	ciokan/skematic	16878783	Skematic is my attempt at setting a standard for web frameworks builders to inspire in regards to how data flows and gets manipulated inside an application	JavaScript	13	8	0	8
+e-linguistics	sofarrar/e-linguistics	464426	Umbrella repository for the GOLD Community and the ELTK:   <p> 1.  The GOLD Community project is aimed at developing the General Ontology for Linguistic Description (GOLD) and the associated GOLD Community of Practice.   <p>  2.  The e-Linguistics Toolkit (ELTK) is a Python library for working with linguistics data. It is a key component in the e-Linguistics project. It has the following functions:  to manipulate a data model for linguistics (in the form of an ontology)  to translate un- or semi-structured data into RDF  to expose RDF data in various display forms   to provide the basis for web frameworks and services for linguistics   	Python	3486	8	2	8
+apache-flask	muneeb-ali/apache-flask	26510002	Python Flask (web framework) deployed with Apache	Python	201	7	18	7
+offline-web-framework	gileno/offline-web-framework	722523	A framework for Web Applications (Offline) using Javascript (jQuery and Mustache) and html5 (localStorage and Manifest file)	JavaScript	148	7	1	7
+performance-comparison-java-web-frameworks	lu4242/performance-comparison-java-web-frameworks	4119573		Java	106707	7	3	7
+mysql-provider	vapor/mysql-provider	62231474	MySQL Provider for the Vapor web framework.	Swift	62	7	9	7
+bitphp	0oeduardoo0/bitphp	27696709	Web Framework for dummies.	PHP	7061	7	2	7
+antfarm	funkybob/antfarm	16425684	An ultra-light-weight web framework	Python	435	7	5	7
+xfresh	smarthoas/xfresh	993994	Yet another web framework	Java	16765	7	3	7
+gestalt	mmontone/gestalt	980195	Common Lisp Web Framework	Common Lisp	773	7	2	7
+dodolu	zhangf911/dodolu	28253624	a lightweight web framework based on openresty lua	Lua	248	7	11	7
+miniweb	lumifyio/miniweb	13790712	Minimal web framework	Java	408	7	1	7
+auwfg	viki-org/auwfg	12941362	another useless web framework for Go	Go	318	7	2	7
+Swell	breckinloggins/Swell	20632445	Swift web framework	Objective-C	368	7	1	7
+ringo	ringo-framework/ringo	49127526	The core of the Ringo web framework	Python	9997	7	4	7
+heygo	brianvoe/heygo	13550827	Go Web Framework	Go	752	7	0	7
+icecream	zhiyu/icecream	4906606	a rapid web framework for nodejs	JavaScript	1137	7	3	7
+node-jinx	blindsey/node-jinx	7780426	A stripped down web framework for node	JavaScript	174	7	3	7
+Python-Social-Network-Analysis	katychuang/Python-Social-Network-Analysis	6512150	Social network analysis displayed with Django web framework (incomplete)	JavaScript	1244	7	7	7
+netbeans-stapler-plugin	stapler/netbeans-stapler-plugin	5104614	NetBeans IDE plugin for Stapler web framework.	Java	198	7	4	7
+Aurora	frankhale/Aurora	2903102	An MVC web framework for .NET 	C#	18571	7	2	7
+clj-blocks	arohner/clj-blocks	675358	A high level web framework that eliminates boilerplate	Clojure	589	7	2	7
+n2Mvc	QLeelulu/n2Mvc	1301905	a simple mvc web framework by node.js	JavaScript	251	7	2	7
+websocket-cardgame	nagazuka/websocket-cardgame	2443055	Web-based cardgame using Raphael.js, HTML5 WebSockets and Tornado Web Framework.	JavaScript	11413	7	4	7
+muweb	alco/muweb	21620781	A minimalistic web framework	Elixir	120	7	0	7
+edge-rs	matt2xu/edge-rs	53529689	Web framework for Rust	Rust	1315	7	0	7
+nuodb-django	nuodb/nuodb-django	10630729	NuoDB backend for the Django web framework 	Python	1041	7	3	7
+stardust	bakins/stardust	10675517	Simple OpenResty web framework	Lua	304	7	0	7
+mosquito	topfunky/mosquito	52038	Testing for the Camping micro-web-framework	Ruby	205	7	2	7
+gyokuro	bjansen/gyokuro	29825482	Web framework written in Ceylon.	Ceylon	485	7	1	7
+dogeweb	pyos/dogeweb	20020077	A functional web framework atop asyncio.	Python	291	7	0	7
+webtasks	zordius/webtasks	25449772	A lightweight web framework based on express and subtask.js	JavaScript	1924	7	2	7
+blueberrypy	davidreynolds/blueberrypy	487193	Yet another Python web framework.	Python	148	7	0	7
+krudt	troelskn/krudt	253164	databasedriven web framework based on konstrukt	PHP	171	7	1	7
+Gbeta	yyrdl/Gbeta	55774593	go express style web framework,restful	Go	27	7	0	7
+vana	sgrove/vana	1076738	A budding web framework in common lisp	Common Lisp	104	7	0	7
+flotilla-defunct	fc-thrisp-hurrata-dlm-graveyard/flotilla-defunct	23160723	A basic and extensible Go web framework	Go	797	7	1	7
+sponge	gabrielfalcao/sponge	243406	sponge is a web framework aiming to get things dry, built on top of CherryPy	Python	925	7	2	7
+wind	daftshady/wind	14639273	Web framework based on async networking server.	Python	744	7	0	7
+dart-force-chat-example	ForceExamples/dart-force-chat-example	15166646	Example chat project, how you can use dart force realtime web framework	CSS	887	7	1	7
+node-hapi-twilio-part1	crtr0/node-hapi-twilio-part1	19004612	This is the code repo for Part 1 of my tutorial on building a Node app using the Hapi web framework.	JavaScript	124	7	3	7
+pyramid_angularstarter	twillis/pyramid_angularstarter	21498564	This is a project scaffold for the pyramid web framework that is setup for javascript development using angularjs and other nice things.	Python	204	7	5	7
+dobi	lessthan3/dobi	11625301	Dobi.io, an easy-to-use, database-everywhere, fully hosted, scalable, data-on-the-wire, pure-CoffeeScript web framework designed with realtime apps in mind. http://www.dobi.io	CoffeeScript	645	7	5	7
+vana	sgrove/vana	1076738	A budding web framework in common lisp	Common Lisp	104	7	0	7
+flotilla-defunct	fc-thrisp-hurrata-dlm-graveyard/flotilla-defunct	23160723	A basic and extensible Go web framework	Go	797	7	1	7
+nutzpm	cranehe/nutzpm	42523166	A j2ee project base on nutz framework,includes nutz framework、bui web framework、shiro security framework	null	452	7	3	7
+lahore	dgwave/lahore	12053159	Multi-site and Plugin-enabled Web Framework in Ceylon	Ceylon	915	7	1	7
+microwebframeworks	sma/microwebframeworks	208231	Article and example code about different micro web frameworks for Python	Python	84	7	0	7
+Fly	zef/Fly	49299238	A high-level Swift web framework for OS X and Linux.	Swift	129	7	0	7
+video-service-flask	mattmakai/video-service-flask	35290323	Demo app showing video-powered customer service with Twilio for Python using the Flask web framework. Work in progress!	Python	352	7	3	7
+flickerjs	FlickerStudio/flickerjs	58155959	A Super fast and simple web framework for node.js	JavaScript	127	7	1	7
+book_of_mojo	brianmed/book_of_mojo	16089128	A book on Mojolicious.. a web framework in perl	JavaScript	14608	7	1	7
+wrapper.express	folktale/wrapper.express	20694095	[WIP] A monadic wrapper over the Express web framework	JavaScript	756	7	0	7
+index.lambda	ronaldwidha/index.lambda	61904883	A bootstrapper (and lightweight web framework) for AWS API Gateway and AWS Lambda.	HTML	441	7	0	7
+upload-files-comparison	talp101/upload-files-comparison	56786480	Comparison between several web frameworks for file upload speed	C#	68280	7	0	7
+jexpresso	Yourinspiration/jexpresso	22005310	A java web framework inspired by http://expressjs.com/	Java	796	7	1	7
+tornado_router	shicky/tornado_router	58512177	Decorator based router for Tornado Web Framework that supports asynchronous authentication, json request and more	Python	10	7	0	7
+stormpath-framework-tck	stormpath/stormpath-framework-tck	51956642	HTTP integration tests that ensure a Stormpath web framework integration implements the Stormpath Framework Specification	Groovy	351	7	2	7
+webREPLdemo	zoka/webREPLdemo	3528605	Based on Noir web framework, acts as a showcase for ringMon middleware (web based nREPL front end).	Clojure	336	7	1	7
+heroku-flask-sklearn	naushadzaman/heroku-flask-sklearn	17199607	Heroku buildpack: Python, Numpy, Scipy, Scikit-learn along with instructions to install Flask, the web framework, and Gunicorn, the web server.	Python	248	7	0	7
+spring-ratpack-2016	danhyun/spring-ratpack-2016	55130733	Code for Spring Boot Ratpack webinar (https://spring.io/blog/2016/03/09/webinar-spring-boot-and-ratpack-web-framework)	Java	85	7	2	7
+gaewicketblog	magh/gaewicketblog	1241740	GaeWicketBlog is a simple open source blog engine running on the free hosting service Google App Engine. GaeWicketBlog is built using the Java web framework Wicket (http://wicket.apache.org).	Java	679	7	3	7
+infopotato	yuanzhou/infopotato	1512245	InfoPotato is a very lightweight, well-designed & well-documented PHP5 framework loosely built around HTTP in a RESTful approach. It incorporated many good ideas and useful components from other well-known web frameworks and toolkits. Working with InfoPotato in a structured and rapid manner enables web developers to create efficient, extensible, and maintainable web applications.	PHP	53850	7	2	7
+xjs-web-framework	parox/xjs-web-framework	13259489	JavaScript Web Framework for web apps node based using MVC Patterns and sockets events	JavaScript	5793	6	1	6
+girl	cgyy/girl	10260663	a micro web framework	Go	276	6	5	6
+ANstormJs	ckken/ANstormJs	13553752	ANS web framework	JavaScript	5336	6	3	6
+roadsend-siteManager	weyrick/roadsend-siteManager	3199933	Roadsend SiteManager PHP web framework	PHP	689	6	6	6
+spark-template	heuermh/spark-template	8168318	Template routes for Spark web framework	Java	205	6	4	6
+magic	gabriel-felipe/magic	10133819	Web Framework	PHP	5101	6	1	6
+fw	HunanTV/fw	39888943	embedded jetty web framework	Java	238	6	5	6
+firenado	candango/firenado	36200353	Web Framework that extends Tornado Web adding new features to the original framework.	Python	338	6	7	6
+combust	abh/combust	176453	Combust Web Framework	Perl	996	6	0	6
+furnace	riza/furnace	32477897	Furnace is a mini web framework.	PHP	356	6	2	6
+wee6	vti/wee6	27087281	Perl6 web framework	Perl6	160	6	0	6
+gowf	guilhermebr/gowf	20425782	Go Web Framework	Go	116	6	2	6
+surfer	scale-it/surfer	8500183	scaleable Go web framework	Go	276	6	2	6
+helmet	tlewin/helmet	5810969	Simple Ruby non-blocking web framework for Goliath web server.	Ruby	239	6	3	6
+crater	gavruk/crater	13349789	Web framework for Go	Go	428	6	0	6
+blend	nanalan/blend	53688768	A unique & expressive front-end web framework.	CSS	113	6	2	6
+lofn	lokedhs/lofn	12663894	Web framework for Hunchentoot	Common Lisp	68	6	0	6
+sproute	sproute/sproute	17783219	The Sproute Web Framework	JavaScript	304	6	0	6
+pyramid_xmlrpc	Pylons/pyramid_xmlrpc	1043665	XML-RPC helper code for the Pyramid web framework	Python	203	6	3	6
+xbase	nickloman/xbase	280949	XBASE - a database and web framework for bacterial genomics and next-generation sequencing	Python	96	6	3	6
+pigwig	raylu/pigwig	36286395	all web frameworks suck. this one just sucks less	Python	73	6	2	6
+recurse	qaap/recurse	36682652	Qt based micro web framework with middleware design	C++	185	6	2	6
+restweb	sakeven/restweb	26080308	light web framework for go	Go	6446	6	0	6
+electro	electro-framework/electro	34533759	The Electro PHP Web Framework	PHP	165	6	0	6
+uberconf2014-ratpack	danveloper/uberconf2014-ratpack	21197995	Code samples from "Ratpack Web Framework" talk at UberConf 2014	Groovy	5607	6	2	6
+commando-php	bradyo/commando-php	26469562	Compositional PHP web framework demo	PHP	555	6	1	6
+PoC-Sling-JMS	Cognifide/PoC-Sling-JMS	12969433	Sling JMS is a set of bundles integrating JMS message queue with Sling web framework.	Java	212	6	6	6
+fiole	florentx/fiole	10080857	The handy Python web framework	Python	532	6	1	6
+weavebox	weavebox/weavebox	39295415	Productive, extendable and blazing fast web framework for creating API's and web applications.	Go	326	6	2	6
+Gplume	xkommando/Gplume	15824208	Light-weight multiparadigmatic Java web framework	Java	1643	6	1	6
+ph	zugata/ph	30549881	A declarative, RESTful web framework for Polymer	JavaScript	192	6	0	6
+contour	kazachonak/contour	4785353	Client+Server web-framework in Scala+GWT	Scala	948	6	0	6
+padrino-flash	Cirex/padrino-flash	3473523	Plugin for the Padrino web framework which adds support for Rails like flash messages	Ruby	121	6	2	6
+intro-to-koa	jimmyfarrell/intro-to-koa	41058593	Basic introduction to the Koa web framework	JavaScript	2004	6	0	6
+propeller	juks/propeller	1410913	Fast Web Framework Based on PHP 	PHP	515	6	0	6
+eggs.js	thenikso/eggs.js	7852330	A FRP Web Framework based on Bacon.js	CoffeeScript	376	6	0	6
+jquery-web-rhino	jzaefferer/jquery-web-rhino	765592	jQuery-based web framework, running on Rhino	JavaScript	275	6	1	6
+funes	LeifW/funes	1873764	A DRY, dynamic linked data web framework	JavaScript	666	6	1	6
+ratpack.js	dguttman/ratpack.js	750446	RatPack.js is a web framework built on Sammy and LAB.js	JavaScript	202	6	2	6
+futurefinity	futursolo/futurefinity	44852533	FutureFinity is an asynchronous Python web framework.	Python	10541	6	1	6
+silk	qt-users-jp/silk	36417443	Simple and flexible web framework. Write everything in QML and JavaScript.	QML	1325	6	2	6
+stratajs.org	mjackson/stratajs.org	2375493	The web site for the Strata web framework	JavaScript	276	6	0	6
+yesod-tut	xl/yesod-tut	8521597	An brief Introduction to Yesod Web Framework	JavaScript	2127	6	1	6
+Hoboken	andrew-d/Hoboken	4563092	Sinatra-like web framework for Python	Python	1244	6	0	6
+jsonp-body	node-modules/jsonp-body	21945798	Helper to create more safe jsonp response body for koa and other web framework.	JavaScript	37	6	2	6
+benchmark_generator	angular/benchmark_generator	40326473	Given a YAML application descriptor, generates a full application for a number of web frameworks, then let's you benchmark it	Dart	196	6	4	6
+geddy-coffee-script-demo	topfunky/geddy-coffee-script-demo	3435773	Demo app using CoffeeScript with the Geddy web framework for Node.js	JavaScript	264	6	1	6
+Vinnige	praswicaksono/Vinnige	40249065	High Performance and Non-Blocking I/O PHP Web Framework	PHP	280	6	0	6
+tanuki	assistunion/tanuki	1393549	Tanuki is an MVVM-inspired web framework with balls! Abandoned.	Ruby	906	6	0	6
+merl	raymorgan/merl	639	A lightweight web framework for Erlang. Not very complete.	Erlang	186	6	0	6
+pyramid_authsanity	usingnamespace/pyramid_authsanity	42696878	An auth policy for the Pyramid Web Framework with sane defaults.	Python	70	6	1	6
+bivouac	coyote240/bivouac	3222873	bivouac is a light-weight, wsgi-compliant web framework in Python	Python	398	6	2	6
+stein	dstufft/stein	21511044	Stein is an asynchronous HTTP server and web framework	Python	155	6	1	6
+upy	20tab/upy	4991212	Open-source platform built on top of Django Web Framework, provides useful apps and tools for the most common features to save your time and let you focus just on your specific needs.	JavaScript	12684	6	6	6
+kopress	ChinaNode/kopress	17159487	A express like web framework build on top of koa	JavaScript	225	6	0	6
+pyerweb	dbr/pyerweb	75291	An absurdly small web-framework in Python [Not actively maintained]	Python	92	6	0	6
+lemontree	jwr/lemontree	129350	A web framework based on the widget tree concept, written in Clojure	Clojure	85	6	1	6
+acoustic	jlong/acoustic	189073	A lightweight Ruby Web framework experiment based loosely on Django and Rails	Ruby	180	6	0	6
+lydia	MirkoMignini/lydia	47213685	Lightweight, fast and easy to use small ruby web framework	Ruby	65	6	0	6
+qnatra	mlankenau/qnatra	2771875	Framework to implement servies based on AMQP inspired by Sinatra web framework	Ruby	247	6	1	6
+swoop	Arnauld/swoop	3654649	Simple Web oop(s) -- A sinatra like Java web framework	Java	548	6	0	6
+Spinne	aTechs/Spinne	18420402	Spinne is a python 3.x micro web framework.	Python	317	6	1	6
+muxi	Still-not-satisfied-projects/muxi	45380076	[dev]木犀:seedling: a python web framework, simple & powerful	Python	100	6	1	6
+webcaret	bithavoc/webcaret	16628594	Webcaret is the first Web Framework for the upcoming Heaploop platform	D	1584	6	0	6
+Antelope	Astonex/Antelope	48318931	Modern Django web framework for creating BitTorrent tracker frontend websites	JavaScript	1046	6	1	6
+ringo	jjyr/ringo	41957003	Lightweight & high customized MVC web framework for Go, inspired from rails, gin.	Go	328	6	0	6
+stormhttp	SethMichaelLarson/stormhttp	63107660	:zap: Lightning-fast asynchronous web framework for Python 3.5+ :zap:	Python	247	6	0	6
+jantar	tsurai/jantar	15189554	Jantar is a lightweight mvc web framework with emphasis on security written in golang.	Go	1616	6	1	6
+tango	unrolled/tango	9672519	[Stale] Go web framework. I'd suggest something more idiomatic like https://github.com/codegangsta/negroni	Go	452	6	0	6
+site_framework	Yellowen/site_framework	15978225	A site framework for Ruby on Rails web framework inspired by Django site fremework	Ruby	69	6	1	6
+pylons	obeattie/pylons	332370	Pylons is a lightweight web framework emphasizing flexibility and rapid development. Automatically synchronized with the official Mercurial repository every 5 minutes (including all branches and tags).	Python	4270	6	2	6
+node-hello-framework	jmervine/node-hello-framework	18041496	A far from complete collection of Hello World examples for various Node.js web frameworks.	JavaScript	1302	6	1	6
+trapeze-wsgi	saebyn/trapeze-wsgi	499140	A trapeze-compatible AMQP client that provides support for any web framework that uses the WSGI standard.	Python	96	6	0	6
+PyGall	bbinet/PyGall	3310520	PyGall is a photo web gallery based on the Pyramid Python web framework and the Galleria Javascript photo gallery.	JavaScript	859	6	2	6
+ww	esminc/ww	476897	Double Web, Framework to build double Web server. Main deveropment repo is http://github.com/moro/ww	Ruby	94	6	0	6
+pigeon	kamlesh-bambarde/pigeon	44481651	C++ high-performance micro web framework, built using libuv, a multi-platform support library with a focus on asynchronous I/O.	C++	11248	6	1	6
+docker-lapis	erikcw/docker-lapis	21921422	This image aims to provide a clean docker base image for the latest version of the Lapis Lua web framework (backed by OpenResty).	null	8	6	0	6
+portable-django	joemarct/portable-django	3033438	A self contained Django web framework launcher. It is cross-platform but the current build is only for Mac. Trying out Django in the Mac is now as easy as dropping the app to your Applications folder, then launch. Easy! ;)	Python	339	6	1	6
+EveOnline-web-framework	RAD86/EveOnline-web-framework	5179832	This framework can be used to create Eve Online related fan websites, may it be a lottery or corp site.  The frameworks main feature is Ingame browser authentication and api pulling.	PHP	169	5	4	5
+plum-sample	sogyf/plum-sample	2480222	web frameworks demos	Java	468	5	5	5
+web-framework	grapevinebeta/web-framework	1760608	Webframework	PHP	24790	5	0	5
+servlet-web-framework-demo	kevinlynx/servlet-web-framework-demo	36799897	a minimum demo web framework based on servlet	Java	148	5	2	5
+web	coffeehc/web	14331961	a lightweight web framework	Go	5949	5	4	5
+wizrd	caetanus/wizrd	61301873	A Modern C++ Web Framework	C++	44	5	3	5
+summit	notduncansmith/summit	26261226	A Node.js Web Framework For Achievers	JavaScript	475	5	4	5
+yesodbook	snoyberg/yesodbook	2398098	Yesod Web Framework book	Haskell	1798	5	2	5
+codeseed	utumdol/codeseed	796565	OPENSOURCE PHP WEB FRAMEWORK	PHP	1750	5	2	5
+baobab	maxisabattini/baobab	10232481	A Simple Web Framework	PHP	371	5	2	5
+ratel	javaosc-projects/ratel	43040356	Micro Web Framework For J2EE	Java	490	5	2	5
+django-addressbook	mattd/django-addressbook	317974	A contact management application for the Django web framework.	JavaScript	176	5	3	5
+chicagoboss_who	amarandon/chicagoboss_who	2996108	Authentication app for Chicago Boss web framework	Erlang	99	5	2	5
+plugin	iris-contrib/plugin	61787060	The plugins for the Iris web framework.	Go	27	5	2	5
+bkdcore	biokoda/bkdcore	16100739	Common base for our projects. configuration, rpc, web framework, etc.	Erlang	383	5	4	5
+orca	bp2010h1/orca	1568268	JavaScript part of the Orca Web Framework	JavaScript	1654	5	2	5
+globefish	ladder1984/globefish	46862842	Python Web Framework	Python	261	5	1	5
+mewlo	dcmouser/mewlo	11664543	MEWLO Web Framework	Python	2782	5	1	5
+nyanttp	nyantec/nyanttp	11238577	C web framework	C	576	5	0	5
+meteor-express	glittershark/meteor-express	18503874	The Express web framework packaged for Meteor	JavaScript	144	5	2	5
+bloggy	snoyberg/bloggy	465554	Simple blog based on Yesod Web Framework	Haskell	105	5	2	5
+Dancer-Plugin-WebSocket	ironcamel/Dancer-Plugin-WebSocket	1216726	A WebSocket plugin for the Dancer web framework.	Perl	393	5	1	5
+cute	kentaro/cute	1560041	A Web Framework	Perl	100	5	1	5
+liberphp	soyoes/liberphp	15964121	A extremely simple & fast php web framework	PHP	501	5	2	5
+node-kickstart	guileen/node-kickstart	4093936	A node.js web server example without any web framework	JavaScript	117	5	1	5
+playii-base	jackyz/playii-base	90665	playii base web framework	JavaScript	2805	5	1	5
+Infinitum-Web	InfinitumFramework/Infinitum-Web	7332344	Infinitum web framework module.	Java	7226	5	1	5
+EGS	egame/EGS	18553596	An nodejs web framework for play.cn, based on express.	JavaScript	668	5	2	5
+exort	SSPkrolik/exort	43311101	Experimental Nim web framework	Nimrod	169	5	1	5
+gwan-pp	punarinta/gwan-pp	8690533	C++ web framework for G-WAN application server	C++	55	5	2	5
+parrot	bradwoo8621/parrot	44913478	A model based web framework base on Bootstrap and ReactJS	JavaScript	54359	5	2	5
+FukuPHP	fukuball/FukuPHP	15469949	Another php web framework	PHP	1012	5	0	5
+xiami	xiamidaxia/xiami	11720345	an useful realtime web framework !! 	JavaScript	716	5	0	5
+nadeshiko	kirillrdy/nadeshiko	7184038	web framework in go	Go	403	5	1	5
+GokuMVC	leekangtaqi/GokuMVC	51075683	A Node.js Web Framework	TypeScript	8787	5	0	5
+DEAD__vers	dittos/DEAD__vers	23670549	Yet another Python web framework	Python	104	5	0	5
+stukko	origin1tech/stukko	19421649	Express MVC Web Framework	JavaScript	1879	5	0	5
+stato	goldoraf/stato	92823	PHP 5 web framework	PHP	430	5	1	5
+framework	saskodh/framework	61491458	Lightweight web framework for NodeJS inspired by Spring framework	TypeScript	294	5	2	5
+zest	kzinglzy/zest	39334927	An Asynchronous Python Web Framework.	Python	35	5	0	5
+active_frontend	drexed/active_frontend	41212026	ActiveFrontend Responsive Web Framework	Ruby	3082	5	0	5
+ZCMF	cramen/ZCMF	1331661	ZendFramework based web framework	PHP	22992	5	0	5
+django-serpent	baselinesKevin/django-serpent	1878485	Django Web Framework to create Word documents via IBM Rational Publishing Engine - RPE	JavaScript	792	5	3	5
+haskogeneous	mmirman/haskogeneous	3987091	A web framework a bit like GWT but for Haskell	Haskell	288	5	2	5
+Djamo	Yellowen/Djamo	9007849	Yet another Mongodb driver for Django web framework	Python	707	5	2	5
+airdog	KID-WuMeng/airdog	48704325	A Web Framework for NodeJS	JavaScript	302	5	0	5
+RestSpout	DoubleSpout/RestSpout	3078793	Restful node.js web framework	JavaScript	308	5	0	5
+sendero	aaronc/sendero	113705	Open Source Web Framework for the D Programming Language	D	1888	5	2	5
+tfb-data-analysis	marko-asplund/tfb-data-analysis	22136978	TechEmpower Web Framework Benchmarks data visualization	HTML	1098	5	1	5
+conceit	nyampass/conceit	3947938	A full stack web framework for Clojure.	Clojure	248	5	0	5
+purple	ulpian/purple	7708791	A rapid lightweight HMVC php web framework	JavaScript	12846	5	0	5
+node-base	antz29/node-base	2696637	A micro web framework for Node.js	CoffeeScript	227	5	1	5
+dorthy	MobileDynasty/dorthy	25322243	a micro web framework for tornado	Python	248	5	1	5
+p5-yeb	Getty/p5-yeb	11165540	Yeb! Yeb another web framework! Yeb Yeb!	Perl	76	5	1	5
+static	Perelandric/static	10479966	Component-based, non-templating web framework	Go	20920	5	0	5
+grails-events-calendar	martindow/grails-events-calendar	1569016	An events calendar plugin for the Grails web framework, based on the full-calendar javascript library.	Groovy	557	5	3	5
+regio	vstirbu/regio	24791601	Minimalist web framework with express-like aspirations	JavaScript	206	5	1	5
+webjs	Prashanth-Nelli/webjs	22679631	light weight web framework for node.js	JavaScript	347	5	0	5
+w20	seedstack/w20	28138440	W20 is the Web framework of SeedStack, built upon a powerful RequireJS/AngularJS/Bootstrap mix to help you develop single page applications.	JavaScript	1044	5	5	5
+ink.go	InkProject/ink.go	35495013	A micro web framework for golang	Go	5	5	1	5
+example-rack-framework	sickill/example-rack-framework	539655	Example ruby web framework built with Rack	Ruby	128	5	1	5
+django-smoked	djentlemen/django-smoked	29213332	Smoke tests framework for Django Web Framework	Python	319	5	1	5
+zondajs	chuqui/zondajs	15315585	MVC & Component Oriented Web Framework for Node	JavaScript	560	5	0	5
+snaplet-rest	zmthy/snaplet-rest	12748843	REST resources for the Snap web framework	Haskell	364	5	1	5
+sharepoint.withbootstrap	shuishan-tech/sharepoint.withbootstrap	29966904	Using Bootstrap web framework in SharePoint.	CSS	747	5	1	5
+edCTF	IARyan/edCTF	43234436	CTF Web Framework Using Ember and Django	JavaScript	1980	5	1	5
+djangogo	thoas/djangogo	32069539	Utilities to integrate Go with Django web framework (users management, password encryption, etc.)	Go	191	5	1	5
+wine	justintan/wine	42941450	A lightweight web framework in Golang.	Go	98	5	1	5
+web-log	creationix/web-log	9045275	A blog engine based on the node-web framework.	null	108	5	0	5
+django-metadata	dokterbob/django-metadata	465131	Generic model metadata for the Django web framework.	Python	794	5	0	5
+Pyramid	nschiefer/Pyramid	655938	A functionally-designed and focussed  web framework for Racket	Racket	112	5	0	5
+tartempion	ralt/tartempion	5020722	The web framework for people who like to eat some pie.	JavaScript	535	5	0	5
+anuket	lazaret/anuket	3777646	UNMAINTAINED! Anuket is an opiniated Python web framework based on Pyramid	Python	1016	5	1	5
+giiwa	giiwa/giiwa	61117349	Giiwa Java Web Framework, 高性能服务器软件快速开发框架，http://giiwa.org	JavaScript	59279	5	3	5
+trembling	buchuki/trembling	3819316	Session and Auth module for the Aspen Web Framework	Python	121	5	1	5
+lusty-example	Olivine-Labs/lusty-example	9312017	An example of a web application using the lusty web framework	CSS	392	5	1	5
+burningplate.com	claco/burningplate.com	97335	Burning Plate: Hot food review site built in popular web frameworks	PHP	2184	5	0	5
+coffee-shop	mikesmullin/coffee-shop	7232179	Coffee Web Framework. Like Ruby-on-Rails but for Node.js.	CoffeeScript	599	5	1	5
+fregelet	mmhelloworld/fregelet	48728501	A basic web framework for Frege on top of servlet	Frege	8	5	1	5
+spark-test	despegar/spark-test	50861946	Allows testing Spark Web Framework based applications through HTTP	Java	22	5	0	5
+webgo	bnkamalesh/webgo	48094950	A very lightweight & simple web framework for GoLang.	Go	55	5	0	5
+webphp	sehwoo/webphp	78256	web.php is a micro web framework inspired by web.py	PHP	81	5	2	5
+helipad	jgeewax/helipad	716925	DEPRECATED: Python micro web framework for App Engine	Python	236	5	0	5
+echosentry	01walid/echosentry	46195973	A sentry (raven-go) middleware for echo micro web framework	Go	5	5	1	5
+blog	gautamarora/blog	50203716	Blog - built using Slicer (modular web framework using express & browserify)	JavaScript	9	5	0	5
+slimgo	jesusslim/slimgo	42768449	Slimgo is a lightweight web framework for the Go programming language.	Go	31	5	1	5
+cidre	yuin/cidre	24787365	cidre is a modular and extensible thin web framework in Go.	Go	816	5	0	5
+mojox-useragent	Acajou/mojox-useragent	262977	MojoX::UserAgent: Asynchronous User-Agent implementation for the Mojo Web Framework	Perl	137	5	1	5
+marnadi	renskiy/marnadi	11392809	Yet another WSGI Web Framework, the simplest and fastest ever written	Python	1641	5	1	5
+akyuu	akyuujs/akyuu	54537333	Yet another web framework based on express.js named Akyuu.	JavaScript	51	5	0	5
+webster	v5analytics/webster	31784428	Minimal web framework, implemented in Java, resembling node.js+express.	Java	148	5	1	5
+sugoi	bablukid/sugoi	30763343	A simple MVC web framework for haxe/php or haxe/neko	Haxe	328	5	2	5
+lighty	GrAndSE/lighty	4005081	All-in-one simple python web-framework with configuration, routing, orm, template engine.	Python	532	5	0	5
+Fujd-Desktop	hathcox/Fujd-Desktop	4868187	Python Web Framework, loosely based on grails, and running on tornado-web.	JavaScript	242	5	0	5
+PlaySystemMonitor	pamu/PlaySystemMonitor	30227943	Web based System Montoring tool for linux writtern using Play web framework Scala	HTML	8572	5	1	5
+webify	jperla/webify	16812	A Python Web Framework that makes turning good code into a website drop-dead simple	Python	248	5	0	5

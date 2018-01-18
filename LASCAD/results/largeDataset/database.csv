@@ -1,0 +1,1002 @@
+name	full_name	id	description	language	size	watchers	forks	stargazers_count
+redis	antirez/redis	156018	Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.	C	220564	19728	7301	19728
+rethinkdb	rethinkdb/rethinkdb	6452529	The open-source database for the realtime web.	C++	448864	15430	1190	15430
+mongo	mongodb/mongo	108110	The Mongo Database	C++	348091	10007	2772	10007
+realm-cocoa	realm/realm-cocoa	4044891	Realm is a mobile database: a replacement for Core Data & SQLite	Objective-C	123911	8794	1049	8794
+cayley	cayleygraph/cayley	20537104	An open-source graph database	Go	24156	8574	707	8574
+cockroach	cockroachdb/cockroach	16563587	A Scalable, Survivable, Strongly-Consistent SQL Database	Go	326590	7562	752	7562
+postgrest	begriffs/postgrest	20787122	REST API for any Postgres database	Haskell	19680	7266	291	7266
+sqlmap	sqlmapproject/sqlmap	4793392	Automatic SQL injection and database takeover tool	Python	52623	6925	1591	6925
+pouchdb	pouchdb/pouchdb	714074	:koala: - PouchDB is a pocket-sized database.	JavaScript	151804	6908	755	6908
+prometheus	prometheus/prometheus	6838921	The Prometheus monitoring system and time series database.	Go	18111	5995	549	5995
+realm-java	realm/realm-java	4084908	Realm is a mobile database: a replacement for SQLite & ORMs	Java	66448	5983	886	5983
+greenDAO	greenrobot/greenDAO	2626751	greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.	Java	11396	5560	1901	5560
+monolog	Seldaek/monolog	1376664	Sends your logs to files, sockets, inboxes, databases and various web services	PHP	3102	5218	970	5218
+nedb	louischatriot/nedb	9795883	The JavaScript Database, for Node.js, nw.js, electron and the browser	JavaScript	2557	4962	333	4962
+bolt	boltdb/bolt	15345331	An embedded key/value database for Go.	Go	1699	4812	367	4812
+tidb	pingcap/tidb	41986369	TiDB is a distributed NewSQL database compatible with MySQL protocol 	Go	23886	4670	588	4670
+sqlitebrowser	sqlitebrowser/sqlitebrowser	19416551	Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: 	C++	11963	4577	656	4577
+lovefield	google/lovefield	24650236	Lovefield is a relational database for web apps. Written in JavaScript, works cross-browser. Provides SQL-like APIs that are fast, safe, and easy to use.	JavaScript	48133	4543	233	4543
+noms	attic-labs/noms	36778364	The versioned, forkable, syncable database	Go	29148	4248	111	4248
+db-readings	rxin/db-readings	4513324	Readings in Databases	null	87	4232	442	4232
+titan	thinkaurelius/titan	3548254	Distributed Graph Database	Java	91250	3961	800	3961
+vitess	youtube/vitess	11008207	vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.	Go	90853	3851	498	3851
+ssdb	ideawu/ssdb	7561862	SSDB - A fast NoSQL database, an alternative to Redis	C++	5463	3731	889	3731
+pgweb	sosedoff/pgweb	24968828	Cross-platform client for PostgreSQL databases	Go	17595	3563	202	3563
+lowdb	typicode/lowdb	18351848	A small local database for small projects :cat: (powered by lodash API)	JavaScript	497	3553	135	3553
+stellar	fastmonkeys/stellar	21269387	Fast database snapshot and restore tool for development	Python	759	3328	94	3328
+medis	luin/medis	44111975	Medis is a beautiful, easy-to-use Mac database management application for Redis.	JavaScript	49261	3016	136	3016
+flockdb	twitter/flockdb	605999	A distributed, fault-tolerant graph database	Scala	7027	2960	237	2960
+sequel	jeremyevans/sequel	5954	Sequel: The Database Toolkit for Ruby	Ruby	33497	2801	525	2801
+DBFlow	Raizlabs/DBFlow	24161015	A blazing fast, powerful, and very simple ORM android database library that writes database code for you.	Java	6910	2756	404	2756
+mysql	go-sql-driver/mysql	7083242	Go MySQL Driver is a lightweight and fast MySQL driver for Go's (golang) database/sql package	Go	1235	2696	637	2696
+LokiJS	techfort/LokiJS	11654790	javascript embeddable / in-memory database	JavaScript	7500	2666	234	2666
+YapDatabase	yapstudios/YapDatabase	7262245	YapDatabase is an extensible database for iOS & Mac.	Objective-C	11375	2638	265	2638
+arangodb	arangodb/arangodb	2649214	ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.	C++	1129127	2532	228	2532
+phinx	robmorgan/phinx	3055234	PHP Database Migrations for Everyone	PHP	6207	2478	544	2478
+Haxl	facebook/Haxl	18379853	A Haskell library that simplifies access to remote data, such as databases or web-based services. 	Haskell	293	2378	208	2378
+pq	lib/pq	3698588	Pure Go Postgres driver for database/sql	Go	1324	2300	340	2300
+datascript	tonsky/datascript	18800032	Immutable database and Datalog query engine for Clojure, ClojureScript and JS	Clojure	1073	2245	137	2245
+opentsdb	OpenTSDB/opentsdb	865412	A scalable, distributed Time Series Database.	Java	37177	2169	731	2169
+mapdb	jankotek/mapdb	5453989	MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.	Java	19987	2153	511	2153
+ecto	elixir-ecto/ecto	10649374	A database wrapper and language integrated query for Elixir	Elixir	9411	2102	493	2102
+Medoo	catfan/Medoo	9114826	The lightest PHP database framework to accelerate development	PHP	648	2086	627	2086
+delayed_job	tobi/delayed_job	682	Database backed asynchronous priority queue -- Extracted from Shopify 	Ruby	4838	2082	1090	2082
+sequelpro	sequelpro/sequelpro	14224695	MySQL database management for Mac OS X	Objective-C	56392	2060	229	2060
+gun	amark/gun	22475123	A realtime, decentralized, offline-first, graph database engine.	JavaScript	26768	2047	104	2047
+sqlx	jmoiron/sqlx	7877397	general purpose extensions to golang's database/sql	Go	683	2032	177	2032
+Search-Replace-DB	interconnectit/Search-Replace-DB	2918243	A PHP search replace tool for quickly modifying a string throughout a database. Useful for changing the base URL when migrating a WordPress site from development to production.	PHP	1470	1959	407	1959
+database_cleaner	DatabaseCleaner/database_cleaner	143489	Strategies for cleaning databases in Ruby.  Can be used to ensure a clean state for testing.	Ruby	1458	1880	371	1880
+sugar	satyan/sugar	2197202	Insanely easy way to work with Android Database.  	Java	14434	1844	495	1844
+octopus	thiagopradi/octopus	668622	Database Sharding for ActiveRecord	Ruby	1401	1830	306	1830
+exploit-database	offensive-security/exploit-database	14902556	The official Exploit Database repository	C	94003	1820	515	1820
+LitePal	LitePalFramework/LitePal	8305132	An Android library that allows developers to use SQLite database extremely easy.	Java	2855	1815	651	1815
+sqlcipher	sqlcipher/sqlcipher	38617	SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files.	C	33019	1781	480	1781
+adminer	vrana/adminer	627735	Database management in a single PHP file	PHP	12022	1772	346	1772
+jugglingdb	1602/jugglingdb	2519670	Multi-database ORM for nodejs: redis, mongodb, mysql, sqlite3, postgresql, arango, in-memory...	JavaScript	2194	1759	221	1759
+dgraph	dgraph-io/dgraph	41349039	Scalable, Distributed, Low Latency Graph Database	Go	57251	1738	78	1738
+fake2db	emirozer/fake2db	16960472	create custom test databases that are populated with fake data	Python	1031	1676	77	1676
+persistencejs	coresmart/persistencejs	497608	persistence.js is an asynchronous Javascript database mapper library. You can use it in the browser, as well on the server (and you can share data models between them).	JavaScript	1641	1646	239	1646
+EventStore	EventStore/EventStore	5844474	The open-source, functional database with Complex Event Processing in JavaScript.	C#	175093	1634	331	1634
+moloch	aol/moloch	4927517	Moloch is a open source large scale full PCAP capturing, indexing and database system.	JavaScript	9314	1626	321	1626
+android-sqlite-asset-helper	jgilfelt/android-sqlite-asset-helper	2927004	An Android helper class to manage database creation and version management using an application's raw asset files	Java	2361	1626	404	1626
+tiedot	HouzuoGuo/tiedot	10296238	Your NoSQL database powered by Golang	Go	7707	1623	137	1623
+gpdb	greenplum-db/gpdb	44781140	Greenplum Database	PLpgSQL	228574	1606	449	1606
+redbean	gabordemooij/redbean	213238	ORM layer that creates models, config and database on the fly	PHP	9832	1588	224	1588
+ravendb	ravendb/ravendb	542714	A linq enabled document database for .NET	C#	376368	1564	638	1564
+FreeGeoDB	delight-im/FreeGeoDB	33564268	Free database of geographic place names and corresponding geospatial data	PHP	209102	1538	133	1538
+flyway	flyway/flyway	7170058	Flyway by Boxfuse • Database Migrations Made Easy.	Java	11402	1515	479	1515
+zerodb	zerodb/zerodb	47479424	ZeroDB is an end-to-end encrypted database. Data can be stored and queried on untrusted database servers without ever exposing the encryption key. Clients can execute remote queries against the encrypted data without downloading all of it or suffering an excessive performance hit.	Python	3387	1493	82	1493
+dbv	victorstanciu/dbv	6733865	Database version control, made easy!	JavaScript	560	1442	237	1442
+taffydb	typicaljoe/taffydb	184711	TaffyDB - an open source JavaScript Database for your browser	JavaScript	290	1441	234	1441
+jStorage	andris9/jStorage	570427	jStorage is a simple key/value database to store data on browser side	JavaScript	392	1423	250	1423
+her	remiprev/her	3967647	Her is an ORM (Object Relational Mapper) that maps REST resources to Ruby objects. It is designed to build applications that are powered by a RESTful API instead of a database.	Ruby	3162	1408	259	1408
+hashids.php	ivanakimov/hashids.php	4026744	A small PHP class to generate YouTube-like ids from one or many numbers. Use hashids when you do not want to expose your database ids to the user.	PHP	164	1406	132	1406
+go-sqlite3	mattn/go-sqlite3	2755696	sqlite3 driver for go that using database/sql	C	11622	1386	330	1386
+jOOQ	jOOQ/jOOQ	1625986	jOOQ is an innovative solution for a better integration of Java applications with popular databases like Oracle, Microsoft SQL Server, IBM DB2, or SAP Sybase. When using jOOQ, our customers benefit from a significant added value and ROI as their software developers can express database queries in a much simpler and faster way. From our experience, this leads to a 10% - 20% decrease of programming effort, which again leads to higher quality and to a lower error rate in program code, and thus in the entire application.	Java	249242	1369	348	1369
+crate	crate/crate	9342529	Crate.IO: The fast, scalable, easy to use SQL database with native full text search	Java	74414	1363	156	1363
+torodb	torodb/torodb	25648295	ToroDB - Open source NoSQL database that runs on top of a RDBMS. Compatible with MongoDB protocol and APIs, but with support for native SQL, atomic operations and reliable and durable backends like PostgreSQL	Java	11018	1363	76	1363
+apartment	influitive/apartment	5967893	Database multi-tenancy for Rack (and Rails) applications	Ruby	1264	1351	238	1351
+directus	directus/directus	7122594	Directus is a headless CMS written in backbone.js that provides a feature-rich environment for rapid development and management of custom database schemas.	JavaScript	23084	1331	95	1331
+PHP-MySQLi-Database-Class	joshcam/PHP-MySQLi-Database-Class	1017748	Wrapper for a PHP MySQL class, which utilizes MySQLi and prepared statements. 	PHP	793	1329	694	1329
+SnappyDB	nhachicha/SnappyDB	15006401	A key-value database for Android	HTML	20880	1305	177	1305
+sharding-jdbc	dangdangdotcom/sharding-jdbc	49876476	A JDBC driver for shard databases and tables	Java	4787	1302	648	1302
+Cordova-sqlite-storage	litehelpers/Cordova-sqlite-storage	10120864	A Cordova/PhoneGap plugin to open and use sqlite databases on Android, iOS and Windows with HTML5/Web SQL API	JavaScript	18363	1300	493	1300
+aerospike-server	aerospike/aerospike-server	20541608	Aerospike Database Server – flash-optimized, in-memory, nosql database	C	10843	1250	243	1250
+phpfastcache	PHPSocialNetwork/phpfastcache	9719670	The PHP high-performance object caching system ever. phpFastCache is a high-performance, distributed object caching system, generic in nature, but intended for use in speeding up dynamic web applications by alleviating database load.  phpFastCache dropped the database load to almost nothing, yielding faster page load times for users, better resource utilization. It is simple yet powerful	PHP	19253	1240	327	1240
+alasql	agershun/alasql	25780780	AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.	JavaScript	72347	1240	169	1240
+phpRedisAdmin	erikdubbelboer/phpRedisAdmin	2006314	Simple web interface to manage Redis databases.	PHP	261	1237	359	1237
+goleveldb	syndtr/goleveldb	7767488	LevelDB key/value database in Go.	Go	1869	1219	166	1219
+Gaffer	GovernmentCommunicationsHeadquarters/Gaffer	47973088	A large-scale graph database	Java	15944	1217	266	1217
+mysql-server	mysql/mysql-server	24494032	MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.	C++	1358767	1215	525	1215
+squidb	yahoo/squidb	34006895	SquiDB is a SQLite database library for Android and iOS	Java	50317	1214	124	1214
+web2py	web2py/web2py	72690	Free and open source full-stack enterprise framework for agile development of secure database-driven web-based applications, written and programmable in Python.	Python	40627	1211	624	1211
+taps	ricardochimal/taps	123521	simple database import/export app	Ruby	672	1205	142	1205
+tinydb	msiemens/tinydb	11380094	TinyDB is a lightweight document oriented database optimized for your happiness :)	Python	570	1135	74	1135
+realm-js	realm/realm-js	40667593	 Realm is a mobile database: an alternative to SQLite & key-value stores	C++	87413	1128	60	1128
+tech	hedengcheng/tech	65609367	programming, database, distributed system	null	28504	1105	238	1105
+couchbase-lite-ios	couchbase/couchbase-lite-ios	7948548	Lightweight, embedded, syncable NoSQL database engine for iOS (and Mac!) apps.	Objective-C	60615	1096	214	1096
+fortune	fortunejs/fortune	12384349	Database abstraction layer for data-driven applications.	JavaScript	4050	1079	106	1079
+neo4j	neo4jrb/neo4j	20724	An active model wrapper for the Neo4j Graph Database for Ruby.	Ruby	48893	1070	211	1070
+builddatabase	ngaut/builddatabase	40075190	Build a distributed SQL database from the ground up	null	3914	1067	165	1067
+scenic	thoughtbot/scenic	19283674	Versioned database views for Rails	Ruby	285	1065	54	1065
+crud-admin-generator	jonseg/crud-admin-generator	18943544	An open source tool to generate a complete backend from a MySql database.	JavaScript	4218	1049	323	1049
+buntdb	tidwall/buntdb	63731386	BuntDB is a fast, embeddable, in-memory key/value database for Go with custom indexing and geospatial support	Go	209	1048	59	1048
+pgmodeler	pgmodeler/pgmodeler	5533936	pgModeler - PostgreSQL Database Modeler - is an open source data modeling tool designed for PostgreSQL. No more DDL commands written by hand let pgModeler do the job for you! This software reunites the concepts of entity-relationship diagrams and the features that PostgreSQL implements as extensions of SQL standards. Support this project by donate on project's official web site link:	C++	25834	1011	159	1011
+tikv	pingcap/tikv	48833910	Distributed transactional key value database powered by Rust and Raft	Rust	6005	1006	82	1006
+pipelinedb	pipelinedb/pipelinedb	14702444	The Streaming SQL Database	C	61683	995	71	995
+backup-manager	backup-manager/backup-manager	18370443	Database backup manager for dumping to and restoring databases from S3, Dropbox, FTP, SFTP, and Rackspace Cloud	PHP	522	991	114	991
+sqitch	theory/sqitch	3280939	Sane database change management	Perl	10972	990	93	990
+db.py	yhat/db.py	25778634	db.py is an easier way to interact with your databases	Python	14769	980	76	980
+l5-repository	andersao/l5-repository	30713379	Laravel 5 - Repositories to abstract the database layer	PHP	550	969	219	969
+jetpants	tumblr/jetpants	4432054	MySQL toolkit for managing billions of rows and hundreds of database machines	Ruby	27804	965	67	965
+dbeaver	serge-rider/dbeaver	44662669	Free universal database manager and SQL client	Java	241858	943	117	943
+asyncpg	MagicStack/asyncpg	63652864	A fast PostgreSQL Database Client Library for Python/asyncio	Python	1349	929	25	929
+android-database-sqlcipher	sqlcipher/android-database-sqlcipher	1466080	Android SQLite API based on SQLCipher	Java	79014	911	342	911
+node-db-migrate	db-migrate/node-db-migrate	2948347	Database migration framework for node	JavaScript	1106	909	202	909
+kairosdb	kairosdb/kairosdb	8039659	Fast scalable time series database	Java	44615	908	193	908
+migrations-generator	Xethron/migrations-generator	17835453	Laravel 4 Migrations Generator: Automatically generate your migrations from an existing database schema.	PHP	124	890	184	890
+Detector	dmolsen/Detector	3130318	Detector is a simple, PHP- and JavaScript-based browser- and feature-detection library that can adapt to new devices & browsers on its own without the need to pull from a central database of browser information.	PHP	2582	872	91	872
+postgresql-async	mauricio/postgresql-async	3549747	Async, Netty based, database drivers for PostgreSQL and MySQL written in Scala	Scala	1683	869	127	869
+node-neo4j	thingdom/node-neo4j	1501632	Neo4j graph database driver (REST API client) for Node.js	CoffeeScript	1223	847	132	847
+rlite	seppo0010/rlite	31442310	self-contained, serverless, zero-configuration, transactional redis-compatible database engine. rlite is to Redis what SQLite is to SQL.	C	1187	847	22	847
+npgsql	npgsql/npgsql	2883574	Npgsql is the .NET data provider for PostgreSQL. It allows any program developed for .NET framework to access a PostgreSQL database server. It is implemented in 100% C# code. PostgreSQL versions since 9.1 are officially supported, others may work.	C#	60043	847	329	847
+database	illuminate/database	4554599	[READ ONLY] Subtree split of the Illuminate Database component (see laravel/framework)	PHP	8965	844	247	844
+grunt-autoprefixer	nDmitry/grunt-autoprefixer	9539222	Parse CSS and add vendor-prefixed CSS properties using the Can I Use database. Based on Autoprefixer.	JavaScript	146	839	62	839
+hashids.js	ivanakimov/hashids.js	5383496	A small JavaScript library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.	JavaScript	91	839	51	839
+activerecord-postgres-hstore	diogob/activerecord-postgres-hstore	891951	Goodbye serialize, hello hstore. Speed up hashes in the database.	Ruby	660	835	114	835
+BayesDB	probcomp/BayesDB	13287035	A Bayesian database table for querying the probable implications of data as easily as SQL databases query the data itself. New implementation in http://github.com/probcomp/bayeslite	null	63890	832	55	832
+ejdb	Softmotions/ejdb	6427744	EJDB — Embedded JSON Database engine	C	13574	826	86	826
+actordb	biokoda/actordb	16109206	ActorDB distributed SQL database	Erlang	3050	826	28	826
+TouchDB-iOS	couchbaselabs/TouchDB-iOS	2976023	CouchDB-compatible mobile database; Objective-C version	Objective-C	8358	797	117	797
+dbal	doctrine/dbal	677464	Doctrine Database Abstraction Layer	PHP	27796	795	662	795
+sprinkles	emilsjolander/sprinkles	13521187	Sprinkles is a boiler-plate-reduction-library for dealing with databases in android applications	Java	2700	785	91	785
+android-lite-orm	litesuits/android-lite-orm	17674040	LiteOrm is a fast, small, powerful ORM framework for Android. LiteOrm makes you do CRUD operarions on SQLite database with a sigle line of code efficiently.	Java	2010	780	254	780
+trousseau	oleiade/trousseau	12106192	Networked and encrypted key-value database	Go	11988	779	34	779
+rails_db	igorkasyanchuk/rails_db	44268071	Rails Database Viewer and SQL Query Runner	Ruby	1922	777	59	777
+couchbase-lite-android	couchbase/couchbase-lite-android	9992330	Lightweight, embedded, syncable NoSQL database engine for Android.	Java	93852	773	158	773
+migrate	mattes/migrate	22774923	Database migration handling in Golang	Go	201	755	134	755
+nyc-taxi-data	toddwschneider/nyc-taxi-data	46248471	Import public NYC taxi and Uber trip data into PostgreSQL / PostGIS database, analyze with R	R	39696	754	205	754
+node-oracledb	oracle/node-oracledb	28612154	Oracle Database driver for Node.js maintained by Oracle Corp.	JavaScript	138914	749	255	749
+sqlectron-gui	sqlectron/sqlectron-gui	41959825	A simple and lightweight SQL client desktop with cross database and platform support.	HTML	3927	744	64	744
+oceanbase	alibaba/oceanbase	26521330	A distributed, shared-nothing relational database	C++	75906	732	393	732
+levelgraph	mcollina/levelgraph	9695623	Graph database JS style for Node.js and the Browser. Built upon LevelUp and LevelDB.	JavaScript	1687	732	70	732
+whisper	graphite-project/whisper	4254334	Whisper is a file-based time-series database format for Graphite.	Python	564	718	241	718
+xo	knq/xo	51139948	Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server	Go	717	715	41	715
+notorm	vrana/notorm	633412	NotORM - PHP library for simple reading data from the database	PHP	758	710	155	710
+VisualAlchemist	prahladyeri/VisualAlchemist	37661406	Open source web-based database diagramming and automation tool	JavaScript	2078	700	37	700
+eventql	eventql/eventql	59475316	EventQL is a distributed, column-oriented database built for large-scale event collection and analytics. It runs super-fast SQL and MapReduce queries.	C++	85364	699	48	699
+jdbi	jdbi/jdbi	229738	jDBI is designed to provide convenient tabular data access in Java(tm). It uses the Java collections framework for query results, provides a convenient means of externalizing sql statements, and provides named parameter support for any database being used.	Java	15384	697	158	697
+android_dbinspector	infinum/android_dbinspector	17116181	Android library for viewing and sharing in app databases.	Java	2287	696	78	696
+tingodb	sergeyksv/tingodb	9525219	Embedded Node.js database upward compatible with MongoDB	JavaScript	5065	690	53	690
+cassandra	cassandra-rb/cassandra	239681	A Ruby client for the Cassandra distributed database	Ruby	1174	688	151	688
+bigchaindb	bigchaindb/bigchaindb	51290852	A scalable blockchain database	Python	4443	685	121	685
+querypath	technosophos/querypath	211800	QueryPath is a PHP library for manipulating XML and HTML. It is designed to work not only with local files, but also with web services and database resources.	PHP	3600	681	83	681
+Alenka	antonmks/Alenka	3927863	GPU database engine	Cuda	90739	679	78	679
+ql	cznic/ql	14090388	Package ql is a pure Go embedded SQL database.	Go	2193	672	45	672
+mysql-5.6	facebook/mysql-5.6	9454675	Facebook's branch of the Oracle MySQL v5.6 database. This includes MyRocks.	C++	494624	655	208	655
+hood	eaigner/hood	7162561	Database agnostic ORM for Go	Go	1016	652	52	652
+ripple	basho-labs/ripple	459445	A rich Ruby modeling layer for Riak, Basho's distributed database	Ruby	10144	647	165	647
+quepy	machinalis/quepy	6984771	A python framework to transform natural language questions to queries in a database query language.	Python	369	646	134	646
+SequoiaDB	SequoiaDB/SequoiaDB	20424953	SequoiaDB is a document-oriented NoSQL Database	C++	288047	640	307	640
+LKDBHelper-SQLite-ORM	li6185377/LKDBHelper-SQLite-ORM	9448173	全自动的插入,查询,更新,删除， an automatic database operation  thread-safe and not afraid of recursive deadlock	Objective-C	1157	640	199	640
+sharedb	share/sharedb	9156525	A database frontend for concurrent editing systems	JavaScript	2830	639	84	639
+beedb	astaxie/beedb	4272815	beedb is a go ORM,support database/sql interface，pq/mysql/sqlite	Go	1033	618	145	618
+nessDB	BohuTANG/nessDB	1922333	A very fast transactional key-value, embedded database storage engine. 	C	2782	617	126	617
+GeoIP2-php	maxmind/GeoIP2-php	9916368	PHP API for GeoIP2 webservice client and database reader 	PHP	3481	604	101	604
+irmin	mirage/irmin	9595928	Irmin is a distributed database that follows the same design principles as Git	OCaml	7036	604	50	604
+Graph	CosmicMind/Graph	30655979	A semantic database for iOS in Swift.	Swift	4547	597	45	597
+KeeFarce	denandz/KeeFarce	45019001	Extracts passwords from a KeePass 2.x database, directly from memory.	C++	996	596	103	596
+speedment	speedment/speedment	29480568	Wrap your database into Java 8	Java	9457	590	85	590
+acts_as_tenant	ErwinM/acts_as_tenant	2175854	Easy multi-tenancy for Rails in a shared database setup	Ruby	225	585	112	585
+security-advisories	FriendsOfPHP/security-advisories	7798948	A database of PHP security advisories	PHP	440	582	79	582
+MaxScale	mariadb-corporation/MaxScale	15231881	An intelligent database proxy.	C	86470	580	155	580
+bulbs	espeed/bulbs	2053705	A Python persistence framework for graph databases like Neo4j, OrientDB and Titan.	Python	1319	578	86	578
+FastAPI	thestorefront/FastAPI	22079149	Easily create robust, standardized API endpoints using lightning-fast database queries	Ruby	182	575	28	575
+tedious	tediousjs/tedious	1719690	Node TDS module for connecting to SQL Server databases.	JavaScript	2126	571	152	571
+reborn	reborndb/reborn	34118374	Distributed database fully compatible with redis protocol	Go	6185	567	95	567
+LittleD	graemedouglas/LittleD	14753974	A relational database for embedded devices and sensors nodes	C	246	567	24	567
+standalone-migrations	thuss/standalone-migrations	95560	A gem to use Rails Database Migrations in non Rails projects	Ruby	465	564	96	564
+dbr	gocraft/dbr	19512853	Additions to Go's database/sql for super fast performance and convenience.	Go	213	564	48	564
+geoip	cjheath/geoip	209379	The Ruby gem for querying Maxmind.com's GeoIP database, which returns the geographic location of a server given its IP address	Ruby	294	561	61	561
+reactspeedcoding	manavsehgal/reactspeedcoding	55911717	:rocket: Learn React with 30 reusable components, 15 chapters, and 3 single page apps. Fast start project with JavaScript ES6. React Hot Loading. React Router. Redux. PostCSS, FlexBox styling. Firebase database. Webpack packaging. Enzyme, Mocha, Chai BDD testing. ESLint and StyleLint. Browsersync.	JavaScript	5901	557	33	557
+ezSQL	ezSQL/ezSQL	3337723	PHP class to make interacting with a database ridiculusly easy	HTML	613	555	238	555
+doobie	tpolecat/doobie	14679065	principled database access for scala	Scala	2198	553	71	553
+OmniDB	OmniDB/OmniDB	56064194	Web tool for database management and conversion	JavaScript	30021	549	30	549
+lovli.js	flipace/lovli.js	56639803	A boilerplate for developing react+redux applications with rethinkdb/horizon as realtime database and express for the server.	JavaScript	1696	539	35	539
+uphold	forward3d/uphold	50673334	A tool for programmatically verifying database backups	Ruby	434	534	14	534
+world.db	openmundi/world.db	6540895	Free open public domain world database 'n' schema for use in any (programming) language (e.g. uses plain text datasets)	null	1893	532	49	532
+Flask-Migrate	miguelgrinberg/Flask-Migrate	12686139	SQLAlchemy database migrations for Flask applications using Alembic	Python	140	527	77	527
+ForerunnerDB	Irrelon/ForerunnerDB	16614962	A JavaScript database with mongo-like query language, data-binding support, runs in browsers and hybrid mobile apps as a client-side DB or on the server via Node.js!	JavaScript	73010	527	45	527
+fluent	vapor/fluent	50543206	Swift models, relationships, and querying for NoSQL and SQL databases.	Swift	1086	526	43	526
+GRDB.swift	groue/GRDB.swift	38304949	A Swift application toolkit for SQLite databases, with WAL mode support	Swift	13388	522	52	522
+memdb	rain1017/memdb	30956325	Distributed Transactional In-Memory Database (全球首个支持分布式事务的MongoDB)	JavaScript	1206	512	163	512
+adminMongo	mrvautin/adminMongo	49763476	adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.	JavaScript	2807	511	151	511
+Shaarli	sebsauvage/Shaarli	4040041	The personal, minimalist, super-fast, no-database delicious clone.	PHP	3313	509	171	509
+god	zond/god	4865566	A Go database	Go	9445	506	37	506
+rails_indexes	eladmeidar/rails_indexes	303531	A rake task to track down missing database indexes. does not assume that all foreign keys end with the convention of _id.	Ruby	191	504	68	504
+elephantdb	nathanmarz/elephantdb	1372117	Distributed database specialized in exporting key/value data from Hadoop	Java	3037	503	42	503
+psycopg2	psycopg/psycopg2	7730829	PostgreSQL database adapter for the Python programming language	C	7417	501	129	501
+mongodb-csharp	samus/mongodb-csharp	267286	A driver written in c# to connect to the MongoDB document oriented database.	C#	5907	500	225	500
+query-monitor	johnbillion/query-monitor	3879305	A WordPress plugin for monitoring database queries, hooks, conditionals, HTTP requests, query vars, environment, redirects, and more.	PHP	1757	497	58	497
+sensei	linkedin/sensei	533032	distributed realtime searchable database	Java	66117	496	156	496
+dj-database-url	kennethreitz/dj-database-url	4185033	Use Database URLs in your Django Application.	Python	86	492	88	492
+sinatra-authentication	maxjustus/sinatra-authentication	85300	A sinatra extension wrapped in a gem that implements authentication/permissions with users stored in the database. Now with optional support for facebook connect	Ruby	636	491	108	491
+qb	aacanakin/qb	49949525	The database toolkit for go	Go	482	487	18	487
+linq2db	linq2db/linq2db	1916228	Linq to database provider.	C#	238273	480	138	480
+db	GroundMeteor/db	11569488	GroundDB is a thin layer providing Meteor offline database and methods	JavaScript	255	480	63	480
+nfldb	BurntSushi/nfldb	11647678	A library to manage and update NFL data in a relational database.	Python	584	480	126	480
+database_rewinder	amatsuda/database_rewinder	12803348	minimalist's tiny and ultra-fast database cleaner	Ruby	124	475	49	475
+localStorageDB	knadh/localStorageDB	2418932	A simple database layer for localStorage and sessionStorage for creating structured data in the form of databases and tables	JavaScript	125	462	90	462
+squeryl	squeryl/squeryl	495133	A Scala DSL for talking with databases with minimum verbosity and maximum type safety	Scala	15627	462	119	462
+Windows-Exploit-Suggester	GDSSecurity/Windows-Exploit-Suggester	21613236	This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins.	Python	164	462	149	462
+polo	IFTTT/polo	39863646	Polo travels through your database and creates sample snapshots so you can work with real world data in development.	Ruby	88	461	24	461
+global_phone	sstephenson/global_phone	10342875	Parse, validate, and format phone numbers in Ruby using Google's libphonenumber database	Ruby	460	459	82	459
+ruckusing-migrations	ruckus/ruckusing-migrations	1046466	Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite	PHP	997	455	89	455
+indieteq-php-my-sql-pdo-database-class	indieteq/indieteq-php-my-sql-pdo-database-class	6267062	A database class for PHP MySQL which utilizes PDO.	PHP	107	452	262	452
+h2database	h2database/h2database	33745913	H2 is an embeddable RDBMS written in Java.	Java	56599	449	180	449
+heroic	spotify/heroic	36483902	The Heroic Time Series Database	Java	5585	447	35	447
+tera	baidu/tera	18129915	A distributed, elastic, structured database.	C++	17689	442	156	442
+curiodb	stephenmcd/curiodb	34593732	Distributed and Persistent NoSQL Database	Scala	1213	439	33	439
+phpbu	sebastianfeldmann/phpbu	25253423	PHP Backup Utility - Creates and encrypts database and file backups, syncs your backups to other servers or cloud services and assists you monitor your backup process	PHP	1121	437	35	437
+mysql-workbench-schema-exporter	mysql-workbench-schema-exporter/mysql-workbench-schema-exporter	815451	a php written mysql workbench file reader to transform the database scheme to useful other schemes like Doctrine	PHP	2376	433	129	433
+CTPersistance	casatwy/CTPersistance	43801110	Objective-C/Swift Database Persistence Layer with SQLite, your next Persistence Layer!	Objective-C	399	433	111	433
+hashids.rb	peterhellberg/hashids.rb	6204918	A small Ruby gem to generate YouTube-like hashes from one or many numbers. Use hashids when you do not want to expose your database ids to the user.	Ruby	47	433	18	433
+roundhouse	chucknorris/roundhouse	369782	RoundhousE is a Database Migration Utility for .NET using sql files and versioning based on source control	C#	75692	431	171	431
+pygeoip	appliedsec/pygeoip	3138726	Pure Python API for Maxmind's binary GeoIP databases	Python	1499	430	91	430
+membership.db	membership/membership.db	52204790	SQL database schema boilerplate for user accounts, roles and authentication tokens for use in web apps (PostgreSQL, Microsoft SQL Server, Azure SQL Database, LocalDb, SQLite)	null	22	429	33	429
+express-restify-mongoose	florianholzapfel/express-restify-mongoose	8987608	Easily restify mongoose databases	JavaScript	1057	425	107	425
+php-crud-api	mevdschee/php-crud-api	30567860	Single file PHP script that adds a REST API to a SQL database	PHP	964	423	167	423
+Flask-Scaffold	Leo-G/Flask-Scaffold	35432888	Prototype Database driven CRUD dashboards and RESTFUL API's in Python 3, Flask and Angularjs	Python	15705	422	61	422
+Prefuse	prefuse/Prefuse	2838470	Prefuse is a set of software tools for creating rich interactive data visualizations in the Java programming language. Prefuse supports a rich set of features for data modeling, visualization, and interaction. It provides optimized data structures for tables, graphs, and trees, a host of layout and visual encoding techniques, and support for animation, dynamic queries, integrated search, and database connectivity. 	Java	5061	421	165	421
+go-memdb	hashicorp/go-memdb	37560288	Golang in-memory database built on immutable radix trees	Go	63	417	31	417
+spring-data-neo4j	spring-projects/spring-data-neo4j	2470730	Provides support to increase developer productivity in Java when using the neo4j graph database. Uses familiar Spring concepts such as a template classes for core API usage and provides an annotation based programming model using AspectJ	Java	19964	417	492	417
+switch_point	eagletmt/switch_point	20216270	  Switching database connection between readonly one and writable one	Ruby	115	416	24	416
+MySQLdb1	farcepest/MySQLdb1	5709451	MySQL database connector for Python (legacy version)	Python	2162	415	210	415
+partitioned	fiksu/partitioned	3641609	Postgres database table partitioning support for Rails	Ruby	1051	413	89	413
+openrecipes	fictivekin/openrecipes	9079146	An open database of recipe bookmarks	Python	4324	413	72	413
+doiuse	anandthakker/doiuse	26542739	:bomb: Lint CSS for browser support against caniuse database.	JavaScript	173	413	11	413
+ruby-advisory-db	rubysec/ruby-advisory-db	8154497	A database of vulnerable Ruby Gems	Ruby	554	402	79	402
+mysqlclient-python	PyMySQL/mysqlclient-python	19227725	MySQL database connector for Python (with Python 3 support)	Python	1287	402	60	402
+hermitage	ept/hermitage	26289803	What are the differences between the transaction isolation levels in databases? This is a suite of test cases which differentiate isolation levels.	null	259	400	28	400
+leveldb	golang/leveldb	39362963	The LevelDB key-value database in the Go programming language.	Go	442	399	35	399
+repository	bosnadev/repository	30983690	Laravel Repositories is a package for Laravel 5 which is used to abstract the database layer. This makes applications much easier to maintain.	PHP	116	398	96	398
+spot2	vlucas/spot2	20979572	Spot v2.x DataMapper built on top of Doctrine's Database Abstraction Layer	PHP	378	395	65	395
+nstore	creationix/nstore	745357	nStore is a simple, in-process key/value database for node.js	JavaScript	237	394	27	394
+rxjava-jdbc	davidmoten/rxjava-jdbc	16662619	Efficient execution and functional composition of database calls using jdbc and rx-java Observables	Java	1099	390	53	390
+migrations	doctrine/migrations	576099	Doctrine Database Migrations Library	PHP	1636	389	217	389
+swiftydb	Oyvindkg/swiftydb	48343151	A typesafe, protocol-based, pure Swift database offering effortless persistence of any object	Swift	1042	389	25	389
+DatabaseKit	fjolnir/DatabaseKit	8427	An Objective-C database abstraction framework.	Objective-C	10928	388	32	388
+soci	SOCI/soci	2738731	SOCI - The C++ Database Access Library. This is official repository the SOCI project.	C++	60442	384	165	384
+seriesly	dustin/seriesly	5575157	A time series database.	Go	959	382	34	382
+pixie	usmanhalalit/pixie	11258698	Database query builder for PHP, framework agnostic, lightweight and expressive.	PHP	360	382	103	382
+NoSQLMap	tcstool/NoSQLMap	13067823	Automated Mongo database and NoSQL web application exploitation tool	Python	1029	381	126	381
+populator	ryanb/populator	46728	Mass populate an Active Record database.	Ruby	260	381	41	381
+pg_repack	reorg/pg_repack	6633165	Reorganize tables in PostgreSQL databases with minimal locks	C	900	380	37	380
+postgresql-metrics	spotify/postgresql-metrics	41426300	Tool that extracts and provides metrics on your PostgreSQL database	Python	39	379	13	379
+shift	square/shift	49679370	shift is an application that helps you run schema migrations on MySQL databases	Ruby	687	378	17	378
+react-native-store	thewei/react-native-store	33400049	A simple database base on react-native AsyncStorage.	JavaScript	87	376	49	376
+vFeed	toolswatch/vFeed	10179504	The Correlated Vulnerability And Threat Intelligence Database API	Python	654	376	103	376
+atlasdb	palantir/atlasdb	36960637	Transactional Distributed Database Layer	Java	25748	375	57	375
+whitedb	priitj/whitedb	10153163	WhiteDB memory database	C	3361	373	43	373
+docker-oracle-xe-11g	wnameless/docker-oracle-xe-11g	15827956	Dockerfile of Oracle Database Express Edition 11g Release 2	Shell	269352	373	217	373
+DbUp	DbUp/DbUp	4995017	DbUp is a .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.  	C#	35872	373	182	373
+OpenFarm	openfarmcc/OpenFarm	13895958	A free and open database for farming and gardening knowledge. You can grow anything!	Ruby	75260	370	92	370
+linvodb3	Ivshti/linvodb3	28347353	Persistent database for Node.js/NW.js/Electron with MongoDB/Mongoose-like features and interface on top of LevelUp	JavaScript	1519	369	26	369
+mangodb	dcramer/mangodb	4732384	A database that operates at CLOUD SCALE	Python	296	368	43	368
+go-database-sql-tutorial	VividCortex/go-database-sql-tutorial	11342391	A tutorial for Go's database/sql package	CSS	1215	367	63	367
+laravel-backup	schickling/laravel-backup	11070374	Backup and restore database support for Laravel 4 applications	PHP	602	367	53	367
+ydn-db	yathit/ydn-db	6483774	Javascript database module for Indexeddb, Web SQL and localStorage storage mechanisms supporting version migration, advanced query, SQL and transaction.	JavaScript	27212	364	38	364
+modl	jmoiron/modl	10440348	golang database modelling library	Go	256	361	41	361
+nydus	disqus/nydus	1877688	Nydus is a Python toolkit for managing database connections and routing operations, primarily for Redis	Python	868	361	28	361
+realm-dotnet	realm/realm-dotnet	8485842	Realm is a mobile database: a replacement for SQLite & ORMs	C#	68968	360	30	360
+GraphView	Microsoft/GraphView	46856450	GraphView is a DLL library that enables users to use SQL Server or Azure SQL Database to efficiently manage graphs. 	C#	1972	360	101	360
+recommendationRaccoon	guymorita/recommendationRaccoon	11732800	A collaborative filtering based recommendation engine and NPM module built on top of Node.js and Redis. The engine uses the Jaccard coefficient to determine the similarity between users and k-nearest-neighbors to create recommendations. This module is useful for anyone with a database of users, a database of products/movies/items and the desire to give their users the ability to like/dislike and receive recommendations.	JavaScript	521	359	61	359
+LaravelDatabaseDesigner	BioDesignRealWorld/LaravelDatabaseDesigner	24326110		JavaScript	1169	358	71	358
+CrashKit	kaler/CrashKit	830264	CrashKit catches uncaught exceptions, traps signals, and sends them to developers by email or straight to your bug database.	Objective-C	182	356	45	356
+cakephp-mongodb	ichikaway/cakephp-mongodb	917426	MongoDB database driver for CakePHP	PHP	2176	354	152	354
+Terraformer	Esri/Terraformer	6515095	A geographic toolkit for dealing with geometry, geography, formats, and building geo databases	JavaScript	56673	353	89	353
+jabref	JabRef/jabref	17634071	Graphical Java application for managing BibTeX and Biblatex (.bib) databases	Java	99930	349	257	349
+Objective-LevelDB	matehat/Objective-LevelDB	9929641	An Objective-C database library built over Google's LevelDB	Objective-C	466	340	68	340
+TadpoleForDBTools	hangum/TadpoleForDBTools	4867294	Tadpole DB Hub is unified infrastructure tool, various environment based interface for managing Amazon RDS, Altibase, Apache Hive, Apache Tajo, CUBRID, MariaDB, MySQL, Oracle, SQLite, Tibero, MSSQL, PostgreSQL and MongoDB databases.	Java	1142856	340	99	340
+ngx_postgres	FRiCKLE/ngx_postgres	648923	upstream module that allows nginx to communicate directly with PostgreSQL database. 	C	822	338	60	338
+snappydata	SnappyDataInc/snappydata	42580991	SnappyData: OLTP + OLAP Database built on Apache Spark	Scala	147591	337	45	337
+p6spy	p6spy/p6spy	1204125	P6Spy is a framework that enables database data to be seamlessly intercepted and logged with no code changes to the application.	Java	59705	336	104	336
+databasedotcom	heroku/databasedotcom	2188129	Ruby client for the Database.com and Chatter APIs	Ruby	539	335	230	335
+flip	pda/flip	1788164	Flip lets you declare and manage feature flags, backed by cookies (private testing) and database (site-wide).	Ruby	336	335	56	335
+libsqlfs	guardianproject/libsqlfs	2661598	a library that implements a POSIX style filesystem on top of an SQLite database	C	796	332	28	332
+django-rules	dfunckt/django-rules	17492139	Awesome Django authorization, without the database	Python	119	331	21	331
+node-tutorial-for-frontend-devs	cwbuecheler/node-tutorial-for-frontend-devs	12061578	A tutorial and complete sample project for Front-End developers showing how to get Node, Express and Jade up and running, connected to MongoDB, and reading from / writing to the database	JavaScript	10518	331	376	331
+Aura.Sql	auraphp/Aura.Sql	1966708	SQL database access through PDO.	PHP	1236	328	65	328
+django-redis-sessions	martinrusev/django-redis-sessions	899170	Session backend for Django that stores sessions in a Redis database	Python	92	328	79	328
+slim_scrooge	sdsykes/slim_scrooge	341099	SlimScrooge heavily optimises your database interactions	Ruby	195	326	26	326
+ceres	graphite-project/ceres	4257297	Distributable time-series database	Python	193	325	74	325
+mean-stack-relational	jpotts18/mean-stack-relational	15295475	M*EAN (*MySQL, Express, Angular, Node) - A Simple, Scalable and Easy starting point for javascript web development with a relational database ORM	JavaScript	4112	323	143	323
+PHP-Shell-Detector	emposha/PHP-Shell-Detector	1918968	Web Shell Detector – is a php script that helps you find and identify php/cgi(perl)/asp/aspx shells. Web Shell Detector has a “web shells” signature database that helps to identify “web shell” up to 99%.	PHP	1608	323	118	323
+rrdtool-1.x	oetiker/rrdtool-1.x	5761553	RRDtool 1.x - Round Robin Database	C	14568	321	143	321
+sequelize-auto	sequelize/sequelize-auto	10623309	Automatically generate bare sequelize models from your database.	JavaScript	125	321	96	321
+aiopg	aio-libs/aiopg	18398494	aiopg is a library for accessing a PostgreSQL database from the asyncio	Python	829	321	47	321
+sqlite3-ruby	sparklemotion/sqlite3-ruby	30272	Ruby bindings for the SQLite3 embedded database	Ruby	940	320	116	320
+dbpatterns	fatiherikli/dbpatterns	6115164	Dbpatterns is a service that allows you to create, share, explore database models on the web. Built on top of Django, Backbone. Patterns are stored on MongoDB, and uses Lettuce for BDD approach.	JavaScript	910	320	44	320
+marten	JasperFx/marten	44125268	Postgresql as a Document Database and Event Store for .Net Applications	C#	12385	314	73	314
+ragtime	weavejester/ragtime	2810261	Database-independent migration library	Clojure	464	313	65	313
+pgx_scripts	pgexperts/pgx_scripts	25013630	A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.	Shell	67	313	33	313
+active_mocker	zeisler/active_mocker	18227116	Generate mocks from ActiveRecord models for unit tests that run fast because they don’t need to load Rails or a database.	Ruby	1656	310	17	310
+phpMyFAQ	thorsten/phpMyFAQ	269027	phpMyFAQ - Open Source FAQ system for PHP and HHVM with MySQL, PostgreSQL and other databases	PHP	37527	307	147	307
+mindb	iwillwen/mindb	4453765	Database on JavaScript	JavaScript	1778	299	39	299
+simpleStorage	ZaDarkSide/simpleStorage	16728346	Cross-browser key-value store database to store data locally in the browser. Simpler fork of jStorage	JavaScript	85	297	53	297
+django-post_office	ui/django-post_office	5378330	A Django app that allows you to send email asynchronously in Django. Supports HTML email, database backed templates and logging.	Python	639	297	91	297
+Insight.Database	jonwagner/Insight.Database	4055382	Fast, lightweight .NET micro-ORM	C#	6925	293	69	293
+postgis	postgis/postgis	4407129	PostGIS spatial database extension to PostgreSQL [mirror]	PLpgSQL	61059	293	156	293
+jseg	brandonbloom/jseg	46875354	A super simple, in-memory, JS graph database.	JavaScript	83	292	6	292
+drive-db	franciscop/drive-db	29474407	:bar_chart: A Google Drive spreadsheet simple database	JavaScript	64	290	9	290
+upscaledb	cruppstahl/upscaledb	811881	A very fast lightweight embedded database engine with a built-in query language.	C++	37503	290	29	290
+dalmatinerdb	dalmatinerdb/dalmatinerdb	20814855	Fast distributed metrics database	Erlang	6700	288	14	288
+PHP-MySQL-Class	a1phanumeric/PHP-MySQL-Class	844688	Simple MySQL class written in PHP, for interfacing with a MySQL database.	PHP	85	288	256	288
+simplestore	cdmedia/simplestore	33674127	A clean, responsive storefront boilerplate with no database or backend	JavaScript	3228	288	42	288
+capistrano-db-tasks	sgruhier/capistrano-db-tasks	198614	Add capistrano tasks for syncing remote and local database	Ruby	172	285	134	285
+ebot	matteoredaelli/ebot	593966	Ebot, an Opensource Web Crawler built on top of a nosql database (apache couchdb, riak), AMQP database (rabbitmq), webmachine and mochiweb. Ebot is written in Erlang and it is a very scalable, distribuited and highly configurable web cawler. See wiki pages for more details	Erlang	5804	282	50	282
+FMDBMigrationManager	layerhq/FMDBMigrationManager	20582744	FMDBMigrationManager provides a simple, elegant interface for managing SQLite database schemas with FMDB.	Objective-C	107	281	44	281
+realm-browser-osx	realm/realm-browser-osx	36412959	Realm Browser is a Mac OS X utility to open and modify realm database files.	Objective-C	34055	280	28	280
+bayeslite	probcomp/bayeslite	25949241	BayesDB on SQLite. A Bayesian database table for querying the probable implications of data as easily as SQL databases query the data itself.	Python	6270	279	28	279
+mtail	google/mtail	20239198	extract whitebox monitoring data from application logs for collection in a timeseries database	Go	2021	279	41	279
+go-sqlmock	DATA-DOG/go-sqlmock	16607984	Sql mock driver for golang to test database interactions	Go	128	278	42	278
+node-oracle	joeferner/node-oracle	3022931	node.js driver to connect with an oracle database.	C++	325	277	110	277
+dbext.vim	vim-scripts/dbext.vim	998351	Provides database access to many dbms (Oracle, Sybase, Microsoft, MySQL, DBI,..)	VimL	455	276	66	276
+awesome-db	numetriclabz/awesome-db	22630633	A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/	null	19	276	38	276
+neo4j-mazerunner	neo4j-contrib/neo4j-mazerunner	25891103	Mazerunner extends a Neo4j graph database to run scheduled big data graph compute algorithms at scale with HDFS and Apache Spark.	Java	307203	275	69	275
+Tagedit	webworka/Tagedit	1765459	 Tagedit - jQuery Plugin - The Plugin can be used to edit tags from a database the easy way	JavaScript	357	274	91	274
+lern	tylercd100/lern	54421040	LERN is a Laravel 5 package that will record exceptions into a database and will notify you via Email, Pushover or Slack.	PHP	156	273	21	273
+eloquence	kirkbushell/eloquence	19079086	A drop-in library for certain database functionality in Laravel 5, that allows for extra features that may never make it into the main project.	PHP	209	272	31	272
+sandman2	jeffknupp/sandman2	25699392	Automatically generate a RESTful API service for your legacy database. No code required!	Python	601	270	36	270
+JDBM3	jankotek/JDBM3	2324364	Embedded Key Value Java Database	Java	2964	268	72	268
+labrador	chrismccord/labrador	4998730	A loyal data retriever for your Rails development databases.	CSS	1358	268	20	268
+rdbms-subsetter	18F/rdbms-subsetter	25989794	Generates a subset of a relational database that respects foreign key constraints	Python	115	268	18	268
+LambdaLite	Wukix/LambdaLite	27461409	A functional, relational database in about 250 lines of Common Lisp	Common Lisp	214	268	17	268
+hiera	puppetlabs/hiera	1845241	Lightweight Pluggable Hierarchical Database	Ruby	1206	267	191	267
+Rediska	Shumkov/Rediska	525938	Full-featured PHP client for key-value database Redis	PHP	2932	265	63	265
+btrdb	SoftwareDefinedBuildings/btrdb	22427082	Berkeley Tree Database (BTrDB) - development version	Go	6364	264	18	264
+lobos	budu/lobos	1188672	A library to create and manipulate SQL database schemas with migrations support.	Clojure	2236	262	61	262
+secure-scuttlebutt	ssbc/secure-scuttlebutt	19653696	a secure database with replication that is guaranteed to work	JavaScript	481	262	21	262
+Squeal	nerdyc/Squeal	22790992	A Swift wrapper for SQLite databases	Swift	325	258	27	258
+griddb_nosql	griddb/griddb_nosql	52420005	high performance, high scalability and high reliability database for big data	C++	5088	258	16	258
+automotive-model-year-data	n8barr/automotive-model-year-data	4733802	Automotive data including vehicle model, make, and year for database creation	null	437	257	166	257
+node-persist	joeferner/node-persist	2927152	Node.js ORM framework supporting MySQL and SQLite 3 relational databases.	JavaScript	2398	257	46	257
+llamadb	nukep/llamadb	31960975	A SQL database written in Rust	Rust	253	256	15	256
+cryptdb	CryptDB/cryptdb	15613792	A database system that can process SQL queries over encrypted data.	PHP	160384	256	38	256
+erd	BurntSushi/erd	13887438	Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.	Haskell	369	256	32	256
+BazingaFakerBundle	willdurand/BazingaFakerBundle	2640089	Put the awesome Faker library into the Symfony2 DIC and populate your database with fake data.	PHP	64	255	24	255
+joern	octopus-platform/joern	9824130	A robust parser for C/C++ storing abstract syntax trees, control flow graphs and program dependence graphs in a neo4j graph database.	Java	23672	253	67	253
+realm-browser	dmytrodanylyk/realm-browser	35176606	Android Realm Database Browser	Java	930	252	38	252
+mysql-php-migrations	davesloan/mysql-php-migrations	1066126	Command line utility for managing MySQL database migrations.	PHP	183	252	52	252
+base	erusev/base	29758725	Simpler Database Intaractions in PHP	PHP	55	252	15	252
+cartodb	Vizzuality/cartodb	1246024	Geospatial database for the cloud (DEPRECATED)	JavaScript	137766	250	47	250
+passbox	RobBollons/passbox	28221115	Simple command line password manager using a flat file as a database and GPG encryption	Shell	342	250	11	250
+mdbtools	brianb/mdbtools	723884	MDB Tools - Read Access databases on *nix	C	3873	249	69	249
+forceps	jorgemanrubia/forceps	15530396	Copy active record models from remote databases	Ruby	124	243	18	243
+sqlite-web	coleifer/sqlite-web	26350830	Web-based SQLite database browser written in Python	HTML	629	243	25	243
+Skyperious	suurjaak/Skyperious	4034216	Skype SQLite database viewer and merger	Python	13002	241	23	241
+h-store	apavlo/h-store	3104540	H-Store Distributed Main Memory OLTP Database System	Java	151920	241	113	241
+diskDB	arvindr21/diskDB	20789700	A Lightweight Disk based JSON Database with a MongoDB like API for Node	JavaScript	102	241	34	241
+blitzdb	adewes/blitzdb	16849748	Blitz is a document-oriented database for Python that is backend-agnostic. It comes with a flat-file database for JSON documents and provides MongoDB-like querying capabilities.	Python	1086	239	29	239
+SteamDatabase	SteamDatabase/SteamDatabase	8165636	:baby_chick: Issue tracker for Steam Database	JavaScript	340	237	41	237
+csv-schema	timwis/csv-schema	56849587	Analyzes a CSV file and generates database table schema, all within the browser	JavaScript	35	236	9	236
+MySQL-backup-to-Amazon-S3	woxxy/MySQL-backup-to-Amazon-S3	2404981	Backup daily/weekly/monhtly all your MySQL databases to Amazon S3 via SH and s3cmd	Shell	108	235	80	235
+camo	scottwrobinson/camo	37610752	A class-based ES6 ODM for Mongo-like databases.	JavaScript	282	235	36	235
+helios.js	zuudo/helios.js	4848348	An in-memory graph database for modern browsers.	JavaScript	1146	234	15	234
+unqlite	symisc/unqlite	22761491	Transactional Embedded Database Engine	C	870	233	33	233
+TouchDB-Android	couchbaselabs/TouchDB-Android	3151061	CouchDB-compatible mobile database; Android version	Java	9591	233	63	233
+check_postgres	bucardo/check_postgres	196044	Nagios check_postgres plugin for checking status of PostgreSQL databases	Perl	2584	232	83	232
+djjob	seatgeek/djjob	1010517	PHP port of delayed_job, a database backed asynchronous priority queue	PHP	69	232	49	232
+nforce	kevinohara80/nforce	4209411	nforce is a node.js salesforce REST API wrapper for force.com, database.com, and salesforce.com	JavaScript	805	232	96	232
+querulous	nkallen/querulous	503270	An agreeable way to talk to your database.	Scala	690	230	67	230
+dibi	dg/dibi	277297	dibi - smart database abstraction layer	PHP	3185	229	82	229
+db-to-api	project-open-data/db-to-api	5708479	Turns a Database into a Secure, RESTful API	PHP	299	229	69	229
+Relational	Respect/Relational	817818	A fluent, intuitive ORM for any relational database engine	PHP	982	229	41	229
+MySQL-Syncer	Terry-Mao/MySQL-Syncer	3978374	MySQL Syncer is a project which parse mysql binlog and sync to other datases, such as redis, mongodb and any other databases..	C	2663	229	83	229
+modelq	mijia/modelq	27473598	ModelQ is a code generator for creating Golang codes/models to access RDBMS database/tables 	Go	127	228	25	228
+data-police-shootings	washingtonpost/data-police-shootings	38310038	The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty in 2015 and 2016.	null	1136	228	61	228
+aws-lambda-redshift-loader	awslabs/aws-lambda-redshift-loader	31708026	Amazon Redshift Database Loader implemented in AWS Lambda	JavaScript	7999	227	56	227
+pg_view	zalando/pg_view	11426126	Get a detailed, real-time view of your PostgreSQL database and system metrics	Python	701	227	23	227
+whatcanidoforbitcoin.xyz	andrewtian/whatcanidoforbitcoin.xyz	22695169	Human resources bot for Bitcoin. Easily dispatch bitcoin developers to Bitcoin projects in need. Uses in-memory database to efficiently store data.	JavaScript	1240	226	7	226
+exploit-database-bin-sploits	offensive-security/exploit-database-bin-sploits	31674382	Exploit Database binary exploits located in the /sploits directory	Python	613087	225	112	225
+mongify	anlek/mongify	553182	Mongify allows you to map your data from a sql database and into a mongodb document database.	Ruby	503	225	47	225
+yaml_db	adamwiggins/yaml_db	24246	Rails plugin for a database-independent dump format, data.yml.  This fork no longer maintained, please see:	Ruby	105	224	230	224
+arproxy	cookpad/arproxy	4173328	Arproxy is a proxy between ActiveRecord and database adapter	Ruby	31	223	11	223
+navvy	jeffkreeftmeijer/navvy	459366	Simple Ruby background job processor inspired by delayed_job, but aiming for database agnosticism.	Ruby	2290	223	23	223
+django-seed	Brobin/django-seed	34292854	:seedling: Seed your Django database with fake data	Python	2082	222	19	222
+rails-settings	Squeegy/rails-settings	9225	Settings is a plugin that makes managing a table of global key, value pairs easy. Think of it like a global Hash stored in your database, that uses simple ActiveRecord like methods for manipulation. Keep track of any global setting that you don't want to hard code into your rails app. You can store any kind of object. Strings, numbers, arrays, or any serializable object.	Ruby	302	222	21	222
+movie-database	tobiasflohre/movie-database	7329772		Java	499	221	147	221
+marsdb	c58/marsdb	44800771	MarsDB is a Promise based lightweight database with MongoDB query syntax, written on ES6	JavaScript	1381	221	8	221
+codequery	ruben2020/codequery	8200155	A code-understanding,  code-browsing or code-search tool. This is a tool to index, then query or search C, C++, Java, Python, Ruby, Go and Javascript source code. It builds upon the databases of cscope and ctags, and provides a nice GUI tool.	C++	2705	220	42	220
+tz	eggert/tz	5092588	Time zone database and code	C	11883	219	41	219
+dvol	ClusterHQ/dvol	38757484	Version control for your development databases in Docker.	Python	6688	219	14	219
+bamboo	daogangtang/bamboo	1392303	Bamboo is the web framework of Lua based on Mongrel2, ZeroMQ and NoSQL database.	Lua	5038	219	34	219
+DatabaseStack	unruledboy/DatabaseStack	40535326	database technology stack, including MS SQL Server, Azure etc.	JavaScript	15904	218	71	218
+khronus	Searchlight/khronus	24653898	A reactive time series database	Scala	1860	218	15	218
+Landlord	HipsterJazzbo/Landlord	49851417	A simple, single database multi-tenancy solution for Laravel 5.2+	PHP	146	218	38	218
+rails_db_info	vlado/rails_db_info	12083358	Rails engine which will give you a quick display of your database schema and contents for reference	Ruby	1035	218	10	218
+flywheel	jamesmoss/flywheel	15324419	A flat-file, serverless, document database for PHP that can store data in JSON, YAML or Markdown formats.	PHP	276	217	18	217
+hustle	tspurway/hustle	16971109	A column oriented, embarrassingly distributed relational event database.	Python	2910	216	30	216
+XLFacility	swisspol/XLFacility	25101513	Elegant and extensive logging facility for OS X & iOS (includes database, Telnet and HTTP servers)	Objective-C	312	216	13	216
+XLFacility	swisspol/XLFacility	25101513	Elegant and extensive logging facility for OS X & iOS (includes database, Telnet and HTTP servers)	Objective-C	312	216	13	216
+query-tracer	fitztrev/query-tracer	58338558	Find exactly where a specific database query is being called in your Laravel application.	PHP	10	216	5	216
+HYG-Database	astronexus/HYG-Database	2418590	Current version of the HYG Stellar database	null	76490	215	64	215
+hair_trigger	jenseng/hair_trigger	1509098	Happy database triggers for ActiveRecord	Ruby	159	215	26	215
+couchbase-lite-net	couchbase/couchbase-lite-net	13573524	A lightweight, document-oriented (NoSQL), syncable database engine for .NET	C#	99986	213	79	213
+sqlcrush	coffeeandscripts/sqlcrush	64726745	console based database editor	Python	1382	212	8	212
+mldb	mldbai/mldb	47634692	MLDB is the Machine Learning Database	C++	30161	209	17	209
+mybatis-paginator	miemiedev/mybatis-paginator	8517197	A Mybatis plugin, implementation of database paging and sorting.	Java	1081	209	163	209
+dock	bripkens/dock	22358932	Bootstrap databases, MOMs and other tools that you need for development purposes	Shell	173	208	38	208
+testcontainers-java	testcontainers/testcontainers-java	33816473	TestContainers is a Java 8 library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.	Java	3784	208	49	208
+DbExporter	nWidart/DbExporter	15585322	Export your database as a Laravel Migration. And export your DB data as a seed file. Finally sync all this with your remote server.	PHP	82	208	40	208
+concourse	cinchapi/concourse	13353426	Concourse is a self-tuning database for both ACID transactions and ad hoc analytics across time.	Java	38173	207	265	207
+Phonegap-SQLitePlugin	davibe/Phonegap-SQLitePlugin	1939825	A phonegap plugin to open and use sqlite databases on iOS.	JavaScript	1026	206	104	206
+magnetissimo	sergiotapia/magnetissimo	63957011	Web application that indexes all popular torrent sites, and saves it to the local database.	Elixir	554	205	15	205
+vulndb	Snyk/vulndb	47210099	Snyk's public vulnerability database	JavaScript	12117	204	16	204
+17monip	lxyu/17monip	17439026	IP search based on 17mon.cn, the best IP database for China.	Python	3364	204	72	204
+sqlite-manager	lazierthanthou/sqlite-manager	1281714	Manage all your sqlite databases using this lightweight extension for firefox, thunderbird, seamonkey, komodo etc.	JavaScript	1802	203	89	203
+sqlalchemy-migrate	openstack/sqlalchemy-migrate	11357259	Database schema migration for SQLAlchemy	Python	2185	201	36	201
+asterank	typpo/asterank	4144488	asteroid database, interactive visualizations, and discovery tools	HTML	144440	201	46	201
+kissdb	adamierymenko/kissdb	9623497	(Keep It) Simple Stupid Database	C	195	201	21	201
+neomodel	robinedwards/neomodel	5782449	An Object Graph Mapper (OGM) for the neo4j graph database	Python	1176	201	65	201
+Doradus	dell-oss/Doradus	19025251	Doradus is a REST service that extends a Cassandra NoSQL database with a graph-based data model, advanced indexing and search features, and a REST API. See also doradus-openshift-quickstart, which allows Doradus to run as an OpenShift cartridge!	Java	199257	201	22	201
+neo4j-scala	FaKod/neo4j-scala	1477149	Scala wrapper for Neo4j Graph Database	Scala	321	200	62	200
+levelmeup	workshopper/levelmeup	12338536	Level Me Up Scotty! An intro to Node.js databases via a set of self-guided workshops.	JavaScript	336	198	50	198
+arel-helpers	camertron/arel-helpers	18743772	Useful tools to help construct database queries with ActiveRecord and Arel.	Ruby	52	198	11	198
+crudkit	skyronic/crudkit	34007203	Toolkit to quickly build powerful mobile-friendly CRUD (create/read/update/delete) interfaces for PHP, Laravel, and Codeigniter apps. Works with MySQL and other databases.	PHP	2369	198	37	198
+python-geoip	mitsuhiko/python-geoip	17021261	GeoIP database access for Python under a BSD license.	Python	171	195	21	195
+mondrian-olap	rsim/mondrian-olap	1501083	JRuby gem for performing multidimensional queries of relational database data using Mondrian OLAP Java library	Ruby	60226	195	29	195
+LexikTranslationBundle	lexik/LexikTranslationBundle	2663796	This Symfony2 bundle allow to import translation files content into the database and provide a GUI to edit translations.	PHP	2139	194	125	194
+test_db	datacharmer/test_db	41632796	A sample MySQL database with an integrated test suite, used to test your applications and database servers	PLpgSQL	70588	193	122	193
+node-any-db	grncdr/node-any-db	5477862	Thin and less-opinionated database abstraction layer for node.	JavaScript	773	193	21	193
+nerd-stack	Xantier/nerd-stack	33295447	Hipsterer than MEAN stack. Node.js, Express, React and Database connectivity application skeleton	JavaScript	456	192	19	192
+RxCupboard	erickok/RxCupboard	33917951	Store and retrieve streams of POJOs from an Android database using RxJava and Cupboard	Java	113	192	14	192
+sones	sones/sones	743502	sones GraphDB - opensource graph database	C#	25924	191	43	191
+GeoIP2-java	maxmind/GeoIP2-java	9156682	Java API for GeoIP2 webservice client and database reader	Java	3207	191	79	191
+DatabaseManager_For_Android	sanathp/DatabaseManager_For_Android	21601481	Database Manager for your Android SQLlite database	Java	274	190	62	190
+nosql	petersirka/nosql	9274522	NoSQL embedded database for small node.js projects	JavaScript	258	190	29	190
+personfinder	google/personfinder	25369506	Person Finder is a searchable missing person database written in Python and hosted on App Engine.	Python	301018	190	85	190
+aiomysql	aio-libs/aiomysql	28932001	aiomysql is a library for accessing a MySQL database from the asyncio	Python	820	190	29	190
+GenFu	MisterJames/GenFu	7034320	GenFu is a library you can use to generate realistic test data. It is composed of several property fillers that can populate commonly named properties through reflection using an internal database of values or randomly created data. You can override any of the fillers, give GenFu hints on how to fill them.	C#	15237	188	43	188
+sinatra-sequel	rtomayko/sinatra-sequel	272367	Sinatra extension that adds Sequel ORM features, database config, and database migrations	Ruby	192	187	23	187
+wordpos	moos/wordpos	4208602	Part-of-speech utilities for node.js based on the WordNet database.	JavaScript	114	187	19	187
+Projector	bartsitek/Projector	6181985	A Bootstrap styled, Markdown powered, Server-side language agnostic, database-less project / mockup presentation engine.	JavaScript	825	187	22	187
+post_json	webnuts/post_json	13502193	A Fast and Flexible Document Database by Combining Features of Ruby and PostgreSQL with PLV8	Ruby	1261	187	6	187
+sqlitebiter	thombashi/sqlitebiter	58070676	sqlitebiter is a CLI tool to convert CSV/JSON/Excel/Google-Sheets to a SQLite database file	Python	76	187	11	187
+simbase	guokr/simbase	11627513	A vector similarity database	Java	13621	186	19	186
+flintstone	fire015/flintstone	1905132	A key/value database store using flat files for PHP.	PHP	150	186	24	186
+datavore	StanfordHCI/datavore	3702897	A small, fast, in-browser database engine written in JavaScript.	JavaScript	175	186	35	186
+ClosureTable	franzose/ClosureTable	8553481	Adjacency List’ed Closure Table database design pattern implementation for Laravel framework.	PHP	387	184	52	184
+database	chef-cookbooks/database	3720801	Development repository for Chef database cookbook	Ruby	742	183	302	183
+forgettable	bitly/forgettable	6497824	Various implementations of the forget table: a distributional database that forgets data	Go	408	183	21	183
+django-request	django-request/django-request	246591	django-request is a statistics module for django. It stores requests in a database for admins to see, it can also be used to get statistics on who is online etc.	JavaScript	565	183	82	183
+seamless_database_pool	bdurand/seamless_database_pool	505514	Add support for master/slave database clusters in ActiveRecord to improve performance.	Ruby	97	182	42	182
+data-migrate	ilyakatz/data-migrate	1633771	Migrate and update data alongside your database structure.	Ruby	161	182	50	182
+GeoNames-MySQL-DataImport	codigofuerte/GeoNames-MySQL-DataImport	4483049	Shell Script to download and import geonames.org dumps into a mysql database.	Shell	580	182	83	182
+crud	azer/crud	48868199	A minimalistic relational database library for Go, with simple and familiar interface.	Go	50	182	10	182
+SchemaCrawler	sualeh/SchemaCrawler	39285768	Free database schema discovery and comprehension tool	HTML	54580	181	31	181
+tenanti	orchestral/tenanti	17930693	[Package] Multi-tenant Database Schema Manager for Laravel	PHP	302	180	17	180
+py-lmdb	dw/py-lmdb	8014135	Universal Python binding for the LMDB 'Lightning' Database	C	2914	180	37	180
+logidze	palkan/logidze	56171308	Database changes log for Rails	Ruby	105	179	5	179
+pginsight	lafikl/pginsight	56163495	CLI tool to easily dig deep inside your Postgresql database. 	Go	66	179	3	179
+nilify_blanks	rubiety/nilify_blanks	43181	Provides a framework for saving incoming blank values as nil in the database in instances where you'd rather use DB NULL than simply a blank string.	Ruby	68	179	21	179
+redislite	seppo0010/redislite	1541278	Redislite is a software library that implements a self-contained, serverless, zero-configuration, redis-compatible database engine.	C	401	179	2	179
+dbf	infused/dbf	13966	DBF is a small fast Ruby library for reading dBase, xBase, Clipper and FoxPro database files	Ruby	1087	178	65	178
+django-live-profiler	InviteBox/django-live-profiler	7168607	A database access profiler for Django-based applications that can be ran in production	Python	724	178	41	178
+php-mongodb-admin	jwage/php-mongodb-admin	639310	A PHP MongoDB Admin script for managing databases, collections and documents from a standalone easy to use script.	PHP	88	178	53	178
+Westwind.Globalization	RickStrahl/Westwind.Globalization	10511995	Database driven resource localization for .NET applications	JavaScript	15801	177	61	177
+i18nGeoNamesDB	x88/i18nGeoNamesDB	15004593	The largest geonames database of counties, regions and cities with translations.	null	262228	177	39	177
+microrest.php	marmelab/microrest.php	28030704	A micro web application providing a REST API on top of any relational database, using Silex and Doctrine DBAL	PHP	734	177	21	177
+ueberDB	Pita/ueberDB	1718892	transforms every database into a object key value store, written in node.js	JavaScript	192	175	58	175
+hashtag-pull	jfrazelle/hashtag-pull	12069985	Get all twitter, vine, and instagram posts with a certain hashtag, print the feed, and save to a database for future use.	PHP	319	175	51	175
+wowarmory	Shadez/wowarmory	446468	The World of Warcraft Armory is a vast searchable database of information for World of Warcraft - taken straight from the real servers and presented in a user-friendly interface. Since the Armory pulls its data from the actual game servers, it is the most comprehensive and up-to-date database on the characters, arena teams, guilds, and items of World of Warcraft in existence.	PHP	91512	175	152	175
+angular-pouchdb	wspringer/angular-pouchdb	13034164	Angular wrapper for PouchDB, making sure that callbacks are called within $rootScope.$apply(), and using $q promises instead of callbacks. On top of that, it supports an `ng-repeat`-alike directive for traversing the contents of your database.	CoffeeScript	766	175	43	175
+emacs-edbi	kiwanami/emacs-edbi	3429553	Database Interface for Emacs Lisp	Emacs Lisp	79	174	22	174
+gomdb	szferi/gomdb	9030810	Go wrapper for LMDB - OpenLDAP Lightning Memory-Mapped Database	C	711	174	42	174
+nest	soveran/nest	597127	Generate nested namespaced keys for key-value databases.	Ruby	152	174	20	174
+sqlboiler	vattle/sqlboiler	52193726	SQLBoiler is a tool to generate a Go ORM tailored to your database schema.	Go	4468	174	7	174
+Overpass-API	drolbr/Overpass-API	3551227	A database engine to query the OpenStreetMap data.	C++	10450	173	36	173
+blog	snehesht/blog	64437625	Minimalist database less blog engine	CSS	32	172	7	172
+sql-to-graphql	rexxars/sql-to-graphql	38931994	Generate a GraphQL API based on your SQL database structure	JavaScript	444	172	11	172
+degdb	degdb/degdb	41946572	degdb: distributed economic graph database	Go	24272	171	12	171
+GeoIP2-python	maxmind/GeoIP2-python	9299325	Python code for GeoIP2 webservice client and database reader	Python	322	171	38	171
+bible_databases	scrollmapper/bible_databases	15763036	Bible versions and cross-reference databases.	PHP	81077	170	64	170
+fleetdb	mmcgrana/fleetdb	351190	A schema-free database implemented in Clojure	Clojure	409	170	15	170
+chive	fusonic/chive	9472848	Chive is a free, open source, web-based database management tool, designed to bring joy to web developers - with easy administration and super fast UI.	PHP	9053	170	50	170
+Alchemy-Database	JakSprats/Alchemy-Database	858418	Hybrid Relational-Database/NOSQL-Datastore	C	6376	169	27	169
+yessql	sebastienros/yessql	3292397	A .NET document database working on any RDBMS	C#	2303	169	27	169
+django-inplaceedit	django-inplaceedit/django-inplaceedit	5353739	Django application that allows you to inline edition of some data from the database.	Python	1630	169	46	169
+query	boydgreenfield/query	19416313	Interactive SQL database exploration in Python	Python	2112	169	0	169
+ADOdb	ADOdb/ADOdb	11987721	ADOdb is a PHP database class library that provides powerful abstractions for performing queries and managing databases. ADOdb also hides the differences between DB engines so you can easily switch them without changing your code.	PHP	6367	168	100	168
+node-persistence	creationix/node-persistence	409777	A high level persistance/database system for node.js	JavaScript	170	167	7	167
+wp-migrate-db	deliciousbrains/wp-migrate-db	2445487	WordPress plugin that exports your database, does a find and replace on URLs and file paths, then allows you to save it to your computer.	JavaScript	808	167	220	167
+neo4jr-social	mdeiters/neo4jr-social	447399	Neo4jr-Social is a self contained HTTP REST + JSON interface to the graph database Neo4j. Neo4jr-Social supports simple dynamic node creation, building relationships between nodes and also includes a few common social networking queries out of the box (i.e. linkedin degrees of seperation and facebook friend suggestion) with more to come. Think of Neo4jr-Social is to Neo4j like Solr is to Lucene.	Ruby	43331	167	17	167
+database	kohana/database	262827	A Kohana module for database interactions, building queries, and prepared statements	PHP	880	166	134	166
+fluentcassandra	fluentcassandra/fluentcassandra	604273	A fluent .NET client for the Cassandra distributed database.	C#	12365	166	64	166
+regressor	ndea/regressor	30914971	Generate specs for your rails application the easy way. Regressor generates model and controller specs based on validations, associations, enums, database, routes, callbacks. Use regressor to capture your rails application behaviour. 	Ruby	170	166	19	166
+react-example-filmdb	tomaash/react-example-filmdb	35116562	Isomorphic React + Flux film database example	JavaScript	726	165	34	165
+node-hdb	SAP/node-hdb	13872852	SAP HANA Database Client for Node	JavaScript	1357	165	43	165
+oj	taylorlapeyre/oj	26022136	:tropical_drink: A Clojure library for talking to your database.	Clojure	531	165	10	165
+CoreFMDB	CharlinFeng/CoreFMDB	32973765	One Key Database Operations	Objective-C	773	164	37	164
+whatsapp-viewer	andreas-mausch/whatsapp-viewer	18067526	Small tool to display chats from the Android msgstore.db.crypt5, .crypt7 and .crypt8 database	C	3387	164	96	164
+jam-py	jam-py/jam-py	27813428	Jam.py “all in the browser” framework is the fastest way to create a web database application 	JavaScript	12015	164	18	164
+node-db-mysql	mariano/node-db-mysql	1507091	MySQL database bindings for Node.js	C++	301	163	35	163
+silex-simpleuser	jasongrimes/silex-simpleuser	9430041	A simple, extensible, database-backed user provider for the Silex security service.	PHP	1503	163	92	163
+go-cdb	jbarham/go-cdb	3914539	Pure Go implementation of D. J. Bernstein's cdb constant database library.	Go	113	163	10	163
+inoERP	inoerp/inoERP	16373462	inoERP is a PHP-based open source enterprise management system that can be used with several databases - such as Oracle 12c, MariaDB, MySQL. The ERP system contains all the functionalities required for running any manufacturing, service or distribution organization. The features are very similar to Oracle R12/ Fusion Application and SAP. It also contains a lightweight CMS, which seamlessly integrates with the ERP system	PHP	73721	163	258	163
+neoclipse	neo4j-contrib/neoclipse	1425741	Graph Database Tool	Java	143673	162	128	162
+d2rq	d2rq/d2rq	1049458	Database to RDF mapping engine and SPARQL server	Java	92879	162	81	162
+django-dbtemplates	jazzband/django-dbtemplates	378788	Django template loader for database stored templates with extensible cache backend	JavaScript	1010	162	98	162
+xodus	JetBrains/xodus	19271154	JetBrains Xodus is a Java transactional schema-less embedded database used by JetBrains YouTrack and JetBrains Hub.	Java	4391	162	23	162
+yunodb	blahah/yunodb	56769833	A portable, persistent, electron-embeddable fulltext search + document store database for node.js	JavaScript	1056	162	7	162
+unqlite-python	coleifer/unqlite-python	21070036	Python bindings for the UnQLite embedded NoSQL database	C	1302	161	13	161
+schema-evolution-manager	mbryzek/schema-evolution-manager	8910993	Schema Evolution Manager makes it very simple for engineers to contribute schema changes to a postgresql database, managing the schema evolutions as proper source code. Schema changes are deployed as gzipped tarballs named with the corresponding git tag.	Ruby	209	161	28	161
+themoviedb	ahmetabdi/themoviedb	9413655	:tophat: A Ruby wrapper for the The Movie Database API.	Ruby	555	160	59	160
+GwtMobile	dennisjzh/GwtMobile	834710	GWT Mobile is a cross-platform mobile development tool using Google Web Toolkit technology. It provides a set of UI widgets optimized for mobile devices, a ORM module to persist objects to the browser database, and a wrapper to access PhoneGap functions from GWT.	Java	553	160	41	160
+FromMySqlToPostgreSql	AnatolyUss/FromMySqlToPostgreSql	39957936	"FromMySqlToPostgreSql" - the database migration tool.	PHP	211	158	36	158
+phpminiadmin	osalabs/phpminiadmin	2644359	extremely lightweight alternative to heavy phpMyAdmin for quick and easy access MySQL databases	PHP	198	158	47	158
+go-oci8	mattn/go-oci8	3581394	oracle driver for go that using database/sql	Go	236	157	102	157
+SQLiteUnityKit	Busta117/SQLiteUnityKit	8915368	Framework to connect with a SQLite database from Unity for iOS, Android, MAC , Windows	C#	400	156	52	156
+Pincaster	jedisct1/Pincaster	652189	A fast persistent nosql database with a HTTP/JSON interface, not only for geographical data.	C	1940	156	17	156
+EasyFlash	armink/EasyFlash	29770287	Lightweight embedded flash memory library. Make flash to be a small KV database. | 嵌入式 Flash 存储器库，让 Flash 成为小型 KV 数据库	C	6218	156	94	156
+objective-c-sql-query-builder	ziminji/objective-c-sql-query-builder	1502474	An easy-to-use lightweight SQLite 3 library written in Objective-C for Mac OS and iOS 4+ that will build SQL statements and manage database connections, plus an active record based ORM.	Objective-C	3908	156	35	156
+wikipedia-extractor	bwbaugh/wikipedia-extractor	9159288	This is a mirror of the script by Giuseppe Attardi, and contains history before the official repo started: https://github.com/attardi/wikiextractor --- Extracts and cleans text from Wikipedia database dump and stores output in a number of files of similar size in a given directory.	Python	123	155	77	155
+SyncDB	jplew/SyncDB	12014588	Bash script meant to take the tedium out of deploying and updating database-driven (eg Wordpress) websites. It rapidly synchronizes local and remote versions of a MySQL database, performs the necessary search and replace queries, then synchronizes all your uploads/binaries.	Shell	353	154	27	154
+fwtr	farjump/fwtr	51226688	Open Database of Firmware Test Results	HTML	3844	153	12	153
+mysql-country-list	raramuridesign/mysql-country-list	3365744	mysql insert country list into database	null	57	152	195	152
+queries	gmr/queries	5542710	PostgreSQL database access simplified	Python	207	152	13	152
+moist	farcepest/moist	5709465	Python database adaptor for MySQL, MariaDB, Drizzle, and other watery databases	Python	750	152	20	152
+tutor	davidchambers/tutor	3883664	JavaScript interface for the Gatherer card database	CoffeeScript	769	152	22	152
+SDL_GameControllerDB	gabomdq/SDL_GameControllerDB	14757191	A community sourced database of game controller mappings to be used with SDL2 Game Controller functionality	Python	138	152	75	152
+grape-goliath-example	djones/grape-goliath-example	4301677	A non-blocking REST API example application using Grape and Goliath together with a Postgres database.	Ruby	227	152	37	152
+SQLProvider	fsprojects/SQLProvider	15056715	A general F# SQL database erasing type provider, supporting LINQ queries, schema exploration, individuals, CRUD operations and much more besides.	F#	20562	152	75	152
+pydal	web2py/pydal	27609645	A pure Python Database Abstraction Layer	Python	34182	151	49	151
+sphia	sphia/sphia	13511288	Command utility for operations on a sophia database	C	1308	151	11	151
+django-db-utils	disqus/django-db-utils	1456223	Utilities for your Django Database	Python	255	150	18	150
+inquiry	afollestad/inquiry	40273585	Inquiry is a simple library for Android that makes construction and use of SQLite databases super easy.	Java	245	148	23	148
+good-migrations	testdouble/good-migrations	50945208	Prevent Rails from auto-loading app/ code when running database migrations	Ruby	112	147	6	147
+libc-database	niklasb/libc-database	32354352	Build a database of libc offsets to simplify exploitation	Shell	1194	146	28	146
+ofexport	psidnell/ofexport	8112073	An OmniFocus database export tool	Python	2757	146	23	146
+rubyrep	rubyrep/rubyrep	145743	Open-source solution for asynchronous, master-master replication of relational databases	Ruby	1769	146	62	146
+PGObserver	zalando/PGObserver	6429662	A battle-tested, flexible & comprehensive monitoring solution for your PostgreSQL databases	Python	5088	146	37	146
+DbDat	foospidy/DbDat	48084850	Db Database Assessment Tool	Python	331	144	17	144
+node-db-oracle	mariano/node-db-oracle	1843087	Oracle database bindings for Node.js	C++	177	144	37	144
+exist	eXist-db/exist	11695619	eXist Native XML Database and Application Platform	Java	565390	143	85	143
+Schemaverse	Abstrct/Schemaverse	502363	The Schemaverse is a space-based strategy game implemented entirely within a PostgreSQL database.  Compete against other players using raw SQL commands to command your fleet. Or, if your  PL/pgSQL-foo is strong, wield it to write AI and have your fleet command itself!	PLpgSQL	448	143	17	143
+B2CWeb	mission008/B2CWeb	23569113	仿淘宝的B2C商城项目 一、项目介绍：本项目使用SSH框架和MySQL数据库。实现Spring对Hibernate和Struts的整合。目前实现功能：（1）前台功能：用户注册、商品展示、购物车功能(商品进行添加、删除、修改、查看操作)，订单提交。（2）后台功能：商品增删改查和订单管理。（3）商品搜索（搜索内容进行分词，提取关键字，模糊查询）。（4）QQ在线咨询功能。本项目基本实现完整的B2C网站的功能。二、项目部署：本项目使用Eclipse_EE + Tomcat7.0+ MySql5.6的开发环境。1、安装 Eclipse_EE、Tomcat、MySql软件。2、MySql数据库中创建shop数据库。(1)CREATE DATABASE shop    CHARACTER SET utf8  DEFAULT CHARACTER SET utf8  COLLATE utf8_general_ci  DEFAULT COLLATE utf8_general_ci ; (2）本项目中sql/shop.sql,执行shop.sql，SQL语句创建各种表单，和默认管理员用户 ，默认普通用户。管理员用户名：admin,密码：123.普通用户的用户名：throne212,密码 123.  3、本网站源码导入Eclipse中，网站就可以运行。 ../Shop/manager/index.jsp为后台管理界面。三、任何问题 给我发邮件：nietaooldman@126.com。 	Java	28608	143	178	143
+mime-db	jshttp/mime-db	22970419	Media Type Database	JavaScript	1101	142	35	142
+imdbpy	alberanid/imdbpy	810850	IMDbPY is a Python package useful to retrieve and manage the data of the IMDb movie database about movies, people, characters and companies. This is a git clone of the official Mercurial repository.	Python	4572	142	72	142
+meteor-any-db	ccorcos/meteor-any-db	37885258	A database API for Meteor	CoffeeScript	468	141	12	141
+barrel-platform	barrel-db/barrel-platform	38247893	Distributed database for the modern world	JavaScript	4101	141	11	141
+aida	yago-naga/aida	7019327	AIDA Named Entity Disambiguation by the Databases and Information Systems Group at the Max Planck Institute for Informatics.	Java	277269	141	41	141
+peloton	cmu-db/peloton	28202609	The Self-Driving Database Management System	C++	80849	140	100	140
+api	php-tmdb/api	14060127	PHP 5.4+ API Wrapper for The Movie Database	PHP	2537	140	39	140
+couchdb-dump	danielebailo/couchdb-dump	10663973	Bash command line scripts to dump &restore a couchdb database	Shell	107	140	51	140
+django-db-mailer	LPgenerator/django-db-mailer	21764302	Django module to easily send emails/sms/tts/push using django templates stored on database and managed through the Django Admin	Python	3433	139	32	139
+herodb	vczh/herodb	24365114	Database engine which is either RDBMS or GraphDB	C++	458	138	69	138
+phactory	chriskite/phactory	740183	A Database Factory for PHP Unit Tests	PHP	346	138	37	138
+rein	nullobject/rein	867718	Database constraints made easy for ActiveRecord.	Ruby	210	138	13	138
+NyaruDB	kelp404/NyaruDB	6418462	A simple NoSQL database(key-value pair) in Objective-C. It runs on iOS and OS X.	Objective-C	1072	138	19	138
+conformity	rkneufeld/conformity	6412113	A Clojure/Datomic library for idempotently transacting norms into your database – be they schema, data, or otherwise	Clojure	55	137	19	137
+TOMSSuggestionBar	tomknig/TOMSSuggestionBar	20944545	A keyboard accessory that presents suggestions. Suggestions are displayed as morphing labels and fetched from a custom database.	Objective-C	2636	137	6	137
+hank	LiveRamp/hank	1328283	Hank is a high performance distributed key-value NoSQL database that we built and use at LiveRamp. It is designed for very large data stores that dwarf the amount of available main memory and for randomly distributed read/write workloads that far exceed the capacity of memory-based caches. More specifically, it is optimized for very low latency random read queries and for very high throughput incremental batch writes.	Java	36737	137	49	137
+sparrow	mikecao/sparrow	1602856	A simple database toolkit for PHP	PHP	71	136	38	136
+xtuple	xtuple/xtuple	8138568	This repository contains the source code for both the Mobile Web app core and the database schema for the PostBooks edition of xTuple ERP. The Mobile Web app core is written in JavaScript, using the Enyo framework for the client side and Node.js for the datasource layer. The database schema for PostBooks runs on PostgreSQL.	SQLPL	97284	136	274	136
+dhufufu	jabbany/dhufufu	6528557	Dhufufu~ API Database for ACG sites & Related Services 有关各种ACG网站的API啦神马的	JavaScript	242	136	15	136
+AvanceDB	RipcordSoftware/AvanceDB	31063197	An in-memory database based on the CouchDB REST API and containing the CouchDB Futon and Fauxton web sites	C++	611	136	9	136
+Arrest-MySQL	gilbitron/Arrest-MySQL	7915345	A "plug-n-play" RESTful API for your MySQL database.	PHP	247	135	161	135
+multi_db	schoefmann/multi_db	29700	Connection proxy for ActiveRecord for single master / multiple slave database deployments	Ruby	511	135	59	135
+PrestaSitemapBundle	prestaconcept/PrestaSitemapBundle	4870630	A symfony 2 bundle that provides tools to build a rich application sitemap. The main goals are : simple, no databases, various namespace (eg. google image), respect constraints etc.	PHP	408	135	61	135
+qtranslate-x	qTranslate-Team/qtranslate-x	28893470	Wordpress plugin: Adds user-friendly and database-friendly multilingual content management and translation support.	PHP	15226	134	99	134
+CloudBackupBundle	dizda/CloudBackupBundle	7511765	Be able to backup your database(s) and upload it to the cloud (Dropbox, Amazon S3, GoogleDrive, etc.)	PHP	410	134	39	134
+redis-v8	h0x91b/redis-v8	8633634	Redis Not Only SQL Database (NoSQL) with built in google V8 JS engine.	C++	30690	134	11	134
+odat	quentinhardy/odat	17286113	ODAT: Oracle Database Attacking Tool	Python	274279	133	56	133
+redis_graph	Doist/redis_graph	1127718	Python graph database implemented on top of Redis	Python	170	133	8	133
+binexport	google/binexport	41831522	An IDA Pro plugin for exporting disassemblies into BinNavi databases and to Protocol Buffers	C++	23674	129	36	129
+jiraph	ninjudd/jiraph	467897	A graph database with pluggable backends, written in Clojure.	Clojure	3462	129	12	129
+related	sutajio/related	2358263	Related is a Redis-backed high performance distributed graph database.	Ruby	87	129	11	129
+sqlautoreview	taobao/sqlautoreview	3492183	automatic review database dml sql(select,insert,update,delete),build create index script for every SQL statment,and merge all create index script with exist indexes on these tables.	Java	3669	129	78	129
+wp-cli-deploy	c10b10/wp-cli-deploy	16815633	A WP-Cli command that allows you to deploy the local database or uploads directory to a remote server using ssh.	PHP	122	129	15	129
+node-dbmon	straps/node-dbmon	2643169	Node.js Database Real-Time Monitoring Library	JavaScript	229	128	14	128
+SQLiteCodeFirst	msallin/SQLiteCodeFirst	32691474	Creates a SQLite Database based on a EdmModel by using Entity Framework CodeFirst.	C#	958	128	48	128
+gulp-data	colynb/gulp-data	20936365	Generate a data object from a variety of sources: json, front-matter, database, anything... and set it to the file object for other plugins to consume.	JavaScript	32	128	9	128
+openbeerdatabase	openbeerdatabase/openbeerdatabase	1115475	A free, public database and API for beer information.	Ruby	566	127	38	127
+pg_rewind	vmware/pg_rewind	10241618	Tool for resynchronizing a Postgres database after failover	null	310	127	18	127
+django-datatrans	vikingco/django-datatrans	352501	Translate Django models without changing anything to existing applications and their underlying database.	Python	207	127	23	127
+hillary-clinton-emails	benhamner/hillary-clinton-emails	42140439	Code to transform Hillary's emails from raw PDF documents to a SQLite database	Python	6913	126	48	126
+neo4j-js	bretcope/neo4j-js	8848733	A Node.js (pure JavaScript) client library for accessing neo4j databases with batch support.	JavaScript	86	126	25	126
+mariaex	xerions/mariaex	27739217	Pure elixir database driver for Mariadb / Mysql	Elixir	284	125	39	125
+simple-db-migrate	guilhermechapiewski/simple-db-migrate	128436	simple-db-migrate is a generic database migration tool inpired on Rails migrations.	Python	1443	125	41	125
+database-backup	ShawnMcCool/database-backup	13121972	A database backup package.	PHP	506	124	9	124
+i18n_backend_database	dylanz/i18n_backend_database	118360	Database Backend for Rails I18n	Ruby	750	124	32	124
+scale7-pelops	s7/scale7-pelops	842031	A Java library for accessing the Cassandra database	Java	3180	124	30	124
+tccutil	jacobsalmela/tccutil	21802125	♿️  Command line tool to modify OS X's accessibility database (TCC.db)	Python	29	124	20	124
+orbit-db	haadcode/orbit-db	48617634	Distributed peer-to-peer database on IPFS	JavaScript	3794	124	9	124
+ora2pg	darold/ora2pg	3695863	Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automaticaly and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.	Perl	6593	123	62	123
+ruby-wordnet	ged/ruby-wordnet	1002356	A Ruby interface to the  WordNet® Lexical Database.	Ruby	1019	122	28	122
+blur	altamiracorp/blur	1443269	Blur is an open source search engine capable of querying massive amounts of data at incredible speeds. Rather than using the flat, document-like data model used by most search solutions, Blur allows you to build rich data models and search them in a relational manner similar to querying a relational database.	Java	30862	122	16	122
+vertica-python	uber/vertica-python	11957229	vertica-python is a native Python adapter for the Vertica (http://www.vertica.com) database.	Python	253	121	70	121
+codechecker	Ericsson/codechecker	37459110	CodeChecker is a defect database and viewer extension for Clang Static Analyzer	Python	3888	121	17	121
+GreenDaoUpgradeHelper	yuweiguocn/GreenDaoUpgradeHelper	48980977	To solve database upgrade of greenDao and just need one line code	Java	133	121	17	121
+Kenshin	douban/Kenshin	56772692	Kenshin: A time-series database alternative to Graphite Whisper with 40x improvement in IOPS	Python	5013	120	9	120
+django-watchman	mwarkentin/django-watchman	16655352	django-watchman exposes a status endpoint for your backing services like databases, caches, etc.	Python	183	119	18	119
+anyToJSON	lastlegion/anyToJSON	33882604	Converts any data repository to JSON(or atleast strives to! :D). Currently converts flat-file JSON, flat-file CSV, REST JSON, REST CSV and Databases(via ODBC) to JSON.	JavaScript	21	119	11	119
+keepass.io	SnapServ/keepass.io	8508654	Node.js library for reading and writing KeePass databases	JavaScript	162	117	20	117
+hubdb	mapbox/hubdb	30395470	a github-powered database	JavaScript	25	117	4	117
+lock_and_cache	seamusabshere/lock_and_cache	27894703	Most caching libraries don't do locking, meaning that >1 process can be calculating a cached value at the same time. Since you presumably cache things because they cost CPU, database reads, or money, doesn't it make sense to lock while caching?	Ruby	70	117	4	117
+lanmap2	rflynn/lanmap2	152074	builds database/visualizations of LAN structure from passively sifted information	C	7582	116	27	116
+helenos	tomekkup/helenos	4980749	Helenos is a free web based environment that simplifies a data exploring & schema managament with Apache Cassandra database.	JavaScript	2171	116	32	116
+Shell-Detector	emposha/Shell-Detector	2285310	Shell Detector – is a application that helps you find and identify php/cgi(perl)/asp/aspx shells. Shell Detector has a “web shells” signature database that helps to identify “web shell” up to 99%.	Python	152	116	66	116
+sql4pandas	keeganmccallum/sql4pandas	20035546	Efficient SQL bindings for the pandas data analysis library implemented entirely in python. Compile and execute sql queries directly on pandas data frames without copying to an external database.	Python	427	116	4	116
+VCDB	vz-risk/VCDB	12255062	VERIS Community Database	null	59126	115	54	115
+jsql-injection	ron190/jsql-injection	5099917	jSQL Injection is a Java application for automatic SQL database injection.	Java	5623	115	50	115
+meteor-peerdb	peerlibrary/meteor-peerdb	13539049	Reactive database layer with references, generators, triggers, migrations, etc.	CoffeeScript	532	115	12	115
+database	blazegraph/database	48451041	Blazegraph High Performance Graph Database	Java	224114	114	19	114
+tenacity	jwood/tenacity	1122096	A database client independent way of managing relationships between models backed by different databases.	Ruby	928	114	20	114
+TinyIB	tslocum/TinyIB	312180	Lightweight PHP image board with MySQL, SQLite, or flat file database support	PHP	539	114	34	114
+django-modelcluster	torchbox/django-modelcluster	16381139	Django extension to allow working with 'clusters' of models as a single unit, independently of the database	Python	244	114	23	114
+locallydb	btwael/locallydb	23082546	An easy-to-use and lightweight local storage database for node.js and node-webkit	CoffeeScript	62	114	11	114
+redis-sharding	kni/redis-sharding	1192796	Redis Sharding is a multiplexed proxy-server, designed to work with the database divided to several servers.
+It's a temporary substitution of Redis Cluster that is under development. 	Perl	151	114	20	114
+pokelyzer	Brideau/pokelyzer	64246967	A webhook listener and database schema for doing geospatial analysis and advanced analytics on Pokemon Go data.	Jupyter Notebook	422	113	26	113
+django-health-check	KristianOellegaard/django-health-check	2238739	a pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc.	Python	8951	113	55	113
+PyMunin	aouyar/PyMunin	1877076	Python Module for developing Munin Multigraph Monitoring Plugins. Multigraph Plugins for Apache Web Server, Apache Tomcat, APC PHP Cache, PHP FPM (Fast Process Manager), Asterisk, FreeSWITCH, Lighttpd, Memcached, MySQL Database, Nginx, NTP, PostgreSQL Database, CPU Utilization, Memory Utilization, Disk Usage, Disk I/O, Network Interfaces, Network Connections, Processes and Threads, etc.	Python	1032	113	38	113
+ript	bulletproofnetworks/ript	5778928	Ript provides a clean Ruby DSL for describing firewall rules, and implements database migrations-like functionality for applying the rules	Ruby	409	113	9	113
+AQI	feelinglucky/AQI	7661602	Air Quality Index (AQI)  history database for mainland China	PHP	202	112	30	112
+osm-p2p-db	digidem/osm-p2p-db	48526678	Peer-to-peer database for OpenStreetMap data	JavaScript	110	112	7	112
+forklift	taskrabbit/forklift	9310726	Forklift: Moving big databases around. A ruby ETL tool.	Ruby	1460	112	8	112
+dhtcrawler2	kevinlynx/dhtcrawler2	11097354	dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent by a keyword	Shell	3476	112	62	112
+pnp4nagios	lingej/pnp4nagios	560578	PNP is an addon to Nagios which analyzes performance data provided by plugins and stores them automatically into RRD-databases.	PHP	6889	111	68	111
+mysql-workbench	mysql/mysql-workbench	44747797	MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more.	C++	45339	111	39	111
+lmfdb	LMFDB/lmfdb	7166369	L-Functions and Modular Forms Database	Python	19534	110	86	110
+adbcj	mheath/adbcj	13899	Asynchronous Database Connectivity in Java	Java	1577	110	26	110
+unit-record	dan-manges/unit-record	12962	Enables testing ActiveRecord classes without hitting the database.	Ruby	324	110	6	110
+DByte	Xeoncross/DByte	3959419	A full PHP MySQL, PostgreSQL, SQLite database layer in only 1024 bytes!	PHP	127	110	13	110
+freemail	willwhite/freemail	30447249	A database of free and disposable email domains and a handy Node.js module for querying it.	JavaScript	124	110	44	110
+leveldb-handbook	substack/leveldb-handbook	26302820	how to modularly database with leveldb	null	90	110	2	110
+soundfingerprinting	AddictedCS/soundfingerprinting	2796453	The project aims studying the audio signal in terms of its perceptual characteristics, resulting in an algorithm that will be able to detect (map) unknown audio snippets from a large database of known songs. 	C#	50267	110	61	110
+AndroidDatabaseLibraryComparison	Raizlabs/AndroidDatabaseLibraryComparison	30545815		Java	1152	109	35	109
+percona-xtrabackup	percona/percona-xtrabackup	30753970	Open source hot backup tool for InnoDB and XtraDB databases	C++	510199	109	62	109
+tracker-enabled-dbcontext	bilal-fazlani/tracker-enabled-dbcontext	14826066	Tracker-enabled DbContext offers you to implement full auditing in your database	C#	55249	109	74	109
+git-jira-hook	joyjit/git-jira-hook	309083	Scripts to make Jira (bug database) and git (source control) work together	null	90	109	66	109
+kvs	synrc/kvs	10357960	 💾 Abstract Term Database for Transaction Logs	Erlang	599	109	21	109
+node-leveldb	creationix/node-leveldb	1769132	NodeJS bindings to levelDB - a fast and lightweight key/value database library	C++	3866	109	34	109
+BadCode	pwnsdx/BadCode	63308904	BadCode is a signatures database for static source code scanner that identify bad security practices.	null	705	109	20	109
+action_cost	plerohellec/action_cost	8788331	ActionCost measures the performance of a Rails 3 app controller actions in terms of number of calls to the database and to RecordCache.	Ruby	190	109	8	109
+activerecord-futures	leoasis/activerecord-futures	9312180	Specify queries to be sent all at once to the database. Save round trips!	Ruby	359	109	4	109
+djangocore-box	jphalip/djangocore-box	5484841	A virtual machine for running the Django core test suite with every supported version of Python, every supported database backend and other dependencies.	Ruby	627	109	13	109
+patio	C2FO/patio	3318698	Idiomatic database toolkit	JavaScript	8690	108	19	108
+heroku-pg-transfer	ddollar/heroku-pg-transfer	4409960	Transfer Heroku Postgres databases	Ruby	10	108	21	108
+try.redis	alexmchale/try.redis	630206	A demonstration of the Redis database.	JavaScript	104	108	82	108
+log4mongo-net	log4mongo/log4mongo-net	707623	log4net appender to MongoDB database.	C#	9802	108	58	108
+kohana-modules	ahutchings/kohana-modules	1050274	The kohana-modules.com module "database". 	null	537	108	92	108
+pg_monz	pg-monz/pg_monz	13767639	This is the Zabbix monitoring template for PostgreSQL Database.	Shell	2464	108	47	108
+node-api-examples	caio-ribeiro-pereira/node-api-examples	62854182	A set of Node Tasklist APIs which explores some databases and web frameworks.	JavaScript	74	108	19	108
+ozzo-dbx	go-ozzo/ozzo-dbx	47791533	A Go (golang) package that enhances the standard database/sql package by providing powerful data retrieval methods as well as DB-agnostic query building capabilities.	Go	152	108	11	108
+wordpress-backup-to-dropbox	michaeldewildt/wordpress-backup-to-dropbox	2453391	A plugin for WordPress that automatically uploads your blogs files and a SQL dump of its database to Dropbox. Giving you piece of mind that your entire blog including its precious posts, images and metadata regularly backed up.	PHP	2735	108	15	108
+node-database-cleaner	emerleite/node-database-cleaner	1345124	The simplest way to clean your database after tests	JavaScript	96	107	35	107
+node-pg-migrate	theoephraim/node-pg-migrate	17729096	Node.js database migration management for Postgresql	JavaScript	68	107	37	107
+NanoStoreInMotion	siuying/NanoStoreInMotion	4246250	RubyMotion wrapper for NanoStore, a lightweight schema-less key-value document database based on sqlite.	Ruby	906	107	30	107
+authie	adamcooke/authie	25126408	Improve user session security in Ruby on Rails applications with database session storage	Ruby	53	107	9	107
+Seal-Report	ariacom/Seal-Report	40549369	Open Database Reporting Tool (.Net)	C#	7965	106	56	106
+compalex	dlevsha/compalex	41806188	Lightweight script to compare two database	PHP	62	106	14	106
+localmemcache	sck/localmemcache	140095	mmap -> lmc_valloc -> hashtable. BAM database	C	543	106	11	106
+EDB	RoxasShadow/EDB	37825683	A framework to make and manage backups of your database	Ruby	395	106	3	106
+freeslick	smootoo/freeslick	29745023	Open source Slick drivers for commercial databases. Includes MS SQLServer, Oracle 11g and DB2.	Scala	155	106	11	106
+sqlectron-term	sqlectron/sqlectron-term	42591132	A simple and lightweight SQL client terminal-based interface with cross database and platform support	JavaScript	110	106	8	106
+pg2go	frou/pg2go	48821422	PostgreSQL script that generates Go struct definitions for all tables in a database	PLpgSQL	12	106	3	106
+MaxMind-DB-Reader-php	maxmind/MaxMind-DB-Reader-php	11353845	PHP Reader for the MaxMind DB Database Format	PHP	250	105	27	105
+DbSetup	Ninja-Squad/DbSetup	4260851	An API for populating a database in unit tests	Java	1379	105	25	105
+django-colorful	charettes/django-colorful	1236911	Extension to the Django web framework that provides database and form color fields	Python	76	105	49	105
+kohana-orm-leap	spadefoot/kohana-orm-leap	2662811	An ORM module for the Kohana PHP framework that is designed to work with all major databases.	PHP	4779	105	26	105
+NULevelDB	pressly/NULevelDB	2149356	Objective-C interface to Google's LevelDB key/value embedded database	Objective-C	930	105	13	105
+oracle-12c	wscherphof/oracle-12c	23885344	Docker image with Oracle database server on Oracle Linux. Formerly known as https://registry.hub.docker.com/u/wscherphof/oracle-12c/	Shell	26	105	77	105
+hashids.net	ullmark/hashids.net	6223498	A small .NET package to generate YouTube-like hashes from one or many numbers. Use hashids when you do not want to expose your database ids to the user.	C#	845	105	24	105
+kotlin-nosql	cheptsov/kotlin-nosql	11309008	NoSQL database query and access library for Kotlin	Kotlin	4278	104	50	104
+awesome-db-benchmarks	benstopford/awesome-db-benchmarks	30710572	Community driven list of database benchmarks	null	224	104	4	104
+python-stdnet	lsbardel/python-stdnet	1016276	Object-data mapper and advanced query manager for non relational databases	Python	9422	104	16	104
+configurable_engine	paulca/configurable_engine	1237273	A Rails gem for storing app configuration data in your database, with a config file to fall back on.	Ruby	593	104	24	104
+yawndb	selectel/yawndb	17132258	YAWNDB is an in-memory circular array database written in Erlang.	Erlang	56	104	7	104
+ontop	ontop/ontop	11579275	-ontop- is a platform to query databases as Virtual RDF Graphs using SPARQL. It's extremely fast and is packed with features.	Web Ontology Language	275280	104	54	104
+littleblackbox	devttys0/littleblackbox	17046378	Database of private SSL/SSH keys for embedded devices	C	10220	103	29	103
+RavenOverflow	PureKrome/RavenOverflow	2409828	StackOverflow rip with a RavenDb database store	C#	48073	103	36	103
+db_explorer	robinbortlik/db_explorer	4074481	Simple ruby on rails application, which help you explore your local databases. Similar like phpMyAdmin or Adminer. 	Ruby	266	103	30	103
+anorm	playframework/anorm	27571675	The Anorm database library	Scala	805	102	41	102
+spring-boot-rest-example	khoubyari/spring-boot-rest-example	24827348	REST APIs implemented using Spring Boot, in-memory database, embedded Tomcat, Swagger, JsonPath, Hamcrest and MockMVC	Java	22	102	76	102
+master_slave_adapter	mauricio/master_slave_adapter	223986	An ActiveRecord database adapter that allows you to setup a "master/slave" environment	Ruby	99	102	19	102
+SimpleFlatMapper	arnaudroger/SimpleFlatMapper	21910770	Fast and Easy mapping from database and csv to POJO. A java micro ORM, lightweight alternative to iBatis and Hibernate. Fast Csv Parser and Csv Mapper	Java	17802	102	18	102
+TraktRater	damienhaynes/TraktRater	4143016	TraktRater is a tool written in C# to help users transfer user episode, show and movies ratings from multiple media database sites around the web.	C#	668	102	13	102
+dbfit	dbfit/dbfit	7283919	DbFit is a database testing framework that supports easy test-driven development of your database code.	Java	8681	101	58	101
+nashvegas	paltman-archive/nashvegas	133893	Another database migration script runner for Django projects.	Python	497	101	20	101
+Findsploit	1N3/Findsploit	32337400	Find exploits in local and online databases instantly	Shell	1234	100	27	100
+leveldb-server	srinikom/leveldb-server	2827073	Database server based on leveldb storage engine	Python	15	100	16	100
+mbrainz-sample	Datomic/mbrainz-sample	9379394	Example queries and rules for working with the Datomic mbrainz example database	Clojure	1762	100	19	100
+Pyrseas	perseas/Pyrseas	1546410	Provides a framework and utilities to upgrade and maintain a relational database.	Python	1723	100	20	100
+schema_to_scaffold	frenesim/schema_to_scaffold	6694402	Enables "rails generate scaffold" to create Rails code that matches an existing database	Ruby	415	100	14	100
+Countries-States-Cities-database	hiiamrohit/Countries-States-Cities-database	33118257	Database	null	457	99	79	99
+ZODB	zopefoundation/ZODB	7357595	The ZODB object database	Python	27191	99	18	99
+rust-keepass	raymontag/rust-keepass	27268512	Crate to use KeePass databases in Rust	Rust	143	99	6	99
+ComponentKit	jhauberg/ComponentKit	3233062	An in-memory object database for entities composed by a set of components	C#	339	99	21	99
+Lazer-Database	Greg0/Lazer-Database	8313554	PHP flat-file database to store data with JSON	PHP	842	98	13	98
+MMP	idler/MMP	5248989	Tool to versioning MySQL database schema with VCS	PHP	484	98	22	98
+asmdb	asmjit/asmdb	45605647	Database of a complete X86/X64 instruction set.	JavaScript	261	98	18	98
+sweet-liberty	RJMetrics/sweet-liberty	30656116	A library for building database-backed RESTful services using Clojure	Clojure	113	98	7	98
+database-as-a-service	globocom/database-as-a-service	12467372	Database as a service (Dbaas) that allows users to quickly and easily deploy and manage database instances using cloud infrastructure	Python	5152	97	25	97
+Vertica-Extension-Packages	vertica/Vertica-Extension-Packages	2734158	User Defined Extensions to the Vertica Analytic Database	HTML	87797	97	84	97
+doctrine-extensions	orocrm/doctrine-extensions	22163860	Cross database doctrine DQL functions. Supported databases are MySQL and PostgreSQL.	PHP	131	97	12	97
+secondbase	customink/secondbase	12064073	Seamless second database integration for Rails.	Ruby	165	97	5	97
+PossibleDB	runexec/PossibleDB	24489014	PossibleDB is a Database Server built with DataScript, RethinkDB, Clojure, ClojureScript, and NodeJS.	JavaScript	889	97	5	97
+uap-ruby	ua-parser/uap-ruby	4198247	A simple, comprehensive Ruby gem for parsing user agent strings with the help of BrowserScope's UA database	Ruby	108	97	19	97
+relate	lucidsoftware/relate	19954431	Performant database access in Scala	Scala	802	96	9	96
+narwhal-mongodb	sergi/narwhal-mongodb	344846	Wrapper of MongoDB database for CommonJS	JavaScript	559	96	19	96
+kvdb	dinhviethoa/kvdb	10575225	A embeddable Key-Value Database and Full Text Search	C	141	96	11	96
+wordfreq	LuminosoInsight/wordfreq	13941524	Access a database of word frequencies, in various natural languages.	Python	463475	96	12	96
+DbUtility	Ivony/DbUtility	6204816	a light database access tool 	C#	13616	95	37	95
+fortunes	ruanyf/fortunes	33802978	A collection of fortune database files for Chinese users.	null	1625	95	38	95
+mongo-lite	aheinze/mongo-lite	9231157	Schemaless database on top of SQLite	PHP	40	95	15	95
+Migrator.NET	migratordotnet/Migrator.NET	1357359	Database migrations for .NET. Based on the idea of Rails ActiveRecord Migrations.	C#	6790	94	59	94
+virginian	bakks/virginian	2913590	A GPU Database	C	3414	93	20	93
+sqlserver2pgsql	dalibo/sqlserver2pgsql	12059094	Migration tool to convert a Microsoft SQL Server Database into a PostgreSQL database, as automatically as possible	Perl	410	93	30	93
+heartbeat	likeastore/heartbeat	22553435	Health monitoring of HTTP services and databases.	JavaScript	295	93	15	93
+TheGamesDB	TheGamesDB/TheGamesDB	4468786	TheGamesDB.net Repository - An open, online database for video game fans.	JavaScript	33222	93	19	93
+postgresql-plruby	knu/postgresql-plruby	199592	PL/Ruby procedural language for the PostgreSQL database system by Guy Decoux	C	642	93	23	93
+PivotalR	pivotalsoftware/PivotalR	9801943	A Fast, Easy-to-use Tool for Manipulating Tables in PostgreSQL databases and a wrapper of MADlib	R	4427	93	43	93
+OpenJS-Grid	optikalefx/OpenJS-Grid	2075961	OpenJS Grid is the easiest jQuery Grid ever. With very little work you can have a data grid that can do everything from sorting and searching to complex database queries. Best of all, its open source. So you can learn how it's all done.	JavaScript	651	93	49	93
+Dayron	inaka/Dayron	56155672	A repository `similar` to Ecto.Repo that maps to an underlying http client, sending requests to an external rest api instead of a database	Elixir	156	93	10	93
+hearthstone-db	pdyck/hearthstone-db	17797946	A JSON collection of all Hearthstone cards. Hearthstone database.	Python	426	92	34	92
+tungus	sergeyksv/tungus	10967179	Mongoose driver for TingoDB embedded database	JavaScript	316	92	13	92
+rem	kykim/rem	6229842	Command-line tool to access OSX Reminders.app database	Objective-C	164	92	13	92
+unqlite	unqlite/unqlite	10282402	A clone of UnQlite (not offiical): UnQLite is a in-process software library which implements a self-contained, serverless, zero-configuration, transactional NoSQL database engine. UnQLite is a document store database similar to MongoDB, Redis, CouchDB etc. as well a standard Key/Value store similar to BerkeleyDB, LevelDB, etc.	C	495	92	18	92
+Slim-PDO	FaaPz/Slim-PDO	39694926	PDO database library for Slim Framework	PHP	93	91	41	91
+skylines	skylines-project/skylines	3056468	Live tracking, flight database and competition framework	Python	20280	91	39	91
+gremlin-javascript	jbmusso/gremlin-javascript	21466447	JavaScript graph database client for TinkerPop3 Gremlin Server	JavaScript	740	91	19	91
+crypto-pouch	calvinmetcalf/crypto-pouch	27094201	plugin for encrypted pouchdb/couchdb databases	JavaScript	957	91	12	91
+PyDB	MauricioTorre/PyDB	47608233	Pure Python database management system 	Python	143	91	6	91
+imposm	omniscale/imposm	4639887	Imports OpenStreetMap data into geo databases	Python	732	91	23	91
+pokesprite	msikma/pokesprite	22895312	Pokémon icon database and sprite sheet generator	HTML	5765	91	8	91
+SQLiteApp	javaliker/SQLiteApp	60939174	simple SQLite database management for OS X,this is an unfinished project	Objective-C	1956	91	9	91
+django-tokyo-sessions	ericflo/django-tokyo-sessions	134391	This is a session backend for Django that stores sessions in a Tokyo Cabinet database, which communicates via Tokyo Tyrant using the PyTyrant library.  Tokyo Cabinet is a key-value store similar to BDB.	Python	91	91	1	91
+fake-useragent	hellysmile/fake-useragent	8550252	up to date simple useragent faker with real world database	Python	42	90	17	90
+sql-scripts	MichelleUfford/sql-scripts	18567775	Repo for Microsoft SQL Server scripts. These are targeted at both DBAs/admins and at database developers. 	SQLPL	52	90	28	90
+perl-redis	PerlRedis/perl-redis	1308463	Perl binding for Redis database	Perl	1128	89	54	89
+influxdb-php	influxdata/influxdb-php	14237621	influxdb-php: A PHP Client for InfluxDB, a time series database	PHP	193	89	35	89
+1kb-PHP-MVC-Framework	Xeoncross/1kb-PHP-MVC-Framework	939500	Model, View, Controller framework with URL routing, PDO database, and ORM  each in 1kb!	PHP	166	89	25	89
+FineDB	Amaury/FineDB	10650868	High-performance nosql database. Written in C, multi-threaded, based on LightningDB and nanomsg.	C	224	89	23	89
+pgsql-http	pramsey/pgsql-http	4069172	HTTP client for PostgreSQL, retrieve a web page from inside the database.	C	147	89	14	89
+apex	cd34/apex	2063081	Toolkit for Pyramid, a Pylons Project, to add Authentication and Authorization using Velruse (OAuth) and/or a local database, CSRF, ReCaptcha, Sessions, Flash messages and I18N	Python	1196	89	31	89
+yocto.js	trygve-lie/yocto.js	6062137	A tiny in-memory object database with an tuple space inspired API for the browser	JavaScript	1376	89	0	89
+PHP-Database-GeoJSON	bmcbride/PHP-Database-GeoJSON	6046842	Query a database table or view and return the results in GeoJSON format, suitable for use in OpenLayers, Leaflet, etc.	PHP	807	88	44	88
+tiny	chjj/tiny	1538798	A small database for node.js.	JavaScript	371	88	12	88
+elabftw	elabftw/elabftw	7167597	Lab manager, experiment notebook, database for research labs	JavaScript	165970	88	40	88
+vagrant-postgresql	scottmuc/vagrant-postgresql	4383051	A demo of how to use Vagrant to stand up a database server	Ruby	381	88	37	88
+debezium	debezium/debezium	50205233	Change data capture for a variety of databases. http://debezium.io Please log issues in our JIRA at https://issues.jboss.org/projects/DBZ/issues	Java	1382	88	21	88
+db-sample-schemas	oracle/db-sample-schemas	20668668	Oracle Database Sample Schemas	SQLPL	36267	87	66	87
+odoo-saas-tools	it-projects-llc/odoo-saas-tools	21295832	SaaS — System to sale and manage Odoo databases.	Python	3184	87	134	87
+schema_validations	SchemaPlus/schema_validations	2095028	Automatically creates validations basing on the database schema.	Ruby	590	87	16	87
+django-transaction-hooks	carljm/django-transaction-hooks	16020620	Django database backends with post-transaction-commit hooks.	Python	80	87	18	87
+panoramic	apeacox/panoramic	1864747	store rails views on database instead of filesystem	Ruby	64	87	31	87
+wordnet-db	moos/wordnet-db	4239529	WordNet Database files (previously WNdb)	JavaScript	39906	87	5	87
+gomigrate	DavidHuie/gomigrate	21778690	A SQL database migration toolkit in Golang	Go	61	87	11	87
+Sqlite2CoreData	tapasya/Sqlite2CoreData	12779807	Tool to migrate Standard Sqlite Database to Core Data	Objective-C	1159	87	16	87
+MigSharp	dradovic/MigSharp	685521	Mig# (MigSharp) is a .NET framework for database migrations and versioning	C#	2669	87	30	87
+django-dbbackup	django-dbbackup/django-dbbackup	28577756	Management commands to help backup and restore your project database and media files	Python	377	87	43	87
+strokedb	yrashk/strokedb	818	StrokeDB is an embeddable distributed document database written in Ruby	Ruby	2690	87	5	87
+cordova-plugin-sqlite-2	nolanlawson/cordova-plugin-sqlite-2	54291902	Native SQLite database API for Cordova/PhoneGap/Ionic, modeled after WebSQL	JavaScript	1270	87	7	87
+calvin	yaledb/calvin	19503320	Calvin is a scalable transactional database system that leverages determinism to guarantee active replication and full ACID-compliance of distributed transactions without two-phase commit. Most of the code is for VLDB 2014 paper: 《An Evaluation of the Advantages and Disadvantages of Deterministic Database Systems》.	C++	325	87	14	87
+hypertable	vicaya/hypertable	19029	A flexible database focused on performance and scalability	C++	57719	86	107	86
+mybatis-pagination	sogyf/mybatis-pagination	4245765	The Mybatis database physical paging dialect plug-ins	Java	996	86	66	86
+whois	RIPE-NCC/whois	9909566	RIPE Database whois code repository	Java	19355	86	28	86
+cupboard	gcv/cupboard	335022	Cupboard — an embedded database for Clojure	Clojure	490	86	7	86
+slim-eloquent	kladd/slim-eloquent	17260083	The Slim PHP micro framework paired with Laravel's Illuminate Database toolkit.	PHP	6	86	24	86
+akka-persistence-jdbc	dnvriend/akka-persistence-jdbc	20113016	Asynchronously writes journal and snapshot entries to configured JDBC databases so that Akka Actors can recover state	Scala	8247	86	43	86
+learning-mongodb	olange/learning-mongodb	16586769	Discovering and learning using the MongoDB database	Python	10300	85	81	85
+egeoip	mochi/egeoip	680811	Erlang IP Geolocation module, currently supporting the MaxMind GeoLite City Database.	Erlang	37712	85	50	85
+Node-DBI	DrBenton/Node-DBI	1619358	A SQL database abstraction layer strongly inspired by the PHP Zend Framework Zend_Db API, with support of multiple Node.js database engines	JavaScript	361	85	22	85
+fallen-8	cosh/fallen-8	2672286	Fallen-8 is an in-memory graph database implemented in C#.	C#	1986	85	20	85
+LibLime-Koha	liblime/LibLime-Koha	1661921	LibLime Koha is the most mature of the open source ILS applications. Based on the ground-breaking 3.0 platform (derived from the original Koha offering of 1999), LibLime Koha is a completely web-based open source ILS, with library staff, systems librarians, and library users all accessing LibLime Koha through a web browser. Relying on the MySQL relational database, all LibLime Koha data is readily accessible.	Perl	134318	85	47	85
+geoalchemy	geoalchemy/geoalchemy	1987616	Using SQLAlchemy with spatial databases	Python	688	84	46	84
+tatoeba2	Tatoeba/tatoeba2	16910705	Official repository for main codebase for Tatoeba, a multilingual sentence/translation database.	PHP	97849	84	42	84
+sqlstruct	kisielk/sqlstruct	5874736	sqlstruct provides some convenience functions for using structs with go's database/sql package	Go	219	84	27	84
+mysqldiff	aspiers/mysqldiff	249906	tool and CPAN suite backend for comparing MySQL database schemas	Perl	291	83	35	83
+OrigoDB	DevrexLabs/OrigoDB	8799170	In-memory database engine for NET/Mono	C#	11087	83	20	83
+lmdbjni	chirino/lmdbjni	9901897	A Java Native Interface to the Lightning Memory-Mapped Database (liblmdb)	Shell	124	83	44	83
+pycscope	portante/pycscope	3618292	Cscope database generator for Python source code	Python	169	83	15	83
+Jables	Hedronium/Jables	43806579	Write Database Schema in JSON! (for Laravel5)	PHP	296	83	7	83
+dbweb	go-xorm/dbweb	25722497	A web based database admin tool written by Golang support mysql/postgres/sqlite	Go	3330	83	17	83
+pgjson	fiatjaf/pgjson	44613926	use Postgres as a zero-config NoSQL database.	JavaScript	22	83	5	83
+dump	toy/dump	42589	Rails app rake and capistrano tasks to create and restore dumps of database and assets	Ruby	771	83	14	83
+builder	Polychart/builder	16490552	Data visualization for your database.	Python	2199	82	26	82
+easydb	paragonie/easydb	36103696	Easy-to-use database	PHP	27	82	7	82
+mysqldumpsplitter	kedarvj/mysqldumpsplitter	20779314	MySQL Dump splitter to split / extract databases & tables from mysqldump	Shell	194	82	21	82
+vagrant-cassandra	bcantoni/vagrant-cassandra	20345419	Vagrant templates for local dev/test/learn of DataStax Enterprise and the Cassandra database system	Ruby	279	82	24	82
+nodb	lunny/nodb	24144820	A pure Go embed Nosql database with kv, list, hash, zset, bitmap, set.	Go	72	82	9	82
+php_backup_s3	ianneub/php_backup_s3	38083	Backup files and MySQL databases to S3 using PHP.	PHP	445	81	22	81
+django-db-pool	gmcguire/django-db-pool	4640917	Django DB Pool - Another database persistance / pooling implementation for Django	Python	132	81	9	81
+castle	ncannasse/castle	5912693	A structured database with a local web service to edit it	Haxe	2811	81	12	81
+nodejs-MySQL-push-notifications-demo	GianlucaGuarini/nodejs-MySQL-push-notifications-demo	7510651	Node server that is able to read from a MySql database and then stream those data via websocket to many client connected on the same page	JavaScript	11295	81	59	81
+profile-cleaner	graysky2/profile-cleaner	5628017	Simple script to vacuum and reindex sqlite databases used by Firefox and by Chrome/Chromium.	Shell	493	81	10	81
+Piranha.vNext	PiranhaCMS/Piranha.vNext	25960445	The next generation of Piranha CMS for ASP.NET MVC 5. Totally rewritten to minimize dependencies, be database & authentication agnostic.	C#	20248	81	44	81
+mandoline	TheClimateCorporation/mandoline	22476270	A distributed, versioned, multi-dimensional array database	Clojure	98	80	14	80
+connection_ninja	cherring/connection_ninja	218389	Handles multiple database connections	Ruby	154	80	7	80
+IndexedDB-polyfill	facebookarchive/IndexedDB-polyfill	4745506	IndexedDB polyfill (via Web SQL Database)	JavaScript	523	80	23	80
+iciql	gitblit/iciql	2152291	a model-based, database access wrapper for JDBC 	Java	2986	80	15	80
+node-mongodb-s3-backup	theycallmeswift/node-mongodb-s3-backup	6447273	A node.js package that makes syncing a MongoDB database to S3 simple.	JavaScript	235	80	35	80
+RevitLookup	jeremytammik/RevitLookup	13772272	Interactive Revit BIM database exploration tool to view and navigate element properties and relationships.	C#	1101	80	66	80
+mysqldump-to-csv	jamesmishra/mysqldump-to-csv	20756575	A quickly-hacked-together Python script to turn mysqldump files to CSV files. Optimized for Wikipedia database dumps.	Python	7	80	33	80
+genomu	genomu/genomu	8238730	Genomu: A concurrency-oriented K/V database (JIRA @ http://genomu.atlassian.net)	JavaScript	5125	80	8	80
+auto-value-firebase	mattlogan/auto-value-firebase	65563929	AutoValue extension for creating Firebase Database objects	Java	113	80	1	80
+derive	VitalLabs/derive	21338882	Wrapper library to simplify deriving data from client-side database state and rendering context.  Supports Datascript and React/Om but it is intended to be a more general design pattern.	Clojure	114	80	3	80
+ora	rana/ora	25939656	An Oracle database driver for the Go programming language.	Go	1617	79	17	79
+envelope	greyspots/envelope	42204112	A Database Server for Postgresql with Web Access.	JavaScript	44355	79	5	79
+bytecask	pbudzik/bytecask	3129905	Key/value database inspired by Bitcask	Scala	485	79	3	79
+database	nette/database	17713908	Nette Database layer	PHP	1322	78	55	78
+air-sqlite	probertson/air-sqlite	500200	Utilities for working with SQLite databases in AIR	ActionScript	2422	78	20	78
+compass	sogou-biztech/compass	46398595	Compass is a light-weight embedded distributed database access layer framework.	Java	1291	78	33	78
+pouchdb-replication-stream	nolanlawson/pouchdb-replication-stream	23744612	Replicate PouchDB/CouchDB databases with Node.js-style streams	JavaScript	31613	78	17	78
+laravel-convert-migrations	adamkearsley/laravel-convert-migrations	20017871	This is a custom command to convert your current SQL database schema into a Laravel 4 Migration file.	PHP	17	78	34	78
+neo4j-core	neo4jrb/neo4j-core	3343704	A simple unified API that can access both the server and embedded Neo4j database. Used by the neo4j gem	Ruby	23020	78	50	78
+correios-cep	prodis/correios-cep	16747500	Get Brazilian address by zipcode, directly from Correios database. No HTML parsers.	Ruby	80	78	17	78
+SQLBuilder	c9s/SQLBuilder	3304462	A powerful, fast, cross-platform SQL Builder for PHP. Convert your structured data into SQL queries with a fluent style interface and targeting on all the mainstream database (MySQL, PostgreSQL, SQLite)	PHP	2504	78	14	78
+itdb	sivann/itdb	3758467	IT Items Database	PHP	30364	77	69	77
+grunt-deployments	getdave/grunt-deployments	10596458	MYSQL database deployments using GruntJS	JavaScript	693	77	45	77
+mongo-sync	sheharyarn/mongo-sync	30808065	Sync Remote and Local MongoDB Databases from Shell	Shell	20	77	20	77
+doma	domaframework/doma	17404938	Domain Oriented Database Mapping Framework for Java 8	Java	14079	77	21	77
+LanderDB	Max00355/LanderDB	9972365	An embedded database engine written in Python	Python	235	77	5	77
+puret	jo/puret	530922	Puret is a minimal pure translation library for translating database values for Rails 3.	Ruby	212	77	19	77
+pearldb	willemt/pearldb	30828379	A Lightweight Durable HTTP Key-Value Pair Database in C	C	1266	77	7	77
+hiho	sonalgoyal/hiho	1081160	Hadoop Data Integration with various databases, ftp servers, salesforce. Incremental update, dedup, append, merge your data on Hadoop.	Java	47010	77	28	77
+heideltime	HeidelTime/heideltime	35958847	A multilingual, cross-domain temporal tagger developed at the Database Systems Research Group at Heidelberg University.	Java	18968	77	17	77
+scaneo	variadico/scaneo	34825795	Generate Go code to convert database rows into arbitrary structs.	Go	300	77	4	77
+hibiscus	willuhn/hibiscus	2591761	A Java based, plattform independent (running on Linux, Windows, OS X, OpenBSD, OpenSolaris) homebanking application, that uses the  german FinTS/HBCI standard. All data (accounts, transactions, addresses, ..) are stored encrypted into an embedded database (H2) by default or on a Mysql server (if configured).  Hibiscus runs as a plugin within the Jameica framework as either a typical desktop application or headless in server mode.	Java	112139	77	30	77
+SteamDatabaseBackend	SteamDatabase/SteamDatabaseBackend	10421786	:wrench: The application that keeps SteamDB up to date with the latest changes	C#	1222	76	22	76
+pygr	cjlee112/pygr	189886	Python graph database framework for bioinformatics	Python	6726	76	33	76
+kafka-connect-jdbc	confluentinc/kafka-connect-jdbc	34428627	Kafka Connect connector for JDBC-compatible databases	Java	11581	76	86	76
+tmdbsimple	celiao/tmdbsimple	14947242	A wrapper for The Movie Database API v3.	Python	102	76	27	76
+osm2pgrouting	pgRouting/osm2pgrouting	1037362	Import tool for OpenStreetMap data to pgRouting database	C++	2471	76	64	76
+postgresql-portable	garethflowers/postgresql-portable	33385881	Portable version of the PostgreSQL Database Server, for Windows	Perl	185965	76	12	76
+query_diet	makandra/query_diet	735739	A Rails database query counter that stays out of your way	Ruby	104	76	6	76
+sqlhooks	gchaincl/sqlhooks	56711473	Attach hooks to any database/sql driver	Go	51	76	2	76
+RRRDTool	igrigorik/RRRDTool	658073	Round robin database pattern via Redis sorted sets	Ruby	557	76	0	76
+AspNet.Identity	kriasoft/AspNet.Identity	18525080	Entity Framework (EF) Database-First Providers, Database Schema and Samples for ASP.NET Identity 2.0	C#	333	75	52	75
+stockdb	maxlapshin/stockdb	5372053	Database for storing Stock Exchange quotes in erlang	Erlang	525	75	32	75
+42-django-couchdb	42/42-django-couchdb	234381	django couchdb database adapter	Python	108	75	3	75
+metakit	jcw/metakit	2164916	Metakit is an efficient embedded database library with a small footprint	C++	3785	75	21	75
+seed	qualiancy/seed	2501889	A storage-agnostic graphing database framework.	JavaScript	658	75	3	75
+pldb	threatgrid/pldb	7529288	(DEPRECATED) persistent logic database for clojure core.logic	Clojure	165	75	6	75
+PDO4You	giovanniramos/PDO4You	1253513	PDO4You is a class that implements the Singleton design pattern for connecting the database using the PDO extension (PHP Data Objects)	PHP	1272	75	38	75
+hedis	hedisdb/hedis	35707267	Hedis can retrieve data from **ANY** database directly via Redis	C	20451	75	5	75
+sqlline	julianhyde/sqlline	8804093	Shell for issuing SQL to relational databases via JDBC	Java	485	74	41	74
+rwordnet	doches/rwordnet	73996	A pure Ruby interface to the WordNet database	Ruby	8446	74	15	74
+oracle_fdw	laurenz/oracle_fdw	14332609	PostgreSQL extension that provides a Foreign Data Wrapper for easy and efficient access to Oracle databases	C	881	74	39	74
+Northwind	achingono/Northwind	7045456	ASP.NET WebPages powered by Knockout, ASP.NET Web API, and  Entity Framework over the Northwind database. All generated by T4 Scaffolding.	JavaScript	18220	74	23	74
+fossology	fossology/fossology	15866170	FOSSology is an open source license compliance software system and toolkit.  As a toolkit you can run license, copyright and export control scans from the command line.  As a system, a database and web ui are provided to give you a compliance workflow. License, copyright and export scanners are tools used in the workflow.	C	279479	74	36	74
+ep-engine	membase/ep-engine	454214	Eventually Persistent in-memory database.	C++	25074	73	55	73
+migrations	cakephp/migrations	23262129	CakePHP 3.0 database migrations plugin	PHP	716	73	50	73
+django-settings	jqb/django-settings	770522	Application to keep simple settings in database. Based on the contenttype framework.	Python	471	73	43	73
+dataexpress	chop-dbhi/dataexpress	4016052	[NOT MAINTAINED] DataExpress is a simple, Scala-based cross database ETL toolkit supporting Postgres, MySql, Oracle, SQLServer, and Sqlite	Scala	1293	73	11	73
+grails-database-migration	grails-plugins/grails-database-migration	1079266	Grails Database Migration Plugin	Groovy	3097	72	92	72
+YapDatabaseExtensions	danthorpe/YapDatabaseExtensions	33999429	YapDatabase extensions for use with Swift	Swift	3413	72	12	72
+db2fog	yob/db2fog	2084088	store your rails database backups in the cloud	Ruby	79	72	34	72
+cruzdb	brentp/cruzdb	2314723	python access to UCSC genomes database	Python	3193	72	25	72
+django_cassandra_backend	vaterlaus/django_cassandra_backend	908955	A Django database backend for Cassandra	Python	212	72	15	72
+php-rest-sql	peej/php-rest-sql	5265301	Play with our RESTful database interface with our interactive REST tutorial	PHP	158	72	29	72
+postgresql-kit	djthorpe/postgresql-kit	6912130	Frameworks for integrating a PostgreSQL database with your Mac and iOS projects	Objective-C	157741	72	17	72
+lmdb	minad/lmdb	8149146	Ruby bindings for the amazing OpenLDAP's Lightning Memory-Mapped Database (LMDB)	C	480	72	17	72
+lmdbxx	bendiken/lmdbxx	33577674	C++11 wrapper for the LMDB embedded B+ tree database library.	C++	206	72	20	72
+clj-sql-up	ckuttruff/clj-sql-up	11231728	A simple leiningen plugin for managing SQL database migrations with clojure / jdbc	Clojure	418	72	10	72
+LeanMapper	Tharos/LeanMapper	10411585	Lean Mapper is a tiny ORM based on powerful dibi database abstraction library for PHP 5.	PHP	723	72	21	72
+mysql-simple	bos/mysql-simple	1679780	A mid-level client library for the MySQL database, intended to be fast and easy to use.  	Haskell	285	72	23	72
+database	classicdb/database	9145124	Classic DB is a content database for CMaNGOS Classic: world, NPCs, objects, quests and so on.	Shell	229810	71	70	71
+database	salebab/database	3442616	PHP/MySQL database wrapper, extends PDO and PDOStatement	PHP	472	71	23	71
+hdbc	hdbc/hdbc	623706	Haskell Database Connectivity	Haskell	472	71	24	71
+db_connection	elixir-ecto/db_connection	46829184	Database connection behaviour	Elixir	356	71	20	71
+django-safedelete	makinacorpus/django-safedelete	10792977	Mask your objects instead of deleting them from your database.	Python	118	71	22	71
+s3-shell-backups	lumerit/s3-shell-backups	3410368	Shell scripts to backup files and databases to Amazon S3	Shell	137	71	26	71
+nsot	dropbox/nsot	28201627	Network Source of Truth IPAM and network inventory database	Python	3127	71	17	71
+node-migrate	rsandor/node-migrate	643179	A database agnostic migration system for Node.js.	JavaScript	237	71	5	71
+nmig	AnatolyUss/nmig	47531532	NMIG is a database migration tool, written in Node.js and highly inspired by FromMySqlToPostgreSql.  	JavaScript	236	71	16	71
+CLAIMS	dase/CLAIMS	14106264	Claims is an in-memory parallel database prototype, which runs on clusters of shared-nothing servers and provides efficient and scalable data analysis.	C++	231227	71	42	71
+graphchiDB-scala	GraphChi/graphchiDB-scala	18816418	*Experimental* GraphChi-DB graph database with computational capabilities	Scala	2338	70	20	70
+Stouts.backup	Stouts/Stouts.backup	20230316	Ansible role to backup files, databases	Shell	128	70	20	70
+ruby-dbi	erikh/ruby-dbi	38477	Ruby/DBI, a database abstraction layer and interface	Ruby	1177	70	37	70
+cl-dbi	fukamachi/cl-dbi	2635521	Database independent interface for Common Lisp	Common Lisp	121	70	14	70
+redis-dump-load	p/redis-dump-load	2239736	Dump redis databases, load data into redis - in Python	Python	121	70	24	70
+cascading-dbmigrate	Cascading/cascading-dbmigrate	576623	Tool to help users migrate large relational databases into Hadoop clusters.	Java	183	70	16	70
+pyley	ziyasal/pyley	21630462	Python client for an open-source graph database Cayley	Python	71	70	10	70
+yii2-audit	bedezign/yii2-audit	23378995	Yii2 Audit records and displays web/cli requests, database changes, php/js errors and associated data.	PHP	1858	70	31	70
+node-pg-copy-streams	brianc/node-pg-copy-streams	13964315	COPY FROM / COPY TO for node-postgres.  Stream from one database to another, and stuff.	JavaScript	80	70	20	70
+libesedb	libyal/libesedb	24747968	Library and tools to access the Extensible Storage Engine (ESE) Database File (EDB) format.	C	1993	70	23	70
+Querybase	davideast/Querybase	48528555	Bringing the where statement to the Firebase Database.	JavaScript	358	70	4	70
+retriever	weecology/retriever	1968190	Quickly download, clean up, and install ecological datasets into a database management system	Python	48287	69	35	69
+mbzdb	elliotchance/mbzdb	721618	Port of the MusicBrainz database to run on other RDBMSs with replication (previously named MB_MySQL.)	Perl	316	69	29	69
+CraueConfigBundle	craue/CraueConfigBundle	2011216	Database-stored settings made available via a service for your Symfony project.	PHP	178	69	18	69
+mariadb-connector-j	MariaDB/mariadb-connector-j	30072532	MariaDB Connector/J is used to connect applications developed in Java to MariaDB and MySQL databases. MariaDB Connector/J is LGPL licensed.	Java	6602	69	54	69
+LexikMailerBundle	lexik/LexikMailerBundle	4158846	This Symfony2 bundle allow you to manage some HTML email templates stored in your database. Templates are written with Twig and use I18N. You can also create some layouts to decorate your email.	PHP	341	69	32	69
+ModelGenerator	laracademy/ModelGenerator	58608102	modelgen is a command that will quickly generate a model for you based on your current table scheme found in your database.	PHP	11	69	1	69
+graph-databases-use-cases	iansrobinson/graph-databases-use-cases	9667687	Example use cases from the O'Reilly Graph Databases book	Java	388	68	45	68
+django-ldapdb	django-ldapdb/django-ldapdb	10475159	django-ldapdb, an LDAP database backend for Django	Python	300	68	67	68
+python-mbtiles	perrygeo/python-mbtiles	3826511	Python tools for working with mbtiles databases	Python	2673	68	6	68
+lmdb	clibs/lmdb	23483866	Symas Lightning Memory-Mapped Database (LMDB)	null	296	68	1	68
+henplus	neurolabs/henplus	1200287	HenPlus is a SQL shell that can handle multiple sessions in parallel. The commandline interface with the usual history functions features TAB-completion for commands, tables and columns. Database connect via JDBC.	Java	1619	68	36	68
+SQLMonitor	unruledboy/SQLMonitor	41852282	SQL Server monitor, manages sql server performance, monitor sql server processes and jobs, analyze performance, analyse system, object version control, view executing sql query, kill process / job, object explorer, database shrink/log truncate/backup/detach/attach.	C#	1371	68	35	68
+dart_postgresql	xxgreg/dart_postgresql	8498401	Dart Postgresql database library.	Dart	546	67	28	67
+nkbase	NetComposer/nkbase	31018503	NkBASE distributed database	Erlang	506	67	8	67
+mongraph	pstaender/mongraph	9287010	Mongraph combines documentstorage database with graph-database relations. Build on NodeJS.	CoffeeScript	968	67	13	67
+phanime	phanime/phanime	21923206	A modern anime database & social platform.	JavaScript	339996	67	19	67
+UK-Postcodes	Gibbs/UK-Postcodes	5361406	A CSV database of UK postal out codes relating them to general co-ordinates, towns, counties and countries.	null	261	67	50	67
+transaction_retry	qertoip/transaction_retry	3376028	Retries database transaction on deadlock and transaction serialization errors. Supports MySQL, PostgreSQL and SQLite.	Ruby	155	67	15	67
+discodns	duedil-ltd/discodns	17883376	DNS Nameserver in Go backed by an etcd database of names and records	Go	460	67	11	67
+testfixtures	go-testfixtures/testfixtures	55502590	:package: Rails-like test fixtures for Go. Write tests against a real database.	Go	47	67	1	67
+pgdbf	kstrauser/pgdbf	1316416	Convert XBase / FoxPro databases to PostgreSQL	C	397	66	22	66
+keymaker	therubymug/keymaker	4078494	A multi-layer REST API Ruby wrapper for the neo4j graph database.	Ruby	159	66	14	66
+pubsubsql	pubsubsql/pubsubsql	13992459	An open-source distributed in-memory database integrated with Publish-Subscribe	Go	4973	66	10	66
+charlatan	uber/charlatan	8042521	A Python library to efficiently manage and install database fixtures	Python	1172	66	12	66
+KeeThief	adaptivethreat/KeeThief	63014440	Methods for attacking KeePass 2.X databases, including extracting of encryption key material from memory.	C#	4905	66	17	66
+simple-s3-backup	billturner/simple-s3-backup	423057	A simple Ruby backup solution for MySQL & MongoDB databases, file directories, and single files to Amazon S3.	Ruby	116	66	18	66
+django-multidb	mmalone/django-multidb	192807	Simple example of using Django to work with multiple databases.	Python	84	66	2	66
+Silver	tpm/Silver	1299417	A light redis-backed database cacher and indexer	Ruby	152	66	1	66
+validates_lengths_from_database	rubiety/validates_lengths_from_database	1194453	Introspects your database string field maximum lengths and automatically defines length validations.	Ruby	65	65	12	65
+barclamp-mysql	crowbar-archive/barclamp-mysql	2434318	Crowbar MySQL: Deploy MySQL Database	Ruby	344	65	171	65
+Opcodes	Maratyszcza/Opcodes	25417517	Database of CPU Opcodes	Python	1414	65	11	65
+rdd	r043v/rdd	3488147	redis database dumper	C	229	65	8	65
+WebSQL	psayre23/WebSQL	3681646	A WebSQL library for easier local database queries	JavaScript	152	65	22	65
+data	vulndb/data	31029145	User, contributor and developer friendly vulnerability database	Python	661	65	13	65
+php-cassandra-binary	evseevnn/php-cassandra-binary	21558222	PHP library for Cassandra database via a binary protocol.	PHP	1311	65	43	65
+WebKeePass	sukria/WebKeePass	8239287	Web interface over a KeePass database	Perl	565	65	10	65
+CouchbaseLiteViewer	couchbaselabs/CouchbaseLiteViewer	4237239	Mac app for viewing/modifying Couchbase Lite databases	Objective-C	297	65	12	65
+blog	0x00A/blog	6213655	a mimimalist blog, uses markdown and github issues as a database	JavaScript	1777	65	10	65
+symmetric-ds	JumpMind/symmetric-ds	39727495	SymmetricDS is a database and file synchronization solution that is platform-independent, web-enabled, and database agnostic.  SymmetricDS was built to make data replication across two to tens of thousands of databases and file systems fast, easy and resilient.  We specialize in near real time, bi-directional data replication across large node networks over the WAN or LAN.	Java	99774	65	39	65
+document_mapper	ralph/document_mapper	828594	Simple model layer that let's you query text documents as if they were a database.	Ruby	375	65	10	65
+laravel	php-tmdb/laravel	23931866	Laravel Package for TMDB ( The Movie Database ) API. Provides easy access to the wtfzdotnet/php-tmdb-api library.	PHP	44	65	19	65
+laravel-db-normalizer	stidges/laravel-db-normalizer	17682419	Normalize all database results to one unified interface, to make swapping repositories a breeze.	PHP	164	65	5	65
+mmoserverdb	swganh/mmoserverdb	615780	SWG:ANH - MMOServer Database	null	10198	64	47	64
+InfluxDB.Net	ziyasal/InfluxDB.Net	23766165	.NET client for InfluxDB distributed time series database.	C#	3249	64	26	64
+graphdb-benchmarks	socialsensor/graphdb-benchmarks	15342627	Performance benchmark between popular graph databases.	Java	1258	64	22	64
+DBI	rstats-db/DBI	13610317	A database interface (DBI) definition for communication between R and RDBMSs	R	1951	64	24	64
+html5sql	KenCorbettJr/html5sql	1363963	A helper javascript module for creating and working with HTML5 Web Databases.	JavaScript	175	64	21	64
+EAVCleaner	magento-hackathon/EAVCleaner	36489795	Clean up your Magento database by removing orphaned, unused and wrongly added attribute, attribute values and settings (for M1 & M2)	PHP	85	64	21	64
+Asynchronous-Functional-Programming	laforge49/Asynchronous-Functional-Programming	1879276	Fast actors using replies without future, actor-based functional programming with keyed sequences, and an versioned graphicl database.	Scala	38843	64	1	64
+database_validation	seejohnrun/database_validation	1258204	Automatic Rails validations from your database	Ruby	146	63	1	63
+dorks	USSCltd/dorks	58211701	google hack database automation tool	JavaScript	18	63	17	63
+sharedb-mongo	share/sharedb-mongo	10278193	MongoDB database adapter for ShareDB	JavaScript	249	63	28	63
+atomspace	opencog/atomspace	34678084	The OpenCog hypergraph database and logic (reasoning) engine	C++	152228	63	64	63
+security-spr	Fruzenshtein/security-spr	9771869	Maven Spring MVC Project with Security Spring integration. Hibernate as ORM, MySQL as database.	Java	174	63	127	63
+federal-treasury-api	csvsoundsystem/federal-treasury-api	9134978	The scraper, parser, and database creation scripts for Financial Management Service daily U.S. Treasury statements.	Python	20925	63	10	63
+chef-hello-cloud	karmi/chef-hello-cloud	5793121	A demo of a full stack Rails application deployment (1x load balancer, 3x appserver, 1x database, 3x elasticsearch) with Chef Server	Ruby	192	63	8	63
+wp-sweep	lesterchan/wp-sweep	31252139	WP-Sweep allows you to clean up unused, orphaned and duplicated data in your WordPress. It also optimizes your database tables.	PHP	223	63	11	63
+databox-cookbook	teohm/databox-cookbook	8022279	Database chef cookbook	Ruby	244	62	23	62
+vault	ephox/vault	4355418	Database API	Scala	51655	62	4	62
+docker-neo4j	neo4j/docker-neo4j	34655771	Docker Images for the Neo4j Graph Database	Shell	266	62	34	62
+DBExecutor	LuckyJayce/DBExecutor	24017679	android 数据库框架,sqlite database	HTML	1537	62	28	62
+core	KitchenPC/core	16703736	KitchenPC core engine and database adapter	C#	21097	62	19	62
+mimic-code	MIT-LCP/mimic-code	41767943	MIMIC Code Repository: Code shared by the research community for the MIMIC-III database	HTML	9441	62	71	62
+Dapper-FluentMap	henkmollema/Dapper-FluentMap	19104735	Provides a simple API to fluently map POCO properties to database columns when using Dapper.	C#	2802	62	24	62
+web-server-backup	postpostmodern/web-server-backup	59671	A bash script for backing up MySQL databases and web site files (for cron)	Shell	118	62	12	62
+simple-crud	oscarotero/simple-crud	7344350	PHP library to provide magic CRUD functions in SQL databases with zero configuration	PHP	509	62	10	62
+Clairvoyant	jspahrsummers/Clairvoyant	38951328	Append-only key-value database	Swift	168	62	1	62
+migrate	ivpusic/migrate	46952469	Tool for managing and executing your database migrations	Ruby	28	62	1	62
+postpic	drotiro/postpic	544791	PostPic is an extension for the open source dbms PostgreSQL that enables image processing inside the database, like PostGIS does for spatial data. It adds the new 'image' type to the SQL, and several functions to process images and to extract their attributes.	C	1606	62	15	62
+arquillian-extension-persistence	arquillian/arquillian-extension-persistence	2622978	Arquillian Database / Persistence Extension	Java	1988	61	56	61
+vertica	wvanbergen/vertica	834542	Ruby adapter for Vertica databases	Ruby	382	61	25	61
+migrations	mybatis/migrations	8121708	A command line DataBase migrations tool	Java	2424	61	38	61
+bootstrapper	sevenwire/bootstrapper	47913	A Rails plugin to assist in bootstrapping and seeding your database.	Ruby	87	61	20	61
+security-advisories	programa-stic/security-advisories	46880597	A database of published security advisories reported by the Programa STIC Team at Fundación Sadosky	Python	6922	61	15	61
+spring-data-jdbc-ext	spring-projects/spring-data-jdbc-ext	1065828	Spring Data JDBC Extensions.  Support for database specific extensions to standard JDBC including support for Oracle RAC fast connection failover, AQ JMS support and support for using advanced data types.	Java	1399	61	44	61
+twitterstream-to-mongodb	gdelfresno/twitterstream-to-mongodb	2861231	Simple python script for storing tweets from the twitter stream directly to a MongoDB database based on a list of terms.	Python	171	61	18	61
+goim	BurntSushi/goim	16270314	Goim is a robust command line utility to maintain and query the Internet Movie Database (IMDb).	Go	249	61	3	61
+ripozo-oasis	timmartin19/ripozo-oasis	46644258	A package and tutorial for turning your database into a HATEOAS ReSTful application	Python	79	61	1	61
+nosqlite	williamstein/nosqlite	3864861	noSQLite is a lightweight zeroconf noSQL document-oriented forking Python SQLite networked authenticated XMLRPC database server. It's written using Python and SQLite to provide a very lightweight and easy way to use SQLite that offers somewhat similar functionality to MongoDB (at least the parts I use), but much more lightweight	Python	251	61	8	61
+PryNotes	derek3x/PryNotes	17215051	Web based note application. Save your ideas, notes, todo lists, recipes, news articles or anything you find online. Keep it safe and secure with encryption and in a database that won't be mined or sold.	CSS	2386	61	2	61
+victims-cve-db	victims/victims-cve-db	13849704	CVE database store	Python	174	60	24	60
+cakephp-db-migrations	joelmoss/cakephp-db-migrations	70751	Database migrations shell for CakePHP	PHP	1307	60	15	60
+XPL-SEARCH	CoderPirata/XPL-SEARCH	38467402	Search exploits in multiple exploit databases!	PHP	64	60	22	60
+docker-dbaas	abulte/docker-dbaas	12076280	Docker Databases As A Service	CSS	858	60	11	60
+thin-pdo-wrapper	mikehenrty/thin-pdo-wrapper	1933455	A simple database client utilizing PHP PDO.	PHP	27	60	32	60
+bitstarter-ssjs-db	startup-class/bitstarter-ssjs-db	11990319	Very simple SSJS app that writes crowdfunder preorders to a local database. Uses Sequelize, Express, Async.	JavaScript	162	60	329	60
+shmig	naquad/shmig	13263886	Database migration tool written in BASH.	Shell	51	60	13	60
+laravel-csv-seeder	Flynsarmy/laravel-csv-seeder	16791656	Seed your database with CSV files	PHP	300	60	21	60
+vdbi-vim	mattn/vdbi-vim	3646840	Database client for Vim	VimL	176	60	5	60
+rrdtool-2.x	oetiker/rrdtool-2.x	5674445	RRDtool 2.x - The Time Series Database	Perl	1449	60	9	60
+crabdb	lqs/crabdb	9673988	CrabDB - a fast, flexible and space-effective database.	C	330	60	6	60
+sqlserver-kit	ktaranov/sqlserver-kit	24328843	Useful links, scripts, tools and best practice for Microsoft SQL Server Database	SQLPL	7515	60	22	60
+jack	LiveRamp/jack	1518492	A set of scripts for generating fully functional Java database models from Ruby's ActiveRecord models and migrations.	Java	4882	60	41	60
+struct-create	asdf072/struct-create	14240434	Creates Go source file of structs for use in some MySql database packages	Go	298	60	14	60
+privatesquare	straup/privatesquare	3248330	privatesquare is a simple web application to record and manage a database of foursquare check-ins.	PHP	12417	60	13	60
+porky	Schreiber-und-Freunde/porky	19819951	JavaScript ExtendScript Toolkit (ESTK) automation library with SQL database, JSON, XML, File, CSV access for Adobe InDesign	JavaScript	4422	60	13	60
+Node.js_UserLogin_Template	knoldus/Node.js_UserLogin_Template	17452844	This is Node.js Login Template with a nice User Interface. If you want to use Node.js as plateform  and MongoDB  as Database then this demo project can be used as a starting point for your application.	JavaScript	653	60	41	60
+craftimport	clearbold/craftimport	15087336	It's just starter code; Get in touch if you need help with an import from EE, WordPress, etc. Craft Import is available as a starting point for your own work, with XML & ExpressionEngine template examples. Need help? Get in touch at clearbold.com to book an import to your database from WordPress or EE.	PHP	28	60	6	60
+NameDatabases	enorvelle/NameDatabases	15067042	Text databases of last names from various countries	null	1620	59	37	59
+spring-boot-oauth2	rajithd/spring-boot-oauth2	44375034	Spring Boot Oauth2 with H2 database	Java	0	59	66	59
+ebib	joostkremers/ebib	1207060	A BibTeX database manager for Emacs.	Emacs Lisp	6022	59	16	59
+lua-db	cloudwu/lua-db	4073618	A database shared data among multi-states .	C	73	59	14	59
+jpug-doc	pgsql-jp/jpug-doc	21112786	PostgreSQL database manual Japanese translation by Japan PostgreSQL Users Group	C	246169	59	25	59
+sqlite-analyzer	novoda/sqlite-analyzer	16004885	Code generation for Java/Android database access.	Java	4960	59	6	59
+Aurinko	HouzuoGuo/Aurinko	5397187	Aurinko - a document database engine implementation in Clojure	Clojure	1727	59	5	59
+resourcer	cloudhead/resourcer	644931	a resource-oriented object-relational mapper for document databases	JavaScript	2107	59	6	59
+read_from_slave	sdsykes/read_from_slave	240519	Read_from_slave for Rails enables database reads from a slave database, while writes continue to go to the master	Ruby	153	59	8	59
+PyTd	Teradata/PyTd	38783612	A Python Module to make it easy to script powerful interactions with Teradata Database in a DevOps friendly way.	Python	195	59	16	59
+FieldDB	FieldDB/FieldDB	3602598	An offline/online field database which adapts to its user's terminology and I-Language.  http://fielddb.github.io	JavaScript	147976	59	39	59
+tds_fdw	tds-fdw/tds_fdw	14243858	A PostgreSQL foreign data wrapper to connect to TDS databases (Sybase and Microsoft SQL Server)	C	342	59	17	59
+pgdiff	joncrlsn/pgdiff	23818355	Compares the PostgreSQL schema between two databases and generates SQL statements that can be run manually against the second database.	Go	67360	59	5	59
+Node.VaSH	G33kLabs/Node.VaSH	5664946	VaSh is a content manager aka a blog engine powered by node.js and Redis. All is driven by memory cache (static content + database) so it's really really... really fast !	JavaScript	1719	59	15	59

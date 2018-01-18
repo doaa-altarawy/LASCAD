@@ -1,0 +1,1003 @@
+name	full_name	id	description	language	size	watchers	forks	stargazers_count
+Rocket.Chat	RocketChat/Rocket.Chat	35866694	Have your own Slack like online chat, built with Meteor.	JavaScript	55741	8763	1855	8763
+lets-chat	sdelements/lets-chat	3673976	Self-hosted chat app for small teams	JavaScript	29405	8196	1215	8196
+zulip	zulip/zulip	43160685	Zulip server - powerful open source group chat	Python	123428	4050	681	4050
+Atlas-iOS	layerhq/Atlas-iOS	24773666	Chat and Messaging UI components for iOS, built to work with Layer	Objective-C	42505	3292	450	3292
+quietnet	Katee/quietnet	14050203	Simple chat program using inaudible sounds and a computer's microphone and speaker.	Python	1980	2730	195	2730
+p2pvc	mofarrell/p2pvc	30442211	A point to point color terminal video chat.	C	12824	2668	207	2668
+ssh-chat	shazow/ssh-chat	27796175	Chat over SSH.	Go	514	2585	189	2585
+friends	moose-team/friends	34597195	:tv: P2P chat powered by the web.	JavaScript	1924	2568	262	2568
+Chatto	badoo/Chatto	46873579	A lightweight framework to build chat applications, made in Swift	Swift	2031	2282	244	2282
+Balloons.IO	rickyrauch/Balloons.IO	2320353	Balloons.IO is a web multi-room chat server and client ready to use. It’s built with the help of node.JS, Express, Socket.IO and Redis. Balloons uses PassportJS for authentication with Twitter and Facebook	CSS	15751	2273	534	2273
+FirebaseChat	relatedcode/FirebaseChat	19993354	This is a full native iPhone app to create realtime, text based group or private chat with Firebase.	Objective-C	183854	2122	518	2122
+ChatSecure-iOS	ChatSecure/ChatSecure-iOS	2195601	ChatSecure is a free and open source encrypted chat client for iPhone and Android that supports OTR encryption over XMPP.	Objective-C	46227	2097	806	2097
+yakyak	yakyak/yakyak	36730484	Desktop chat client for Google Hangouts	CoffeeScript	12495	2055	142	2055
+hack.chat	AndrewBelt/hack.chat	38568813	a minimal, distraction-free chat application	JavaScript	3721	1804	255	1804
+converse.js	jcbrand/converse.js	5132476	Web-based XMPP/Jabber chat client written in javascript	JavaScript	26795	1550	386	1550
+react-native-gifted-chat	FaridSafi/react-native-gifted-chat	46180504	💬 The most complete chat UI for React Native	JavaScript	23941	1515	335	1515
+UUChatTableView	ZhipingYang/UUChatTableView	28767324	Cocoa UI component for group or private chat bubbles with text, images and audio support	Objective-C	22525	1455	384	1455
+JabbR	JabbR/JabbR	2292256	Collaborative chat done right	C#	45745	1307	589	1307
+firechat	firebase/firechat	10062699	Real-time Chat powered by Firebase	JavaScript	947	1242	655	1242
+candy	candy-chat/candy	2153528	JavaScript-based multi-user chat client for XMPP.	JavaScript	6844	1211	365	1211
+kandan	cloudfuji/kandan	3639793	A Cloudfuji chat application	JavaScript	1946	1072	134	1072
+qTox	qTox/qTox	21179164	Powerful Tox chat client that follows the Tox design guidelines.	C++	28360	1065	307	1065
+facebook-tunnel	matiasinsaurralde/facebook-tunnel	14995356	Tunneling Internet traffic over Facebook chat.	Groff	1983	1064	56	1064
+jitsi	jitsi/jitsi	9653752	Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, AIM/ICQ, IRC, Yahoo! and many other useful features.	Java	477294	1055	399	1055
+teleport	gravitational/teleport	31558937	SSH infrastructure for clusters and teams. Want to chat/see a demo? mailto:info@gravitational.com	Go	28981	1036	47	1036
+errbot	errbotio/errbot	4387547	Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.	Python	6707	961	206	961
+bubbles-for-android	txusballesteros/bubbles-for-android	38301136	Bubbles for Android is an Android library to provide chat heads capabilities on your apps. With a fast way to integrate with your development.	Java	6255	953	160	953
+RealtimeChat	relatedcode/RealtimeChat	17553516	This is a full native iPhone app to create realtime, text based group or private chat with Firebase.	Objective-C	197125	911	244	911
+UIBubbleTableView	AlexBarinov/UIBubbleTableView	5168284	Cocoa UI component for chat bubbles with avatars and images support	Objective-C	1309	895	258	895
+superscript	superscriptjs/superscript	25759258	A dialogue engine for creating chat bots	JavaScript	2462	829	101	829
+weechat	weechat/weechat	17359210	The extensible chat client.	C	123426	778	126	778
+angular2-rxjs-chat	ng-book/angular2-rxjs-chat	42195451	Example Chat Application using RxJS and Angular 2	TypeScript	2215	778	182	778
+mogo-chat	HashNuke/mogo-chat	16017872	Beautiful team chat app written in Elixir & Ember.js	JavaScript	7104	757	69	757
+ru-tech-chats	mr-mig/ru-tech-chats	24716325	This repo contains a list of various russian-speaking tech chats. Русскоязычные IT-чаты. Их есть у нас. Налейтай, торопись!	JavaScript	3472	751	105	751
+socket.io-android-chat	nkzawa/socket.io-android-chat	29067782	A simple chat demo for socket.io and Android	Java	151	713	303	713
+livehelperchat	LiveHelperChat/livehelperchat	7068587	Live Helper Chat - live support for your website. Featuring web and desktop clients. Compatible Windows, Linux, Mac. Desktop client powered by QT. Supports mobile phones based on XMPP service providers (GTalk, Xabber, Mono etc.), MySQL, PostgreSQL	PHP	115263	704	284	704
+imsg	chrisfsampaio/imsg	16753614	Chat using iMessage from your terminal!	Ruby	648	684	53	684
+map-chat	idoco/map-chat	37081848	A super simple location based chat	JavaScript	1225	652	96	652
+niltalk	knadh/niltalk	33849718	A multi-room disposable chat service written in Go that uses WebSockets for live communication.	Go	271	611	42	611
+apprtc	webrtc/apprtc	30257092	The video chat demo app based on WebRTC	JavaScript	4922	601	331	601
+Magnet	premnirmal/Magnet	22062596	A library that makes it very simple to create a window icon, similar to Facebooks chat icon.	Java	2614	585	87	585
+claudia-bot-builder	claudiajs/claudia-bot-builder	60166854	Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes	JavaScript	243	582	39	582
+vmux	malditogeek/vmux	10974239	Secure P2P text, audio and video chats in your browser.	JavaScript	2865	573	74	573
+scrollback	scrollback/scrollback	11632485	Embeddable cross-platform chat for communities	JavaScript	57847	566	160	566
+ppmessage	PPMESSAGE/ppmessage	52568089	PPMessage - Open Source, Plug and Play Online Customer Service, Live WebChat, Web LiveChat, Instant Message, Colleague Chat, iOS/Android In-App Mobile Messaging SDK, Intercom Alternative, Implemented with Python	JavaScript	41037	549	251	549
+vue-chat	Coffcer/vue-chat	41623844	chat example by vue.js + vuex + webpack	Vue	904	522	159	522
+vines	negativecode/vines	1719844	An XMPP chat server for Ruby.	Ruby	1920	493	76	493
+SPHChatCollectionView	sibahota059/SPHChatCollectionView	20833001	SPHChatCollectionView to use in chat screens. (Supports iOS 8)	Objective-C	4421	475	97	475
+ChatMessageView	himanshu-soni/ChatMessageView	42010332	Android library to create chat message view easily	Java	213	464	87	464
+Whatsie	Aluxian/Whatsie	39096505	A simple & beautiful desktop client for WhatsApp Web. Chat without distractions on OS X, Windows and Linux.	JavaScript	39011	464	73	464
+cog	operable/cog	49292670	Bringing the power of the command line to chat	Elixir	2651	463	32	463
+meatspace-chat	meatspaces/meatspace-chat	11642975	Chat with WebRTC, LevelDB and Sockets	JavaScript	7556	434	123	434
+gAES	nicolas-t/gAES	10139563	Encrypt your google chats and make the NSA sad	JavaScript	217	422	34	422
+Emoticons-Keyboard	chiragjain/Emoticons-Keyboard	9693658	A custom keyboard for emoticons for android chatting application	Java	2162	419	148	419
+Chateau	badoo/Chateau	54478052	Chateau is a framework for adding (or improving) chat functionality in any Android app	Java	621	412	48	412
+convos	Nordaaker/convos	14822868	Better group chat	Perl	38267	410	33	410
+cryptocat	cryptocat/cryptocat	54987227	Secure chat software for your computer.	JavaScript	4186	407	48	407
+echoplexus	qq99/echoplexus	10426475	Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls	CoffeeScript	3743	399	54	399
+apprtc-ios	ISBX/apprtc-ios	31817869	A native iOS video chat app based on WebRTC	Objective-C	86236	398	156	398
+sse-chat	matthiasn/sse-chat	10632790	Chat example app using Server Sent Events plus REST calls. Scala, Play Framework 2.3, AngularJS or React (alternatively).	Scala	4015	368	84	368
+react-redux-socketio-chat	raineroviir/react-redux-socketio-chat	39976049	Full Stack Chat Application	JavaScript	15486	362	72	362
+miaou	Canop/miaou	14402252	A chat server with OAuth2 authentication, persistent and searchable history, video and audio, markdown formatting, private and public rooms, stars, votes, embedded games, and many other features	JavaScript	17219	361	56	361
+AJAX-Chat	Frug/AJAX-Chat	242104	A fully customizable web chat implemented in JavaScript, PHP and MySQL which integrates nicely with common forum systems like phpBB, MyBB, FluxBB, SMF and vBulletin. A Flash and Ruby based socket connection can be used to boost performance.	PHP	4013	361	226	361
+onetimesecret	onetimesecret/onetimesecret	7913195	Keep sensitive info out of your email & chat logs.	Ruby	923	354	50	354
+Uther	callmewhy/Uther	41310520	Chat with the cute alien, help you make a memorandum!	Swift	9451	353	72	353
+emesene	emesene/emesene	453289	emesene is an instant messenger capable of connecting         to various networks and utilizing different graphical toolkits.         Currently msn and jabber are supported through papyon and xmppy,         which allows emesene to connect to various IM services such as         Windows Live Messenger, GTalk, Facebook Chat, etc.	Python	49885	347	182	347
+slackbot	lins05/slackbot	31001580	A chat bot for Slack (https://slack.com).	Python	303	341	140	341
+NoChat	little2s/NoChat	60194742	A lightweight chat UI framework for iOS.	Swift	1923	341	17	341
+redispubsub	rajaraodv/redispubsub	7288336	A Node.js chat app using Express, Redis Pub/Sub + Redis SessionStore + Socket.io + Socket.Sessions that shows scaling on Cloud foundry	JavaScript	1425	340	117	340
+SpaceTalk	SpaceTalk/SpaceTalk	35594697	An open-source chat app built with Meteor  	JavaScript	2354	337	168	337
+jitsi-android	jitsi/jitsi-android	10172626	Jitsi for Android is an Android port of the Jitsi project: The most feature-rich communicator with support for encrypted audio/video, chat and presence over SIP and XMPP	Java	71441	330	210	330
+friendlychat	firebase/friendlychat	57147380	The source for the Firebase codelab for building a cross-platform chat app	Java	915	321	280	321
+node-chat	IgorAntun/node-chat	32431493	Node.JS Chat Application	JavaScript	766	294	119	294
+SwiftParseChat	huyouare/SwiftParseChat	31114110	An Example iOS Chat Application with Parse, written in Swift	Swift	33091	294	74	294
+technode-tutorial	island205/technode-tutorial	14816619	Tutorial on building chat app with node.js, socket.io and angular.js.	JavaScript	2166	289	142	289
+im	loqui/im	9730278	Loqui IM allows you to have all your chat accounts in just one FirefoxOS and Ubuntu Touch app.	JavaScript	11490	272	102	272
+lambda-chat	cloudnative/lambda-chat	34355134	A chat application without servers - using only AWS Lambda, S3, DynamoDB and SNS	HTML	318	268	42	268
+phpfreechat	kerphi/phpfreechat	936006	phpfreechat is a simple web based chat	CSS	7353	267	156	267
+nodejs-socketio-chat	plhwin/nodejs-socketio-chat	20517353	A simple chat demo by using Node.js and Socket.IO	CSS	24	266	226	266
+chat.io	OmarElGabry/chat.io	67064102	A Real Time Chat Application built using Node.js, Express, Mongoose, Socket.io, Passport, & Redis.	JavaScript	593	266	43	266
+vumi	praekelt/vumi	1081665	Messaging engine for the delivery of SMS, Star Menu and chat messages to diverse audiences in emerging markets and beyond.	Python	17398	265	97	265
+jupyter	jupyter/jupyter	36895421	Jupyter metapackage for installation, docs and chat	Python	4382	263	96	263
+Applozic-Android-SDK	AppLozic/Applozic-Android-SDK	40528381	Android Real Time Chat & Messaging SDK	Java	6959	262	86	262
+Chaty	LunarFlash/Chaty	51722642	Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching	Swift	28138	260	49	260
+chat	lzyy/chat	2651457	a live chat built with python(flask + gevent + apscheduler) + redis	Python	176	256	105	256
+NadekoBot	Kwoth/NadekoBot	47451260	General purpose discord chat bot written in C# using Discord.net library.	C#	63168	256	262	256
+Yaaic	pocmo/Yaaic	212769	Yaaic (Yet Another Android IRC Client) is as the name already says an Internet Relay Chat (IRC) client for Android devices.	Java	5749	256	104	256
+BLEMeshChat	chrisballinger/BLEMeshChat	25056359	Bluetooth LE Mesh Chat for iOS and Android	Objective-C	664	255	58	255
+tinder	collectiveidea/tinder	376	Tinder is a Ruby API for interfacing with Campfire, the 37Signals chat application.	Ruby	379	255	96	255
+twich	isaacsu/twich	694674	node.js + php realtime browser-based chat app supporting multiple rooms. Based on ry/node_chat.	PHP	590	252	23	252
+PHPWebSocket-Chat	Flynsarmy/PHPWebSocket-Chat	3448862	Flexable and extensible WebSocket chat application example with a PHP server.	PHP	16	250	192	250
+HiChat	wayou/HiChat	14868548	A chat application built with Node.js and Websocket	JavaScript	694	249	183	249
+blogChat	barretlee/blogChat	63919881	Chat room source code for Barret Lee's Personal Blog.	HTML	492	247	66	247
+slackcat	rlister/slackcat	17043270	Upload files to Slack chat from the command-line.	Ruby	35	241	18	241
+webrtc.io-demo	webRTC-io/webrtc.io-demo	5247794	webrtc.io multi user chat demo. Highly experimental technology	JavaScript	248	240	265	240
+firechat-ios	firebase/firechat-ios	7009666	An example chat application built using the Firebase iOS SDK	Objective-C	8788	237	112	237
+orbit	haadcode/orbit	45555371	Distributed peer-to-peer chat application on IPFS	JavaScript	29521	236	22	236
+SimpleChat	LoganWright/SimpleChat	17854972	An Easy To Use Bubble Chat Interface 	Swift	390	235	60	235
+workerman-chat	walkor/workerman-chat	17505194	Websocket chat room written in PHP based on workerman.	PHP	1467	232	194	232
+Atlas-Android	layerhq/Atlas-Android	36491008	Library of native Android chat and messaging UI components, built to work with Layer	Java	11942	224	128	224
+akka-http-scala-js-websocket-chat	jrudolph/akka-http-scala-js-websocket-chat	34672342	An example app that integrates akka-http and scala-js to implement a websocket chat	Scala	479	223	34	223
+Atlas-Messenger-iOS	layerhq/Atlas-Messenger-iOS	20731121	Example messenger / chat app for iOS using Atlas and Layer	Objective-C	49432	222	50	222
+bitlbee	bitlbee/bitlbee	29792084	An IRC to other chat networks gateway :bee:	C	7307	217	60	217
+twitch-plays	aidanrt/twitch-plays	16897667	Twitch IRC bot that takes input from the chat and presses the corresponding key.	Python	7872	217	55	217
+hal	danryan/hal	21109642	A chat bot in Go.	Go	160	214	21	214
+OpenTokRTC	opentok/OpenTokRTC	13874438	WebRTC Demo using OpenTok's WebRTC library for video and OpenTok signaling for live chat	CSS	4506	214	107	214
+jsxc	jsxc/jsxc	15901046	Real-time chat app	JavaScript	22195	213	94	213
+gochatapp	vinceprignano/gochatapp	20485718	A Golang and Angular.js chat application using socket.io	JavaScript	1811	213	40	213
+jschat	alexyoung/jschat	182270	JSON-based chat that has web and console clients, and a server	JavaScript	439	210	32	210
+jquery-chat	lovelle/jquery-chat	23799675	100% Javascript realtime chat like facebook/gmail web style built with jQuery + Node.js + Socket.IO	JavaScript	5056	208	98	208
+echowaves	dmitryame/echowaves	58099	Social Group Chat 	JavaScript	37042	207	34	207
+pagerbot	stripe-contrib/pagerbot	22235681	Manage Pagerduty on-call schedules from within your internal chat channels.	Ruby	707	196	44	196
+live-chat-engine	edolganov/live-chat-engine	34076630	The engine for live chats with customers	Java	25091	193	41	193
+BotLibre	BotLibre/BotLibre	43274159	An open platform for artificial intelligence, chat bots, virtual agents, social media automation, and live chat automation.	Java	21144	192	47	192
+aws-lambda-zombie-workshop	awslabs/aws-lambda-zombie-workshop	53536939	Code and walkthrough labs to set up a serverless chat application for the Zombie Apocalypse Workshop	JavaScript	22105	191	116	191
+meteor-chat-tutorial	sebdah/meteor-chat-tutorial	11468106	Example Meteor chat application supporting GitHub authentication.	JavaScript	155	190	45	190
+Ybot	OtpChatBot/Ybot	7576377	Ybot - is a helpful chat robot written with Erlang which supports different messaging protocols. [@0xAX]	Erlang	1847	190	39	190
+spring-websocket-chat	salmar/spring-websocket-chat	23768890	Chat application using Spring WebSockets	JavaScript	4182	189	126	189
+springy-heads	flipkart-incubator/springy-heads	30913821	Chat heads library for android	Java	5582	188	54	188
+chatofpomelo	NetEase/chatofpomelo	6778612	chat application of pomelo	JavaScript	547	187	162	187
+slackbot	trinchan/slackbot	16939767	Simple, pluggable bot framework for Slack chat.	Go	171	187	37	187
+node-chat	scottgonzalez/node-chat	570155	Chat server built on node	JavaScript	432	186	61	186
+Android-Chat-Widget	ijarobot/Android-Chat-Widget	27618876	An Android Chat Widget, like WhatsApp \ Line \ WeChat	Java	3232	184	91	184
+deadchat	jeztek/deadchat	10837329	group chat with end-to-end encryption	Python	238	183	16	183
+miniircd	jrosdahl/miniircd	2278633	A very simple Internet Relay Chat (IRC) server	Python	254	181	56	181
+ionic-firebase	mappmechanic/ionic-firebase	29100903	Real Time multi person Chat App using Ionic & Firebase	JavaScript	1801	178	145	178
+chatter	bocoup/chatter	57911407	A collection of useful primitives for creating interactive chat bots.	JavaScript	187	175	6	175
+chatDemo	dmendels/chatDemo	4034924	iOS - iPhone, chat room demonstration using Parse.com	Objective-C	2536	173	83	173
+nullchat	mattfeldman/nullchat	25413370	a rich self-host meteor chat application	JavaScript	5647	172	28	172
+BubbleImageView	baoyongzhang/BubbleImageView	22008187	chat bubble imageview	Java	4023	170	55	170
+zabbix-slack-alertscript	ericoc/zabbix-slack-alertscript	15479462	Zabbix AlertScript for Slack.com chat	Shell	72	170	53	170
+rethinkdb-example-nodejs-chat	rethinkdb/rethinkdb-example-nodejs-chat	7696840	A node.js chat application running on rethinkdb	CSS	1244	167	62	167
+whatsapp-viewer	andreas-mausch/whatsapp-viewer	18067526	Small tool to display chats from the Android msgstore.db.crypt5, .crypt7 and .crypt8 database	C	3387	164	96	164
+chat	tegioz/chat	6013898	Simple Chat built with Node.js, Socket.io, Express & Redis (+ client built with Bootstrap)	JavaScript	171	162	103	162
+xmpp-chat	szimek/xmpp-chat	2159678	Facebook chat clone written using Strophe.js and Ember.js	JavaScript	999	161	46	161
+hapi-socketio-redis-chat-example	dwyl/hapi-socketio-redis-chat-example	38606647	:speech_balloon: Real-time Chat using Hapi.js + Socket.io + Redis Pub/Sub (example + tests!!)	JavaScript	113	161	44	161
+jegarn	Yaoguais/jegarn	38095054	chat system by swoole and redis	PHP	11901	156	53	156
+Brief	miekd/Brief	1135788	Brief is a Chat Style for Skype 5 on OS X.	JavaScript	745	156	31	156
+PeerChat	Hironate/PeerChat	18450618	PeerChat is a small Project for Audio/Video Chat Using Node.js and Socket.io	JavaScript	282	156	83	156
+SPHChatBubble	sibahota059/SPHChatBubble	13767721	Sphchatbubble to use in chat screens.	Objective-C	942	154	42	154
+BasicChatUIOnAppleWatch	WeeTom/BasicChatUIOnAppleWatch	32511470	This is a simple demo for those who want to make apps chatting on apple watch	Objective-C	1773	152	22	152
+q-municate-android	QuickBlox/q-municate-android	20729728	Qmunicate Android chat application	Java	183408	150	123	150
+heartbot	digitalocean/heartbot	30431365	A shot of love for your favorite chat client.	CoffeeScript	431	149	43	149
+Node.js-Chat	geekuillaume/Node.js-Chat	4054135	A good-looking Node.js + Socket.io chat application, built with Bootstrap and other beautiful libs. Totally commented.	CSS	216	148	143	148
+speed-monitor	jacted/speed-monitor	67522391	Website performance reports for Slack, Rocket.chat & Mattermost using performance.timing	JavaScript	253	146	4	146
+Rocket.Chat.iOS	RocketChat/Rocket.Chat.iOS	40144228	Rocket.Chat Native iOS Application	Swift	2426	145	60	145
+raspchat	maxpert/raspchat	48005353	A chat server that can run on Raspberry Pi	JavaScript	4526	145	22	145
+victor	brettbuddin/victor	4540472	Chat bots in Go (unmaintained)	Go	228	144	29	144
+CrossChat-Xamarin.Forms	EgorBo/CrossChat-Xamarin.Forms	20397977	A chat application implemented using Xamarin.Forms and DDD + MVVM	C#	42088	144	68	144
+ReactJS-Realtime-Chat	DanialK/ReactJS-Realtime-Chat	10718341	ReactJS and Socket.IO Chat Application	JavaScript	529	143	65	143
+ionic-socketio-chat-client	melvin0008/ionic-socketio-chat-client	32133770	Ionic Socketio Chat Application	JavaScript	11894	141	109	141
+Speeqe	thepug/Speeqe	504454	A multi-user chat application over XMPP.	JavaScript	970	139	48	139
+android-chat-starter	madhur/android-chat-starter	29390692	A starter project for Android chat application	C	4680	137	84	137
+brutal	Netflix/brutal	9533057	A multi-network asynchronous chat bot framework using twisted	Python	112	137	33	137
+BubbleControl-Swift	cemolcay/BubbleControl-Swift	27880117	a bubble control highly inspired from facebook chat heads. written in swift	Swift	610	137	24	137
+angularjs-socket-node-chat	hugodias/angularjs-socket-node-chat	7990294	A chat server/client using AngularJS, Socket.IO and NodeJS	JavaScript	4383	135	60	135
+hermes	mattlong/hermes	3578667	An XMPP-based group chat server.	Python	289	134	11	134
+chatapp	vinceprignano/chatapp	17317097	Flask and Angular.js Chat Application using Socket.io	JavaScript	1762	134	15	134
+chatjs	andrerpena/chatjs	24029242	Platform-independent jQuery plugin for chatting	TypeScript	175	133	77	133
+hector	sstephenson/hector	514547	A private group chat server for people you trust	Ruby	590	133	14	133
+tubertc	trailofbits/tubertc	26871872	Peer-to-Peer Video Chat for Corporate LANs	JavaScript	816	133	8	133
+FaceSlim	indywidualny/FaceSlim	28910578	Web App for Facebook. Lightweight, ad-free, chat support and modern look.	Java	48199	132	30	132
+Telegram-Site-Helper-2.0	Surzhikov/Telegram-Site-Helper-2.0	58129837	Little chat (based on Telegram BOT platform) for creating web site helper	PHP	230	130	26	130
+rust-chat	nbaksalyar/rust-chat	38826700	Simple chat service written in Rust, from scratch	Rust	40	128	22	128
+hubot-rocketchat	RocketChat/hubot-rocketchat	36918949	Rocket.Chat Hubot adapter	CoffeeScript	155	127	75	127
+ngircd	ngircd/ngircd	3093688	Free, portable and lightweight Internet Relay Chat server	C	13759	127	30	127
+toast	jchris/toast	208496	A real time CouchDB chat demo	JavaScript	340	126	17	126
+Skype4J	samczsun/Skype4J	38284637	Skype API written in Java. Does not support P2P chats	Java	1110	125	42	125
+redux-saga-chat-example	kuy/redux-saga-chat-example	57904867	A chat app built with redux-saga and Socket.IO.	JavaScript	11	124	14	124
+chatty	chatty/chatty	37807045	Twitch Chat Client written in Java	Java	8291	122	38	122
+rtcchat	mehrvarz/rtcchat	11321834	webrtc p2p chat go golang stun websocket	Go	608	122	14	122
+paper-chat	pubnub/paper-chat	28701818	A simple chat room in Material Design build with Polymer (Polymer 0.5)	HTML	1352	122	54	122
+go-steam	Philipp15b/go-steam	12357147	Steam's protocol in Go to allow automation of different actions on the Steam network without running an actual Steam client. Includes APIs for friends, chatting, trading, trade offers and TF2 crafting.	Go	1710	120	46	120
+FBMessageScraper	RaghavSood/FBMessageScraper	24599772	A python script to download facebook chats	Python	238	119	34	119
+Minecraft-Console-Client	ORelio/Minecraft-Console-Client	11496687	Lightweight console for Minecraft chat and automated scripts	C#	6508	118	68	118
+angular-bootstrap-simple-chat	irontec/angular-bootstrap-simple-chat	28599815	Simple AngularJS Chat Directive with Bootstrap	CSS	89	117	66	117
+how_to_build_your_own_team_chat_in_five_days	fdietz/how_to_build_your_own_team_chat_in_five_days	33870828	How to build your own team chat in five days blog series code 	CSS	1169	117	88	117
+hummingbird	alagu/hummingbird	7177145	Hummingbird is a opensource embeddable chat system. One line embed in your website with adium/pidgin support	JavaScript	330	117	20	117
+psitsmike_example_2	mmukhin/psitsmike_example_2	2648774	node.js and socket.io multiroom chat tutorial	JavaScript	132	114	76	114
+ChattAR-ios	QuickBlox/ChattAR-ios	4905326	Augmented Reality Chat for iOS code sample (works with Facebook API and QuickBlox API)	Objective-C	105151	114	82	114
+rabbitmq-chat	videlalvaro/rabbitmq-chat	1712848	A Web chat implemented with RabbitMQ and Websockets	JavaScript	270	113	21	113
+socket-chat-client	matiastucci/socket-chat-client	25850930	:calling: Socket.IO chat client	JavaScript	2453	112	58	112
+chat.io	DanielBaulig/chat.io	3773728	A simple chat solution build on socket.io	JavaScript	213	112	29	112
+telegram-history-dump	tvdstaaij/telegram-history-dump	44500093	Backup Telegram chat logs using telegram-cli	Ruby	111	111	23	111
+chat	jkbrzt/chat	3391997	A simple chat app created to experiment with Redis, Gevent, Flask & Server-Sent Events.  	Python	105	110	29	110
+feathers-chat	feathersjs/feathers-chat	53814041	A Feathers real-time chat application	JavaScript	680	107	37	107
+mini-chatter	DamirSvrtan/mini-chatter	19129301	100-lines of code Rack Chat App	Ruby	139	106	11	106
+Android-Speech-Bubble	AdilSoomro/Android-Speech-Bubble	6534840	android ListView with speech bubbles to demonstrate the implementation speech bubbles of chat and message in application.	Java	955	104	69	104
+subrosa-client	subrosa-io/subrosa-client	21339299	Secure, end to end encrypted messaging, voice and video chats.	JavaScript	3009	102	36	102
+wifi-direct-chat	life0fun/wifi-direct-chat	5488808	A peer to peer chat app through wifi direct using java nio channels	Java	940	102	122	102
+vidchat	nulltask/vidchat	3358728	Experimental browser based video chat implementation with Node + Socket.IO + WebRTC. (Still in progress!)	JavaScript	108	102	44	102
+qx-chat	coofly/qx-chat	21782958	This chat room is constructed by node.js socket.io and Bootstrap.	JavaScript	849	101	50	101
+jquery-titlealert	heyman/jquery-titlealert	128086	jQuery plugin for flashing messages in the browser title bar (i.e. chat message alerts)	JavaScript	642	101	25	101
+nodechat	jslatts/nodechat	1418781	using node.js, socket.io, backbone.js, and jade to make a chat app demo. Demo @ http://nodechat.no.de/	ActionScript	11287	101	13	101
+rabbitpubsub	rajaraodv/rabbitpubsub	7311289	An Express + Socket.io based chat app that uses Redis as session store & RabbitMQ for PubSub	JavaScript	1932	100	38	100
+PonyChatUIV2	PonyGroup/PonyChatUIV2	38607740	PonyChatUI is an easy to use Chatting Flow UI Library. It constructed on AsyncDisplayKit and WeChat Resource. You will find it really like WeChat.	Objective-C	1586	99	31	99
+reichat	kanreisa/reichat	29478608	A lovely paint chat application like a PaintChatApp built with Node.	JavaScript	162	99	11	99
+SImple-Chat-Server	mlakkadshaw/SImple-Chat-Server	4461470	Simple Chat Server using node.js with multiple dynamic rooms	JavaScript	222	97	16	97
+chatroom-cordova-ionic-angularjs-firebase	3dd13/chatroom-cordova-ionic-angularjs-firebase	14881734	Chat room app built with Cordova, Ionic and Angularjs	JavaScript	7850	96	56	96
+ralph	marbemac/ralph	22182223	Ralph is a chat app built with Meteor.	JavaScript	38425	95	19	95
+phoenix-react-native-mashup	skellock/phoenix-react-native-mashup	51647169	A sample chat app using React Native and Phoenix.	JavaScript	485	95	12	95
+ReactChat	mgechev/ReactChat	23076852	WebRTC chat with ReactJS	JavaScript	1226	93	24	93
+AsakusaSatellite	codefirst/AsakusaSatellite	1388205	a realtime chat application for developers	Ruby	3631	93	17	93
+uberchat	joshmarshall/uberchat	1750060	Just a little Node.JS chat room creator.	JavaScript	142	93	30	93
+angular-socketio-chat	krimple/angular-socketio-chat	18844860	A chat application written in AngularJS, Socket.IO, Node/Express and Bootstrap.  Feel free to fork/experiment.	ApacheConf	2874	93	94	93
+lcsk	dstpierre/lcsk	7730709	ASP.NET C# Live Support / Live Help chat app built on top of SignalR to offer support to website visitors.	JavaScript	53335	93	56	93
+echowaves.socialgroupchat	echowaves/echowaves.socialgroupchat	525309	Social Group Chat	Ruby	1608	92	12	92
+CHATS.iO	chrismatthieu/CHATS.iO	1448531	CHATS.iO - Node.JS powered social chat	JavaScript	7966	92	21	92
+DiscordBot	chalda/DiscordBot	43721925	A chat bot for discord app based off discord.js	JavaScript	168	92	84	92
+IrcDotNet	IrcDotNet/IrcDotNet	455524	IRC.NET is a complete IRC (Internet Relay Chat) client library for the .NET Framework 4.0 and Silverlight 4.0. It aims to provide a complete and efficient implementation of the protocol as described in RFCs 1459 and 2812, as well as de-facto modern features of the protocol.  The .NET Framework version of the library is also intended to compile and run under Mono 2.6 and later. Note: this branches hosted here are clones of the official branches hosted on Launchpad.	C#	3130	92	44	92
+simple-webrtc-video-chat	keithnorm/simple-webrtc-video-chat	7594978	A bare bones WebRTC video chat implementation 	JavaScript	191	91	44	91
+RouletteTok	jonmumm/RouletteTok	1896909	Chat roulette using Node.js, Socket.io, and OpenTok	JavaScript	152	91	21	91
+ZmqVideoChat	eggerdo/ZmqVideoChat	8460226	Android Video Chat Application with ZeroMQ an Node.js	Java	2016	91	44	91
+mad_chatter	andrewhavens/mad_chatter	2754082	Mad Chatter is a fun, easy to customize chat server written in Ruby utilizing HTML 5 Web Sockets	JavaScript	979	91	14	91
+Ionic-Chat	mhartington/Ionic-Chat	22259153	simple ionic chat example	JavaScript	2800	89	35	89
+ws42-chat	themgt/ws42-chat	8700244	Demo realtime chat with Rails 4 + Ruby 2 + WebSockets	Ruby	108	89	65	89
+DBChatAvatarSample	medinaonly/DBChatAvatarSample	30117790	Sample for DBChatAvatarView - a control, which allow you to create group avatar for a chat. 	Objective-C	2050	89	10	89
+Spika	cloverstudio/Spika	41789471	Spika is universal chat module with backend, web, ios and Android client.	Java	27212	88	66	88
+AndroidChatBubbles	warting/AndroidChatBubbles	4520484	Sample project how to display chat bubbles	Java	357	87	57	87
+cramp_chat_demo	akitaonrails/cramp_chat_demo	468416	Bare bone chat demo using @lifo's Cramp	JavaScript	1144	87	12	87
+Flask-SocketIO-Chat	miguelgrinberg/Flask-SocketIO-Chat	20952634	A simple chat application that demonstrates how to structure a Flask-SocketIO application.	Python	9	86	39	86
+FacebookChat	KanybekMomukeyev/FacebookChat	3207127	Facebook chat over XMPPFramework	Objective-C	3453	85	44	85
+fbchat	carpedm20/fbchat	34165498	Facebook Chat (Messenger) for Python	Python	54	85	34	85
+hermes	segmentio/hermes	19563112	A friendly, pluggable chat bot.	JavaScript	67493	84	1	84
+yetibot	devth/yetibot	2977472	:electric_plug: Extreme chatops, where chat ∈ {irc,slack}	Clojure	1355	82	18	82
+slack-chat	improvi/slack-chat	32686417	A support chat feature for your website that integrates with #Slack	JavaScript	777	82	28	82
+PyPunchP2P	laike9m/PyPunchP2P	17889262	Python实现NAT穿透+STUN+TURN+P2P聊天 | Python P2P chat	Python	23	80	61	80
+relay-chat	transedward/relay-chat	40604380	an chat example showing Relay with routing and pagination	JavaScript	190	80	9	80
+cockatoo	novelys/cockatoo	617648	Cockatoo is a simple chat server coded with EventMachine and using the Long Polling technique	JavaScript	140	80	3	80
+simplechat	zquestz/simplechat	5200319	Simple chat client written in meteor	JavaScript	218	79	13	79
+songroll-sky	ReneMoraales/songroll-sky	22399008	Meteor experiment. Real-time video playlists. Watch together and chat. 	CSS	2533	79	26	79
+braid	braidchat/braid	49294621	An new approach to group chat, focused around conversations and tags instead of rooms. Open-source. Clojure(script).	Clojure	2744	79	8	79
+express-chat	Tug/express-chat	638042	express-chat is a chat application built on Node.js, Express and MongoDB. Demo :	JavaScript	5015	78	30	78
+mean-chat	DaftMonk/mean-chat	16680056	Simple Chat app using Socket.IO, MongoDB, Express, Angular, and NodeJS.	JavaScript	183	78	52	78
+MessageBox-olde	b3ll/MessageBox-olde	9705772	Chat Heads everywhere in iOS!	Objective-C	4304	78	11	78
+deuxdrop	mozilla/deuxdrop	1322601	 Deuxdrop is a secure messaging system designed for mobile phones and desktops. The messaging protocol is distributed similar to email but built with real security/identity and contact addressing similar to chat systems like jabber.	JavaScript	7253	78	11	78
+fiora	yinxin630/fiora	51762221	A web chat application power by koa and react.	JavaScript	2060	77	22	77
+nchat	irrationalistic/nchat	27783397	Quickly spin up new chat servers and clients wherever you'd like	JavaScript	306	77	6	77
+ascii-chat	zfogg/ascii-chat	14573802	ASCII video chat.	C	129	76	5	76
+hubot-flowdock	flowdock/hubot-flowdock	2772575	Flowdock adapter for Hubot chat bot	CoffeeScript	75	76	51	76
+django-chatrooms	qubird/django-chatrooms	2986766	A django app providing reverse-ajax chat rooms. Based on gevent.	Python	210	76	21	76
+iOS-nodechat	honcheng/iOS-nodechat	1714880	iOS chat client for socket.io & node.js backend	Objective-C	852	76	23	76
+rechat	pencil/rechat	22064005	Adds chat messages from the past to your favorite Twitch VODs	JavaScript	316	76	14	76
+confer	dazzz1er/confer	34469561	Easy real-time chat for laravel 5 based websites and applications	PHP	124	75	33	75
+slackbotsy	rlister/slackbotsy	16925060	Ruby bot for Slack chat, inspired by botsy.	Ruby	330	75	12	75
+JDA	DV8FromTheWorld/JDA	47880207	Java REST wrapper for the popular chat & VOIP service: Discord. https://discordapp.com/	Java	20906	75	30	75
+Pusher-chat---jQuery-plugin	html5-ninja/Pusher-chat---jQuery-plugin	6633547	Pusher Chat -  jQuery plugin, is a Facebook like chat using  Pusher API	JavaScript	382	74	60	74
+chatzilla	callmephilip/chatzilla	12851163	A step by step tutorial to create a simple realtime chat running on Heroku	CSS	636	74	22	74
+django-realtime-playground	FZambia/django-realtime-playground	7482573	Django chat application using different realtime technologies.	JavaScript	642	73	10	73
+pusher-realtime-chat-widget	pusher-community/pusher-realtime-chat-widget	3161639	Example Realtime Chat Widget that can be added to any web page or app.	HTML	411	73	65	73
+AdiumCampfire	mstepniowski/AdiumCampfire	1180791	A plugin for Adium adding support for 37signals' Campfire chat	Objective-C	895	73	13	73
+weechat.el	the-kenny/weechat.el	7948181	Chat via weechat's relay protocol in Emacs	Emacs Lisp	592	72	20	72
+Tornado-Redis-Chat	nellessen/Tornado-Redis-Chat	17210384	A mutli-room chat application based on Tornado and Redis	Python	184	72	19	72
+chatty	Joseph-N/chatty	22449516	Chatty is a Gmail like instant chat application implemented in rails using private_pub gem	Ruby	308	72	84	72
+chat-room	keithyong/chat-room	31462020	Chat room built with Reactjs, backend with nodejs, socket.io, and postgresql.	JavaScript	580	72	13	72
+0fc	cossacklabs/0fc	49861319	Anonymous web chat server, built on top of Themis/WebThemis	C++	8443	72	6	72
+hackview	sdslabs/hackview	5456290	webRTC based multi-person video chat with a collaborative editor.	JavaScript	4619	71	20	71
+CouchChat-iOS	couchbaselabs/CouchChat-iOS	8226886	Couchbase Lite demo app for iOS: A chat client	Objective-C	8419	70	25	70
+BLEMeshChat	OnlyInAmerica/BLEMeshChat	25107020	Android client for iOS to Android chat application over Bluetooth LE, using Android L APIs	Java	1182	70	30	70
+Concierge	concierge/Concierge	39051419	Modular chat bot. (Karma + Sassy) * (Facebook + Slack) - Hipchat = Kassy	JavaScript	5017	69	24	69
+node-steam-chat-bot	Steam-Chat-Bot/node-steam-chat-bot	11993347	Simplified interface for a steam chat bot	JavaScript	4136	69	30	69
+websocket-golang-chat	domluna/websocket-golang-chat	6589535	Simple chat using golang and websockets	Go	116	68	23	68
+cryptochat	mateogianolio/cryptochat	41878241	Encrypted P2P chat over ICMP.	JavaScript	263	68	4	68
+BubblePainter	kethinov/BubblePainter	20875787	Customize the chat bubbles in Messages.app.	JavaScript	2635	68	3	68
+Botnak	Gocnak/Botnak	11889412	A Java-based IRC chat client with focus on Twitch.tv streams.	Java	4124	67	37	67
+ionic-socket.io-redis-chat	jbavari/ionic-socket.io-redis-chat	20821346	Quick project demonstrating how to use Socket.io / Redis / and Ionic to have a simple chat applications with expiring messages	JavaScript	16136	67	31	67
+s-chat-app	juliancwirko/s-chat-app	53350647	SimpleChat.Support - Open Source Live Chat App	HTML	498	65	18	65
+FTChatMessageDemoProject	liufengting/FTChatMessageDemoProject	54000690	FTChatMessageDemoProject, a chat message UI framework written in swift. Not quite finished.	null	20384	65	12	65
+react-chat-app	tonyspiro/react-chat-app	50320316	A basic real time chat app using React, Socket.io and Cosmic JS	JavaScript	3121	65	8	65
+flowchat	tchoulihan/flowchat	58781449	A live updating, threaded chat platform with voting.	Java	671	64	6	64
+socketchat	addyosmani/socketchat	1912243	SocketChat - a beginners chat app using SocketStream	CSS	959	63	12	63
+mattermost_bot	LPgenerator/mattermost_bot	50744362	MatterBot - A chat bot for MatterMost (http://www.mattermost.org).	Python	66	63	16	63
+ircd-hybrid	ircd-hybrid/ircd-hybrid	15657361	A lightweight, high-performance internet relay chat daemon.	C	17571	62	18	62
+StyledChatDemo	xxhp/StyledChatDemo	8377487	The StyledChatDemo is a chat bubble demonstration project inspired by the open source Adium.The demo adapted the Adium's Renkoo message style,supported dynamically changing the style variant.	Objective-C	907	62	23	62
+awesome-chatbot	shaohua/awesome-chatbot	55324252	A collection of awesome things regarding chat bots	null	5	61	9	61
+Rocket.Chat.Ops	RocketChat/Rocket.Chat.Ops	41602717	Integrate your apps to Rocket.Chat !  Powered by Hubot.	JavaScript	110	60	16	60
+hacktunnel	ro31337/hacktunnel	39668571	HackTunnel is web-based peer-to-peer chat software for anonymous and encrypted communication written with Go language	JavaScript	186	60	4	60
+Chats-iPhone-Client	acani/Chats-iPhone-Client	36118870	Component of Chats	Swift	3713	59	17	59
+sociochat	kryoz/sociochat	18521023	A chat based on WebSockets/ReactPHP	PHP	1850	59	12	59
+League-of-Legends-XMPP-Chat-Library	TheHolyWaffle/League-of-Legends-XMPP-Chat-Library	16573743	A Java 7 XMPP API to chat and interact with the League of Legends ChatServers.	Java	9298	59	27	59
+meatspace-android	RomainPiel/meatspace-android	14050765	Chat for Android with gif generation and more...	Java	2098	59	4	59
+swift-chat	sagesse-cn/swift-chat	42762428	a swift chat ui	Swift	96562	58	15	58
+discord-rs	SpaceManiac/discord-rs	46972425	Rust library for the Discord chat client API	Rust	508	58	11	58
+loading-dots	EyalBira/loading-dots	47453762	Customizable bouncing dots for smooth loading effect. Mostly used in chat bubbles to indicate the other person is typing.	Java	1913	58	18	58
+rethinkdb-chat	thejsj/rethinkdb-chat	30836000	A simple chat applications built with RethinkDB + Sockets	JavaScript	858	57	13	57
+Chattr	kidGodzilla/Chattr	22941274	iOS, JavaScript, Firebase & Framework7 Chat App	JavaScript	309	56	26	56
+sock-chat	ngauthier/sock-chat	11552581	Demo of Tubesock and Redis for threaded chatting	Ruby	46	55	19	55
+webrtc-video-chat	mgiuliani/webrtc-video-chat	8171664	WebRTC and SignalR Video Chat	JavaScript	1195	55	67	55
+minichat	sdiehl/minichat	3245019	Minimal realtime chat application ( Tutorial )	Python	111	55	27	55
+sailsChat	sgress454/sailsChat	16531167	An example chat application demonstrating sockets, pubsub and associations	HTML	275	55	53	55
+back-channeling	kawasima/back-channeling	37636008	A thread floating typed chat system.	Clojure	1306	55	4	55
+ragechats	ragechats/ragechats	2339330	Reddit themed real-time chats using Tornado, WebSockets, and Redis.	JavaScript	3256	55	11	55
+hugot	tcolgate/hugot	60916364	An idiomatic Go chat bot package	Go	157	55	2	55
+psitsmike_example_1	mmukhin/psitsmike_example_1	2648675	node.js and socket.io chat tutorial	JavaScript	354	54	48	54
+live4chan	emgram769/live4chan	15820979	An open source live media chat.	JavaScript	17365	54	23	54
+feathers-react-native-chat	feathersjs/feathers-react-native-chat	50156156	A React Native example chat app using feathers	JavaScript	816	54	12	54
+zeromq-chat	sdiehl/zeromq-chat	1580589	A gevent + Django + Socket.IO + ZeroMQ chat example	Python	121	54	7	54
+SitepointMiniChat	bodrovis/SitepointMiniChat	23392464	Source code for the Mini-chat with Rails article on SitePoint, created by Ilya Bodrov	Ruby	252	54	37	54
+django-gevent-socketio-redis-chat-example	rlr/django-gevent-socketio-redis-chat-example	1832846	Long project name... AND an example of using django and gevent-socketio to build a chat application using redis as the backend.	Python	166	54	6	54
+webrtc-chat	pubnub/webrtc-chat	13430319	A simple webrtc chatting application.	JavaScript	526	53	31	53
+Rocket.Chat.Cordova	RocketChat/Rocket.Chat.Cordova	41389324	Rocket.Chat Cross-Platform Mobile Application via Cordova	JavaScript	6046	53	55	53
+nightly-gupshup	jesup/nightly-gupshup	7943385	WebRTC on Firefox Nightly video chat demo app	JavaScript	304	53	28	53
+tfc-cev	maqp/tfc-cev	26720763	Tinfoil Chat (CEV)	Python	381	53	1	53
+groupme-tools	cdzombak/groupme-tools	7993528	[NO LONGER MAINTAINED] Tools for fetching and analyzing a GroupMe group chat transcript in its entirety.	Python	429	53	37	53
+weechat-matrix-protocol-script	torhve/weechat-matrix-protocol-script	31368005	A WeeChat script in Lua that implements the matrix.org chat protocol	Lua	627	53	9	53
+BluetoothChatMulti	polyclef/BluetoothChatMulti	1862017	Multi-device extension of the official Android Bluetooth Chat example	Java	187	52	57	52
+chattrr	wbecker/chattrr	1367032	A chat app that allows you to talk with others about a web page	JavaScript	2898	52	8	52
+twitch-bot	aidanrt/twitch-bot	16817630	Twitch Chat bot written in Python	Python	1654	51	45	51
+appengine-websocketchat-java	GoogleCloudPlatform/appengine-websocketchat-java	10512892	A sample websocket chat with App Engine Java VM Runtime	Java	40	51	17	51
+hibuddy	tOkeshu/hibuddy	5937558	Simple video chats for the web.	JavaScript	577	50	14	50
+phpdaemon-muchat	kakserpom/phpdaemon-muchat	735590	Multi-User Chat written in phpDaemon.	JavaScript	456	50	16	50
+yii2-wschat	joni-jones/yii2-wschat	27300407	Online chat based on web sockets	PHP	381	50	30	50
+Summarize-it	yask123/Summarize-it	37761110	A chat summarizer plugin for instant messaging applications.	Python	1738	50	12	50
+django-live-support	MegaMark16/django-live-support	4758314	A simple live support chat app for django	Python	312	50	9	50
+martini-gorilla-websocket-chat-example	patcito/martini-gorilla-websocket-chat-example	15421920	Simple chat server using Martini and gorilla websockets	Go	147	50	7	50
+skypelog	Vayu/skypelog	2440400	Read chat history of Skype Linux client from *.dbb files	Python	27	50	11	50
+CodeFriends	code-friends/CodeFriends	28152187	Code Friends is a collaborative programming environment with real-time concurrent editing, and text/video chat. Collaborate with others remotely and see your changes sync instantly. Think of it as Google Docs for your sublime text editor.	JavaScript	9864	50	27	50
+isis	silentgrowl/isis	11263397	Chat bot for Slack, HipChat and Campfire, with plugins!	Ruby	289	49	24	49
+jsxc.chat	owncloud/jsxc.chat	9909199	Facebook-like XMPP chat for owncloud with OTR-encryption.	JavaScript	10967	49	21	49
+tfc-nacl	maqp/tfc-nacl	50497794	Tinfoil Chat (NaCl)	Python	168	49	2	49
+gochat-mqtt	alsm/gochat-mqtt	16918981	Simple chat program to demonstrate MQTT with Go	Go	150	49	13	49
+darkwire.io	seripap/darkwire.io	49158466	Encrypted web socket chat	JavaScript	28432	49	2	49
+chat-app-with-geolocation	ShankarKamble/chat-app-with-geolocation	20993092	 Angular Form Builder - AngularJS + Bootstrap + Node.js + MongoDB + Socket.io + Google Map (User Chat Application with GeoLocation in Mean Stack)	HTML	53621	49	68	49
+famous-flex-chat	IjzerenHein/famous-flex-chat	25733023	Chat-demo for famo.us using true-size chat bubbles, snap to bottom, sticky headers & pull-to-refresh	JavaScript	1771	49	8	49
+stranger	danielgrieve/stranger	50193794	Chat anonymously with a randomly chosen stranger	Elixir	474	49	2	49
+UUChatSwift	prettychaoyao/UUChatSwift	40655592	Cocoa UI component for group or private chat bubbles with text, images and audio support	Swift	104	49	9	49
+hubot-lets-chat	sdelements/hubot-lets-chat	9741309	Hubot Adapter for Let's Chat	CoffeeScript	17	48	10	48
+chat	justinsacbibit/chat	22364662	Barebones iOS client for chat. Written in Swift.	Swift	2044	48	11	48
+console-bot	meenie/console-bot	32547726	Allows savvy developers to chat to a website owner via the browser console.	JavaScript	136	48	1	48
+Multi-Client-Server-chat-application	aboullaite/Multi-Client-Server-chat-application	15381020	Socket Programming - Multi-Client Server chat application using java swing & Android	Java	1480	47	65	47
+vTak	arvindr21/vTak	23037195	A Desktop based Chat app with node-webkit, Firebase and Angularjs	JavaScript	363	47	30	47
+slackr	KennaSecurity/slackr	15960300	Talk to slack.com chat platform from ruby	Ruby	325	47	11	47
+Nancy-SignalR-Canonical-Chat	biofractal/Nancy-SignalR-Canonical-Chat	10198985	A bare bones SignalR chat app using NancyFX and Coffeescript	JavaScript	5843	47	18	47
+bunyan-slack	qualitybath/bunyan-slack	29980990	Bunyan stream for Slack chat integration	JavaScript	38	47	5	47
+webrtc_plugin	bobwolff68/webrtc_plugin	2557599	GoCast's WebRTC based early implementation of a p2p audio or audio/video chat plug-in for early developer access in-browser	C++	1305	47	15	47
+chat-template	sevenleaps/chat-template	56510749	Chat-Template is a React component that enables quick prototyping of bot conversations.	JavaScript	551	47	4	47
+slack-traductor	roman01la/slack-traductor	42543809	Slack bot to translate chat messages of any language into specified language	JavaScript	156	47	4	47
+chat-view-paper	kevinpschaaf/chat-view-paper	41720686	Polymer demo chat app	HTML	411	46	19	46
+multiverseminer	MultiverseMiner/multiverseminer	19464389	Join the chat: #multiverseminer on irc.freenode.net	Python	120094	46	27	46
+ToS-LKChat	Lemon-King/ToS-LKChat	56795199	Tree of Savior Chat Addon	Lua	59	46	11	46
+meteor-geospot	grigio/meteor-geospot	12639832	Geolocalized Proximity Chat with optional precise position	JavaScript	658	46	9	46
+yii2-simplechat	bubasuma/yii2-simplechat	46654886	A simple chat for your yii2 application	PHP	2649	46	13	46
+smooch-bot	alavers/smooch-bot	52413619	Build your own chat bot on top of smooch.io	JavaScript	21	46	33	46
+soirc	ghewgill/soirc	819266	IRC interface for Stack Overflow chat	Python	245	46	4	46
+MessageBox	b3ll/MessageBox	16904492	Break Facebook's Chat Heads out of the iOS Sandbox!	Logos	2009	46	15	46
+simple-chat	indy-golang/simple-chat	33404473	A simple IRC-like chat created for the Apr 7, 2015 Indy Golang Meeting	Go	223	46	11	46
+dateprog	emirn/dateprog	51081853	Date A Programmer: open source (Apache License) online dating service built with Ruby On Rails with private/public profiles, chat, admin panel, analytics, matches, tests constructor	Ruby	3879	46	22	46
+nodejs-chat	amirrajan/nodejs-chat	12879091	Chat app using nodejs and socket.io	JavaScript	148	45	59	45
+otrtalk	mnaamani/otrtalk	7409024	OTR p2p chat	JavaScript	389	45	3	45
+comunidades-en-telegram	OpenVE/comunidades-en-telegram	47982934	Listado de Chats de Comunidades en Telegram	null	47	45	29	45
+fiora-backend	yinxin630/fiora-backend	51758930	backend of a web chat application.	JavaScript	101	45	11	45
+firetower	avdi/firetower	769465	A command-line interface to Campfire chats	Ruby	216	45	11	45
+spring-ng-chat	g00glen00b/spring-ng-chat	24818587	A small chat application using WebSockets with Spring, AngularJS and SockJS.	Java	137	45	41	45
+nanjingtaxi	chewxy/nanjingtaxi	20293369	Nanjing Taxi is a relatively secure P2P/Serverless chat system.	Go	178	45	8	45
+seatcamp	tec27/seatcamp	25762697	HTML5-based ephemeral video chat. IRC with selfies! The official server of Meatspace	JavaScript	687	45	12	45
+react-horizon-example	hoducha/react-horizon-example	64391687	A demo realtime chat application created using React and RethinkDB/Horizon	JavaScript	13	45	1	45
+ComChat	SummonY/ComChat	41174209	An iOS chat App based on XMPPFramework.	Objective-C	5126	44	21	44
+Applozic-iOS-SDK	AppLozic/Applozic-iOS-SDK	42254299	iOS Real Time Chat & Messaging SDK	Objective-C	424886	44	23	44
+laravel-realtime-chat	guilhermeslk/laravel-realtime-chat	26880135	Realtime Chat w/ Laravel + Redis + Node.js + Socket.io	PHP	1088	44	24	44
+RabbitChat	haridas/RabbitChat	2111265	A simple Chat system based on the RabbitMQ + Tornado + Websocket + Pika	JavaScript	322	44	15	44
+green-chat	kinkk/green-chat	29116222	A simply web im, javascript chat ui component. javascript即时聊天组件	JavaScript	1275	44	20	44
+cineio-meetups	cine-io/cineio-meetups	27832219	Full video/audio/text chat example app using cine.io peer sdk.	CoffeeScript	3135	44	5	44
+workerman-chat-for-win	walkor/workerman-chat-for-win	26299564	workerman-chat windows版本	PHP	763	43	24	43
+ChernoChat	TheCherno/ChernoChat	11632856	All of the code for the Cherno Chat project, as well as the code for the individual episodes.	Java	399	43	68	43
+lxjs-chat	feross/lxjs-chat	17529805	Talk to strangers! (P2P video chat using WebRTC)	JavaScript	21	43	9	43
+killrchat	doanduyhai/killrchat	28811962	KillrChat, a scalable chat backed by Apache Cassandra, AngularJS and Spring Boot	Java	10084	43	24	43
+Basic-Chat	serkanyersen/Basic-Chat	3012005	A Very basic chat interface written on node.js	JavaScript	480	43	8	43
+Chat	PaulFreund/Chat	8911961	Chat - A Windows 8 XMPP Messenger	C#	1192	42	33	42
+Raydash-Ruby-on-Rails	gersh/Raydash-Ruby-on-Rails	1286576	Raydash video chat service allows you to easily use video chat in Ruby on Rails	Ruby	5803	42	16	42
+yancha	uzulla/yancha	4083769	yancha is Yet Another Nerwork CHAt. (old name yairc)  by Hachioji.pm	JavaScript	1615	42	15	42
+sencha-touch-chat	rzen/sencha-touch-chat	7957805	Example chat using Sencha Touch 2.4.2, NodeJS and Socket.IO	JavaScript	7516	42	17	42
+phoenix-webrtc	chadbrading/phoenix-webrtc	42429300	Enable video chat in a Phoenix application	Elixir	172	42	2	42
+pubnub-android-lolli-chat	GleasonK/pubnub-android-lolli-chat	39044432	An android chatting application that makes use of many PubNub features.	Java	5940	41	60	41
+rtcroulette	twelephone/rtcroulette	11073033	WebRTC Chat Roulette	CSS	8793	41	8	41
+mqtt-chat	happiestcoder/mqtt-chat	18626615	MQTT Chat Using Mosca	JavaScript	150	41	12	41
+pomelo-ioschat	NetEase/pomelo-ioschat	7362077	A chat demo for pomelo iOS client	Objective-C	992	41	37	41
+TCPChat	Nirklav/TCPChat	14639518	Multi user client-server voice chat, with elements of P2P	C#	2195	41	26	41
+chat_demo	rvirding/chat_demo	1494101	Simple demo of using websockets for a simple chat program	Erlang	226	41	9	41
+stream-chat	Raynos/stream-chat	5293312	Alpha chat app using streams for communication	JavaScript	184	41	5	41
+oro-chat	MyBoon/oro-chat	18903397	Simple peer to peer video chat using meteor.js and peer.js.	HTML	22	41	12	41
+em-websocket-chat-demo	amardaxini/em-websocket-chat-demo	1319902	Basic app for peer to peer chat demo using html5 websocket and event machine	JavaScript	477	41	13	41
+Mist	waylaidwanderer/Mist	8831521	Mist is a portable, open-source Steam client that lets you chat with friends and trade TF2 items anywhere.	C#	18182	41	16	41
+redmine_jchat	joshsten/redmine_jchat	1024663	Chat Plugin for Redmine 1.0.x,1.1.x,1.2.x - Driven on MySQL no need to install any extra gems. Use at own risk. I will do my best to add features over time, but I am a busy student so I apologize for slow release/response times.	Ruby	341	41	25	41
+clojurians-chat	clojurians/clojurians-chat	44701806	Real Time chat; For the Clojure Community, By the Clojure Community.	null	89	41	1	41
+NodeJS-Chat	MatthewLavine/NodeJS-Chat	19437732	NodeJS based chat App	JavaScript	1282	40	11	40
+codeigniter-chat	llbbl/codeigniter-chat	894940	web based chat -- right now just a simple shoutbox	PHP	1086	40	37	40
+respass	sketchglass/respass	62197588	Websocket-based Chat System	TypeScript	355	40	5	40
+pusher-webrtc-chat-demo	pusher-community/pusher-webrtc-chat-demo	21867552	WebRTC chat application using the DataChannel API and Pusher	PHP	227	40	26	40
+messenger-bot-witai-tutorial	jw84/messenger-bot-witai-tutorial	56461872	Jack up your chat bot using Wit.ai in 30 minutes!	JavaScript	5709	40	9	40
+Quibbler	Antrikshy/Quibbler	33100726	An experimental website powered by Socket.IO where anonymous chat messages are beautifully visualized in real time	JavaScript	919	40	11	40
+apalachin	joaomilho/apalachin	13892322	💬 An Erlang's ChicagoBoss websockets team chat, using Cowboy server and PostgreSQL	Erlang	2611	40	5	40
+android-chat-ui	devcenter-square/android-chat-ui	46378835	Android Chat UI library.	Java	472	39	19	39
+Golang	mshahriarinia/Golang	8507016	Peer-to-Peer Command Line Chat with Go Lang	Go	180	39	23	39
+skype2irc	boamaod/skype2irc	4980100	IRC ⟷  Skype Gateway Bot for Connecting Skype Chats to IRC Channels	Python	345	39	21	39
+sopython-site	sopython/sopython-site	21542160	The website for the Python chat room on Stack Overflow	Python	247	39	6	39
+FreeStep	jkingsman/FreeStep	24710122	Open source, encrypted, responsive  chat. Built on node.js/socket.io/Bootstrap. Super easy to customize.	JavaScript	746	39	15	39
+weechat-slacklog	thoughtbot/weechat-slacklog	20843161	Pull chat history into newly opened buffers	Ruby	557	39	2	39
+meteor-react-native-chat-example	tgoldenberg/meteor-react-native-chat-example	46213911	Simple example of live chat through a Meteor server on both iOS and Android with React Native	JavaScript	1213	39	8	39
+mapchat	mapchat/mapchat	1308904	Install this couchapp on your CouchOne instance to be able to chat friends, discuss events on a map	JavaScript	8892	39	4	39
+Rocket.Chat.Android	RocketChat/Rocket.Chat.Android	41135943	Rocket.Chat Native Android Application	Java	8572	38	25	38
+tfc-otp	maqp/tfc-otp	26470636	Tinfoil Chat (OTP)	Python	356	38	4	38
+SimpleChat	DonaldDerek/SimpleChat	10141055	Basic Chat Application Boilerplate - Node.js and Socket.io 	JavaScript	4468	38	42	38
+wechat	the5fire/wechat	15632460	An realtime online chat room base on backbonejs & socketio & webpy & sqlite3	JavaScript	863	38	23	38
+docpad-skeleton-nodechat	docpad/docpad-skeleton-nodechat	3019371	Node Chat, built using Socket.io, DocPad, Backbone.js and Twitter Bootstrap	CoffeeScript	459	38	10	38
+Mogo-iOS	jurre/Mogo-iOS	18491137	iOS client for Mogo (group chat)	Objective-C	420	37	12	37
+marc-zuckerbot	bsansouci/marc-zuckerbot	31342241	Fun bot for Facebook chat	JavaScript	3682	37	14	37
+RohBot	Rohansi/RohBot	8040002	Web interface for Steam group chats	C#	11495	37	13	37
+chat	aruseni/chat	6864543	Tornado WebSocket chat for your Django projects	Python	115	37	24	37
+mi1kb0t	DanH42/mi1kb0t	47837919	A multi-platform chat bot	JavaScript	40	37	15	37
+meteor.js-chat-example	AVGP/meteor.js-chat-example	4065563	A chat example for meteor.js	JavaScript	122	37	17	37
+sftmumblebot	SFTtech/sftmumblebot	4465657	Mumble/IRC text chat bridge :microphone: :love_letter:	Python	893	37	10	37
+react-native-incall-manager	zxcpoiu/react-native-incall-manager	56047124	Handling media-routes/sensors/events during a audio/video chat on React Native	Java	119	37	7	37
+Chat	NimbusFoundry/Chat	24441410	Group chat plugin on Foundry	JavaScript	6240	37	0	37
+chat	mcurry/chat	184186	CakePHP Plugin - Add an Ajax chat to your app	PHP	92	36	21	36
+ChatExchange	Manishearth/ChatExchange	16375768	A Python API for talking to Stack Exchange chat	Python	276	36	20	36
+node_chat	arijitdasgupta/node_chat	5352999	A self contained chat server running on node, based on websocket	JavaScript	177	36	19	36
+GCM_Chat_example	lolevsky/GCM_Chat_example	11209527	android and appengine example of using the new GCM, chat client for android	Java	28204	36	28	36
+kchat	srpeck/kchat	31431907	Persistent group chat in <50 lines using kdb+/k/q web sockets and JS	HTML	1228	36	6	36
+bluetooth-spp-terminal	Sash0k/bluetooth-spp-terminal	18101113	bluetooth terminal for Android (based on Android Bluetooth chat sample)	Java	379	35	36	35
+hipsupport	BradEstey/hipsupport	12334197	HipSupport is a Laravel 4 package that facilitates the creation of a live chat support system ontop of HipChat's API.	PHP	242	35	12	35
+scala-js-flux-example	forty/scala-js-flux-example	24565262	Reimplementation of Facebook Flux chat example with Scala.js	Scala	157	35	2	35
+sub.socket.io	braitsch/sub.socket.io	4657123	Example of how to run Socket.IO on multiple subdomains in the form of a simple chat server.	JavaScript	200	35	9	35
+node-chat	0x00A/node-chat	3089636	This is very simple code that can be used to demonstrate the caveats and design issues associated with building real-time chat server that uses socket.io.	JavaScript	109	35	35	35
+barnard	layeh/barnard	27560326	(In development) barnard is a terminal-based client for the Mumble voice chat software	Go	49	35	4	35
+firebase_chat_chrome_extenstion	theptrk/firebase_chat_chrome_extenstion	18455207	A Chrome Extension utilizing Firebase to power chat functionality	JavaScript	144	35	1	35
+SendButton	pa1pal/SendButton	49634817	Send Button Custom View for chatting application. 	Java	426	34	12	34
+angularjs-hubbub	pubnub/angularjs-hubbub	52553954	Angular JS HubBub chat application	JavaScript	288	34	42	34
+wechat-tutorial	yangdong/wechat-tutorial	13087286	This is a we chat public account example, hope this helps you to setup your wechat account quickly.	Ruby	183	34	262	34
+ChatUp	geekuillaume/ChatUp	35412681	Highly performant, Scalable, Fault-Tolerant Chat platform in NodeJS  	JavaScript	682	34	4	34
+BitChatClient	TechnitiumSoftware/BitChatClient	35018631	Technitium Bit Chat, a secure, peer-to-peer, instant messenger!	C#	1886	34	7	34
+telephone	mafintosh/telephone	30215394	Like that Lada Gaga song except it is p2p chat over udp.	JavaScript	159	34	4	34
+RxChat	bontoJR/RxChat	53868762	Sample using Rx for a chat app, using Node.js, Socket.io, RxSwift and Rx.js	Swift	63	34	3	34
+pubnub-chat-channel-presence	pubnub/pubnub-chat-channel-presence	5422643	PubNub Chat with Channel Presence is a new and breakthrough technology that has never existed until now empowering you (the developer) to obtain details about a PubNub Channel's Occupants.  Receive Server Sent Notifications World-wide from PubNub's 10 Data Centers regarding "Who's There?" - Who is online and who will receive PubNub messages.	JavaScript	1141	34	30	34
+spaggiari	acidvegas/spaggiari	49736742	A Secure Shell (SSH) scanner / bruteforcer controlled via the Internet Relay Chat (IRC) protocol.	Python	94	34	2	34
+AlfredSlackSearch	tylerhall/AlfredSlackSearch	16176175	An Alfred.app workflow that searches your organization's Slack chat history.	null	308	34	0	34
+chatspaces	mozilla/chatspaces	13657783	Snazzy chat app.	JavaScript	2466	33	13	33
+chat	elfet/chat	17190852	Elfet's Chat	JavaScript	1376	33	11	33
+Springle-Chat	riverspirit/Springle-Chat	7745692	Realtime chat using NodeJS and WebSocket	JavaScript	1100	33	17	33
+loopback-example-socket.io-chat	makersu/loopback-example-socket.io-chat	28960838	StrongLoop Loopback with socket.io chat example	JavaScript	153	33	14	33
+xmpp4r_facebook	kissrobber/xmpp4r_facebook	2041074	facebook chat(xmpp). X-FACEBOOK-PLATFORM SASL for ruby xmpp4r	Ruby	185	33	14	33
+taillachat	elcct/taillachat	21062563	Anonymous chat and picture sharing written in Go	CSS	472	33	7	33
+SimpleChat	AndreiD/SimpleChat	66275775	The best room chat system for Android. Real-time, IRC Style using firebase as database.	Java	1318	33	11	33
+alan	camtaylor/alan	51998619	A smart chat bot and ai assistant. An operator for your operating system.	Python	957	33	5	33
+animate-server	julianduque/animate-server	33910332	A chat.meatspac.es clone for educational purposes only	JavaScript	245	32	91	32
+Rocket.Chat.Ansible	RocketChat/Rocket.Chat.Ansible	47841554	Deploy Rocket.Chat with Ansible!	Ruby	151	32	12	32
+helga	shaunduncan/helga	8221606	One chat bot to rule them all	Python	806	32	26	32
+socket-io-chat-heroku	lstoll/socket-io-chat-heroku	3635082	Socket.IO node chat sample for Heroku	JavaScript	91	32	25	32
+peerjs-audio-chat	nwah/peerjs-audio-chat	26719002	WebRTC / PeerJS audio chat demo	JavaScript	404	32	12	32
+DChat	denivip/DChat	6718156	Node.js chat based on websockets	JavaScript	1568	32	10	32
+Chat-Using-WebSocket-and-PHP-Socket	sanwebe/Chat-Using-WebSocket-and-PHP-Socket	39148738	Simple Example of Chat system using PHP socket and HTML5 WebSockets	PHP	5	32	44	32
+PyChat	guangmuzhu/PyChat	21851873	A P2P IM for Gnome3 on local network with chat history, files/images transfer, screenshot and video chat. It's written in Python 2.7.	Python	291	32	13	32
+PusherChat	tarnfeld/PusherChat	709859	A really nice chat web application built with PusherApp	PHP	295	32	6	32
+MosquitoChat	ghvillasboas/MosquitoChat	22025409	This is a proof of concept of a MQTT based chat app writen for iOS.	Objective-C	1296	32	12	32
+eStreamChat	eStream/eStreamChat	4358516	ASP.NET C# based chat room and 1-to-1 instant messenger software with audio/video streaming support	C#	809	32	25	32
+Facebook_Bot	akhilpo/Facebook_Bot	4274116	A python script that interface Facebook chat to a chatbot using XMPP protocol.	PowerShell	289	32	16	32
+support-chat	Fabryz/support-chat	2941469	A simple chat system with private messages, using Node.js and Socket.io	JavaScript	238	32	15	32
+emoticons	elevation/emoticons	19322764	That we like to use in chat so we can take them with us everywhere	null	358	32	8	32
+webrtc-group-chat-example	anoek/webrtc-group-chat-example	12984516	Small but complete example of how to use WebRTC to setup voice and/or video chat between 2+ people.	JavaScript	132	32	14	32
+goircd	stargrave/goircd	19670961	Minimalistic simple Internet Relay Chat (IRC) server (mirror of http://git.cypherpunks.ru/cgit.cgi/goircd.git/)	Go	136	32	7	32
+Gmail-Jabber-Chatbot	primaryobjects/Gmail-Jabber-Chatbot	1746067	C# .NET Jabber Chatbot that Talks on Gmail with XMPP, AIML. Allows execution of custom commands, similar to an IRC bot, and conversation with the ALICE AIML SDK. Chat bot communicates with users through Gmail / GTalk via XMPP.	C#	2526	32	18	32
+turing-test-lessons	raspberrypilearning/turing-test-lessons	17828442	This scheme of work has been designed as an introduction to text based programming using Python on the Raspberry Pi. By the end of all the lessons students will have created an interactive chat bot and have been introduced to the computer science concept of artificial intelligence. 	Python	701	32	11	32
+meteor-streams-chat-app	arunoda/meteor-streams-chat-app	11173097	Chat App with Meteor Streams	JavaScript	103	31	20	31
+palaver	twonds/palaver	1165560	An XMPP Multi-User Chat component.	Python	287	31	5	31
+laravel-5-redis-and-socket.io	oriceon/laravel-5-redis-and-socket.io	35427517	Laravel 5 WebSocket Chat with Redis and Socket.io	PHP	392	31	13	31
+apprtc-node-server	ISBX/apprtc-node-server	31941564	The web based video chat app based on WebRTC written in NodeJS	JavaScript	292	31	26	31
+QMChatViewController-ios	QuickBlox/QMChatViewController-ios	36361194	An elegant ready to go chat view controller for iOS applications	Objective-C	2392	31	16	31
+cyph	cyph/cyph	25446108	Completely private voice and video chat.	JavaScript	281481	31	3	31
+yaml_micro_chat	karmi/yaml_micro_chat	29765	YAML based micro-chat in Sinatra framework for Ruby	Ruby	204	31	4	31
+Chat-Tutorial-with-Node.js--Socket.io-and-Express	Sly777/Chat-Tutorial-with-Node.js--Socket.io-and-Express	3402721	This is sample project to show how to create chat system with Node.js, Socket.io and Express.	JavaScript	1477	31	24	31
+EventSource-Examples	firebase/EventSource-Examples	17884323	Demonstrates using the EventSource / Server-Sent Events feature of the Firebase REST API to implement a simple commandline chat client in Ruby and Python	Ruby	263	31	18	31
+Python-Chat-Program	chprice/Python-Chat-Program	3392849	A P2P chat program designed to work on LANs or across the internet for chatting.	Python	66	30	35	30
+webglvideochat	jeromeetienne/webglvideochat	5930818	WebGL Video Chat - a video chat in WebGL with WebRTC	JavaScript	3827	30	11	30
+akka_chat_java	alexaverbuch/akka_chat_java	1082302	Akka chat example using Java API	Java	687	30	28	30
+LOUDBOT-SLACK	ceejbot/LOUDBOT-SLACK	17352732	LOUDBOT FOR SLACK.COM CHAT	JavaScript	24	30	14	30
+pomelo-androidchat	NetEase/pomelo-androidchat	7304666	chat client application using android client for pomelo	Java	1265	30	23	30
+FireTalks.com	Klimka/FireTalks.com	2522105	Private and anonymous multi-user web chat	null	323	30	5	30
+OpenBLE	OpenBLE/OpenBLE	14326946	Open Source BLE Scanner and 'Chat App' Example for IOS	Objective-C	428	30	17	30
+geohash-chat-by-proximity	stephenlb/geohash-chat-by-proximity	18419899	Geo Hashing Chat by Proximity to connect two or more users to a group chat.	JavaScript	176	30	5	30
+chat-phonegap	brunoarueira/chat-phonegap	1897849	Port chat example based on socket.io and node.js to phonegap with android	JavaScript	270	30	23	30
+secure-chat	OpenTechFund/secure-chat	18772859	Planning for next generation secure chat.	null	154	30	2	30
+FriendRefreshView	aliouswang/FriendRefreshView	35337980	仿微信朋友圈下拉刷新控件
+imitate Weixin Chat Friend pullrefresh
+widget.	Java	1671	30	13	30
+XMPP_Shell_Bot	ahhh/XMPP_Shell_Bot	30334031	A shell / chat bot for XMPP and cloud services	Python	228	30	5	30
+thebot	svetlyak40wt/thebot	5985730	General purpose chat bot, written in orthodox Python. Die Hubot, die! :)	Python	812	30	2	30
+websocket_chat	kikyous/websocket_chat	13006259	a websoeket based chat room	CSS	29529	29	9	29
+chat-socketio	eguneys/chat-socketio	16218263	Sample Chat application using socketio and backbonejs	JavaScript	10607	29	27	29
+erl-chat-server	luisgabriel/erl-chat-server	1963714	A simple chat server written in Erlang.	Erlang	619	29	16	29
+worldchat	Mashape/worldchat	10167290	Worldwide realtime chat and translations powered by APIs	JavaScript	490	29	6	29
+chatty	jeremyosborne/chatty	6914244	simple webbrowser chat client, Node.js backend, geared towards OpenShift deployment	JavaScript	300	29	23	29
+simplechat	alexbutenko/simplechat	23104541	Simple chat app using CloudKit	Swift	978	29	4	29
+mod_log_chat_mysql5	candy-chat/mod_log_chat_mysql5	2301205	Ejabberd module for logging chat messages to a MySQL DB	Erlang	34	29	15	29
+MessagingAndroidChat	realtime-framework/MessagingAndroidChat	30185794	Android real-time group chat using Realtime Messaging (includes GCM push notifications)	Java	708	29	21	29
+Socket.io-Redis-RealTime-Chat-Example	emrahayanoglu/Socket.io-Redis-RealTime-Chat-Example	2531105	Socket.io-Redis Real Time Chat Example	JavaScript	1121	29	4	29
+WaterCooler	maxfierke/WaterCooler	11239890	A Node.js-powered multi-room, collaborative chat application. For funsies. Nothing more. You should use https://github.com/sdelements/lets-chat	JavaScript	1025	29	6	29
+whatsapp-reader	prabhakar267/whatsapp-reader	42412786	:speech_balloon: Web application to easily read WhatsApp chats from email text backups in a easy-to-read user interface.	PHP	1526	29	9	29
+irssi-bitlbee-facebook-rename	avar/irssi-bitlbee-facebook-rename	611696	A irssi script to rename chat.facebook.com nicks in bitlbee from e.g. "u1359078110" to "AEvarArnfjord"	Perl	134	29	8	29
+Emoticonizer	larsschwegmann/Emoticonizer	4362801	Converts a given string with common chat smileys like :) to emoji symbols.	Objective-C	119	29	2	29
+NanoChat	hamidreza-s/NanoChat	45701084	A P2P, E2E encrypted and discoverable chat application on top of nanomsg library	C	2630	29	2	29
+MGMultipleImageBuilder	matteogobbi/MGMultipleImageBuilder	22585790	MGMultipleImageBuilder is a builder which allow you to create multi-face avatar such as that for a group chat.	Objective-C	1072	29	3	29
+KCKeyboardImagePicker	Kev1nChen/KCKeyboardImagePicker	41959542	Inspired by the in-chat horizontal keyboard scrolling image picker in the Facebook Messenger app. A user can quickly browse and select an image and send it to his/her friend without bringing up a full screen camera roll picker.	Objective-C	6373	29	4	29
+chat-application	exoplatform/chat-application	6827657	Chat application	HTML	24484	28	58	28
+jschat	openconf/jschat	12442417	frontend community chat	JavaScript	7152	28	7	28
+python_chat	JackZProduction/python_chat	11139194	a chat program made in python	Python	201	28	54	28
+rttim	sxcong/rttim	24930241	IM, video and voice chat	C++	17957	28	31	28
+twitch-master	twitchintheshell/twitch-master	45431658	Twitch chat -> QEMU user interaction backbone.	JavaScript	46	28	18	28
+WoT-Replay-To-JSON	Phalynx/WoT-Replay-To-JSON	11741361	Extract JSON data and Chat from Replays	Python	321	28	12	28
+meteor-chat	tomblomfield/meteor-chat	4024748	Simple chat application using Meteor JS and Coffeescript	CoffeeScript	97	28	14	28
+nodePaintChat	hpf1908/nodePaintChat	1712791	a simple chat-paint-room demo based on nodejs ，which means you can paint and chat with your chaters on realtime	JavaScript	165	28	5	28
+nwk-videochat	arvindr21/nwk-videochat	31197424	Node-Webkit, WebRTC and Angularjs – A Video Chat Client	JavaScript	243	28	16	28
+chatapp-demo	wuyanxin/chatapp-demo	40652266	:zap: multi room chat app demo, powered by socket.io	Handlebars	191	28	14	28
+node-chat	schaermu/node-chat	1377312	Small chat application to explore Socket.IO	JavaScript	265	28	4	28
+node_chat	kiroChen/node_chat	26873579	A chat application built with Node.js and socketio,can send pictures and emojis.	CSS	2871	28	19	28
+link	abhin4v/link	42204521	A simple multithreded chat server in haskell	Haskell	20	28	2	28
+ChatSafe	DavidTimms/ChatSafe	10952982	A secure chat room service based on Node.js, Socket.io and AngularJS with AES encryption	JavaScript	927	28	10	28
+markium	alampros/markium	2276913	Inline markdown formatting and pygments syntax highlighting plugin for the Adium chat client	C	1941	28	5	28
+berlinjs-meteor	krzysu/berlinjs-meteor	7017817	Demo of meteor.js I want to show on berlin.js meetup. App contains simple chat and facebook authentication.	CoffeeScript	119	28	8	28
+polychat	marcacohen/polychat	39107340	multi-lingual decentralized p2p chat based on web RTC and Google Translate API	HTML	1328	28	3	28
+cljs-core-async-chat	ddellacosta/cljs-core-async-chat	11563266	A simple demo using httpkit and core.async to build a WebSocket-based, extremely dumb chat system.	Clojure	106	28	2	28
+PHPasswordPusher	bemosior/PHPasswordPusher	5593986	PHPasswordPusher is a PHP port of the PasswordPusher project, which provides a more secure method for sharing sensitive information (like passwords) with others. It operates on the principal that using a soon-to-be-expiring link to retrieve sensitive information is better than having the sensitive information persist in email, chat, etc... 	PHP	1381	28	5	28
+node-red-contrib-chatbot	guidone/node-red-contrib-chatbot	61793256	Visually build a full featured chat bot for Telegram, Facebook Messenger and Slack with Node-RED. Almost no coding skills required.	JavaScript	1420	28	1	28
+bluechatter	IBM-Bluemix/bluechatter	18925360	An IRC-like / chat application	JavaScript	38	27	38	27
+RTCPeerConnectionSample	ysugimoto/RTCPeerConnectionSample	15372042	WebRTC peer connection video chat sample ( chrome only )	JavaScript	236	27	7	27
+debiki-server	debiki/debiki-server	10563322	Forum software + Question & Answers + Team Chat = effective discussions,	Scala	21426	27	10	27
+rails_postgres_websockets_chat	bensheldon/rails_postgres_websockets_chat	31839933	Websocket Chat app using Postgres LISTEN/NOTIFY 	Ruby	217	27	8	27
+slack-translator	spoqa/slack-translator	44055958	You can translate your chat using slack translator.	Python	24	27	5	27
+lace	brettstimmerman/lace	137939	Ancient Ajax chat app (archived for posterity; seriously, don't use this)	PHP	279	27	13	27
+ibid	ibid/ibid	2635265	Ibid is a multi-protocol general purpose chat bot written in Python. Bugs tracked on launchpad.	Python	10392	27	20	27
+irc-steam-relay	seishun/irc-steam-relay	6431410	UNMAINTAINED. Relays messages between a Steam chat room and an IRC channel	JavaScript	151	27	11	27
+meshchat	RocHack/meshchat	18719723	decentralized chat system for cjdns, with IRC front-end	C	619	27	3	27
+DXPhotoPicker	AwesomeDennis/DXPhotoPicker	44179172	A imagePicker functioned like we chat. A swift version of DNImagePicker	Swift	4176	27	4	27
+scratch2mcpi	scratch2mcpi/scratch2mcpi	13213557	Interface to connect Scratch and Minecraft. You can move the player, place blocks, send chat messages, etc. in Minecraft from visual programming environment, Scratch.	Python	44	27	10	27
+WeChat	JiaoLiu/WeChat	14674215	An IOS chat software	Objective-C	16293	26	21	26
+Sails.js_ChatApp	NETTUTS/Sails.js_ChatApp	9798651	A Chat App written with Sails.js	JavaScript	139	26	23	26
+spark-websocket	tipsy/spark-websocket	42821554	Chat application tutorial using Spark and WebSockets	Java	46	26	22	26
+campfire-bot	timriley/campfire-bot	35813	An extensible bot for the Campfire web-based chat system	Ruby	414	26	45	26
+angularjs-chat	stephenlb/angularjs-chat	48816709	AngularJS Chat - Enable chat messaging experiences in your iOS, Android and Web apps. 	null	13985	26	19	26
+tornadio-chat	gabrielfalcao/tornadio-chat	1755362	socket.io + tornado chat example	Python	452	26	5	26
+lets-chat-ldap	sdelements/lets-chat-ldap	30617444	LDAP plugin for Let's Chat	JavaScript	246	26	11	26
+simple-chat	tpiros/simple-chat	10111126	Simple chat application using node.js, socket.io and bootstrap	JavaScript	103	26	37	26
+Cryptully	shanet/Cryptully	9643008	 Encrypted chat for those that don't know crypto.	Python	1961	26	10	26
+campy	bbelchak/campy	1822832	Extensible bot for Campfire, the web-based chat service from 37signals.	Python	136	26	11	26
+Chat-React	ServiceStackApps/Chat-React	27388747	ServiceStack Chat rewritten into ES5 0.12 React and Reflux	JavaScript	1321	26	8	26
+Simples.SkypeChatStyle	edds/Simples.SkypeChatStyle	627876	A simple but beautiful chat style for Skype.	JavaScript	427	26	2	26
+tox-irc-sync	aitjcize/tox-irc-sync	14840713	A bot that sync messages between Freenode IRC #tox-dev and Tox group chat	Python	378	26	7	26
+chat-websocket-dart	financeCoding/chat-websocket-dart	4211219	Sample chat server and client using websockets in Dart	JavaScript	167	26	2	26
+Lora-Chat-Device	dmahony/Lora-Chat-Device	47157000	Using cheap LoRa wireless modules to chat over long distances.	null	154	26	3	26
+iresty	bungle/iresty	46132785	OpenResty Conference 2015 Demo Application (a Chat) and The Presentation	JavaScript	42907	26	4	26
+text-adventure-engine	ManzDev/text-adventure-engine	16159164	Simple engine for web interactive text adventures with chat-logging multiplayer support.	PHP	7427	26	7	26
+chat-censorship	citizenlab/chat-censorship	18811026	Data related to investigation of chat client censorship	Shell	941	26	4	26
+crypto-chat	kmoe/crypto-chat	38907616	:lock_with_ink_pen: encrypted chat using Redux and the Web Crypto API	JavaScript	402	26	0	26
+no.js	talos/no.js	3538907	chat. no javascript.	Python	768	25	9	25
+erl_chat_tutorial	chrismoos/erl_chat_tutorial	1989036	source for erl_chat tutorial	Erlang	514	25	6	25
+nagios-mattermost	NDrive/nagios-mattermost	47776604	Sends Nagios notifications to Mattermost Chat.	Python	8	25	7	25
+android-manet-ptt	ProjectSPAN/android-manet-ptt	7447021	SPAN - Android Manet Push-to-Talk Voice Chat	C	2325	25	18	25
+phprealtimechat	muuknl/phprealtimechat	27966474	A websocket chat server written in php using Rachet	PHP	624	25	27	25
+chat	vijayannadi/chat	6096846	A simple chat application developed using Node.js and socket.io.	JavaScript	4336	25	39	25
+chatbot	Alanaktion/chatbot	10559520	A PHP XMPP Chat Bot	PHP	2097	25	5	25
+uncovery	team-oath/uncovery	33275440	An anonymous, location-based chat network.	JavaScript	9964	25	5	25
+webchat	demo-code/webchat	9366148	[Closed] web chat use golang websocket  and revel	Go	572	25	7	25
+livehelperchat-extensions	LiveHelperChat/livehelperchat-extensions	15028906	Live helper chat extensions. Main repository https://github.com/remdex/livehelperchat	JavaScript	285	25	27	25
+wasapbot	gojigeje/wasapbot	42383165	Simple WhatsApp bot written in PHP, respond to private & group messages. Uses Chat-API	PHP	2304	25	10	25
+hipochat	Hipo/hipochat	26082356	Websocket Chat Server using Tornado for backend RabbitMQ for message queue	Python	41	25	6	25
+ircz	runarorama/ircz	52685775	Internet relay chat demo using scalaz-streams	Scala	6	25	6	25
+D-Bot	DennyDai/D-Bot	36516866	A Multi Platform Chat Bot. Telegram & QQ are supported now.	PHP	65	25	7	25
+Mobile-Multiplatform-Websockets-Android-iOS-Windows-Phone-Web	TerryWahl/Mobile-Multiplatform-Websockets-Android-iOS-Windows-Phone-Web	14613503	Cross platform (Android, iOS, Windows Phone 8, web) chat supported by NodeJS websockets.	Objective-C	1204	25	14	25
+STBubbleTableViewCell	SkyTrix/STBubbleTableViewCell	19118812	STBubbleTableViewCell is a UITableViewCell subclass for easily displaying chat conversations.	Objective-C	414	25	10	25
+redux-chat	d6u/redux-chat	42380576	Replicate Facebook Flux Chat example with Redux	JavaScript	158	25	5	25
+wowarmory	fry/wowarmory	1707636	Reversed WoW Armory protocol with the aim of bringing remote guild chat to the desktop outside the game.	C#	165	25	12	25
+ep_webrtc	bit/ep_webrtc	10740657	Add WebRTC based audio/video chat for your etherpad documents.	JavaScript	28	25	5	25
+apollo	respoke/apollo	24652415	IM, group chat, and video calls built on Respoke	JavaScript	2731	25	4	25
+atom-gitter	Glavin001/atom-gitter	19092112	(UNMAINTAINED) :calling: Gitter chat integration with Atom.io	CoffeeScript	868	25	3	25
+chat	destinygg/chat	11218743	The chat back-end for destiny.gg, written in Go, based on Golem (github.com/trevex/golem)	Go	168	25	12	25
+PlayApp	rodrigopivi/PlayApp	55376802	A boilerplate chat application on top of React, React-Native, Relay, GraphQL, RethinkDB and Typescript	TypeScript	1226	25	2	25
+aleph-ws-test	maacl/aleph-ws-test	865681	Small chat-app to test Aleph websocket support.	ActionScript	635	25	1	25
+Ultros	UltrosBot/Ultros	11878868	Connecting communities, one squid at a time! Ultros is a multi-protocol chat bot written in Python, designed with both the user and developer in mind	Python	1439	25	4	25
+TwitchLib	swiftyspiffy/TwitchLib	42906885	C# Twitch Chat/Whisper and API Library.  Allows for chatting and whispering, or modifying channel through Twitch API	C#	6097	24	9	24
+gru-example	sumory/gru-example	44740870	Gru使用示例 - Web Chat	JavaScript	6647	24	23	24
+tornado-chat	wylazy/tornado-chat	11050771	use tornado and redis for chat	Python	103	24	13	24
+Hack.ChatBot	M4GNV5/Hack.ChatBot	38925452	Bot for https://hack.chat/	JavaScript	113	24	10	24
+android-udp-audio-chat	DeanThomson/android-udp-audio-chat	8819982	UDP based Android audio chat application	Java	476	24	15	24
+meatmonsters	taotetek/meatmonsters	15739929	Bots for Meatspace - http://chat.meatspac.es/	Python	34480	24	18	24
+meteor-chat	dasniko/meteor-chat	13956910	Simple chat application built on the Meteor JavaScript Platform.	JavaScript	140	24	23	24
+ChatManager	PEXPlugins/ChatManager	2038699	DISCONTINUED: Chat management plugin for bukkit. Part of PermissionsEx project.	Java	267	24	35	24
+nettychat	thierryherrmann/nettychat	15732991	Simple asynchronous non blocking chat server/client based on Netty 4	Java	196	24	33	24
+torirc	alfred-gw/torirc	6934191	Secure/anonymous IRC-like chat using TOR hidden services	Python	145	24	8	24
+arson	rlpowell/arson	1353286	Campfire <-> Jabber MUC (Multi-User Chat) Gateway	Ruby	737	24	4	24
+P2P-chat-application	siddharthasahu/P2P-chat-application	9709342	A python program which acts as a P2P chat application, created using Sockets and Tkinter	Python	155	24	20	24
+cowboy_tutorial_webchat	hcs42/cowboy_tutorial_webchat	13093827	A tutorial about creating a basic web chat application with Cowboy	Shell	367	24	11	24
+Chat	ServiceStackApps/Chat	22246445	Single Page Chat App showcasing ServiceStack's Server Sent Events features	C#	20428	24	10	24
+MChat	marceand/MChat	48932384	mChat is a simple collaboration chat using Firebase for the backend. Screenshot: 	Java	131	24	16	24
+tc	mccxiv/tc	33784208	A desktop chat client for Twitch	JavaScript	62385	24	2	24
+TableView-Chat	976500133/TableView-Chat	59004187	精品 - 纯代码 swift  聊天 微信 qq  UITableView Chat<夜黑执事 出品>	Swift	655	24	8	24
+tabloro	fyyyyy/tabloro	43812648	Play any board game online with friends in the browser. Runs on any device. Using webRTC for peer2peer video chat. Using phaser for rendering.	JavaScript	14084	24	4	24
+sanichat	mcdonamp/sanichat	35181071	Sanichat is a realtime chat system powered by Firebase that allows users to sign in via Twitter and message other users appropriate content in realtime. It uses a queue and simple content filter running on a node server to securely handle inappropriate content and display sanitized content for end users.	HTML	92	24	9	24
+chatter	Maimer/chatter	21551733	A Rails server that uses websockets to create and maintain public and private chat rooms.   Authentication using Devise.	Ruby	6387	24	2	24
+Babel_Chat	amitch23/Babel_Chat	26206767	Hackbright final project: videochat webapp with websockets and WebRTC for language learners to chat in real time.	Python	9945	24	1	24
+garrysmod-chatsounds	Metastruct/garrysmod-chatsounds	33419306	Ingame chat reaction sounds	Lua	952988	23	24	23
+IRCTransport	hef/IRCTransport	1330093	Minecraft chat/IRC integration	Java	1544	23	13	23
+ChatSocks	euforic/ChatSocks	1974653	Titanium Mobile implementation of socket.io chat	JavaScript	2495	23	13	23
+mchat	motyar/mchat	3265540	Simple chat with HTML5 Server-Sent Events 	PHP	120	23	8	23
+rtcchat2	mehrvarz/rtcchat2	11944536	webrtc chat with a focus on privacy - written in go	Go	244	23	14	23
+slacker	ttaylorr/slacker	19779259	A loosely coupled, flexible chat-bot framework.	Ruby	699	23	8	23
+ionic2-rxjs-socketio-chat	jkuri/ionic2-rxjs-socketio-chat	48684102	Ionic2 RxJS Socket.io Chat Sample App	TypeScript	1277	23	9	23
+chat-app	SimplyAhmazing/chat-app	41830949	A live chat app that uses Websockets, Django, and Python 3.4 Asyncio	HTML	984	23	12	23
+Unity-WebGL-3D-Chat	hecomi/Unity-WebGL-3D-Chat	28442687	Unity5 WebGL x Socket.IO = Online 3D Chat on the web browser!	JavaScript	19304	23	11	23
+web-robot	smartnlp/web-robot	46396508	聊天机器人窗口, chat robot，前端html+js 项目。	JavaScript	584	23	18	23
+MultipeerGroupChat	genadyo/MultipeerGroupChat	18960285	Multi Peer Group Chat Using MCNearbyServiceAdvertiser and MCNearbyServiceBrowser (without MCBrowserViewController)	Objective-C	204	23	6	23
+StealthBot	stealthbot/StealthBot	2695031	Battle.net (pre-2.0) chat bot written in Visual Basic 6	Visual Basic	27909	23	7	23
+arch-repo-tox	Tox/arch-repo-tox	33456908	Tox Arch repo with PKGBUILDs for Toxcore, Tox clients, and Tox related projects  https://tox.chat	Shell	59	23	5	23
+P2P-Chat	asamy/P2P-Chat	18196737	Peer-to-peer Chat Application written in Java.  This application uses the hybrid model to retrieve a list of available peers. (Soon with VoIP support)	Java	380	23	13	23
+chat	dwyl/chat	55181025	:speech_balloon: An example of using AWS Lambda and AWS IoT for a Scalable Chat Application	JavaScript	30	23	4	23
+shout	jsantirso/shout	17898757	A simple shoutbox / chat based on websockets (RFC-6455 compliant), javascript (without frameworks) and python (a custom async server without dependencies)	Python	600	23	2	23
+chat-websocket	http-kit/chat-websocket	7835613	Realtime chat by utilizing http-kit's websocket support	Clojure	180	23	4	23
+telepathy-hangups	davidedmundson/telepathy-hangups	27686987	Telepathy bindings for Google Chat via hangups library	Python	404	23	2	23
+q-municate-web	QuickBlox/q-municate-web	20834145	Q-municate Web chat application	JavaScript	9800	22	40	22
+grumblechat	pfibiger/grumblechat	1000344	Grumble Chat: Free web based chat for Google Appengine	Python	1085	22	9	22
+InstaChatX	erikswed/InstaChatX	15651174	Originally the Appsrox.com chat IM using GCM, but now with AppCompat and more	Java	871	22	40	22
+CHATIMUSMAXIMUS	benhoff/CHATIMUSMAXIMUS	38339743	Master chat GUI for Youtube, Twitch, Livecoding, and WatchPeopleCode	Python	775	22	9	22
+node-simple-chat	jmg/node-simple-chat	3128228	A Real Time Chat Built on Node-js and Socket.io	JavaScript	3967	22	17	22
+spachat	joni2back/spachat	10440243	:speech_balloon: Simple Angular Ajax Chat in AngularJS	PHP	215	22	7	22
+shulker	destruc7i0n/shulker	49397417	A Discord to Minecraft Chat Gateway	JavaScript	36	22	4	22
+boombot	TerrordactylDesigns/boombot	3682655	Node.js powered Chat and DJ bot for Turntable.fm 	JavaScript	1574	22	18	22
+peerchat	worldveil/peerchat	19214757	Distributed, P2P, realtime chat application based on Kademlia DHT	Go	1873	22	8	22
+chat	siong1987/chat	340734	A one day project to create a iPhone and Web real-time chat application.	Objective-C	826	22	25	22
+libuv-chat	bnoordhuis/libuv-chat	6230943	a chat app done the hard way	JavaScript	928	22	5	22
+Mex	fenos/Mex	19745691	Multi participants Chat Api for laravel 4.1	PHP	306	22	3	22
+aiosimplechat	Mionar/aiosimplechat	20353308	Very simple client-server chat program with asyncio	Python	248	22	3	22
+FaceTeX	jarwino/FaceTeX	49171743	A tool that lets you communicate in LaTeX to your friends over Facebook chat.	JavaScript	15683	22	7	22
+redmine-chat-plugin	hybridindie/redmine-chat-plugin	63097	A Personal Chat Room for Redmine Installs Using The Juggernaut	Ruby	143	22	5	22
+nfc-talk	Microsoft/nfc-talk	13736643	Simple chat application demonstrating NFC tap and Bluetooth search initiated connection establishment and further data transfer.	C#	1279	22	11	22
+django-chant	night-crawler/django-chant	17927555	A simple django chat application via pure websockets and tornado	JavaScript	484	22	6	22
+rubymotion-parsedotcom-chat	collectiveidea/rubymotion-parsedotcom-chat	4350191	A simple chat application written with RubyMotion and using Parse.com	Ruby	4756	22	3	22
+grillode	stephenmcd/grillode	1294322	A web-based chat application written in CoffeeScript for Node.js	CoffeeScript	206	22	4	22
+UserScripts	SO-Close-Vote-Reviewers/UserScripts	26275009	Various user scripts that add features to the review queue or to the chat room	JavaScript	424	22	11	22
+abchat	yueyoum/abchat	10733174	Abstract Simple Chat Server Based on Gevent	Python	172	22	1	22
+Clever-Skype	chriskiehl/Clever-Skype	7281202	Turing test (or troll) your friends! CleverSkype connects the output of Skype's chat to cleverbot.com	Python	29609	22	3	22
+program-ab	lumenrobot/program-ab	12520292	Fork of Program AB, the reference implementation of the AIML 2.0 draft specification. AIML is a widely adopted standard for creating chat bots and mobile virtual assistants like ALICE, Mitsuku, English Tutor, The Professor, S.U.P.E.R. and many more.	Java	13808	22	14	22
+XCJS	onsip/XCJS	1191259	The XC Library is an [RFC 3920](http://xmpp.org/rfcs/rfc3920.html) and [RFC 3921](http://xmpp.org/rfcs/rfc3921.html) compliant XMPP Client library for JavaScript. In addition to the XMPP Core and XMPP IM specs, we also implement [Service Discovery](http://xmpp.org/extensions/xep-0030.html), [Chat State Notifications](http://xmpp.org/extensions/xep-0085.html), [vCards](http://xmpp.org/extensions/xep-0054.html), and [Roster Item Exchange](http://xmpp.org/extensions/xep-0144.html).	JavaScript	2661	22	1	22
+documentation	layerhq/documentation	24078097	Layer messaging / chat SDK documentation	JavaScript	1623	21	51	21
+Rocket.Chat.Federation	RocketChat/Rocket.Chat.Federation	50646429	Chat servers.  United.	JavaScript	21	21	4	21
+bp-chat	sbrajesh/bp-chat	1832697	Facebook Like chat Plugin for BuddyPress	PHP	508	21	11	21
+golangSocketChat	motyar/golangSocketChat	23859457	Golang WebSocket Chat	Go	90	21	3	21
+dota2-chat-emoticons	bontscho/dota2-chat-emoticons	21398100	Dota 2 Chat Emoticons as GIF	CSS	14597	21	4	21
+chatte	voby/chatte	39502189	Simple chat on Redux + socket.io	JavaScript	372	21	7	21
+bruxism	iopred/bruxism	45453637	A chat bot for YouTube, Discord and IRC.	Go	527	21	7	21
+PySteam	gamingrobot/PySteam	4695788	Python interface for Steam Web Chat	Python	174	21	5	21
+chat-in-rails5	HectorPerez/chat-in-rails5	48609921	Example of Chat with Action Cable in Rails 5	Ruby	24	21	9	21
+SwiftChat	xyclos/SwiftChat	20600201	chat app written in Swift with Firebase	Objective-C	23016	21	6	21
+vico	mkrentovskiy/vico	904730	multiuser video-chat based on erlyvideo and mochiweb	JavaScript	8744	21	4	21
+meatspace-chat-hackers	meatspaces/meatspace-chat-hackers	14001584	Cool things Meatspacers have made that you can use with your Meatspace Chat experience!	null	389	21	21	21
+meteor-chat	kalasoo/meteor-chat	24218055	A live chat room built on top of Meteor.js	CoffeeScript	74	21	6	21
+mondedie-chat	mondediefr/mondedie-chat	45418890	Node.js chat application using Express, Socket.io, Redis and Mithril	JavaScript	599	21	7	21
+q-municate-services-ios	QuickBlox/q-municate-services-ios	33928671	Easy-to-use services for Quickblox SDK, for speeding up development of iOS chat applications	Objective-C	17934	21	22	21
+quilt	rossdylan/quilt	3972740	Mesh chat protocol over ZMQ	Python	362	21	1	21
+bivouac	manuelkiessling/bivouac	3275420	Zero-setup non-public HTML5 web chat with super-easy file sharing	CSS	912	21	4	21
+seshat	kstrauser/seshat	1768260	Sessioned chat system for Pyramid, using Ajax for web clients and Jabber for local users	Python	114	21	4	21
+sinatra-pusher-example	leejarvis/sinatra-pusher-example	3971353	The most simple realtime chat app you ever did see	Ruby	90	21	5	21
+owasp-1-liner	johnwilander/owasp-1-liner	4768281	A deliberately vulnerable Java- and JavaScript-based chat application intended for demos and training in application security.	JavaScript	3308	21	3	21
+emocons	TimPietrusky/emocons	7185289	Transform anything into anything e.g. chat emoticons into icon font emo's from Fontelico. 	JavaScript	134	21	2	21
+AzureChatrforWindows	ActiveNick/AzureChatrforWindows	24797129	Windows Clients for a Cloud-based Cross-Platform Chat App for Windows Phone and Windows Tablets, Laptops and Desktops. Written in C# as a native Universal app using Visual Studio.	C#	353	21	9	21
+WebIRC	mtrpcic/WebIRC	1081122	WebSocket based IRC chatting through Twisted	JavaScript	72	20	4	20
+RabbitMQ-Android-Chat	intrepidkarthi/RabbitMQ-Android-Chat	10298653	RabbitMQ-Android-Chat	Java	1888	20	18	20
+Docker.Official.Image	RocketChat/Docker.Official.Image	38838385	OFFICIAL REPOSITORY rocket.chat	Shell	28	20	16	20
+Fastpath-webchat	igniterealtime/Fastpath-webchat	26562254	Fastpath Web Chat Component	Java	7358	20	18	20
+MChat	Q0rDev/MChat	2817509	Chat Formatting for Bukkit	Java	2544	20	14	20
+socket-chat-server	matiastucci/socket-chat-server	25849975	:package: Socket.IO chat server	JavaScript	167	20	11	20
+colloquy	mccraigmccraig/colloquy	92781	macosx chat client	Objective-C	104500	20	4	20
+yii2-chat-adminlte	sintret/yii2-chat-adminlte	29178431	yii2 chat widget widget admin lte	PHP	423	20	24	20
+gae-chat	kwhinnery/gae-chat	9171244	GAE group chat example app (Java)	Java	17269	20	11	20
+socket_chat_example	jtmoon/socket_chat_example	6998792	Example Real-Time, Multi-User Chat Application	JavaScript	6728	20	15	20
+bottle-chat	defnull/bottle-chat	2401047	A small bottle chat application.	JavaScript	86	20	7	20
+meteor-chat	fstgerm/meteor-chat	27035898	Chat application built on Meteor.js	CSS	139	20	8	20
+ChatApplication	archanamahajan/ChatApplication	59122679	Basic Chat application using AngularJS, NodeJS and Socket.io	HTML	8	20	25	20
+Applozic-Web-Plugin	AppLozic/Applozic-Web-Plugin	40660135	Javascript (jQuery) Real Time Chat & Messaging plugin	JavaScript	7598	20	17	20
+beechat	beechannels/beechat	713912	The first XMPP chat for Elgg	PHP	1000	20	8	20
+robin	joinrobin/robin	55558839	Open source clone of reddit's Robin chat.	null	780	20	5	20
+frontend-ua	dev-ua/frontend-ua	27231438	Frontend UA chat	null	133	20	2	20
+pusher-presence-demo	pusher-community/pusher-presence-demo	1899331	Example of using Pusher's presence functionality for a simple chat demo	Ruby	200	20	11	20
+minimicrochat.php	danieltalsky/minimicrochat.php	24434022	the simplest chat server I could write in two hours	PHP	218	20	9	20
+chat_gram	technoweenie/chat_gram	1419404	Barebones Instagram realtime endpoint for posting images to a chat service (Campfire).	Ruby	444	20	10	20
+faqbot	tansaku/faqbot	6580844	JavaScript chat bot to answer frequently asked questions (faq)	JavaScript	2055	20	6	20
+intercom-nodejs	IBM-Bluemix/intercom-nodejs	35590141	Intercom gives users the ability to remotely communicate with a chat representative through Watson speech-to-text and Twilio integrations.	JavaScript	6826	20	11	20
+ChatRecyclerView	Piasy/ChatRecyclerView	59628714	Implement your user friendly chat RecyclerView in one line!	Java	517	20	3	20
+everything-but-the-chat	lmccart/everything-but-the-chat	14318643	clm face tracking, chrome speech to text, webrtc chat, websocket data connection	JavaScript	563	20	4	20
+Social-Go	kingreza/Social-Go	64289763	Social Go is a crowd sourced Pokemon radar and anonymous chat app for the iOS.	Swift	32974	20	9	20
+chat.io	gregstewart/chat.io	1572227	Simple chat server/client using node.js and socket.io	JavaScript	141	20	2	20
+polymer-chat	vgheri/polymer-chat	18396724	Chat module developed as a web component embeddable in any website.	JavaScript	1128	20	2	20
+mycryptochat	HowTommy/mycryptochat	23488576	MyCryptoChat is a simple PHP encrypted chat rooms manager. Everything is encrypted on the client side, so noone can spy on what you say.	JavaScript	225	20	5	20
+goChat	waylau/goChat	11806201	Golang chat.This example application shows how to use WebSockets, the Go programming language and jQuery to create a simple web chat application.  这个示例应用程序展示了如何使用 WebSocket, Golang 和 jQuery 创建一个简单的 web 聊天应用程序。这个示例的文章介绍见《WebSocket 和 Golang 实现聊天功能》 。	Go	144	20	10	20
+comets	Sixeight/comets	203258	Comets is a simple chat application using comet. Run as standalone, you don"t need special comet server.	Ruby	76	20	2	20
+whatsbook	pbeck/whatsbook	50839476	Create books from WhatsApp group chats with Python and LaTeX	Python	14	20	1	20
+awesome-chatops	exAspArk/awesome-chatops	63793563	A collection of awesome things about ChatOps – managing operations through a chat	null	11	20	1	20
+ShinyChat	trestletech/ShinyChat	15783221	Chat client built in Shiny	R	214	19	21	19
+boot-rethinkdb	geowarin/boot-rethinkdb	50600393	Chat example with spring boot and rethinkdb	Java	69	19	7	19
+teambox-talker	teambox/teambox-talker	1673699	Teambox's awesome chat tool!	JavaScript	34176	19	4	19
+videochat	voximplant/videochat	24201844	1 on 1 web video chat application	JavaScript	133	19	11	19
+node-steam-chat-bot	bonnici/node-steam-chat-bot	10163992	Simplified interface for a steam chat bot	JavaScript	2018	19	7	19
+redmine_chat_telegram	centosadmin/redmine_chat_telegram	54166790	Add Telegram Group Chat to Redmine Issue	Ruby	228	19	5	19
+SE-Chatbot	ProgramFOX/SE-Chatbot	23306989	A chatbot for the Stack Exchange chat rooms.	Python	308	19	7	19
+liveBalls	Atinux/liveBalls	2126091	A mutliclient chat with balls for each client, you can move with your mouse and chat with other persons in realtime.	JavaScript	1174	19	10	19
+xhtmlchat	kohlhofer/xhtmlchat	47577	XHTML live Chat based on the XMLHttpRequest Object (ajax) (implemented in PHP + mySQL)	PHP	237	19	8	19
+panoptibot-gae	conorh/panoptibot-gae	303074	XMPP chat bot for Google App Engine	Python	476	19	2	19
+angular2-typescript-example	rethinkdb/angular2-typescript-example	50692982	A RethinkDB chat app built in Typescript with Node.js and Angular 2	TypeScript	4	19	6	19
+Omegle-Chat-Hack	indrajeetb/Omegle-Chat-Hack	65137955	A proof of concept on how one can read private chats done on omegle	Python	1076	19	12	19
+primabylon	deemkeen/primabylon	6970890	A different approach for a meteor.js chat application, powered by Google Translate	JavaScript	263	19	8	19
+mambo	mrshankly/mambo	10718997	Teamspeak 3 chat bot. Updated version here https://github.com/Inouju/mambo.	Elixir	287	19	4	19
+TelegramBot-Library	CasaJasmina/TelegramBot-Library	51912782	Host a Telegram Bot on your Arduino, and interact with it from your favourite chat application	C++	33	19	4	19
+vacbot	tusil/vacbot	55298946	script that creates oddshot every time when at least 100 users says "VAC" in the Twitch chat	JavaScript	4	19	2	19
+gnome-shell-notifications-alert	hackedbellini/gnome-shell-notifications-alert	3837056	Whenever there is an unread notification (e.g. chat messages), blinks the message in the user's menu with a color chosen by the user.	JavaScript	114	19	8	19
+twitch-troll-detection	ahaque/twitch-troll-detection	18750566	Unsupervised machine learning methods to detect and classify anomalies in streaming data. We apply this to the viral event, TwitchPlaysPokemon, and attempt to identify trolls in a live IRC chat.	Python	40865	19	7	19
+clip-bitmap-for-android	zzl09/clip-bitmap-for-android	23926952	through source bitmap, screenshots way interception of non-selected area pictures, similar to the we-chat or FaceBook avatar clip (通过原图,非截屏方式截取选中区域内图片,类似微信FaceBook头像选取)	Java	744	19	10	19
+phoenix-demo-app	pmontrasio/phoenix-demo-app	24258061	Phoenix demo app with authentication, admin/user scopes and a websocket chat	Elixir	228	19	1	19
+chat-room-server-and-p2p	substack/chat-room-server-and-p2p	59737189	workshop example creating a websocket chat room replaced with p2p version using webrtc	JavaScript	2	19	1	19
+livechat-elm	Diamond/livechat-elm	47806925	The LiveChat repository, except with Elm powering the chat code	JavaScript	1689	19	1	19
+BubbleNote	vickychijwani/BubbleNote	23788960	:pencil2: Android note-taking app that leverages Facebook Messenger's chat heads concept for multi-tasking scenarios.	Java	229	19	1	19
+cryptonet	96AA48/cryptonet	16927377	A node.js chatting application with crypto.	JavaScript	182	18	7	18
+node_chat	mohlendo/node_chat	369936	simple chat demo for node	JavaScript	207	18	290	18
+simple-chat-client-server	dtolj/simple-chat-client-server	1043446	Simple chat program in C 	C	143	18	23	18
+deepin-talk	martyr-deepin/deepin-talk	14944488	Chat tool for LinuxDeepin	Python	1818	18	7	18
+nodejs-chat	evert/nodejs-chat	1893561	Chat application for NodeJS	JavaScript	3565	18	14	18
+tabbychat	rocketman10404/tabbychat	10569257	TabbyChat chat mod for Minecraft	Java	2885	18	28	18
+ChatR	vgheri/ChatR	5020690	A simple chat app built upon SignalR	JavaScript	6107	18	15	18
+websockets-tomcat	marlandy/websockets-tomcat	5220705	Ejemplo de chat con WebSockets y Tomcat 7	Java	336	18	25	18
+WonderCom	rubeus90/WonderCom	19487963	Android chat application using Wifi Direct	Java	105038	18	12	18
+MajBot	majidkh/MajBot	1221203	Open source Java Chat Bot project.	Java	1261	18	14	18
+PureChat	PurePlugins/PureChat	27962386	Provides custom chat formats based on PurePerms groups for your server.	PHP	89	18	24	18
+wither	pickaxe-club/wither	31019810	Slack to Minecraft chat gateway	Ruby	1807	18	6	18
+chatle	aguacongas/chatle	26648711	chat le with ASP.NET 5	C#	15910	18	7	18
+live-group-chat	VincentWei/live-group-chat	33711799	Live Group Chat can broadcast the group chat records of WeChat (or other Instant Messaging apps) to a web page.	Java	2416	18	15	18
+grails-wschat-plugin	vahidhedayati/grails-wschat-plugin	22293049	Grails websocket chat Plugin provides a multi-chat room add-on to an existing grails based site. provides: Private Messaging/WebRTC/Offline PM + room booking/reservations. Websocket TicTactoe. Add Live Chat to your Grails application	Groovy	1795	18	10	18
+ChatBot	moondroid/ChatBot	24645665	Android chat experiment with an A.L.I.C.E. artificial intelligence.	Java	6248	18	18	18
+angular2-socketio-chat-example	jussikinnula/angular2-socketio-chat-example	52443488	An example Angular 2 chat app, made on top of ExpressJS & Socket.io.	TypeScript	3837	18	10	18
+nodebootcamp-chat	Aaronontheweb/nodebootcamp-chat	4012882	A socket.io-powered chat server for Node Bootcamp	JavaScript	228	18	7	18
+habrachat	stalkerg/habrachat	18270090	Simple chat system with rooms/hubs. Based on Python, Tornado, Redis. 	Python	639	18	8	18
+aebleskiver	sorensen/aebleskiver	1555954	Node chat application.  Built with Backbone.js, Express.js, and DNode as primary components.	JavaScript	1869	18	5	18
+hnblows	gar1t/hnblows	8398419	A chat server for discussing how lame Hacker News is	Erlang	248	18	3	18
+instachat	gregavola/instachat	21978867	An example of how to build a real-time chat program with with Cordova and Ionic Framework	JavaScript	3040	18	9	18
+chatter	arvindr21/chatter	26680677	Node Webkit, Firebase and Ionic Framework – A one to one chat client	JavaScript	1880	18	4	18
+weechat-scripts	weechatter/weechat-scripts	2334109	My personal scripts and scripts i am involved in for WeeChat (Wee Enhanced Environment for Chat)	Perl	808	18	8	18
+scrollback	askabt/scrollback	10103157	Beautiful text chat for open communities, easily embedded into any website.	JavaScript	1105	18	5	18
+erlchat	kristiankristensen/erlchat	2955032	Erlchat is a simple chat server built using the Chicago Boss web framework.	JavaScript	376	18	4	18
+atmosphere-chat-angular	spyboost/atmosphere-chat-angular	13695063	AngularJS implementation of https://github.com/Atmosphere/atmosphere-samples/tree/master/samples/chat	Java	232	18	8	18
+chat-frontend	IzumiSy/chat-frontend	46497676	Chat Application powered with Vue.js+RocketIO	JavaScript	332	18	2	18
+OpenVRTwitchChat	Hotrian/OpenVRTwitchChat	62184040	Put your favorite Twitch Chat directly into any OpenVR game!	C#	10895	18	5	18
+layer-websdk	layerhq/layer-websdk	50685742	Layer Web SDK is a JavaScript library for adding chat services to your web application	JavaScript	1605	18	9	18
+chatRoomTest	zTree/chatRoomTest	5410252	This chat room Demo use node.js & socket.io & html5 .  please use chrome to test.	JavaScript	23655	18	12	18
+clojurescript-chat-example	aiba/clojurescript-chat-example	4488657	A simple chat page using clojurescript for the client and clojure for the server.	Clojure	108	18	3	18
+jerichoencryption	joshua-m-david/jerichoencryption	13122084	Jericho Chat - Information-theoretically secure communications	JavaScript	114716	18	1	18
+python-libnessus	savon-noir/python-libnessus	13367613	Python Nessus Library - libnessus is a python library to enable devs to chat with nessus XMLRPC API, parse, store and diff scan results. It's wonderful.	Python	830	18	10	18
+Chat_stats	popcorncolonel/Chat_stats	22395768	Python program that records and gathers statistics about Twitch chat	Python	7940	18	1	18
+SocketChat	giolekva/SocketChat	541806	Web Chat using Tornado Web Server and HTML5 Web Sockets 	Python	82	18	1	18
+chat-api-daemon	Mawalu/chat-api-daemon	52660980	A http and websocket api for whatsapp using chat-api	JavaScript	42	18	0	18
+chat	tianxiangbing/chat	36843616	chat	JavaScript	498	17	16	17
+HastyAPI	lukesampson/HastyAPI	3813505	A .NET library that gets you chatting with web APIs quickly.	C#	140	17	4	17
+ting	dionyziz/ting	34073335	A chat system	Python	1198	17	40	17
+SauceBot	Saucesum/SauceBot	3364004	SauceBot Twitch.TV Chat bot	CoffeeScript	1476	17	17	17
+typeto.me	lysol/typeto.me	2211330	character-level realtime chat	JavaScript	89	17	7	17
+winston-slack	TDASinternal/winston-slack	17268073	Winston Transport for Slack chat integration 	JavaScript	292	17	16	17
+MI-Chat	AfzalivE/MI-Chat	7858081	Macinsiders native Android chat app	Java	28572	17	13	17
+botspade	jasonp/botspade	21405252	A Twitch Chat Bot	Ruby	1182	17	7	17
+ChatBukkit	Bukkit/ChatBukkit	1402090	Basic chat functionality for Bukkit	Java	152	17	6	17
+ts.chat	TheSmiths-Widgets/ts.chat	36377050	[unmaintained] A simple chat widget	JavaScript	25492	17	8	17
+ChitChat	pahimar/ChitChat	14870164	Chat filter mod for Forge ModLoader	Java	235	17	7	17
+slackyboy	sagebind/slackyboy	35521952	A helpful, programmable chat bot for Slack	PHP	314	17	6	17
+whatsapp_history	wiggin15/whatsapp_history	4161715	Get full chat history from Whatsapp and SMS/iMessage	Python	181	17	11	17
+djangotribune	sveetch/djangotribune	3885809	Django-tribune is a *chat-like application*	Python	294	17	8	17
+XLMapChat	xmartlabs/XLMapChat	6493975	A chat application running on Node.js, using Socket.IO, GMaps, and more...	JavaScript	83	17	58	17
+stalk-server	stalk-io/stalk-server	13316243	social live web chat service(no longer maintained).	Java	308	17	9	17
+Drupal-Strophe	athoune/Drupal-Strophe	197696	Javascript chat inside your Drupal	JavaScript	386	17	3	17
+react-nexus-chat	elierotenberg/react-nexus-chat	28053419	Demo chat app using React Nexus.	CSS	31894	17	3	17
+nodechat-android	loganlinn/nodechat-android	1048797	[archived] Android client for example Node.js chat room 	Java	856	17	8	17
+actioncable-chat-example	nithinbekal/actioncable-chat-example	39185239	A simple chat app using Rails and ActionCable	Ruby	273	17	7	17
+GDRCD	GDRCD/GDRCD	9816873	Script per la creazione di Giochi di Ruolo "Play by Chat" su browser	PHP	1161	17	20	17
+relay-chat-subscriptions	eyston/relay-chat-subscriptions	50393071	Relay Chat Room with Subscriptions	JavaScript	29	17	2	17
+cean-web-chat	couchbaselabs/cean-web-chat	48508562	Real-time chat with the CEAN stack and Socket.io	JavaScript	30	17	12	17
+facebook-like-chat	shaadomanthra/facebook-like-chat	16002120	A small script to demonstrate facebook like chat application using html jquery and css	CSS	5	17	26	17
+CactusBot	CactusBot/CactusBot	51809658	An open source, community-written chat bot for Beam. 	Python	560	17	6	17
+buildchatbot	mirkonasato/buildchatbot	6112209	Python script that monitors Jenkins builds and notifies a Skype chat	Python	113	17	9	17
+hipstat	emelski/hipstat	10329071	hipstat, analytics for HipChat group chat logs	Python	186	17	5	17
+BitbucketEventNotification	ymm1x/BitbucketEventNotification	21898987	Notify to chat when pull request events occured. (Slack or Chatwork)	PHP	715	17	3	17
+TiOpenChat	BOXOUT-THINKERS/TiOpenChat	47012495	Titanium open source chat mobile app for iOS/Android using BaaS by BOXOUT THINKERS	JavaScript	89635	17	9	17
+reeltalk	tarcieri/reeltalk	5970330	Web chat system using Celluloid+Reel+Websockets	JavaScript	254	17	1	17
+Basic-Real-Time-Chat-Application	jooldesign/Basic-Real-Time-Chat-Application	8929263	A real-time chat application built on the Blueprint PHP Framework and MongoDB	PHP	160	17	9	17
+piwik-chat	VincentLahaye/piwik-chat	19573181	Engage people you don't know at all, with this targeted and efficient chat system, directly integrated into Piwik.	PHP	702	17	10	17
+gochat	trustmaster/gochat	3414953	A simple chat written in Go using goflow library	Go	86	17	3	17
+miragejs	team-genjutsu/miragejs	65577153	API which offers video chat component that is interactive and animation driven	JavaScript	17340	17	3	17
+chaperone	markmandel/chaperone	12517460	Collaborative work environment with Chat, Audio and Video conferencing over WebRTC.	JavaScript	11388	17	1	17
+haskell-chat	dmansen/haskell-chat	2441858	A minimal, high-performance, IRC-like TCP chat server written in Haskell.	Haskell	164	17	1	17
+chatqy	realli/chatqy	46959928	Simple chat Server build with haskell servant, Websockets and react.js	JavaScript	48	17	0	17
+hapi-socketio-redis-riot-chat-example	dwyl/hapi-socketio-redis-riot-chat-example	40557878	:speech_balloon: Real-time Chat using Hapi.js + Socket.io + Redis Pub/Sub + Riot.js (example + tests!!) 	JavaScript	292	17	0	17
+xmpp4rails	kitplummer/xmpp4rails	11894	A xmpp4r wrapper turned Rails plugin...with a few advanced features like user registration and multi-user chat sends.	Ruby	92	17	1	17
+neta	jamen/neta	38382146	A modern, decentralized, and customizable chatting client.	JavaScript	993	16	5	16
+vk-chat-bot	ivaaaan/vk-chat-bot	31423890	Simple vk chat bot	PHP	120	16	20	16
+sensu-plugins-slack	sensu-plugins/sensu-plugins-slack	30865430	Sensu Slack chat handlers	Ruby	73	16	29	16
+slimCat	WreckedAvent/slimCat	6413855	slimCat F-Chat Client	C#	6000	16	14	16
+chat-websocket	feiyunruyue/chat-websocket	7646189	a very simple chat demo using websocket	JavaScript	91	16	81	16
+WebChat	leiminglin/WebChat	25724931	A web chat app	PHP	276	16	13	16
+chatNow	thiagosf/chatNow	1514471	Chat PHP MySQL jQuery	PHP	489	16	13	16
+bunker	bunkerchat/bunker	24433842	Realtime chat with node, socket.io, angular	JavaScript	29868	16	16	16
+Duga	Zomis/Duga	23287869	Stack Exchange Chat bot using Grails	Groovy	1062	16	5	16
+chathellup	brunocasanova/chathellup	34485013	Because sometimes just chat the hell up!	JavaScript	680	16	6	16
+pipo	phutchins/pipo	35233736	Secure end to end client side encryption chat	JavaScript	99866	16	7	16
+golang-lab-chat	bostongolang/golang-lab-chat	34795639	Resources for Boston Golang Lab #1: Create a Chat Server	Go	289	16	7	16
+SyncanoChat	lifcio/SyncanoChat	30498242	Really simple chat app running on Syncano	Swift	1251	16	5	16
+Gummi	kracekumar/Gummi	2640948	A Multi User Chat room developed with Flask 	Python	8035	16	5	16
+Lan-Messenger	fffaraz/Lan-Messenger	5046619	C++ Qt Serverless Lan Messenger, Private Messages & Chat Rooms, Voice Talk	C++	154	16	14	16
+akkachat	mariofusco/akkachat	1258304	A client/server chat in Java written using Akka remote actors	Java	121	16	13	16
+tcp_chat	pdhoot/tcp_chat	41501531	A chat app built over TCP	Python	9	16	2	16
+chat-service	an-sh/chat-service	39465430	An extensible and scalable chat-like messaging server.	JavaScript	851	16	2	16
+django-buddy	encorehu/django-buddy	11921825	django buddy, a chat bot use django as server, python aiml as backend.	Python	775	16	9	16
+ChatGameFontificator	GlitchCog/ChatGameFontificator	36542287	A Twitch chat display that uses the fonts of various video games	Java	18624	16	4	16
+dnnCHAT	ChrisHammond/dnnCHAT	9462646	This module for DNN 7.1.0+ utilizes SignalR and DAL2 to create a Chat Room functionality for DNN	JavaScript	116390	16	13	16
+eventmachine-websockets-demo	stewart/eventmachine-websockets-demo	12821339	A small demo of WebSockets using em-websocket to make a chat server	Ruby	92	16	11	16
+siphon-chat	getsiphon/siphon-chat	48280329	Source code for the real-time chat app tutorial: https://getsiphon.com/docs/build-a-chat-app/	JavaScript	2	16	2	16
+enviar	timwis/enviar	64841546	Chat interface for SMS / text messages	JavaScript	123	16	0	16
+tornado-websocket-chat	badubizzle/tornado-websocket-chat	4923860	A chat application build on top of tornado python web framework and websocket.	JavaScript	190	16	5	16
+iOS-Chat-App	DennisDreissen/iOS-Chat-App	43563537	Basic iOS chat application using a Node.JS backed running the Mosca MQTT broker	Objective-C	451	16	3	16
+PepperTalkSDK-iOS	Espreccino/PepperTalkSDK-iOS	29913054	PepperTalkSDK-iOS helps developers embed in-app chat messaging in iOS applications.	Objective-C	83221	16	3	16
+drrr-like-chat	bluelovers/drrr-like-chat	2763399	This is Ajax-based Durarara-like-chat. デュララに登場するチャットのインターフェイスが好き	PHP	2574	16	7	16
+Play-Push	lsinger/Play-Push	452566	A demo app that shows how to use Cappuccino and the Play! Framework to create a simple chat. 	Objective-J	1026	16	3	16
+StickyNotes-With-Firebase	StackHive/StickyNotes-With-Firebase	32710266	A real-time shared sticky notes application build using Firebase. Easily extend it to build a real-time chat or your own Task List management like Trello	JavaScript	117	16	7	16
+ChatappFeedmeBot-HB	mfbalder/ChatappFeedmeBot-HB	26900872	Hackbright Academy Final Project: A restaurant recommendation chat bot within a custom chat application.	JavaScript	676	16	1	16
+openvcx	openvcx/openvcx	37972643	OpenVCX (Open Video Conferencing Exchange) is a SIP based video streaming server for multi-way video chat, live web-casting, recording, and live media distribution.  It comes in two parts:  The Java OpenVCX SIP service and the C OpenVSX Video Stream Processor.	C	49990	16	9	16
+r-wakalang	tokyor/r-wakalang	37967540	Just chat or Q&A conversation related to R	null	131	16	1	16
+fbchat-archive-parser	ownaginatious/fbchat-archive-parser	47863971	A small library for parsing chat history from a Facebook data archive.	Python	63	16	1	16
+gtalk_export	coandco/gtalk_export	32228893	Export Google Talk/Hangouts chats to logfiles, using both mbox IMAP folders (for Google Talk) and Takeouts exports (for Google Hangouts)	Python	12	16	2	16
+asg	ambiversive/asg	2589414	This is a content management system that merges concepts from multiplayer games, operating systems, wikis, link aggregators, feed readers, and more! Features:  * OOP/MySQL/PHP/HTML/CSS/JS/Jquery/scrollTo+LocalScroll/Ace editor/Notifier.js * Documents organized in tree hierarchy, each document can act as directory * Every edit of a document saves a new revision with the old document * Chat integrated (chat notifies of cms events, uses long polling) * Aspect oriented (aspects can be toggled with commands or in sets- a user's aspect can be refreshed from the server by setting an aspect_preference variable to 2 (0 means off, 1 means on, 2 means needs refresh) * Command line (defaults to chat input, commands begin with forward slash) * Bots (Bot commands can be added as easily as adding a document in the appropriate place, bots can execute code. Bots respond to users they are focused on, when active.) * User-selectable stylesheets + individual css rules (styles are editable within the CMS, individual style rules are applied after loading style, added with /set body background black) * Easy to add new commands (/addcom) (commands are stored in CMS as javascript and loaded at runtime) * All aspects and commands are listed with /help * Aspects are remembered between sessions (ie: looks the way you left it) * All aspects, documents, commands, and users have access levels * Uses Ace editor for editing documents  * DB info stored in database/config.php - run the .sql then login with admin/admin * Integrated link aggregator with full cache (fetches link with wget) * Integrated RSS feed parser and db of over 200 feeds * One aspect is called the 'metabrowser' which is an iframe that loads a URL on command (usage: /bload http://reddit.com or /meta) .. the url is also remembered between sessions. * There is an interesting JS function called 'simcom' which simulates a user typing into the command line- works for both commands and chat messages. Usage: asgConfig.simcom('chat message or command!')   	PHP	6118	16	4	16
+am-chat	pubnub/am-chat	12769142	A demo of using PubNub Access Manager to secure a public chatting experience.	JavaScript	456	15	5	15
+chat_tutorial	essen/chat_tutorial	10640446	Cowboy Websocket Chat Tutorial	Erlang	145	15	7	15
+SocketChat	rockdragon/SocketChat	28678231	Chat room scaffolding	JavaScript	225	15	6	15
+fam100	yulrizka/fam100	60876186	Family Feud game in chat interface	Go	2334	15	9	15
+ch.py	Nullspeaker/ch.py	5572687	Python library for connecting to Chatango chat servers.	Python	231	15	19	15
+django-ajax-chat	sharan01/django-ajax-chat	12693309	django ajax chat package	CSS	1272	15	8	15
+EmoAppChat	FrankNT/EmoAppChat	38962475	Emotion keyboard for app chat OTT on Android	Java	388	15	13	15
+chat	musonza/chat	54214978	A laravel chat package	PHP	26	15	5	15
+hubot-logger	jenrzzz/hubot-logger	5787213	A Hubot script that logs and keeps transcripts of your chat.	CoffeeScript	235	15	13	15
+iMessageChatDecompile	mdp/iMessageChatDecompile	13055403	A decompilation of iMessage Chat from Huluwa	null	5696	15	5	15
+simplechat	gabrielecirulli/simplechat	11354371	SimpleChat is a small one-room chat written in node, using Socket.IO	JavaScript	136	15	12	15
+lorenzotherobot	singlerider/lorenzotherobot	28792870	Twitch Chat bot written in Python	Python	1768	15	3	15
+uberserver	spring/uberserver	8252114	uberserver, a matchmaking/chat lobby server for the spring rts project	Python	2463	15	14	15
+event-source-express-angular-real-time-tutorial	timruffles/event-source-express-angular-real-time-tutorial	23360130	Demonstrating using EventSource with Express, NodeJS and Angular to build a little chat app.	JavaScript	453	15	6	15
+GroupChat	praveendath92/GroupChat	13359676	Group chat application developed for Android workshop session. Everyone comments on the same thread.	Java	589	15	12	15
+welcomebot	jh0ker/welcomebot	44484745	Telegram Python Bot. Welcomes everyone that enters a group chat that it's part of.	Python	24	15	11	15
+php-piratebox	jvaubourg/php-piratebox	34012004	Web interface for free file-sharing (with chat)	PHP	1130	15	3	15
+sockjs-tutorial	jinzhangg/sockjs-tutorial	9536644	A simple real-time chat web application.	HTML	103	15	3	15
+socket.io-multichat	jgonera/socket.io-multichat	2795459	A simple example of a multiroom chat with Node.JS and Socket.IO, benchmark included	JavaScript	101	15	7	15
+comicchat	gyng/comicchat	16482716	Web client and node.js server based off Microsoft Comic Chat.	JavaScript	659	15	5	15
+Wifi-chat	crizCraig/Wifi-chat	5740722	Chat instantly with people on the same WiFi connection.	JavaScript	314	15	3	15
+xmpp-chat	LiveHelperChat/xmpp-chat	34982670	This is repository for full XMPP chat support. Standalone and automated hosting environment is supported.	PHP	259	15	7	15
+MultipeerConnectivity	lobrien/MultipeerConnectivity	13179029	Xamarin.iOS Multipeer Connectivity Example: Discovery & Chat	C#	124	15	1	15
+IPyXMPP	redsh/IPyXMPP	17526801	IPyXMPP is a chat bot serving an IPython shell over XMPP.	Python	556	15	2	15
+ChitChatRooms	superfeedr/ChitChatRooms	1571344	A small Chat Application on Google App Engine with file exchange and XMPP integration	Python	203	15	2	15
+chat-node-express-faye-sample	avington/chat-node-express-faye-sample	4168293	This my sample code on how to set up a chat client using Node, Express, and Faye	JavaScript	487	15	4	15
+AgoraDemoExtend	soapyigu/AgoraDemoExtend	54359249	Agora Video Chat Demo App With QR Scan	Objective-C	16549	15	0	15
+DotNetCoreUnity3d	NVentimiglia/DotNetCoreUnity3d	60797889	Simple high score and chat service using Dot Net Core and Unity3d	C#	3465	15	1	15
+slack-demo-chat	wakatime/slack-demo-chat	32661582	Chat relay server using socket.io for WakaTime + Slack demo	CSS	160	15	1	15
+paper-cups	alloy/paper-cups	347000	A small cozy web chat app, like paper cups and a string back in the days. Usually surrounded by lots of French chatter…	JavaScript	1361	15	3	15
+SimpleChatUsingTheChannelAPI	raulsann/SimpleChatUsingTheChannelAPI	1357120	This is a very simple chat that makes use of the Channel API for COMET	Python	486	15	1	15
+helloooo	yinwang0/helloooo	20494630	For the memory of the adorable chatting robot who was once on SMTH BBS. He certainly had passed the Turing test :)	Perl	112	14	8	14
+Chat-Android	viyancs/Chat-Android	3705486	chat application using android	Java	682	14	17	14
+twitch-bot	nmynarcik/twitch-bot	12837078	Twitch.tv Chat Bot	JavaScript	61	14	15	14
+yii2-private-messages	visionp/yii2-private-messages	36013224	Yii2Private messages, simple chat	PHP	139	14	10	14
+red5-websocket-chat	Red5/red5-websocket-chat	20748303	Red5 WebSocket Chat Demo	JavaScript	1162	14	17	14
+elirc_twitch	rockerBOO/elirc_twitch	37393852	Twitch Chat Bot for Elixir	Elixir	299	14	6	14
+hash.js	willox/hash.js	33494231	Horrific chat bot that was once used in the "Garry's Mod Coders" Steam group chat	Lua	531	14	17	14
+rxphp-chat	asm89/rxphp-chat	10941414	Demo chat application using Rx.PHP	PHP	113	14	6	14
+node-facebookchat	Takeno/node-facebookchat	9673380	Node.js library for facebook chat integration	JavaScript	105	14	9	14
+super-simple-chat	pubnub/super-simple-chat	25226010	A simple chat room demo for a PhoneGap tutorial	CSS	153	14	13	14
+CYXMPPChat	cyrusleung/CYXMPPChat	17469952	A fully ios xmpp chat app base on XMPPFramework	Objective-C	23492	14	11	14
+sendbird-sample	smilefam/sendbird-sample	49048873	SendBird - Messaging and Chat API for Mobile Apps and Websites	null	54480	14	23	14
+wolfschanze	neoatlantis/wolfschanze	31289763	Simple but secure web chat.	JavaScript	329	14	4	14
+taiga-contrib-letschat	taigaio/taiga-contrib-letschat	32629039	Taiga plugin for Let's Chat (https://sdelements.github.io/lets-chat/) integration	Python	122	14	10	14
+Location-Chat-Demo	arifken/Location-Chat-Demo	9536135	Location-based chat app using iOS and Node.js	Objective-C	31976	14	7	14
+Roomverse	folletto/Roomverse	14878918	Modular chat for distributed team collaboration	JavaScript	7889	14	3	14
+Chatlr	DRDIO/Chatlr	1009891	A Tumblr chat using Node.js, Socket.IO, OAuth, and jQuery.	JavaScript	14961	14	14	14
+peerbot	moose-team/peerbot	34824588	:radio: Message seeding utility for friends P2P chat.	JavaScript	16	14	5	14
+nosso-chate	viniciusthiengo/nosso-chate	53827800	Nosso Chat APP repository. In that app we are using Firebase to hold all database data.	Java	186	14	16	14
+schat	impomezia/schat	17079997	Simple Chat is a simple and powerful cross-platform client-server chat for local networks and the Internet.	C++	4960	14	7	14
+gitlabjabberhook	skyhorse/gitlabjabberhook	7020494	GitLab Web Hook to send notification messages to a Jabber chat room	PHP	144	14	5	14
+facebook_chat_with_javascript_on_node.js	kissrobber/facebook_chat_with_javascript_on_node.js	1934162	facebook chat with javascript(strophe.js) on node.js(node-xmpp-bosh)	JavaScript	385	14	7	14
+Chatt	benhowdle89/Chatt	10828544	A tiny chat app written in Meteor for my 12Devs article.	JavaScript	118	14	5	14
+react-chat-app	jhartikainen/react-chat-app	50349612	Source code for an article series on building a React-based chat app	JavaScript	9	14	5	14
+MultiPeerTest	waynehartman/MultiPeerTest	14053285	Sample chat application that uses MultipeerConnectivity.framework	Objective-C	196	14	2	14
+se-chat-dark-theme-plus	rlemon/se-chat-dark-theme-plus	42455420	dark theme plus ( old repo: https://github.com/rlemon/se-chat-dark-theme )	JavaScript	9507	14	4	14
+SocialPie	EricsonWillians/SocialPie	43864084	A chat server and client implemented with Python 3.x.	Python	10	14	6	14
+minecraft-chat-helper	m13253/minecraft-chat-helper	16271187	Minecraft chat helper with IME (Chinese, Japanese, Korean) support	Visual Basic	483	14	5	14
+chatterbox	BinaryMuse/chatterbox	1590727	A multi-room chat site in Rails using Faye and PrivatePub	JavaScript	349	14	8	14
+node-slack-irc	IgorAntun/node-slack-irc	33080104	Node.JS solution to integrate IRC chats to Slack.	JavaScript	172	14	4	14
+chatyuk	mohangk/chatyuk	25424459	A simple React.js based web chat room that should be easily embed-able on a HTML page	JavaScript	1313	14	14	14
+community-links	devskg/community-links	56584087	Links to KG community chats and groups	null	4	14	3	14
+node-discussion-board	thehung111/node-discussion-board	5021878	Simple real time discussion board & chat written in Node.js, KineticJS & Backbone	JavaScript	11621	14	7	14
+ff_stack_chat_example	niku/ff_stack_chat_example	40909913	A chat example build on FF(Elixir/Phoenix/Mithril) Stack	Elixir	1385	14	3	14
+chat	goinstant/chat	14240421	The GoInstant Chat widget provides real-time chat to users inside a room of your application.. This repo will no longer be updated. GoInstant will be discontinued as of August 31, 2014. Read our blog for more details.	JavaScript	1088	14	10	14
+Hendrix	daGrevis/Hendrix	18738182	Peer-to-peer (p2p) chat	CoffeeScript	504	14	1	14
+ionic-firebase-chat	xifengzhu/ionic-firebase-chat	50774276	Create a Real Time Chat App with Ionic && Firebase	JavaScript	2701	14	2	14
+Buzz-Chat-Bot	adewale/Buzz-Chat-Bot	893802	A jaiku-style chat bot for Buzz using the new discovery-based client libraries	Python	787	14	3	14
+Delphi_Remote_Access_PC	senjaxus/Delphi_Remote_Access_PC	43535685	Remote access in Delphi 7 and Delphi XE5 (With sharer files, CHAT and Forms Inheritance) || Acesso Remoto em Delphi 7 e Delphi XE5 (Com Compartilhador de Arquivos, CHAT e Herança de Formulários) 	Pascal	1465	14	7	14
+JamDroidFirechat	ygorcesar/JamDroidFirechat	52274180	Aplicação Android, demostrando o uso do Firebase com Android em uma aplicação de chat com troca de mensagens	Java	22032	14	7	14
+nodejs-xmpp-server	kartikrustagi/nodejs-xmpp-server	9745681	Highly modified version of Superfeeder's xmpp-server with added support for Presence, MultiUser chat and other modules like Last Activity.	JavaScript	1942	14	5	14
+io.stalk.static	xpush/io.stalk.static	17253106	STALK.IO is the most beautiful and effective way to make visitors stay on your website. It's super easy to install this chat widget for your website.	JavaScript	5977	14	7	14
+angular-enhance-text	BernhardPosselt/angular-enhance-text	16670254	Enhances text by replacing commonly used links and characters, e.g. directly embedding youtube videos, replacing smilies etc. This is useful for creating a web chat application. 	JavaScript	1613	14	6	14
+chat-server	fictorial/chat-server	1800957	A multi-user chat TCP/IP server. Everyone has a chat server and this one is mine.	CoffeeScript	104	14	1	14
+P2pChatAndroid	mehrvarz/P2pChatAndroid	4249203	A secure peer-to-peer chat application for Android	Scala	2399	14	1	14
+humblepied	migreyes/humblepied	11874785	Inspiring makers sharing one piece of advice, all over video chat.	CSS	5068	14	1	14
+mqtt-chat	andypiper/mqtt-chat	7607708	Simple MQTT-based chat room client written in Ruby	Ruby	107	14	0	14
+HypeChatDemo.ios	Hype-Labs/HypeChatDemo.ios	59787245	Chat app demo for the Hype framework written for iOS	Objective-C	120	14	1	14
+svg-emoticons	Artoria2e5/svg-emoticons	25396939	A collection of svg emotocons that can be used in IM chats and so on.	null	31	14	0	14
+otron	osnr/otron	16190503	:no_entry_sign: UNSUPPORTED Chrome extension for end-to-end Facebook chat encryption.	JavaScript	2672	14	0	14
+JSpager-Ionic-Template	jsappme/JSpager-Ionic-Template	40372363	JSpager converts a Facebook page into a chat hybrid mobile app using Ionic Framework, Ionic Material, Facebook API and Socket.io. JSpager is only an Ionic template. Customization is required to obtain a well finished and polished app.	JavaScript	12191	14	6	14
+pat-the-campfire-bot	abachman/pat-the-campfire-bot	2101964	A Campfire chat bot in node.js, intended to run on Heroku. Built for internal use at Figure53 but you might like it.	CoffeeScript	421	14	0	14
+Hive	ultrasilicon/Hive	46598891	Hive LAN chatting software.	C++	56357	13	2	13
+WebRTC-TicTacToe	GleasonK/WebRTC-TicTacToe	43260604	Play Tic-Tac-Toe while chatting using WebRTC DataChannels (built with PubNub)	JavaScript	979	13	4	13
+chatapp-skel	evert/chatapp-skel	1899998	Chat application skeleton	JavaScript	148	13	11	13
+instalk	AhmedSoliman/instalk	18723773	Group Chat App	Scala	883	13	4	13
+simsimi-php	dodgepudding/simsimi-php	9668274	simsimi chat sdk for php	PHP	111	13	13	13
+clustered-chat	JAVEO/clustered-chat	37187682	Clustered chat activator	HTML	491	13	8	13
+sockjs-chat	cubiq/sockjs-chat	4518796	Lame sockJS chat demo	JavaScript	103	13	11	13
+videochat	anilshanbhag/videochat	3893165	Video Chat over LAN 	Python	5	13	11	13
+Firebase	ashokslsk/Firebase	46840048	material designed one to one chat implementations	Java	178	13	14	13
+in-crowd	jiyinyiyong/in-crowd	3024018	real-time chat concept	CoffeeScript	1752	13	4	13
+btce-trollbox	gloryman/btce-trollbox	9400421	Console btc-e chat log	Python	294	13	6	13
+TownyChat	ElgarL/TownyChat	3282760	Towny Chat channels plugin for use with Towny and Bukkit	Java	6375	13	19	13
+videojs-rtc	brightcove/videojs-rtc	8610362	WebRTC chat along with VideoJS	JavaScript	245	13	4	13
+LetsChat	dilicode/LetsChat	25999174	Android chat application based on Openfire and Smack	Java	3206	13	12	13
+rechat	v3ss0n/rechat	33290865	RethinkDB + Tornado Async Chat	Python	424	13	3	13
+TALK	sadasant/TALK	3533350	Simple private chats on Node.js	JavaScript	238	13	8	13
+Musubi-Android	Mobisocial/Musubi-Android	5392132	An open-source group chat client	Java	7251	13	7	13
+video-chat	Yatko/video-chat	33203334	Automatically exported from code.google.com/p/video-chat	ActionScript	9328	13	10	13
+chat	tjournal/chat	36038030	node.js socket.io chat	JavaScript	721	13	5	13
+WinterBot	DarkAutumn/WinterBot	16158378	A Twitch.tv chat bot (replacement for NightBot)	C#	9064	13	14	13
+InstaChat	spicytuna/InstaChat	4247018	Super simple chat system, no assembly required.	JavaScript	242	13	4	13
+meteor-chat-room	dpid/meteor-chat-room	26427531	A chat room demo using Meteor.	CoffeeScript	244	13	3	13
+DotNetAngularChat	Nitij/DotNetAngularChat	12348282	A simple chat website using Asp.Net and AngularJS.	ASP	267	13	6	13
+chat-example	vapor/chat-example	60991296	Realtime chat example built with Vapor.	CSS	77	13	3	13
+hmh_bot	Chronister/hmh_bot	27905259	Python modules for the Willie IRC bot used in the Handmade Hero twitch chat.	Python	396	13	13	13
+SkyWay-MultiParty	nttcom/SkyWay-MultiParty	39804951	This is a library for easy implementation of group video chat.	JavaScript	180	13	15	13
+BubbleChat	softwarenerd/BubbleChat	34015077	iOS peer-to-peer chat over Bluetooth LE	Objective-C	1212	13	8	13
+ruby-jquery-chat	martintechlabs/ruby-jquery-chat	799441	This app is based on Anant Garg's php jquery chat (http://anantgarg.com/2009/05/13/gmail-facebook-style-jquery-chat/)	Ruby	259	13	6	13
+firepadvchat	songz/firepadvchat	9335000	Add live video chat to FirePad.io	null	839	13	3	13
+slack-xmpp	camwhite/slack-xmpp	49914843	Forward any xmpp based chat to Slack	JavaScript	8	13	3	13
+SimpleChat	nidhi1608/SimpleChat	23992054	A simple chat application using android and parse backend-as-a-service.	Java	3380	13	9	13
+chatterl	baphled/chatterl	90058	Sinan based chat system built in Erlang	Erlang	2189	13	3	13
+Eve	xunuoi/Eve	30004337	Chat Robot .聊天机器人Eve  - 部分代码	JavaScript	151	13	4	13
+dummychat	usablica/dummychat	3890364	A NodeJS-Socket.IO dummy chat, every client has a dummy and can play with it!	JavaScript	718	13	11	13
+cryptalk	Hexagon/cryptalk	24178276	HTML5/Node.js based, client side (E2EE) encrypted instant chat	JavaScript	185	13	3	13
+node-webrtc-chat	yutaka-m/node-webrtc-chat	3886303	webrtc video chat with node.js websocket	JavaScript	99	13	3	13
+floaties	ericbhatti/floaties	47187116	Floating Window library like Facebook Messenger chat heads.	Java	138	13	4	13
+slackslime	franciskim/slackslime	41632575	Cross-team/organisation chat on Slack using the RTM API	JavaScript	638	13	2	13
+ember-cli-screencast	sararob/ember-cli-screencast	32101071	Chat app for my screencast on using Ember CLI + EmberFire	JavaScript	199	13	1	13
+hubot-gif-me	parkr/hubot-gif-me	16569116	Bring your personal gifs into your favourite chat client.	CoffeeScript	321	13	2	13
+python-wechat	jaux/python-wechat	6964958	WeChat.py is a library which provides an easy access to the WeChat (Weixin) app's chat log.	Python	126	13	5	13
+git-log-relay-chat	motemen/git-log-relay-chat	1965796	chat on git commit log	Perl	99	13	1	13
+ax25xmpp	jgoerzen/ax25xmpp	1072702	Bridge between AX.25 packet radio and XMPP (Jabber) Chat	Python	106	13	2	13
+Node-Mithril-Chat	Bondifrench/Node-Mithril-Chat	27302405	A sample chat app using NodeJS ExpressJS Socket.io and Mithril	JavaScript	14	13	5	13
+SOCVR-Chatbot	SO-Close-Vote-Reviewers/SOCVR-Chatbot	28876673	Chatbot (lovingly named Closey) for the SO Close Vote Reviewers Chat Room	C#	42251	13	3	13
+confluence.chat	muchino/confluence.chat	2974157	A built-in chat for realtime collaboration in confluence	Java	3312	13	2	13
+azure-chat-for-java	Microsoft/azure-chat-for-java	28153498	Azure Chat for Java, A simple Java-based photo and video sharing application, supporting Azure services as the backend for authentication, Video, photos and friend requests via the Azure Java SDK	Java	30154	13	11	13
+Hitbox-Chat-Doc	Hitakashi/Hitbox-Chat-Doc	29563427	Unofficial - Contains documentation for hitbox.tv Chat.	null	77	13	1	13
+chant	otiai10/chant	17233660	Simple chat service, without database (optional).	JavaScript	12699	13	1	13
+yoursecondphone	nkcmr/yoursecondphone	13844004	primary codebase for your second phone - the secure and privacy-conscious video chat application.	JavaScript	2756	13	3	13
+elm-twitch-chat	paramanders/elm-twitch-chat	66166018	Elm powered Twitch chat using WebSockets	Elm	63	13	1	13
+Whiz-Chat	PrasannaVenkadesh/Whiz-Chat	2216645	This is a simple chat application that can be run from Terminal. For now only Google account is supported and we will add features in further versions.	Ruby	339	13	7	13
+jugger-chat	bcaccinolo/jugger-chat	32663	A little rails chat using Juggernaut	Ruby	355	13	0	13
+webrtc-video-chat	piratefsh/webrtc-video-chat	41161597	Video chat using webRTC with signalling server	JavaScript	484	13	2	13
+P2PChat	yanisIk/P2PChat	39542153	Chat web app with p2p communication using WebRTC. Live demo : http://p2pchat.meteor.com/	JavaScript	196	13	3	13
+slack-github	sdslabs/slack-github	18401340	A webhook for GitHub that posts to your slack chat using an Incoming Webhook integration in slack.	JavaScript	156	13	5	13
+reatchat	rohan-deshpande/reatchat	56417753	a simple chat app built with ReactPHP, WebSockets and ReactJs	JavaScript	16	13	2	13
+GJGCChatInputPanel	zyprosoft/GJGCChatInputPanel	38560307	an chat input panel while may used in IM app	Objective-C	5362	13	1	13
+PHP-Sentiment-Analyzer	Samshal/PHP-Sentiment-Analyzer	38541276	This package is an implementation of the Naive Bayes Algorithm To Determine the sentiment of a particular statement, a book review, chat, speech and so on. It marks a sentence as positive, negative or neutral depending on the kind of words that are used, this can help in automatically selecting a review, comment or chat that has the best intentions in any situation.	PHP	3028	13	6	13
+pichat	zabirauf/pichat	35806335	Sample chat application using Elixir and Phoenix on Raspberry Pi 2	Elixir	188	13	0	13
+slack-anywhere	webpay/slack-anywhere	23941745	Act as a facade to chat on slack	C++	222	13	0	13
+react-slack-rtm	izdi/react-slack-rtm	30127046	Demo Slack RTM chat built with ReactJS and Django	JavaScript	184	13	1	13
+saysomething	velopert/saysomething	65683088	Realtime Chat Application using long polling technique; implemented using Express.js, MongoDB and React.js	JavaScript	182	13	0	13
+GlobalChat2	jsilverMDX/GlobalChat2	6015615	real-time, low bandwidth, game-like global channel chat for enterprise with persisted, automated scrollback of logs and multiline pasting support. attempt to make long overlooked improvements on IRC technology by inventing a new, simpler, controllable one.	Ruby	42705	13	2	13
+ephchat	bmmayer/ephchat	21960453	Ephemeral chat	JavaScript	206	12	4	12
+breaker	larvalabs/breaker	60192509	Chat rooms for subreddits.	JavaScript	14494	12	6	12
+SE-Chat-Terminal	The-Quill/SE-Chat-Terminal	49443957	SE chat in Terminal	JavaScript	83	12	4	12
+chat	socieboy/chat	38704193	Laravel Chat - One to one	JavaScript	240	12	8	12
+GifRocket	FinndropStudios/GifRocket	56875668	Giphy Integration for Rocket.Chat	JavaScript	17	12	7	12
+prat	bkad/prat	3969685	group chat with markdown served over websockets	Python	2338	12	8	12
+elm-video-chat	jinjor/elm-video-chat	36311307	video chat system by Elm	Elm	475	12	4	12
+spring-atmosphere-chat-example	GregaVrbancic/spring-atmosphere-chat-example	16322551	Atmosphere integrated into Spring framework. Chat example.	JavaScript	160	12	7	12
+chat-tutorial	meteor/chat-tutorial	43983239	Five part tutorial to build a single-room chat app.	null	940	12	16	12
+rebolbot	gchiu/rebolbot	9334451	A stackoverflow chat bot for Rebol	Rebol	120	12	6	12
+MinecraftBot	TerrorBite/MinecraftBot	2945922	Bukkit plugin that integrates IRC and Minecraft chat.	Java	5110	12	11	12
+DirectChat	hoang8f/DirectChat	14039886	Chat application via wifi direct	Java	20404	12	8	12
+SwiftChatClient	swiftsocket/SwiftChatClient	23615284	a simple chat client use swift socket	Swift	150	12	12	12
+hitbox-chat	tsholmes/hitbox-chat	22706877	A chat client library for hitbox.tv	JavaScript	14	12	8	12
+grmble	andyburke/grmble	3684663	A node.js chat server/client application.	JavaScript	1241	12	7	12
+express-node-chat	reu/express-node-chat	1196168	A NodeJS chat application using the Express framework	JavaScript	100	12	5	12
+socket_lesson	ketaro/socket_lesson	13760988	Hackbright lesson for using python sockets to create a simple chat server	Python	320	12	19	12
+logviewer	CBenni/logviewer	49324448	View chat logs of individuals in twitch chat	JavaScript	996	12	2	12
+XChat-FiSH-AES	emigonza/XChat-FiSH-AES	2677078	Blowfish and AES FiSH-like for X-Chat in 100% Python	Python	485	12	13	12
+ToorChat	hathcox/ToorChat	6314241	An Chat Program for use with the ToorCon 2013 badge.	Python	344	12	10	12
+socket.io-chat-demo	ericraio/socket.io-chat-demo	3500326	Socket.io chat room application with multiple rooms.	JavaScript	97	12	7	12
+PoETradeMonitor	Panaetius/PoETradeMonitor	9616311	A monitoring tool for Path of Exile Trade Chat	C#	462	12	6	12
+aiohttp_test_chat	steelkiwi/aiohttp_test_chat	55594232	Simple aiohttp test chat	Python	143	12	2	12
+happychat-service	Automattic/happychat-service	52473446	Socket.IO based chat server for tinkerchat	JavaScript	178	12	4	12
+whatever_you_say	PatrickTulskie/whatever_you_say	124208	Is a RoR chat application that provides on the fly translation and live browser based chat.	Ruby	1522	12	6	12
+cHat	emgram769/cHat	14253847	This is a simple chat client with video and audio chat options.	C	2054	12	3	12
+FayeMessaging	tazsingh/FayeMessaging	1678400	Simple Group Chat built with Faye at a Toronto Ruby Hack Night	Ruby	454	12	5	12

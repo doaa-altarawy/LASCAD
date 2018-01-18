@@ -1,0 +1,414 @@
+{
+  "atom": {
+    "language": "CoffeeScript",
+    "group": "Text Editor"
+  },
+  "brackets": {
+    "language": "JavaScript",
+    "group": "Text Editor"
+  },
+  "textmate": {
+    "language": "C++",
+    "group": "Text Editor"
+  },
+  "LightTable": {
+    "language": "Clojure",
+    "group": "Text Editor"
+  },
+  "vim.js": {
+    "language": "C",
+    "group": "Text Editor"
+  },
+  "sharelatex": {
+    "language": "CoffeeScript",
+    "group": "Text Editor"
+  },
+  "slap": {
+    "language": "JavaScript",
+    "group": "Text Editor"
+  },
+  "codebox": {
+    "language": "JavaScript",
+    "group": "Text Editor"
+  },
+  "zed": {
+    "language": "JavaScript",
+    "group": "Text Editor"
+  },
+  "KomodoEdit": {
+    "language": "Python",
+    "group": "Text Editor"
+  },
+  "Caret": {
+    "language": "JavaScript",
+    "group": "Text Editor"
+  },
+  "leo-editor": {
+    "language": "Python",
+    "group": "Text Editor"
+  },
+  "2048": {
+    "language": "CSS",
+    "group": "Web Games"
+  },
+  "BrowserQuest": {
+    "language": "JavaScript",
+    "group": "Web Games"
+  },
+  "untrusted": {
+    "language": "JavaScript",
+    "group": "Web Games"
+  },
+  "adarkroom": {
+    "language": "JavaScript",
+    "group": "Web Games"
+  },
+  "hextris": {
+    "language": "JavaScript",
+    "group": "Web Games"
+  },
+  "clumsy-bird": {
+    "language": "JavaScript",
+    "group": "Web Games"
+  },
+  "0hh1": {
+    "language": "JavaScript",
+    "group": "Web Games"
+  },
+  "d3": {
+    "language": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "Chart.js": {
+    "language": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "Leaflet": {
+    "language": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "echarts": {
+    "language": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "chartist-js": {
+    "language": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "sigma.js": {
+    "language": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "metrics-graphics": {
+    "language": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "dc.js": {
+    "language": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "epoch": {
+    "language": "HTML",
+    "group": "Data Visulization"
+  },
+  "matplotlib": {
+    "language": "Python",
+    "group": "Data Visulization"
+  },
+  "peity": {
+    "language": "HTML",
+    "group": "Data Visulization"
+  },
+  "raw": {
+    "language": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "chroma.js": {
+    "language": "CoffeeScript",
+    "group": "Data Visulization"
+  },
+  "arbor": {
+    "language": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "dimple": {
+    "language": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "BEMSimpleLineGraph": {
+    "language": "Objective-C",
+    "group": "Data Visulization"
+  },
+  "recline": {
+    "language": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "envisionjs": {
+    "language": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "kartograph.js": {
+    "language": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "pygal": {
+    "language": "Python",
+    "group": "Data Visulization"
+  },
+  "cesium": {
+    "language": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "modestmaps-js": {
+    "language": "JavaScript",
+    "group": "Data Visulization"
+  },
+  "Decider": {
+    "language": "Ruby",
+    "group": "Machine Learning"
+  },
+  "jubatus": {
+    "language": "C++",
+    "group": "Machine Learning"
+  },
+  "datumbox-framework": {
+    "language": "Java",
+    "group": "Machine Learning"
+  },
+  "seldon-server": {
+    "language": "Java",
+    "group": "Machine Learning"
+  },
+  "mahout": {
+    "language": "Java",
+    "group": "Machine Learning"
+  },
+  "MLPNeuralNet": {
+    "language": "Objective-C",
+    "group": "Machine Learning"
+  },
+  "shogun": {
+    "language": "C++",
+    "group": "Machine Learning"
+  },
+  "oryx": {
+    "language": "Java",
+    "group": "Machine Learning"
+  },
+  "neon": {
+    "language": "Python",
+    "group": "Machine Learning"
+  },
+  "h2o-2": {
+    "language": "Java",
+    "group": "Machine Learning"
+  },
+  "ML_for_Hackers": {
+    "language": "R",
+    "group": "Machine Learning"
+  },
+  "golearn": {
+    "language": "Go",
+    "group": "Machine Learning"
+  },
+  "Ruby-warrior": {
+    "language": "Ruby",
+    "group": "Machine Learning"
+  },
+  "xgboost": {
+    "language": "C++",
+    "group": "Machine Learning"
+  },
+  "mxnet": {
+    "language": "C++",
+    "group": "Machine Learning"
+  },
+  "Theano": {
+    "language": "Python",
+    "group": "Machine Learning"
+  },
+  "nupic": {
+    "language": "Python",
+    "group": "Machine Learning"
+  },
+  "pattern": {
+    "language": "Python",
+    "group": "Machine Learning"
+  },
+  "convnetjs": {
+    "language": "JavaScript",
+    "group": "Machine Learning"
+  },
+  "CNTK": {
+    "language": "C++",
+    "group": "Machine Learning"
+  },
+  "keras": {
+    "language": "Python",
+    "group": "Machine Learning"
+  },
+  "brain": {
+    "language": "JavaScript",
+    "group": "Machine Learning"
+  },
+  "PredictionIO": {
+    "language": "Scala",
+    "group": "Machine Learning"
+  },
+  "caffe": {
+    "language": "C++",
+    "group": "Machine Learning"
+  },
+  "scikit-learn": {
+    "language": "Python",
+    "group": "Machine Learning"
+  },
+  "tensorflow": {
+    "language": "C++",
+    "group": "Machine Learning"
+  },
+  "libgdx": {
+    "language": "Java",
+    "group": "Games Engines"
+  },
+  "GD": {
+    "language": "HTML",
+    "group": "Games Engines"
+  },
+  "Dash": {
+    "language": "D",
+    "group": "Games Engines"
+  },
+  "panda3d": {
+    "language": "C++",
+    "group": "Games Engines"
+  },
+  "duality": {
+    "language": "C#",
+    "group": "Games Engines"
+  },
+  "AtomicGameEngine": {
+    "language": "C",
+    "group": "Games Engines"
+  },
+  "xenko": {
+    "language": "C#",
+    "group": "Games Engines"
+  },
+  "spring": {
+    "language": "C++",
+    "group": "Games Engines"
+  },
+  "superpowers-core": {
+    "language": "TypeScript",
+    "group": "Games Engines"
+  },
+  "jmonkeyengine": {
+    "language": "Java",
+    "group": "Games Engines"
+  },
+  "Torque2D": {
+    "language": "C++",
+    "group": "Games Engines"
+  },
+  "GamePlay": {
+    "language": "C++",
+    "group": "Games Engines"
+  },
+  "Starling-Framework": {
+    "language": "ActionScript",
+    "group": "Games Engines"
+  },
+  "Torque3D": {
+    "language": "C++",
+    "group": "Games Engines"
+  },
+  "turbulenz_engine": {
+    "language": "TypeScript",
+    "group": "Games Engines"
+  },
+  "godot": {
+    "language": "C",
+    "group": "Games Engines"
+  },
+  "openage": {
+    "language": "C++",
+    "group": "Games Engines"
+  },
+  "MonoGame": {
+    "language": "C#",
+    "group": "Games Engines"
+  },
+  "cocos2d-x": {
+    "language": "C++",
+    "group": "Games Engines"
+  },
+  "OpenRA": {
+    "language": "C#",
+    "group": "Games Engines"
+  },
+  "spring-framework": {
+    "language": "Java",
+    "group": "Web Framework"
+  },
+  "laravel": {
+    "language": "PHP",
+    "group": "Web Framework"
+  },
+  "symfony": {
+    "language": "PHP",
+    "group": "Web Framework"
+  },
+  "cakephp": {
+    "language": "PHP",
+    "group": "Web Framework"
+  },
+  "CodeIgniter": {
+    "language": "PHP",
+    "group": "Web Framework"
+  },
+  "rails": {
+    "language": "Ruby",
+    "group": "Web Framework"
+  },
+  "sinatra": {
+    "language": "Ruby",
+    "group": "Web Framework"
+  },
+  "pakyow": {
+    "language": "Ruby",
+    "group": "Web Framework"
+  },
+  "flask": {
+    "language": "Python",
+    "group": "Web Framework"
+  },
+  "django": {
+    "language": "Python",
+    "group": "Web Framework"
+  },
+  "web2py": {
+    "language": "Python",
+    "group": "Web Framework"
+  },
+  "frappe": {
+    "language": "Python",
+    "group": "Web Framework"
+  },
+  "express": {
+    "language": "JavaScript",
+    "group": "Web Framework"
+  },
+  "derby": {
+    "language": "JavaScript",
+    "group": "Web Framework"
+  },
+  "mean": {
+    "language": "JavaScript",
+    "group": "Web Framework"
+  },
+  "meteor": {
+    "language": "JavaScript",
+    "group": "Web Framework"
+  }
+}

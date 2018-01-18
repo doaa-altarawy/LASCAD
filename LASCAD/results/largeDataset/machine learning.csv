@@ -1,0 +1,1001 @@
+name	full_name	id	description	language	size	watchers	forks	stargazers_count
+tensorflow	tensorflow/tensorflow	45717250	Computation using data flow graphs for scalable machine learning	C++	227911	31837	13648	31837
+awesome-machine-learning	josephmisiti/awesome-machine-learning	21872392	A curated list of awesome Machine Learning frameworks, libraries and software.	Python	1080	15948	3773	15948
+scikit-learn	scikit-learn/scikit-learn	843222	scikit-learn: machine learning in Python	Python	123509	13391	7703	13391
+incubator-predictionio	apache/incubator-predictionio	7827081	PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.	Scala	41836	9588	1483	9588
+dive-into-machine-learning	hangtwenty/dive-into-machine-learning	31186658	Dive into Machine Learning with Python Jupyter notebook and scikit-learn	null	413	5599	737	5599
+pattern	clips/pattern	1696822	Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.	Python	46447	4752	862	4752
+Qix	ty4z2008/Qix	18962767	Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang	null	2052	4665	2127	4665
+python-machine-learning-book	rasbt/python-machine-learning-book	40380094	The "Python Machine Learning" book code repository and info resource	Jupyter Notebook	157552	3984	986	3984
+vowpal_wabbit	JohnLangford/vowpal_wabbit	265995	Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.	C++	107722	3866	1042	3866
+Swift-AI	collinhundley/Swift-AI	46527265	An artificial intelligence and machine learning library in Swift.	Swift	28472	3462	294	3462
+aerosolve	airbnb/aerosolve	35507603	A machine learning package built for humans.	Java	5787	3371	400	3371
+amazon-dsstne	amznlabs/amazon-dsstne	54621372	Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models 	C++	914	3268	500	3268
+golearn	sjwhitworth/golearn	15452925	Machine Learning for Go	Go	29347	3203	363	3203
+Machine-Learning-Tutorials	ujjwalkarn/Machine-Learning-Tutorials	42360601	machine learning and deep learning tutorials, articles and other resources 	null	8838	3060	746	3060
+weight-loss	arielf/weight-loss	62973876	Machine Learning meets  ketosis: how to effectively lose weight	Python	1079	2792	98	2792
+Data-Analysis-and-Machine-Learning-Projects	rhiever/Data-Analysis-and-Machine-Learning-Projects	30730072	Repository of teaching materials, code, and data for my data analysis and machine learning projects.	Jupyter Notebook	19082	2595	560	2595
+ML_for_Hackers	johnmyleswhite/ML_for_Hackers	3403779	Code accompanying the book "Machine Learning for Hackers"	R	121125	2551	1819	2551
+pylearn2	lisa-lab/pylearn2	1103054	A Machine Learning library based on Theano	Python	697296	2173	897	2173
+h2o-2	h2oai/h2o-2	8043551	h2o = fast statistical, machine learning & math runtime for bigdata 	Java	774706	2057	551	2057
+DataSciencePython	ujjwalkarn/DataSciencePython	43759462	common data analysis and machine learning tasks using python	Python	68	2028	369	2028
+pattern_classification	rasbt/pattern_classification	18258282	A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks	Jupyter Notebook	108586	1907	573	1907
+DMTK	Microsoft/DMTK	45765537	Microsoft Distributed Machine Learning Toolkit	null	15	1677	407	1677
+ChatterBot	gunthercox/ChatterBot	24561828	ChatterBot is a machine learning, conversational dialog engine.	Python	2978	1496	396	1496
+BuildingMachineLearningSystemsWithPython	luispedro/BuildingMachineLearningSystemsWithPython	13086750	Source Code for the book Building Machine Learning Systems with Python	Python	147179	1485	823	1485
+tpot	rhiever/tpot	45495679	A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.	Python	6154	1478	187	1478
+oryx	cloudera/oryx	14280839	Simple real-time large-scale machine learning infrastructure.	Java	34770	1380	393	1380
+machine-learning-cheat-sheet	soulmachine/machine-learning-cheat-sheet	9954710	Classical equations and diagrams in machine learning	TeX	18632	1373	370	1373
+h2o-3	h2oai/h2o-3	17371412	Open Source Fast Scalable Machine Learning API For Smarter Applications (Deep Learning, Gradient Boosting, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA...)	Java	335291	1325	559	1325
+framework	accord-net/framework	3964514	Machine learning, computer vision, statistics and general scientific computing for .NET	C#	335998	1243	619	1243
+parallel_ml_tutorial	ogrisel/parallel_ml_tutorial	7549981	Tutorial on scikit-learn and IPython for parallel machine learning	Jupyter Notebook	5026	1158	466	1158
+shogun	shogun-toolbox/shogun	1555094	The Shogun Machine Learning Toolbox (Source Code)	C++	194198	1140	604	1140
+mlpack	mlpack/mlpack	28149409	mlpack: a scalable C++ machine learning library	C++	168878	1131	395	1131
+HLearn	mikeizbicki/HLearn	5089764	Homomorphic machine learning	Haskell	17533	1046	106	1046
+benchm-ml	szilard/benchm-ml	33015554	A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.).	R	1018	1004	157	1004
+Data-Science-45min-Intros	DrSkippy/Data-Science-45min-Intros	12963091	Ipython notebook presentations for getting starting with basic programming, statistics and machine learning techniques	Jupyter Notebook	42877	950	270	950
+Theano-Tutorials	Newmu/Theano-Tutorials	24396710	Bare bones introduction to machine learning from linear regression to convolutional neural networks using Theano.	Python	249	945	381	945
+oryx	OryxProject/oryx	22269384	Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning	Java	15021	879	235	879
+seldon-server	SeldonIO/seldon-server	30649762	Enterprise machine learning platform for prediction and recommendation.	Java	2850	852	172	852
+dlib	davisking/dlib	16331291	A toolkit for making real world machine learning and data analysis applications in C++	C++	17249	821	325	821
+php-ml	php-ai/php-ml	51325497	PHP-ML - Machine Learning library for PHP	PHP	595	818	60	818
+lime	marcotcr/lime	53982546	Lime: Explaining the predictions of any machine learning classifier	JavaScript	6789	767	113	767
+veles	Samsung/veles	36335217	Distributed machine learning platform	C++	92596	764	163	764
+datumbox-framework	datumbox/datumbox-framework	25405542	Datumbox is an open-source Machine Learning framework written in Java which allows the rapid development of Machine Learning and Statistical applications.	Java	3900	735	194	735
+spearmint	JasperSnoek/spearmint	7681175	Spearmint is a package to perform Bayesian optimization according to the algorithms outlined in the paper:  Practical Bayesian Optimization of Machine Learning Algorithms. Jasper Snoek, Hugo Larochelle and Ryan P. Adams.  Advances in Neural Information Processing Systems, 2012 	Python	565	733	189	733
+MachineLearning	wepe/MachineLearning	27595858	Basic Machine Learning and Deep Learning	Python	1401	723	731	723
+pipeline	fluxcapacitor/pipeline	38730494	Real-time, End-to-End, Advanced Analytics and Machine Learning Recommendation Pipeline 	Jupyter Notebook	3091226	710	272	710
+PRMLT	PRML/PRMLT	5746658	Pattern Recognition and Machine Learning Toolbox	Matlab	555	696	448	696
+serving	tensorflow/serving	50461701	A flexible, high-performance serving system for machine learning models	C++	1430	672	182	672
+BIDMach	BIDData/BIDMach	6328806	CPU and GPU-accelerated Machine Learning Library	Jupyter Notebook	37969	667	126	667
+ramp	kvh/ramp	4222916	Rapid Machine Learning Prototyping in Python	Python	734	621	78	621
+SFrame	turi-code/SFrame	41886367	SFrame: Scalable tabular and graph data-structures built for out-of-core data analysis and machine learning.	C++	5764	604	226	604
+introduction_to_ml_with_python	amueller/introduction_to_ml_with_python	59957955	Notebooks and code for the book "Introduction to Machine Learning with Python"	Jupyter Notebook	87271	595	139	595
+jubatus	jubatus/jubatus	2645030	Framework and Library for Distributed Online Machine Learning	C++	15041	580	131	580
+mshadow	dmlc/mshadow	14967911	Matrix Shadow:Lightweight CPU/GPU Matrix and Tensor  Template Library in C++/CUDA for (Deep) Machine Learning	C++	1709	568	293	568
+machinelearninginaction	pbharrin/machinelearninginaction	1703471	Source Code for the book: Machine Learning in Action published by Manning	HTML	15648	555	551	555
+mlxtend	rasbt/mlxtend	22937749	A library of extension and helper modules for Python's data analysis and machine learning libraries.	Python	30461	548	141	548
+milk	luispedro/milk	379988	MILK: Machine Learning Toolkit	Python	1631	520	106	520
+goml	cdipaolo/goml	38148874	On-line Machine Learning in Go (and so much more)	Go	955	517	39	517
+Metrics	benhamner/Metrics	4639444	Machine learning evaluation metrics, implemented in Python, R, Haskell, and MATLAB / Octave	Python	803	490	197	490
+awesome-machine-learning-cn	jobbole/awesome-machine-learning-cn	45461779	机器学习资源大全中文版，包括机器学习领域的框架、库以及软件	null	15	463	257	463
+mlr	mlr-org/mlr	12465340	mlr: Machine Learning in R 	R	92217	451	134	451
+hivemall	myui/hivemall	13120591	Scalable machine learning library for Hive/Hadoop	Java	160527	451	136	451
+machine-learning-samples	awslabs/machine-learning-samples	32830403	Sample applications built using Amazon Machine Learning. 	Python	192	437	152	437
+tutorials	torch/tutorials	5044947	A series of machine learning tutorials for Torch7	Jupyter Notebook	11565	435	272	435
+fuel	mila-udem/fuel	30722866	A data pipeline framework for machine learning	Python	1789	432	162	432
+multiverso	Microsoft/multiverso	42048804	Parameter server framework for distributed machine learning	C++	6941	407	133	407
+LeadQualifier	xeneta/LeadQualifier	60345291	:dart: Qualify sales leads with machine learning	Python	2751	405	59	405
+keystone	amplab/keystone	33748726	Simplifying robust end-to-end machine learning on Apache Spark.	Scala	19309	390	97	390
+DataScienceR	ujjwalkarn/DataScienceR	24929423	a curated list of R tutorials for Data Science, NLP and Machine Learning 	R	16495	379	169	379
+Decider	danielsdeleo/Decider	245893	Flexible and Extensible Machine Learning in Ruby	Ruby	23562	360	53	360
+machine-learning	udacity/machine-learning	50450433	Content for Udacity's Machine Learning curriculum	Jupyter Notebook	4317	356	683	356
+Artificial-Intelligence-and-Machine-Learning	emilmont/Artificial-Intelligence-and-Machine-Learning	2588511	Algorithm implementations and homework solutions for the Stanford's online courses	Python	23098	352	190	352
+limdu	erelsgl/limdu	10640288	Machine-learning for Node.js	JavaScript	1495	346	39	346
+trident-ml	pmerienne/trident-ml	8956674	Trident-ML : A realtime online machine learning library	Java	13815	346	79	346
+skll	EducationalTestingService/skll	11845170	SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments.	Python	31630	344	43	344
+Mallet	mimno/Mallet	18378040	MALLET is a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.	Java	32421	344	171	344
+rep	yandex/rep	33886250	Machine Learning toolbox for Humans	Jupyter Notebook	125268	338	71	338
+opencv	bytefish/opencv	1100285	OpenCV projects: Face Recognition, Machine Learning, Colormaps, Local Binary Patterns, Examples...	C++	3934	337	285	337
+eatiht	rodricios/eatiht	28172239	An exercise in unsupervised machine learning: Extract Article's Text in HTml documents. 	HTML	9878	337	32	337
+iir	shuyo/iir	118130	Machine Learning / Natural Language Processing / Information Retrieval	Python	1927	336	153	336
+hearthbreaker	danielyule/hearthbreaker	18560350	A Hearthstone: Heroes of WarCraft Simulator for the purposes of Machine Learning and Data Mining	Python	33440	330	103	330
+photon-ml	linkedin/photon-ml	50964104	A scalable machine learning library on Apache Spark	Scala	33177	329	69	329
+hector	xlvector/hector	14005852	Golang machine learning lib	Go	4452	320	85	320
+Conjecture	etsy/Conjecture	20925364	Scalable Machine Learning in Scalding	Java	277	315	49	315
+skdata	jaberg/skdata	2263856	Data sets for machine learning in Python	Python	1799	300	92	300
+dmlc-core	dmlc/dmlc-core	32356864	A common bricks library  for building scalable and portable distributed machine learning.	C++	1217	300	199	300
+machine-learning-specialization	learnml/machine-learning-specialization	46307362		Jupyter Notebook	7271	295	302	295
+Fido	FidoProject/Fido	40337884	A lightweight C++ machine learning library for embedded electronics and robotics.	C++	53649	289	50	289
+MLNotes	johnmyleswhite/MLNotes	5129771	Very concise notes on machine learning and statistics.	R	437	288	79	288
+machine-learning-module	josephmisiti/machine-learning-module	1673582	the best machine learning tutorials on the web	Objective-C	8288	283	149	283
+spark-py-notebooks	jadianes/spark-py-notebooks	35145949	Apache Spark & Python (pySpark) tutorials for Big Data Analysis and Machine Learning as IPython / Jupyter notebooks	Jupyter Notebook	2312	282	172	282
+numl	sethjuarez/numl	3506346	Machine Learning for .NET	C#	37320	275	81	275
+jetpack	startupml/jetpack	25717615	Get up and running with machine learning using Docker	Shell	617	274	66	274
+nak	scalanlp/nak	7632492	The Nak Machine Learning Library	Scala	5905	273	61	273
+dml	justdark/dml	13852452	D's Machine Learning is a machine learning toolkit for python,focus on rightness but efficiency	Python	488	271	169	271
+rusty-machine	AtheMathmo/rusty-machine	46163500	Machine Learning library for Rust	Rust	12000	267	26	267
+ai-resources	memo/ai-resources	60424502	Selection of resources to learn Artificial Intelligence / Machine Learning / Statistical Inference / Deep Learning / Reinforcement Learning	null	17	258	45	258
+ciml	hal3/ciml	40619925	A Course in Machine Learning	TeX	55041	257	83	257
+astroML	astroML/astroML	6269799	Machine learning, statistics, and data mining for astronomy and astrophysics	Python	9970	257	128	257
+MachineLearning-C---code	pennyliang/MachineLearning-C---code	3572185	using c++ code to show the example of machine learning	C++	11337	254	172	254
+CourseraML	kaleko/CourseraML	47587086	I took Andrew Ng's Machine Learning course on Coursera and did the homework assigments... but, on my own in python because I love jupyter notebooks!	Jupyter Notebook	25054	253	92	253
+notes-machine-learning	lijin-THU/notes-machine-learning	53230112	My Notes on Machine Learning	Jupyter Notebook	1602	249	147	249
+NakedTensor	jostmey/NakedTensor	67722319	Bare bottom simplest example of machine learning in TensorFlow.	Python	4089	245	12	245
+kaggle-titanic	agconti/kaggle-titanic	9783692	A tutorial for Kaggle's Titanic: Machine Learning from Disaster competition. Demonstartes basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques. 	Jupyter Notebook	7617	242	214	242
+ann-writer	JacobPlaster/ann-writer	41061487	An artificial machine learning program that attempts to impersonate the writing style of any given text training set	Python	328	242	36	242
+machineJS	ClimbsRocks/machineJS	39930761	Automated machine learning- just give it a data file! Check out v2 of this project at ClimbsRocks/auto_ml	Python	478	242	29	242
+Stanford-Machine-Learning-Course	zhouxc/Stanford-Machine-Learning-Course	3047653	machine learning course programming exercise	Matlab	157514	240	187	240
+imageprocessing-labs	wellflat/imageprocessing-labs	1783117	computer vision, image processing and machine learning on the web browser or node.	TypeScript	323	238	38	238
+ml-course-msu	esokolov/ml-course-msu	42297954	Lecture notes and code for Machine Learning practical course on CMC MSU	Jupyter Notebook	8904	233	109	233
+Octave	schneems/Octave	2640093	my octave exercises for 2011 stanford machine learning class, posted after the due date of course	Matlab	29950	230	182	230
+featureforge	machinalis/featureforge	16920465	A set of tools for creating and testing machine learning features, with a scikit-learn compatible API	Python	181	230	51	230
+nurokit	nuroko/nurokit	6884026	Toolkit for machine learning in Clojure	Clojure	11822	229	10	229
+DEPRECEATED-torch7-distro	torch/DEPRECEATED-torch7-distro	1876011	Torch7: state-of-the-art machine learning algorithms	C	9571	228	74	228
+bob	idiap/bob	3325181	Bob is a free signal-processing and machine learning toolbox originally developed by the Biometrics group at Idiap Research Institute, in Switzerland.	Python	147482	228	81	228
+machine_learning	junku901/machine_learning	16044422	Machine learning library for Node.js	JavaScript	225	223	38	223
+onyx	hanuor/onyx	65136727	An android library that uses technologies like artificial Intelligence, machine learning, and deep learning to make developers understand the content that they are displaying in their app.	Java	5094	222	27	222
+data-science-your-way	jadianes/data-science-your-way	38749601	Ways of doing Data Science Engineering and Machine Learning in R and Python	Jupyter Notebook	8891	217	94	217
+node-tensorflow	node-tensorflow/node-tensorflow	45968932	Node-tensorflow is a NodeJS API for utilizing Google's machine learning library TensorFlow.	C++	99	213	21	213
+mldb	mldbai/mldb	47634692	MLDB is the Machine Learning Database	C++	30161	209	17	209
+Learning-Library-for-PHP	gburtini/Learning-Library-for-PHP	2887120	The rudimentary workings of a machine learning library in PHP.	PHP	151	209	62	209
+machine_learning	masinoa/machine_learning	4641788	Python coded examples and documentation of machine learning algorithms.	Python	678	207	136	207
+ml	cloudera/ml	8781749	The Cloudera Data Science Team's Tools for Data Preparation, Machine Learning, and Model Evaluation.	Java	1595	207	74	207
+Swift-Brain	vlall/Swift-Brain	20607304	Artificial intelligence/machine learning data structures and Swift algorithms for future iOS development. bayes theorem, neural networks, and more AI.	Swift	334	203	27	203
+CleverAlgorithmsMachineLearning	jbrownlee/CleverAlgorithmsMachineLearning	1336015	A handbook of statistical machine learning algorithms where each algorithm is described consistently to be accessible, usable, and understandable.	Ruby	1410	199	58	199
+nilearn	nilearn/nilearn	1235740	Machine learning for NeuroImaging in Python	Python	13631	199	140	199
+ml4a.github.io	ml4a/ml4a.github.io	50331898	machine learning for artists	JavaScript	187973	197	36	197
+sentiment	vivekn/sentiment	6291757	Sentiment analysis using machine learning techniques.	Python	158	197	85	197
+MachineLearningCourse	warmheartli/MachineLearningCourse	61762958	机器学习精简入门教程	null	43	196	71	196
+MLPB	ben519/MLPB	61062343	Machine Learning Problem Bible	R	308	195	25	195
+scikit-learn-book	gmonce/scikit-learn-book	15534429	Source code for the "Learning scikit-learn: Machine Learning in Python"	Jupyter Notebook	9326	195	145	195
+grobid	kermitt2/grobid	5797013	A machine learning software for extracting information from scholarly documents	Java	962320	189	58	189
+JSAT	EdwardRaff/JSAT	32772468	Java Statistical Analysis Tool, a Java library for Machine Learning 	Java	5227	189	62	189
+rustlearn	maciejkula/rustlearn	47362929	Machine learning crate for Rust	Rust	10822	183	7	183
+rabit	dmlc/rabit	27149436	Reliable Allreduce and Broadcast Interface for distributed machine learning	C++	1145	180	87	180
+useR-machine-learning-tutorial	ledell/useR-machine-learning-tutorial	61667636	useR! 2016 Tutorial: Machine Learning Algorithmic Deep Dive  http://user2016.org/tutorials/10.html	Jupyter Notebook	3342	174	84	174
+AForge.NET	andrewkirillov/AForge.NET	27070135	AForge.NET Framework is a C# framework designed for developers and researchers in the fields of Computer Vision and Artificial Intelligence - image processing, neural networks, genetic algorithms, machine learning, robotics, etc. 	C#	21148	173	104	173
+mlcheatsheet	Emore/mlcheatsheet	1703779	Machine Learning cheat sheet for linear classifiers and clustering algorithms	null	461	167	31	167
+simple_bayes	fredwu/simple_bayes	63347581	A Naive Bayes machine learning implementation in Elixir.	Elixir	99	163	7	163
+TetrisPlayground	mbrenman/TetrisPlayground	31820615	A final project for Advanced Machine Learning. Build bots to play against this Tetris Sandbox!	C++	835	162	7	162
+ml_cheat_sheet	rcompton/ml_cheat_sheet	34998073	My notes and superstitions about common machine learning algorithms	null	19776	161	75	161
+pignlproc	ogrisel/pignlproc	1184317	Apache Pig utilities to build training corpora for machine learning / NLP out of public Wikipedia and DBpedia dumps.	Java	2142	160	68	160
+ML-games	TomaszRewak/ML-games	66875855	Machine learning games. Use combination of genetic algorithms and neural networks to control the behaviour of in-game objects.	JavaScript	163	157	11	157
+daily-stock-forecast	DMTSource/daily-stock-forecast	29896150	Daily Stock Forecasts using Machine Learning (SVM regression)	HTML	4083	156	71	156
+MachineLearning	Xyclade/MachineLearning	26747167	Literature Study	Scala	7928	152	37	152
+infer	aria42/infer	850057	inference and machine learning in clojure	Clojure	363	152	39	152
+Azure-MachineLearning-DataScience	Azure/Azure-MachineLearning-DataScience	24913377		Jupyter Notebook	203040	151	146	151
+musicmood	rasbt/musicmood	27681574	A machine learning approach to classify songs by mood.	OpenEdge ABL	55912	150	29	150
+talisman	Yomguithereal/talisman	54713969	A straightforward & modular NLP, machine learning & fuzzy matching library for JavaScript.	JavaScript	2621	150	6	150
+MLI	amplab/MLI	11208140	An API for Distributed Machine Learning	CSS	9320	147	59	147
+awesome-machine-learning-python	szwed/awesome-machine-learning-python	34946438	Machine and Deep Learning in Python	null	319	146	45	146
+ofxMSATensorFlow	memo/ofxMSATensorFlow	50609024	openframeworks addon + examples for Google's TensorFlow numerical computation and machine learning library	C++	5431	146	22	146
+helit	thaines/helit	32142949	My machine learning/computer vision library for all of my recent papers, plus algorithms that I just like.	Python	2428	135	42	135
+hotel-review-analysis	monkeylearn/hotel-review-analysis	56709482	Sentiment analysis and aspect classification for hotel reviews using machine learning models with MonkeyLearn.	Python	24	130	21	130
+enclog	jimpil/enclog	5676772	Clojure wrapper for Encog (v3) (Machine-Learning framework that specialises in neural-nets)	Clojure	121	129	10	129
+lstm-g	0joshuaolson1/lstm-g	4109178	An implementation of a generalized version of the Long Short-Term Memory neural network architecture and algorithm, one of the most powerful supervised machine learning methodologies.	Python	330	128	28	128
+grenade	HuwCampbell/grenade	61802157	Machine learning which might blow up in your face	Haskell	32	124	8	124
+machineLearning	quinnliu/machineLearning	13732486	supervised and unsupervised algorithms from Andrew Ng machine learning class	Matlab	23018	122	343	122
+ml-class	merwan/ml-class	2606805	Machine learning programming exercises	Matlab	21879	120	138	120
+MachineLearning	rieder91/MachineLearning	4946686	Exercises for the Stanford/Coursera Machine Learning Class	Matlab	37733	118	135	118
+ml_hackers	royguo/ml_hackers	6332311	Machine Learning For Hackers 中文版	null	1972	118	75	118
+copper	danielfrg/copper	7651749	Fast, easy and intuitive machine learning prototyping.	Python	41211	116	24	116
+clj-ml	antoniogarrote/clj-ml	539744	A machine learning library for Clojure built on top of Weka and friends	Clojure	504	115	53	115
+climin	BRML/climin	2898706	Optimizers for machine learning	Python	815	113	40	113
+MTH594_MachineLearning	diefimov/MTH594_MachineLearning	53477726	The materials for the course MTH 594 Advanced data mining: theory and applications (Dmitry Efimov, American University of Sharjah)	Jupyter Notebook	26641	111	31	111
+zen	cloudml/zen	33643378	Zen aims to provide the largest scale and the most efficient machine learning platform on top of Spark, including but not limited to logistic regression, latent dirichilet allocation, factorization machines and DNN.	Scala	1713	111	50	111
+ganitha	tresata/ganitha	12273832	scalding powered machine learning	Scala	253	110	10	110
+spark-ml-streaming	freeman-lab/spark-ml-streaming	29442382	Visualize streaming machine learning in Spark	Python	13320	110	40	110
+ml-notebook	kylemcdonald/ml-notebook	49117026	Dockerfile for multiple machine learning tools.	Shell	20	108	17	108
+salient	nyxtom/salient	10384503	Machine Learning, Natural Language Processing and Sentiment Analysis Toolkit for Node.js	JavaScript	16473	108	17	108
+papers	aleju/papers	52121440	Summaries of machine learning papers	null	23480	107	21	107
+ease	edx/ease	6375760	EASE (Enhanced AI Scoring Engine) is a library that allows for machine learning based classification of textual content.  This is useful for tasks such as scoring student essays.	OpenEdge ABL	40335	106	57	106
+ScalaMl	prnicolas/ScalaMl	20632336	Source code, data files and utilities related to "Scala for Machine Learning"	Scala	61947	105	64	105
+visualize_ML	ayush1997/visualize_ML	64548922	Python package to visualize some processes involved in Machine learning.	Python	213	105	7	105
+machinematch	mlpoll/machinematch	64256843	Machine learning algorithm to connect anonymous accounts to real names	null	0	105	0	105
+ai_notes	frnsys/ai_notes	41807736	machine learning/artificial intelligence notes	Jupyter Notebook	87272	102	26	102
+Machine-Learning-In-Action	mathias-brandewinder/Machine-Learning-In-Action	5279923	Converting the code from "Machine Learning in Action" from Python to F#	F#	10515	100	27	100
+mgl	melisgl/mgl	24456105	Common Lisp machine learning library.	Common Lisp	2042	100	10	100
+ABAGAIL	pushkar/ABAGAIL	8583632	The library contains a number of interconnected Java packages that implement machine learning and artificial intelligence algorithms. These are artificial intelligence algorithms implemented for the kind of people that like to implement algorithms themselves.	Java	1510	99	232	99
+MathematicaForPrediction	antononcube/MathematicaForPrediction	11183872	Mathematica implementations of machine learning algorithms used for prediction and personalization. 	Mathematica	51463	98	35	98
+sentimentalizer	malavbhavsar/sentimentalizer	6522554	Sentiment analysis with Machine Learning	Ruby	2957	97	32	97
+ml	mazefeng/ml	24294717	Implementations of classic Machine Learning algorithms	Python	40482	97	52	97
+discomll	romanorac/discomll	23502288	Disco Machine Learning Library	Python	605	96	7	96
+machine-learning	apeeyush/machine-learning	25671448	Demonstrates data munging, analysis and visualization techniques	Python	23697	95	26	95
+examples	thoughtfulml/examples	21770479	examples from "Thoughtful Machine Learning"	Ruby	43056	95	47	95
+go_ml	alonsovidales/go_ml	14841547	Machine Learning libraries for Go Lang - Linear regression, Logistic regression, etc.	Go	9153	95	18	95
+ml-lib	cmuartfab/ml-lib	14376302	A machine learning library for Max and Pure Data	Max	84503	95	15	95
+wabbit_wappa	mokelly/wabbit_wappa	18318771	Wabbit Wappa is a full-featured Python wrapper for the Vowpal Wabbit machine learning utility.	Python	441	95	22	95
+Coursera-ML	DragonflyStats/Coursera-ML	13721678	Machine Learning with Coursera	TeX	38250	93	84	93
+ML-and-DM-in-action	MashiMaroLjc/ML-and-DM-in-action	57305628	Share my code during learning machine learning and data mining	Python	1216	93	39	93
+DeepQLearning	blakeMilner/DeepQLearning	26689899	A powerful machine learning algorithm utilizing Q-Learning and Neural Networks, implemented using Torch and Lua.	MoonScript	27	93	42	93
+M-LOOP	michaelhush/M-LOOP	39115412	Machine-learning online optimization package	Python	2696	92	18	92
+MarkovComposer	anbud/MarkovComposer	33616891	Algorithmic composer based on machine learning using a second order Markov chain.	Java	151	91	18	91
+clml	mathematical-systems/clml	3863546	Common Lisp Machine Learning Library	Common Lisp	289634	90	27	90
+PyCon2015	kastnerkyle/PyCon2015	33486749	Material for talk "Machine Learning 101" https://speakerdeck.com/kastnerkyle/pycon2015 https://us.pycon.org/2015/schedule/presentation/367/	Python	4081	90	30	90
+Machine-Learning	FlorianMuellerklein/Machine-Learning	29690423	Machine learning library written in readable python code	Jupyter Notebook	2243	89	51	89
+BayesianLearning	ReactiveCJ/BayesianLearning	44960480	Bayesian Machine Learning	null	6	89	43	89
+OpenML	openml/OpenML	7110612	Open Machine Learning	Java	373736	89	21	89
+Hype	hypelib/Hype	34947176	Hype: Compositional Machine Learning and Hyperparameter Optimization	F#	1246	89	16	89
+ruby-band	arrigonialberto86/ruby-band	13060669	Machine learning and data mining algorithms for JRuby	Ruby	1070	89	6	89
+ML-Email-Code	drewconway/ML-Email-Code	2776170	This repository contains all code examples in Machine Learning for Email, by Drew Conway and John Myles White.	R	41801	88	36	88
+lxmls-toolkit	LxMLS/lxmls-toolkit	2926406	Machine Learning applied to Natural Language Processing Toolkit used in the Lisbon Machine Learning Summer School	Python	71537	87	72	87
+Coursera-Machine-Learning	JWarmenhoven/Coursera-Machine-Learning	48062442	Coursera Machine Learning - Python code	Jupyter Notebook	20745	86	64	86
+pattern	Cascading/pattern	10251840	Machine Learning for Cascading	Java	2220	86	25	86
+jazzml	evancchow/jazzml	18903231	A (very incomplete) project that combines machine learning with music.	Jupyter Notebook	23945	86	8	86
+Foundry	algorithmfoundry/Foundry	15838636	The Cognitive Foundry is an open-source Java library for building intelligent systems using machine learning	Java	19427	84	29	84
+cesium	cesium-ml/cesium	25928850	Machine Learning Time-Series Platform	Python	22295	83	16	83
+machine-learning-coursera-1	Borye/machine-learning-coursera-1	23424548	This repo is specially created for all the work done my me as a part of Coursera's Machine Learning Course.	null	29636	82	195	82
+face-rating	avisingh599/face-rating	39829496	A machine learning model that predicts facial attractiveness from images	Python	15633	82	40	82
+open-source-machine-learning-degree	Nixonite/open-source-machine-learning-degree	38421398	Learn machine learning for free, because free is better than not-free.	null	6631	81	34	81
+awesomeMLmath	EderSantana/awesomeMLmath	67896017	Curated list to learn the math basics for machine learning	null	5	81	20	81
+higgsml	melisgl/higgsml	24360669	The winning solution to the The Higgs Boson Machine Learning Challenge.	Common Lisp	3307	77	23	77
+MLBase.jl	JuliaStats/MLBase.jl	8124329	A set of functions to support the development of machine learning algorithms	Julia	216	75	26	75
+userguide	turi-code/userguide	36039715	User guide for Dato's Machine Learning Platform.	JavaScript	7228	74	91	74
+leaf-examples	autumnai/leaf-examples	45252320	Examples for the Hacker's Machine Learning Framework Leaf	Rust	18	74	16	74
+card.io-dmz	card-io/card.io-dmz	27400352	The core image-processing and machine-learning code for card.io, which is shared between iOS and Android.	C++	11044	74	56	74
+monkeylearn-python	monkeylearn/monkeylearn-python	44397344	Official Python client for the MonkeyLearn API. Build and consume machine learning models for language processing from your Python apps.	Python	24	74	14	74
+mltk	yinlou/mltk	21333519	Machine Learning Tool Kit	Java	553	73	48	73
+machine-learning-2014	levelfour/machine-learning-2014	25670586	機械学習分科会 for TSG2014 winter	Python	3516	73	1	73
+AI_Composer	llSourcell/AI_Composer	58329710	AI Composer for Machine Learning for Hackers #2	Python	39831	73	19	73
+highdimensional-decision-boundary-plot	tmadl/highdimensional-decision-boundary-plot	61526014	Estimating and plotting the decision boundary (decision surface) of machine learning classifiers in higher dimensions (scikit-learn compatible)	Python	3276	73	7	73
+PyBRML	djour/PyBRML	10580166	Python Version of BRML toolbox for Bayesian Reasoning and Machine Learning	Python	1056	72	27	72
+dotaml	kevincon/dotaml	13761804	A DOTA 2 hero recommendation engine for Stanford's CS 229 Machine Learning course.	JavaScript	8642	71	25	71
+flotilla	YeoLab/flotilla	19319564	Reproducible machine learning analysis of gene expression and alternative splicing data	Jupyter Notebook	231265	71	17	71
+spider	ziyan/spider	11931983	Web Content Extraction Through Machine Learning	TeX	66630	70	35	70
+sluggerml	mattspitz/sluggerml	3523363	Online and offline machine learning on baseball statistics used as an example in PyCon 2012 talk.	Python	199	69	15	69
+mir	libmir/mir	37379986	Generic Numerical Library for Science and Machine Learning	D	4303	68	9	68
+hol-azure-machine-learning	Azure-Readiness/hol-azure-machine-learning	55916669	Introduction to Machine Learning and Azure Machine Learning Services. Hands on labs to show Azure Machine Learning features, developing experiments, feature engineering, R and Python Scripting, Production stage, publishing models as web service, RRS and BES usage	JavaScript	162129	66	42	66
+guacamole	Khan/guacamole	15487502	General Use Machine Learning for Learning  Library	Python	7415	66	28	66
+sklearn_tutorial	amueller/sklearn_tutorial	8536484	Slides for quick intro to machine learning with sklearn	CSS	10676	66	26	66
+ResumeParser	antonydeepak/ResumeParser	30172561	Resume Parser using rule and machine-learning based approach. Developed using framework provided by GATE	HTML	64864	66	42	66
+intro_machine_learning	Prooffreader/intro_machine_learning	30036112	Introduction to Machine Learning, a series of IPython Notebook and accompanying slideshow and video	null	5840	65	34	65
+clatern	rinuboney/clatern	23734299	Machine Learning in Clojure	Clojure	370	65	7	65
+MachineLearning.jl	benhamner/MachineLearning.jl	13715846	Julia Machine Learning library	Julia	1539	64	13	64
+pycon-2016-tutorial	justmarkham/pycon-2016-tutorial	58676336	Tutorial: Machine Learning with Text in scikit-learn	Jupyter Notebook	3842	64	45	64
+libskylark	xdata-skylark/libskylark	20209550	Sketching-based Distributed Matrix Computations for Machine Learning	Perl	92497	64	13	64
+cabalist	marcinwyszynski/cabalist	4117109	Minimum setup machine learning (classification) library for Ruby on Rails applications.	Ruby	139	64	9	64
+umich-eecs545-lectures	thejakeyboy/umich-eecs545-lectures	50302094	This repository contains the lecture materials for EECS 545, a graduate course in Machine Learning, at the University of Michigan, Ann Arbor. 	Jupyter Notebook	405405	63	56	63
+hashkernel	jeremydhoon/hashkernel	8723149	A demonstration of how to use hash kernels for ridiculously unprincipled machine learning	Python	850	63	5	63
+genreXpose	jazdev/genreXpose	19904188	Automated music genre classification using machine learning	Python	1800	62	24	62
+rulinalg	AtheMathmo/rulinalg	62955795	A linear algebra library in Rust designed for machine learning	Rust	1296	62	11	62
+DynaML	mandar2812/DynaML	30874016	Scala Library/REPL for Machine Learning Research	Scala	181945	61	14	61
+basset	pauldix/basset	43007	Library for various machine learning tasks	Ruby	144	61	7	61
+ML-lib	christopherjenness/ML-lib	57341367	An extensive machine learning library, made from scratch (Python).	Python	90	61	7	61
+node-recommend	xissy/node-recommend	5144193	A node.js module to implement a recommender engine with popular machine-learning algorithms.	JavaScript	116	61	6	61
+Machine-Learning-with-R-datasets	stedy/Machine-Learning-with-R-datasets	23127684	Formatted datasets for Machine Learning With R by Brett Lantz	null	1172	60	183	60
+MachineLearning	xxg1413/MachineLearning	53589337	Machine Learning	Jupyter Notebook	112613	59	24	59
+chimp	tadasv/chimp	13606376	Machine learning for humans	C++	772	59	7	59
+DL-Learner	AKSW/DL-Learner	22693515	A tool for supervised Machine Learning in OWL and Description Logics	Web Ontology Language	265858	59	13	59
+MLOpt.jl	pluskid/MLOpt.jl	15846131	Tutorial code for Machine Learning and Optimization written in julia	Julia	1095	59	13	59
+torch-ubuntu-gpu-ec2-install	brotchie/torch-ubuntu-gpu-ec2-install	36115599	Guide for installing Torch machine learning library onto a GPU EC2 instance running Ubuntu	null	155	59	9	59
+machine-learning	jeff1evesque/machine-learning	22923393	Web-interface, and programmatic API for classification and regression predictions	Python	17639	58	18	58
+iOS_ML	alexsosn/iOS_ML	40960931	List of Machine Learning, AI, NLP solutions for iOS	null	65	58	14	58
+YCML	yconst/YCML	31949628	A Machine Learning framework for Objective-C and Swift (OS X / iOS)	Objective-C	564	58	15	58
+mlmpy	tkamishima/mlmpy	4127830	Machine Learning Meets Python : A tutorial of NumPy / SciPy for machine learners who want to implement their own algotithms in Python (written in Japanese)	Python	1242	58	17	58
+yellowbrick	DistrictDataLabs/yellowbrick	59121694	A suite of visual analysis and diagnostic tools to facilitate feature selection, model selection, and parameter tuning for machine learning.	Python	2907	57	20	57
+ProceduralLocomotion	hmoraldo/ProceduralLocomotion	23516010	Automating human walk cycles using machine learning	Python	2321	56	4	56
+world_cup_learning	fisadev/world_cup_learning	19227919	Just because I wanted to win a bet, some machine learning about the fifa world cup :)	Python	684	56	22	56
+fuku-ml	fukuball/fuku-ml	49729482	Simple machine learning library / 簡單易用的機器學習套件	Python	3388	56	6	56
+thinc	spacy-io/thinc	25311354	Super sparse multi-class machine learning with Cython	C	992	55	12	55
+ofxLearn	genekogan/ofxLearn	5015046	General-purpose machine learning library for openFrameworks, supporting classification, regression, and clustering tasks	C++	14812	55	13	55
+ESP	damellis/ESP	46153138	The Example-based Sensor Predictions (ESP) system applies machine learning to real-time sensor data.	C++	27416	55	14	55
+monkeylearn-ruby	monkeylearn/monkeylearn-ruby	44397560	Official Ruby client for the MonkeyLearn API. Build and consume machine learning models for language processing from your Ruby apps.	Ruby	10	55	7	55
+machine-learning-projects-for-dot-net-developers	mathias-brandewinder/machine-learning-projects-for-dot-net-developers	37915225		F#	19218	54	21	54
+pymadlib	pivotalsoftware/pymadlib	8370491	A Python wrapper for MADlib(http://madlib.net)  - an open source library for scalable in-database machine learning algorithms	Python	3140	54	15	54
+prediction-builder	denissimon/prediction-builder	37080032	A library for machine learning that builds predictions using a linear regression.	PHP	7	54	2	54
+shaman	luccastera/shaman	25437887	Machine Learning library for node.js	JavaScript	340	53	7	53
+learn2ban	equalitie/learn2ban	17117969	Open source machine learning DDOS detection tool	Python	95	53	11	53
+ML4iOS	fgarcialainez/ML4iOS	4528850	Open Source library to help developers integrate easily machine learning on iOS applications	Objective-C	746	53	11	53
+DL4H	syhw/DL4H	26012701	Deep learning for hackers: a hands-on approach to machine learning and deep learning.	Python	84812	53	19	53
+LearnKit	mattrajca/LearnKit	24958871	High-performance Cocoa framework for Machine Learning on iOS and OS X.	Objective-C	24293	53	3	53
+machineLearning	bigsnarfdude/machineLearning	6876509	POC IDS anomaly detection engine built with iPython notebook, matplotlib, pandas, numpy, scikit-learn, d3.js, hyperloglog implementation, PYCON 2013 Intro and Advanced Machine Learning Tutorial Notebooks	Python	2936	52	22	52
+ml-benchmarks	scikit-learn/ml-benchmarks	1402233	Benchmarks for various machine learning packages	Python	4908	52	28	52
+varaha	thedatachef/varaha	1658631	Machine learning and natural language processing with Apache Pig	Java	156	52	17	52
+PyVowpal	shilad/PyVowpal	2264645	Python wrapper for the Vowpal Wabbit machine learning library.	Python	60	52	6	52
+awesome	shenwei356/awesome	47304659	Awesome resources on Bioinformatics, data science, machine learning, programming language (Python, Golang, R, Perl) and miscellaneous stuff.	null	172	52	37	52
+interactiveknn	lettier/interactiveknn	58903396	Interactive K-Nearest Neighbors machine learning algorithm in JavaScript.	JavaScript	1325	52	4	52
+enlighten-apply	sassoftware/enlighten-apply	35286471	Example code and materials that illustrate applications of SAS machine learning techniques.	SAS	124705	51	48	51
+machine_learning_examples	lazyprogrammer/machine_learning_examples	22489033	A collection of machine learning examples and tutorials.	Python	19119	50	93	50
+avenir	pranab/avenir	4390566	Set of machine learning tools based on Hadoop and Storm  https://pkghosh.wordpress.com/	Java	2774	50	32	50
+deep-learning-benchmarks	autumnai/deep-learning-benchmarks	52892616	Raw Benchmark Data for Popular Machine Learning Frameworks	null	9	49	4	49
+MachineLearning	X-Brain/MachineLearning	23655088	Basic MachineLearning algorithm	Python	267	48	35	48
+002_MachineLearning_eBook	gasgas4/002_MachineLearning_eBook	55762659		null	942545	48	41	48
+mltutorial	TwistedHardware/mltutorial	22081027	Machine Learning Tutorial in IPython Notebooks	Jupyter Notebook	9121	48	69	48
+menthor	heathermiller/menthor	1533928	Parallelizing Machine Learning-- Functionally.	Scala	8745	48	5	48
+tutorials	dolaameng/tutorials	9563455	different types of tutorials, such as machine learning, image processing and etc.	Jupyter Notebook	111180	48	29	48
+Game-AI	llSourcell/Game-AI	58849347	Game AI for Machine Learning for Hackers #3	Python	16	47	21	47
+RTextTools	timjurka/RTextTools	3165967	RTextTools is a free, open source machine learning package for automatic text classification that makes it simple for both novice and advanced users to get started with supervised learning.	C	3531	47	41	47
+moa	Waikato/moa	19367053	MOA is an open source framework for Big Data stream mining. It includes a collection of machine learning algorithms (classification, regression, clustering, outlier detection, concept drift detection and recommender systems) and tools for evaluation.	Java	41813	47	47	47
+fec-standardizer	cjdd3b/fec-standardizer	7414721	An experiment to standardize individual donor names in campaign finance data using simple graph theory and machine learning.	Python	36256	47	12	47
+Udemy---Machine-Learning	jmportilla/Udemy---Machine-Learning	34695115	Notebooks for Course	Jupyter Notebook	9866	46	103	46
+ml	mljs/ml	25819289	Machine learning tools	JavaScript	3323	46	5	46
+jml	jeremybarnes/jml	880247	Jeremy's Machine Learning Library	C++	4603	46	16	46
+Chatbot-AI	llSourcell/Chatbot-AI	60483916	Chatbot AI for Machine Learning for Hackers #6	Lua	11	46	16	46
+machine-learning-coursera	1094401996/machine-learning-coursera	8794923	Lecture notes and assignments for coursera machine learning class  	Matlab	152430	45	182	45
+cleartk	ClearTK/cleartk	33567291	Machine learning components for Apache UIMA	Java	566781	45	27	45
+pydata-chicago2016-ml-tutorial	rasbt/pydata-chicago2016-ml-tutorial	65031372	Machine learning with scikit-learn tutorial at PyData Chicago 2016	Jupyter Notebook	5180	45	19	45
+open-network-insight	Open-Network-Insight/open-network-insight	48076411	Open Network Insight is an open source solution for packet and flow analytics on Hadoop.  It provides ingest and transform of binary data, scalable machine learning, and interactive visualization for identifying threats in network flows and DNS packets.  Open Network Insight uses the open source projects Jupyter, nfdump, wireshark, and D3.	null	394	45	11	45
+lxmls_guide	LxMLS/lxmls_guide	3463019	Lisbon Machine Learning Summer School Lab Guide	TeX	33320	44	33	44
+coursera-machinelearning-python	noammor/coursera-machinelearning-python	35726625	Skeleton code for doing the coursera machine learning course in the form of an ipython notebook.	null	19513	44	23	44
+deep-pwning	cchio/deep-pwning	61609586	Metasploit for machine learning.	Python	95597	43	6	43
+waffles	mikegashler/waffles	44035327	A toolkit of machine learning algorithms.	C++	9731	43	23	43
+hep_ml	arogozhnikov/hep_ml	35104122	Machine learning algorithms for high energy physics.	Jupyter Notebook	88924	43	15	43
+skynet-data	developmentseed/skynet-data	55659158	Data pipeline for machine learning with OpenStreetMap	JavaScript	83	43	8	43
+spark-r-notebooks	jadianes/spark-r-notebooks	41594725	 R on Apache Spark (SparkR) tutorials for Big Data analysis and Machine Learning as IPython / Jupyter notebooks	Jupyter Notebook	10847	43	34	43
+recursos	MachineLearningBR/recursos	62968436	Repositório com dicas de recursos relacionados a Machine Learning, cursos, posts, blogs, livros, podcasts e o que mais você achar interessante.	null	13	43	10	43
+ml-class	SaveTheRbtz/ml-class	2587770	Stanford Machine learning class excercises	Matlab	58538	42	38	42
+beginlearning	Teaonly/beginlearning	18432937	Practices for machine learning	JavaScript	98368	41	44	41
+datatalks	alexperrier/datatalks	40929028	Public Machine Learning and Data Competition Repo	Python	163633	41	17	41
+algorithms	huyng/algorithms	9691663	my reimplementation of popular computer science/machine learning algorithms	Jupyter Notebook	2442	41	11	41
+ml-examples	kylemcdonald/ml-examples	49237906	Examples of machine learning, with an emphasis on deep learning.	Jupyter Notebook	5810	41	4	41
+benchmarks	zoq/benchmarks	16348979	Machine Learning Benchmark Scripts	Python	10439	40	12	40
+AI_Artist	llSourcell/AI_Artist	59878622	AI Artist for Machine Learning for Hackers #5	Python	67954	40	16	40
+kaggle_higgs	phunterlau/kaggle_higgs	24358940	My winning solution for Kaggle Higgs Machine Learning Challenge (single classifier, xgboost)	Python	120	40	32	40
+HiggsML	TimSalimans/HiggsML	24607952	My second place solution to the Higgs Boson Machine Learning Challenge	C++	1714	40	18	40
+MachineLearning	csuldw/MachineLearning	52139178	Machine learning resources，including algorithm, paper, dataset, example and so on.	Python	111262	39	34	39
+ecl-ml	hpcc-systems/ecl-ml	2443944	ECL Machine Learning code 	Ecl	5923	39	46	39
+cuckooml	honeynet/cuckooml	56984886	CuckooML: Machine Learning for Cuckoo Sandbox	Python	66094	39	11	39
+ml101	frnsys/ml101	39791573	intro to machine learning - reverse engineering phenomena	Jupyter Notebook	47673	39	12	39
+revscoring	wiki-ai/revscoring	23771350	A generic, machine learning-based revision scoring system for MediaWiki	Python	1682	39	23	39
+prognosticator	deafgoat/prognosticator	5346095	A Java machine learning environment	Java	9009	39	4	39
+treebank	someben/treebank	12874663	Stanford Sentiment Treebank machine learning & sentiment analysis library	Ruby	140	39	8	39
+reweighted-ws	jbornschein/reweighted-ws	16710369	Implementation of the reweighted wake-sleep machine learning algorithm	Python	661	39	12	39
+StocksProject	FraPochetti/StocksProject	23510204	Predict Stocks Market Machine Learning	Python	1456	38	23	38
+scikit-learn-tutorial	mike-perdide/scikit-learn-tutorial	1555490	Applied Machine Learning in Python with scikit-learn	Python	868	38	79	38
+survey-ml-tools	szilard/survey-ml-tools	35578953	Quick informal survey at the Los Angeles Machine learning meetup about tools used for machine learning.	null	152	38	5	38
+machine-learning	DistrictDataLabs/machine-learning	31320531	Code & Data for Introduction to Machine Learning with Scikit-Learn	Jupyter Notebook	11039	37	47	37
+DeepLearning_MachineLearning	dandxy89/DeepLearning_MachineLearning	48741734	Deep Learning and Machine Learning mini-projects. Current Project: Deepmind Attentive Reader (rc-data)	Python	79356	37	15	37
+Python-for-Probability-Statistics-and-Machine-Learning	unpingco/Python-for-Probability-Statistics-and-Machine-Learning	52457142	Jupyter/IPython Notebooks for Springer book "Python for Probability, Statistics, and Machine Learning"	Jupyter Notebook	6006	37	14	37
+ml4se	enakai00/ml4se	35974983	Sample scripts of "Machine Learning for Software Engineers"	Python	39426	37	18	37
+ml-class	gafiatulin/ml-class	2629876	My solutions to programming exercises from Stanford online Machine Learning class.	Matlab	63112	37	26	37
+ScaHAL	wfaler/ScaHAL	3819424	Machine learning for Scala	Scala	182	37	3	37
+tempura	mil-tokyo/tempura	28505624	Machine Learning Library for Sushi	JavaScript	570	37	2	37
+MLDeltaLearning	Kalvar/MLDeltaLearning	50729446	Machine Learning in Ruby implemented Delta Learning method.	Ruby	22	37	2	37
+heartbeat	happywatch/heartbeat	25493763	a prototype app for the Apple Watch designed for machine learning in healthcare	Swift	390	37	6	37
+python-data-workshop	halflings/python-data-workshop	31328064	Code and slides for a workshop I'm hosting on Python and its useful data-processing/machine learning capabilities.	Python	3556	37	8	37
+Azure-MachineLearning-ClientLibrary-Python	Azure/Azure-MachineLearning-ClientLibrary-Python	29549116		Python	99	36	15	36
+tweedr	dssg/tweedr	10605429	A machine learning API to analyze tweets during disasters.	Python	12323	36	9	36
+drwn	sgould/drwn	15761878	Darwin: A Framework for Machine Learning Research and Development	C++	2332	35	24	35
+mlbook	jasebell/mlbook	25728786	Example code for the Wiley book "Machine Learning - Hands On for Developers and Technical Professionals"	Java	664	35	44	35
+ml4a-ofx	ml4a/ml4a-ofx	63243527	A collection of openFrameworks apps for working with machine learning	C++	24	35	3	35
+machine-learning-coursera	yhyap/machine-learning-coursera	9833111	Programming assignments from Coursera's Machine Learning course taught by Andrew Ng.	Matlab	20220	34	60	34
+Advanced-Machine-Learning	bt3gl/Advanced-Machine-Learning	17378174	Machine Learning classifiers and examples from the graduate class at Stony Brook with Prof. Leman Akoglu. Adaboost, EM, HMM, KNN, Naive Bayes vs. Logistic Regression.	Python	16628	33	11	33
+bitpredict	cbyn/bitpredict	41001354	Machine learning for high frequency bitcoin price prediction	Python	3335	33	6	33
+MNIST	grfiv/MNIST	37738343	Machine Learning analyses of the MNIST database of handwritten digits	Jupyter Notebook	7379	33	16	33
+brexit-analysis	monkeylearn/brexit-analysis	61909809	The Divided Kingdom: a machine learning analysis on the Brexit result	Jupyter Notebook	5	33	15	33
+ml-ocr-tool	ValYouW/ml-ocr-tool	10314854	Inspired by Machine Learning course on coursera.org. A helper tool for generating ocr features for Machine Learning algos...	C#	3636	33	14	33
+hal	jramapuram/hal	39527900	Rust based Cross-GPU Machine Learning	Rust	387	33	2	33
+machine-learning-python	htygithub/machine-learning-python	48652409	機器學習: Python	Jupyter Notebook	4862	32	17	32
+salary-prediction-with-machine-learning	origingod/salary-prediction-with-machine-learning	39541459		Python	364	32	4	32
+GPmat	SheffieldML/GPmat	8433164	Matlab implementations of Gaussian processes and other machine learning tools.	Matlab	210496	32	32	32
+skl-talk	sarguido/skl-talk	13724719	A Beginner's Guide to Machine Learning with Scikit-Learn	null	569	32	15	32
+data-science-in-action	zihaolucky/data-science-in-action	36588521	Pratical issues in data science and machine learning.	Java	2681	32	9	32
+Foxhound	IndicoDataSolutions/Foxhound	24279646	Scikit learn inspired library for gpu-accelerated machine learning	Python	153	31	12	31
+prml	jamt9000/prml	14306097	Some IPython notebooks based on Bishop's "Pattern Recognition and Machine Learning" book	null	2315	31	17	31
+node-ml	miketheprogrammer/node-ml	11796423	A Collection of Machine Learning algorithms built for use with NodeJS	JavaScript	440	31	3	31
+music-rnn	jamong/music-rnn	46267952	Machine Learning / Deep Learning with RNN(LSTM, JZS1) - Compose Music, Waltz / 머신 러닝, 딥 러닝, 딥런닝, 딥러닝, 딥 런닝, 작곡, 음악	Python	1081	31	10	31
+monkeylearn-php	monkeylearn/monkeylearn-php	47405593	Official PHP client for the MonkeyLearn API. Build and consume machine learning models for language processing from your PHP apps.	PHP	9	31	4	31
+datasets	hopelessoptimism/datasets	14545343	A living document of openly available data sets on the internet in a variety of domains/formats for use in data science and machine learning projects/analyses.  Also useful for educational exercises and examples.  Please submit a pull request or open an issue if you would like to add to this repo	null	37	31	11	31
+Titanic-Machine-Learning	shantnu/Titanic-Machine-Learning	46212429		Jupyter Notebook	363	30	16	30
+reddit-machine-learning	machinelearningvn/reddit-machine-learning	59227564		null	2	30	8	30
+ml-examples-by-scalala	everpeace/ml-examples-by-scalala	3050229	Machine Learning Algorithms Samples By Scalala	Scala	935	30	12	30
+pylearn	ronojoy/pylearn	26683871	Bayesian machine learning in Python	Python	5087	30	16	30
+Coursera-Stanford-ML-Python	mstampfer/Coursera-Stanford-ML-Python	45137971	Coursera/Stanford Machine Learning course assignments in python	Jupyter Notebook	22573	30	30	30
+spark-ml-class	zinniasystems/spark-ml-class	16508513	Coursera Machine Learning class examples in Spark	Scala	10840	30	20	30
+Caduceus	jpatanooga/Caduceus	1224114	Set of example algorithm implementations focused on statistics and machine learning	Java	12916	30	30	30
+torch-datasets	rosejn/torch-datasets	5615576	A collection of machine learning datasets for use with Torch7.	Lua	436	30	22	30
+ml	andrewytliu/ml	2504921	Machine learning library for ruby	Ruby	152	30	5	30
+scikit-node	lramsey/scikit-node	22353796	npm wrapper for python's scikit-learn machine learning library.	JavaScript	143	30	6	30
+Machine_Learning_RSS	RickyWong33/Machine_Learning_RSS	65907521	机器学习小火车##优质机器学习全文RSS##☺啊！ 来不及了，快上车！	null	6398	29	3	29
+dualist	burrsettles/dualist	32334175	Interactive machine learning for text analysis	JavaScript	14892	29	13	29
+junk	SaveTheRbtz/junk	3136426	Machine Learning, Statistics and Analysis	Python	2530	29	14	29
+shogun-data	shogun-toolbox/shogun-data	1526544	The Shogun Machine Learning Toolbox (Data Sets)	Limbo	340981	29	47	29
+coursera-ml	gopaczewski/coursera-ml	19921827	Completed assignments from Coursera Machine Learning course - March 2014	Matlab	36428	29	37	29
+smoke-signals-model	enigma-io/smoke-signals-model	38383904	The Machine Learning Algorithms that power Smoke Signals.	TeX	6951	29	4	29
+wela	Mortimerp9/wela	9887365	A Scala wrapper around Weka Machine Learning java library	Scala	212	29	4	29
+SMQTK	Kitware/SMQTK	24387730	Python toolkit for pluggable algorithms and data structures for multimedia-based machine learning.	Perl	182413	29	19	29
+meka	Waikato/meka	45508361	Multi-label classifiers and evaluation procedures using the Weka machine learning framework.	Java	33972	29	9	29
+hubert	tlackemann/hubert	51221539	Machine-learning for the Phillips Hue	JavaScript	152	29	1	29
+deep-learning	primaryobjects/deep-learning	16322169	Simple example of using the Accord .NET C# library to implement a deep-learning neural network (deep belief network) with machine learning. Solves XOR and an ASCII digit dataset.	C#	780	29	15	29
+NEXT	nextml/NEXT	36146204	NEXT is a machine learning system that runs in the cloud and makes it easy to develop, evaluate, and apply active learning in the real-world. Ask better questions. Get better results. Faster. Automated.	Python	59203	29	15	29
+injuce	mreid/injuce	156158	A small personal project to learn Clojure by implementing some simple machine learning algorithms	Clojure	5147	29	1	29
+BigDataR_Examples	koooee/BigDataR_Examples	4145500	Data Science and Machine Learning Examples for Data Science Linux	Shell	278	28	20	28
+datamicroarray	ramhiser/datamicroarray	967276	A collection of small-sample, high-dimensional microarray data sets to assess machine-learning algorithms and models.	R	184096	28	18	28
+cloudy-tweets	ericchiang/cloudy-tweets	14113463	Machine Learning solution for Kaggle.com's "Partly Sunny with a Chance of Hashtags"	Python	7808	28	10	28
+storm-ml-play	yods/storm-ml-play	9758551	Experiments with VowPal Wabbit Machine Learning & Storm	Shell	105976	28	3	28
+CRFSharp	zhongkaifu/CRFSharp	11730444	CRFSharp is Conditional Random Fields implemented by .NET(C#), a machine learning algorithm for learning from labeled sequences of examples.	C#	176	28	26	28
+QuantumLearn	strelec/QuantumLearn	36096050	:thought_balloon: An improved Machine Learning library in Scala.	Scala	87	28	2	28
+hmm	dtkirsch/hmm	385689	This project is a Ruby gem ('hmm') for machine learning that natively implements a (somewhat) generalized Hidden Markov Model classifier.  At present, it is capable of supervised learning (using labeled training data) and Viterbi decoding.  Unsupervised learning is on the way.	Ruby	96	28	11	28
+ruby-machine-learning	tsycho/ruby-machine-learning	3136923	Some Machine Learning algorithms, implemented in Ruby	Ruby	91	27	2	27
+cognoma	cognoma/cognoma	62652458	Putting machine learning in the hands of cancer biologists	null	707	27	17	27
+intro-spacy-nlp	NSchrading/intro-spacy-nlp	39106786	An introduction to using spaCy for NLP and machine learning	Jupyter Notebook	15	27	13	27
+Azimuth	MicrosoftResearch/Azimuth	46076803	Machine Learning-Based Predictive Modelling of CRISPR/Cas9 guide efficiency	Python	5927	27	12	27
+jkernelmachines	davidpicard/jkernelmachines	4333651	machine learning library in java for easy developpement of new kernels	Lua	2658	27	11	27
+shared-tensor	Hello1024/shared-tensor	44870827	A distributed, shared tensor with high performance approximate updates for machine learning	C	172	27	3	27
+FaceGrab	ankitaggarwal011/FaceGrab	27650278	Facebook Image Grab: Grab everyone's Facebook profile image without any login and create an image dataset (useful for computer vision and machine learning applications).	Python	169	27	5	27
+ml	davejacobs/ml	3894372	A set of machine learning experiments in Clojure	Clojure	9616	27	1	27
+machine-learning	mbernste/machine-learning	14937724	A Java library of machine learning algorithms.	Java	19037	26	10	26
+learningmachines	ClimbsRocks/learningmachines	31878883	Teaching machine learning!	JavaScript	567	26	51	26
+DMLT	distrep/DMLT	3001696	Donders Machine Learning Toolbox	Matlab	15888	26	4	26
+libgp	mblum/libgp	20017115	Gaussian process library for machine learning	C++	6355	26	18	26
+student-early-warning	dssg/student-early-warning	23155909	Using machine learning to predict high school dropouts	R	1408	26	27	26
+SNAP_R	getzerofox/SNAP_R	64426471	A machine learning based social media pen-testing tool	Python	37	26	3	26
+RudolF	jayunit100/RudolF	2462182	(inactive and unmaintained) A set of loosely coupled machine learning, data-mining and bioinformatics applications in a broad range of functional languages.	Clojure	20848	26	8	26
+MachineLearning	jindongwang/MachineLearning	40817638	一些关于机器学习的学习资料与研究介绍	null	484685	25	12	25
+machine-learning-netflow	eraclitux/machine-learning-netflow	32104435	Ipython notebook that illustrates effectiveness of machine learning algorithms in anomaly detection of netflow data (inbound/outbound DDoS, etc...)	Python	1034	25	6	25
+streamDM-Cpp	huawei-noah/streamDM-Cpp	38152565	stream Machine Learning in C++	C++	3946	25	14	25
+hdp-datascience-demo	abajwa-hw/hdp-datascience-demo	28070251	HDP Data Science/Machine Learning demo	HTML	3165	25	23	25
+docker-predictionio	sphereio/docker-predictionio	38306536	Docker container for PredictionIO-based machine learning services	Shell	9	25	22	25
+moses	opencog/moses	34627021	MOSES Machine Learning: "Meta-Optimizing Semantic Evolutionary Search"	C++	144962	25	26	25
+BI	Steema/BI	50261518	www.steebi.com Datamining, Visualization, Machine-Learning, Big data	Pascal	4710	25	10	25
+osprey	msmbuilder/osprey	25709474	osprey is the plumbing for machine learning hyperparameter optimization.	Python	820	25	10	25
+hodor-autoML	MLWave/hodor-autoML	37003199	Hodor AutoML: Brute-Bandit fast good-enough solutions to a wide range of machine learning problems. 	null	116	25	6	25
+DGA	andrewaeva/DGA	26317948	The repository that contains the algorithms for generating domain names, dictionaries of malicious domain names. Developed to research the possibility of applying machine learning and neural networks to detect and classify malicious domains.	Python	87620	25	13	25
+lvm-toolkit	josephreisinger/lvm-toolkit	1098742	UT Austin Machine Learning Group Latent Variable Modeling Toolkit	C++	680	25	1	25
+project_prototype	bookstein/project_prototype	26038468	Hackbright final project: D3 visualization of Twitter users' politiciziation, using machine learning to classify political tweets	CSS	35652	25	3	25
+Clearcut	DavidJBianco/Clearcut	58233227	Clearcut is a tool that uses machine learning to help you focus on the log entries that really need manual review	Python	2799	25	5	25
+winston	popdotco/winston	15610501	Winston is a PHP AB/split testing library utilizing Redis and a machine learning algorithm for automatically displaying the most successful test variations over time.	PHP	505	25	3	25
+MachineLearning	llp1992/MachineLearning	41529959		Matlab	78	24	18	24
+MLwR	dataspelunking/MLwR	27689480	Machine Learning with R	R	1144	24	64	24
+kaggle-titanic	mdelhey/kaggle-titanic	7188306	Entry in the Titanic: Machine Learning from Disaster competition @ kaggle.com	Python	128213	24	35	24
+ios-BPN-NeuralNetwork	Kalvar/ios-BPN-NeuralNetwork	10628575	Neural network (ニューラルネットワーク) on Machine Learning (マシンラーニング).	Objective-C	413	24	8	24
+ML-Systems	ljk628/ML-Systems	42152083	papers on large-scale machine learning and systems	null	62	24	7	24
+ml-coursera	zsiciarz/ml-coursera	10569669	My solutions for programming assignments from the Machine Learning course at coursera.org.	Matlab	22060	24	13	24
+PyCon_2014	nyghtowl/PyCon_2014	17551402	How to get started with Machine Learning - linear regression example code	Python	2341	24	13	24
+pydata-amsterdam-2016	amueller/pydata-amsterdam-2016	53698474	Machine Learning with Scikit-Learn (material for pydata Amsterdam 2016)	Jupyter Notebook	5500	24	14	24
+clojure-encog	jimpil/clojure-encog	4327503	Clojure wrapper for Encog (v3) (Machine-Learning framework that specialises in neural-nets) - deprecated 	Clojure	236	24	3	24
+customerml	skrusche63/customerml	29721966	CustomerML is an open source customer science platform leveraging the power of Predictiveworks and fully integrated with Elasticsearch and Shopify. CustomerML starts with proven RFM analysis and combines the results with machine learning thereby providing a deep customer understanding.	Scala	579	24	13	24
+MachineLearningWithPython	JerryKurata/MachineLearningWithPython	56994901	Starter files for Pluralsight course: Understanding Machine Learning with Python	Jupyter Notebook	177	23	28	23
+ml_meetup_nyc_2016	amueller/ml_meetup_nyc_2016	50127184	Material for Machine Learning Meetup "Machine Learning with Scikit-learn"	Jupyter Notebook	40241	23	8	23
+exlearn	sdwolf/exlearn	41057454	Elixir Machine Learning	Elixir	11863	23	3	23
+cognitive	CiscoSystems/cognitive	26838895	Machine Learning as a Service	Python	6602	23	6	23
+java-data-mining-package	jdmp/java-data-mining-package	39727052	A Java library for machine learning and data analytics	Java	4589	23	11	23
+Pulse	gophergala2016/Pulse	50202561	Machine Learning for your Logs!!!	Go	495	23	4	23
+milksets	luispedro/milksets	394729	Machine Learning Toolkit Datasets: A collection of UCI datasets with a Python interface	Python	13379	23	3	23
+ml-readings	debasishg/ml-readings	36574600	A list of papers / videos / tutorials / blog posts on machine learning	null	24	23	2	23
+weka-jruby	paulgoetze/weka-jruby	47281785	Machine Learning & Data Mining with JRuby	Ruby	168	23	1	23
+Canova	jpatanooga/Canova	19518566	General Vectorization Lib for Machine Learning Tools	Java	23940	22	80	22
+torch-Machine-learning-with-Torch	Atcold/torch-Machine-learning-with-Torch	22023157	Collection of simple machine learning algorithms for Torch	Lua	2444	22	5	22
+aracna	CreativeMachinesLab/aracna	5864654	Machine Learning Open Source Robot	Python	14104	22	9	22
+predicting-poverty	nealjean/predicting-poverty	64259349	Combining satellite imagery and machine learning to predict poverty	Jupyter Notebook	724	22	15	22
+machinelearningnotes	Ezward/machinelearningnotes	52189094	Notes for the courses in the Machine Learning Specialization created by the University of Washingtion on Coursera	null	153939	22	26	22
+stacked_generalization	fukatani/stacked_generalization	58473332	Library for machine learning stacking generalization.	Python	79	22	2	22
+data_hub	perborgen/data_hub	46661027	A website for sharing machine learning datasets	JavaScript	23613	22	0	22
+bmo	josemazo/bmo	21814995	A Machine Learning toolbox based on Docker and IPython Notebook	Python	684	22	1	22
+lua-mapreduce	pakozm/lua-mapreduce	18598053	Lua-MapReduce framework implemented in Lua using luamongo driver and MongoDB as storage. It follows Iterative MapReduce for training of Machine Learning statistical models.	Lua	242	22	2	22
+SharpBrain	amaneureka/SharpBrain	59368586	A C# based Machine Learning Library which aims to implement user interactive Deep Learning Architecture & Algorithms.	C#	7213	22	1	22
+EchoRoot	allyson-stronach/EchoRoot	26940818	EchoRoot is a proof-of-concept app guided by one question: can machine learning techniques uncover signs of sex trafficking in online sex ads? 	Python	320	22	0	22
+MachineLearningLectures	smc77/MachineLearningLectures	2472506	Code to demonstrate basic machine learning algorithms following on Stanford CS229.	R	172	21	14	21
+mrscake	matthiaskramm/mrscake	1243374	machine learning library & code generator	C++	2470	21	7	21
+Self-Driving-Car-Demo	llSourcell/Self-Driving-Car-Demo	65053038	Self Driving Car Demo for Fresh Machine Learning #6	Python	62797	21	12	21
+Movie_Recommender	llSourcell/Movie_Recommender	59441498	Movie Recommender System for Machine Learning for Hackers #4	C++	156	21	9	21
+ep2015-ml-tutorial	chdoig/ep2015-ml-tutorial	38985240	Beginner's Guide to Machine Learning Competitions, EuroPython 2015, Tutorial	null	250	21	9	21
+measurable	agarie/measurable	6118711	Various distance and similarity measures for machine learning.	Ruby	449	21	4	21
+decaptcha	Yaoshicn/decaptcha	43416021	 Recognize captcha by machine learning.机器学习识别图片验证码。	Python	1832	21	12	21
+cognitive	openstack/cognitive	35637947	Machine Learning as a Service	Python	13	21	0	21
+EmailIntentDataSet	ParakweetLabs/EmailIntentDataSet	25995260	Some labeled training and test data for email intent machine learning (based on sentence-level speech acts)	Java	11772	21	11	21
+cl-mlep	fzalkow/cl-mlep	29988847	cl-mlep is a Common Lisp Machine Learning library for Educational Purposes.	Common Lisp	520	21	2	21
+monkeylearn-node	monkeylearn/monkeylearn-node	44397586	Official Node client for the MonkeyLearn API. Build and consume machine learning models for language processing from your Node apps.	JavaScript	17	21	2	21
+bigmlbook	malcolmgreaves/bigmlbook	26283975	All source code to the examples and programs presented in the upcoming book, "Machine Learning for Big Data," written by Greaves and Kolodziej. This code is currently in an unstable, quickly evolving alpha state.	Scala	1398	21	5	21
+machine_learning	salspaugh/machine_learning	6896005	Some example machine learning algorithm implementations from Berkeley's CS 281A during Fall 2012.	Python	202	20	17	20
+MachineLearningMOOC	faridcher/MachineLearningMOOC	56297188	This repository contains the R code to complete the assignments of machine learning online course on Coursera offered by professor Andrew NG.	R	20288	20	19	20
+Learning-Machine-Learning	tomtung/Learning-Machine-Learning	2603622	Machine learning algorithms I implemented using different programming languages.	Matlab	10420	20	13	20
+Machine-Learning-Specialization-University-of-Washington-	Jonasyao/Machine-Learning-Specialization-University-of-Washington-	46195666	Coursera Assignment and Project	Jupyter Notebook	242141	20	39	20
+reactive-machine-learning-systems	jeffreyksmithjr/reactive-machine-learning-systems	44214918	Code from the book Reactive Machine Learning Systems	Scala	69	20	7	20
+mlpractical	CSTR-Edinburgh/mlpractical	42938970	Machine Learning Practical (INFR11119)	Jupyter Notebook	22190	20	21	20
+DataVec	deeplearning4j/DataVec	62700410	ETL Library for Machine Learning	Java	24260	20	10	20
+hips-lib	HIPS/hips-lib	21540412	Library of common tools for machine learning research. 	Python	147	20	8	20
+pytexas2015-ml	chdoig/pytexas2015-ml	43164597	Beginner's Guide to Machine Learning Competitions, PyTexas 2015	null	264	20	19	20
+AI_Reader	llSourcell/AI_Reader	60985977	AI Reader for Machine Learning for Hackers #7	Python	42346	20	9	20
+logistic-regression-sgd	timnugent/logistic-regression-sgd	16738608	L1-regularized logistic regression using stochastic gradient descent [machine learning]	C++	1319	20	13	20
+geeps	cuihenggang/geeps	57335529	GPU-specialized parameter server for GPU machine learning.	C++	135	20	5	20
+spml4dm	takashi-miyamoto-naviplus/spml4dm	31052338	Statistics and Machine Learning for Data Mining	TeX	3151	20	5	20
+antelope	ifwe/antelope	26565336	Antelope Realtime Events framework for feature engineering in agile machine learning environments.	Scala	1181	20	5	20
+machinelearningcanvas	louisdorard/machinelearningcanvas	31132843	Template for developing new or documenting existing predictive systems that are based on machine learning techniques. Currently in HTML.	JavaScript	294	20	8	20
+meetups-de-machine-learning	olympo/meetups-de-machine-learning	34403390	Repositório com arquivos dos meetups que fazemos em http://www.meetup.com/Quebrando-a-cabeca-no-Kaggle/	R	10707	19	8	19
+Machine-Learning-Processing	shiffman/Machine-Learning-Processing	64343147	Testing out direct API access to weka in Processing 	Processing	164459	19	4	19
+malss	canard0328/malss	23041449	MAchine Learning Support System	Python	453	19	4	19
+datumbox-framework-examples	datumbox/datumbox-framework-examples	34946980	Code examples on how to use the Datumbox Machine Learning Framework.	Java	560	19	19	19
+zinnia	taku910/zinnia	32222389	Zinnia: Online hand recognition system with machine learning	Shell	1570	19	8	19
+toolbox	amidst/toolbox	18322758	A Java Toolbox for Scalable Probabilistic Machine Learning	Java	356389	19	5	19
+EvadeML	uvasrg/EvadeML	47722771	An evolutionary framework for evading machine learning-based malware classifiers.	CSS	22807	19	11	19
+Losses.jl	JuliaML/Losses.jl	44048238	Julia package for loss functions in machine learning.	Julia	216	19	4	19
+gestuRe	atduskgreg/gestuRe	13257955	Simple Interactive Machine Learning system for recognizing hand gestures in Processing with OpenCV	Processing	1464	19	9	19
+FSharp.ML.NeuralNetwork	JahTheDev/FSharp.ML.NeuralNetwork	43725577	A machine learning library for F#.	F#	0	19	1	19
+MLloWorld	petewarden/MLloWorld	2685736	Shows how to write a simple data contest entry for Kaggle, using scikit-learn for machine learning algorithms	Python	2880	19	3	19
+twitch-troll-detection	ahaque/twitch-troll-detection	18750566	Unsupervised machine learning methods to detect and classify anomalies in streaming data. We apply this to the viral event, TwitchPlaysPokemon, and attempt to identify trolls in a live IRC chat.	Python	40865	19	7	19
+railsconf2014-ml	johnpaulashenfelter/railsconf2014-ml	18908749	Code for Machine Learning for Fun and Profit talk from RailsConf 2014, RubyNation 2014, Rocky Mountain Ruby 2014	Ruby	24540	19	2	19
+mlnotebook	beader/mlnotebook	19333971	machine learning notebook	Shell	68244	18	15	18
+NeuralNetTests	terrychenism/NeuralNetTests	16005568	Practices for machine learning	Python	374	18	9	18
+mloss	open-machine-learning/mloss	2018137	Machine Learning Open Source Software	Python	1480	18	7	18
+java-ml	crm416/java-ml	7038639	Java implementations of several Machine Learning classification algorithms.	Java	932	18	10	18
+misc	ikegami-yukino/misc	3847420	Machine Learning / Randomized Algorithm and more	Jupyter Notebook	37225	18	5	18
+kwyjibo	liabru/kwyjibo	16985964	a real-time OCR, computer vision and machine learning experiment	C#	2400	18	6	18
+higgs_boson	log0/higgs_boson	24082140	Solution to the Higgs Boson Machine Learning Challenge on Kaggle	Python	112	18	10	18
+acromusashi-stream-ml	acromusashi/acromusashi-stream-ml	15725550	AcroMUSASHI Stream-ML - Machine Learning Library	Java	6646	18	3	18
+deep-dashboard	renmengye/deep-dashboard	49547751	Deep Dashboard: Machine Learning Training Visualizer	JavaScript	707	18	3	18
+nurokore	nuroko/nurokore	6884072	Java APIs and standard implementations for machine learning	Java	690	18	3	18
+Ai-Papers	vlall/Ai-Papers	39854462	Top influential pdf research papers in computer science/artificial intelligence/machine learning	null	32472	18	4	18
+ospaf-primary	ospaf/ospaf-primary	23651753	Ospaf project is an open source project maturity analysis tool, is an open source project consists of two modules, namely, data acquisition module, machine learning modules. Through the open source project on github feature extraction, using machine learning algorithms modeling, to construct a scoring model on open source projects.	Python	1422	18	15	18
+numerflow	ChristianSch/numerflow	66396409	Data workflows for the numer.ai machine learning competition	Python	26	18	0	18
+torch-automl	ronanmoynihan/torch-automl	61669445	Experimental application to automate machine learning (Preprocessing, Bayesian Optim etc)	Lua	47	18	0	18
+monkeylearn-java	monkeylearn/monkeylearn-java	47771734	Official Java client for the MonkeyLearn API. Build and consume machine learning models for language processing from your Java apps.	Java	21	18	3	18
+Machine_Learning	jasonleaster/Machine_Learning	47622626	My Practice about Machine Learning	Python	391040	17	5	17
+machine-learning	lotz84/machine-learning	42808846		null	171	17	2	17
+Machine-Learning-Techniques-NTU	phisiart/Machine-Learning-Techniques-NTU	28738283	My code for the assignments in the 'Machine Learning Techniques' course from National Taiwan University on Coursera	C++	352	17	9	17
+YelpDatasetChallengeDataScienceAndMachineLearningUCSD	kevin11h/YelpDatasetChallengeDataScienceAndMachineLearningUCSD	27019172		null	44769	17	19	17
+Coursera-Machine-Learning-Fall2013-4thEd-AndrewNg	Franck-Dernoncourt/Coursera-Machine-Learning-Fall2013-4thEd-AndrewNg	15735530	Coursera-Machine-Learning-Fall2013-4thEd-AndrewNg	Matlab	409136	17	19	17
+mltk	fandywang/mltk	10566357	MLTK -- the Machine Learning Toolkit -- is a suite of C++ open source modules of Machine Learning.	C++	1356	17	19	17
+stock-data	kamidox/stock-data	46104706	Analyze stock data by python science tools and machine learning.	Python	71860	17	19	17
+veles.znicz	Samsung/veles.znicz	36335274	Neural Network engine for Veles distributed machine learning platform	Python	120590	17	19	17
+Adult-WebSite-Classifier	zhouxc/Adult-WebSite-Classifier	3047615	A course project on machine learning(Text and Image classification)	Python	15777	17	12	17
+One-Shot-Learning-Demo	llSourcell/One-Shot-Learning-Demo	62514211	One-Shot Learning Demo for Fresh Machine Learning #1	Python	245	17	9	17
+common-ml	bizreach/common-ml	56663322	Common Machine Learning Library for Python	Jupyter Notebook	51	17	4	17
+SciPy2013	kastnerkyle/SciPy2013	10940059	Slides and code for SciPy 2013 talk - "A Gentle Introduction To Machine Learning"	Python	1807	17	16	17
+MusicComposer	tboronczyk/MusicComposer	10594625	Dabblings in statistics-driven music composition and machine learning	PHP	86	17	5	17
+data-science-live-book	pablo14/data-science-live-book	64714571	An open source book to learn data science, data analysis and machine learning, suitable for all ages!	R	2719	17	9	17
+carCount	kafka399/carCount	4095318	estimate air polution in the city by utilising machine learning technique	Shell	103	17	4	17
+grimlock	CommBank/grimlock	24664615	library for performing data-science and machine learning related data preparation, aggregation, manipulation and querying tasks at scale using Scalding or Spark	Scala	39952	17	9	17
+rapaio	padreati/rapaio	12651809	statistics, data mining and machine learning toolbox	Java	88435	17	1	17
+Gossip-Learning-Framework	RobertOrmandi/Gossip-Learning-Framework	2100836	This open source benchmarking framework allows you to build your own P2P learning algorithm and evaluate it in a simulated but realistic -- where you can model message delay, drop or churn -- networked environment. Moreover it contains the prototype implementations of some well-known machine learning algorithms like SVM and Logistic Regression.	Java	34840	17	8	17
+coursera-machine-learning	vugsus/coursera-machine-learning	41109547	Coursera's Machine Learning by Andrew Ng	Matlab	26576	16	92	16
+machine-learning-matlab	rishirdua/machine-learning-matlab	23255543	Matlab implementation of Machine Learning algorithms	Matlab	4748	16	14	16
+Azure-MachineLearning-ClientLibrary-R	Azure/Azure-MachineLearning-ClientLibrary-R	38313864		HTML	80282	16	7	16
+machine-learning	batterseapower/machine-learning	43189	Machine learning library for Haskell	Haskell	128	16	1	16
+2013-Sep-HR-ML-sprint	zigahertz/2013-Sep-HR-ML-sprint	12596758	Curriculum for Machine Learning sprint at Hack Reactor	Python	1380	16	21	16
+AccessibleML	adicu/AccessibleML	45440017	Notes and tutorials for making Machine Learning accessible	Jupyter Notebook	33357	16	16	16
+mlss_2015	amueller/mlss_2015	39136233	Material for open source machine learning practical	Python	6617	16	10	16
+cmonkey2	baliga-lab/cmonkey2	2020573	Python port of cMonkey, a machine-learning based method for clustering	Python	56797	16	10	16
+HMMWeka	marcogillies/HMMWeka	1332457	A Hidden Markov Model package for the Weka machine learning toolkit	Java	6320	16	8	16
+pytrader	hahnicity/pytrader	25071268	An open source trading bot to leverage machine learning in the stock market	Jupyter Notebook	1047	16	9	16
+Mekano	alad/Mekano	981666	Building blocks for Information Retrieval & Machine Learning	Python	223	16	3	16
+useR2016	topepo/useR2016	61835483	Slides and code for the 2016 useR! tutorial "Never Tell Me the Odds! Machine Learning with Class Imbalances"	R	1741	16	9	16
+enamel	choult/enamel	48880221	A machine learning library for PHP	PHP	21	16	2	16
+sklearn-transform	coreylynch/sklearn-transform	6973577	Collection of scripts for doing common transformations in machine learning	Python	137	16	2	16
+Faun	PhDP/Faun	37538527	A machine learning library for probabilistic logic ("statistical relational") learning.	Haskell	183	16	0	16
+openMediAid	open-medicine-initiative/openMediAid	19637801	Crowd-sourced, non-profit, medical decision support system for patients and doctors. Symbiosis of supervised machine learning, bayesian networks and an open data  community	JavaScript	8784	16	1	16
+machine-learning	yew1eb/machine-learning	48350697	常用机器学习算法的实践笔记，持续更新！	Python	52582	15	14	15
+Coursera-Practical-Machine-Learning	Xiaodan/Coursera-Practical-Machine-Learning	27347424	Repo for Coursera.com online course: Practical Machine Learning	R	178	15	83	15
+soletta-machine-learning	solettaproject/soletta-machine-learning	38717657	Soletta Machine Learning is an open source machine learning library focused on development of IoT projects. It provides API to handle with client side AI and an easy to use flow-based Soletta module. Supports neural networks and fuzzy logic learning and can be easily extended to support others.	C	572	15	11	15
+Practical-Machine-Learning	PacktCode/Practical-Machine-Learning	38684782		Java	27626	15	11	15
+MachineLearning_Fall2015	ChicagoBoothML/MachineLearning_Fall2015	39422292	BUS 41204: Machine Learning	Jupyter Notebook	231113	15	20	15
+NoteBooks-Statistics-and-MachineLearning	leonvanbokhorst/NoteBooks-Statistics-and-MachineLearning	28449234	http://unsupervised-learning.com	null	4815	15	7	15
+machine-learning-in-action	pingles/machine-learning-in-action	1716193	Playing around converting the code samples from Machine Learning in Action to Clojure	Clojure	129	15	3	15
+arrayfire-ml	arrayfire/arrayfire-ml	36867158	ArrayFire's Machine Learning Library.	C++	182	15	7	15
+machinelearningbootcamp	cambridgecoding/machinelearningbootcamp	51692187	boilerplate code, scripts, modules, data for CCA 2-day Machine Learning Bootcamp 	Jupyter Notebook	2147	15	89	15
+lhcb_trigger_ml	anaderi/lhcb_trigger_ml	15312116	LHCb trigger based on machine learning research	Python	650847	15	7	15
+OnlineAI.jl	tbreloff/OnlineAI.jl	36687039	Machine learning for sequential/streaming data	Julia	268	15	4	15
+vfml	ulmangt/vfml	8128995	Very Fast Machine Learning Toolkit	C	10068	15	6	15
+rowdy-bot	dmadisetti/rowdy-bot	29483992	Machine Learning Instagram bot for my dog	Go	912	15	7	15
+ml-india	harshnisar/ml-india	39774158	Website for Machine Learning India (ml-india). Fostering machine learning and data science ecosystem in India.	HTML	46070	15	13	15
+sofia-ml	rrenaud/sofia-ml	2207779	A fork of the sofia ml machine learning program	C++	887	15	10	15
+BigMLKit	bigmlcom/BigMLKit	34044543	Marrying Machine Learning with Apple's ResearchKit/HealthKit.	Objective-C	289	15	4	15
+kaggle_seeclickfix	zacstewart/kaggle_seeclickfix	14763125	My machine learning model for the See Click Predict Fix Kaggle competition	Python	9018	15	7	15
+ushine-learning	dssg/ushine-learning	11647344	An API that uses machine learning to help the Ushahidi nonprofit do smarter crisis crowdsourcing.	Python	16927	15	4	15
+FinanceAI	tordable/FinanceAI	2183172	A tool that takes financial statements to create machine learning classifiers. Then it uses the classifiers to predict financial performance.	null	2360	15	6	15
+DepthMap_dataset	LouisFoucard/DepthMap_dataset	44503800	Python Blender script to generate random scene, depth map and corresponding Stereo images for machine learning. 	Python	223948	15	3	15
+Machine-Learning	anirudhjayaraman/Machine-Learning	46395454		Matlab	141653	14	34	14
+ml-examples	petewerner/ml-examples	3187142	Machine Learning examples, mostly in R	R	129	14	12	14
+pylearn-parsimony	neurospin/pylearn-parsimony	21499314	Structured Machine Learning in Python	Python	3238	14	7	14
+ML-Class	SITZ/ML-Class	2725675	:school: Completed programming assignments for Online Machine Learning Course	Matlab	21970	14	13	14
+machinelearning	jeffbryner/machinelearning	17582621	experiments in machine learning	Python	512	14	2	14
+advanced-machine-learning	Inoryy/advanced-machine-learning	50649801	Curated list of advanced machine learning resources	null	2	14	1	14
+ML_Algorithms	yejiming/ML_Algorithms	32225411	The implementation of some machine learning algorithms	Python	516	14	5	14
+tutorial_ml_gkbionics	temporaer/tutorial_ml_gkbionics	7167159	A Tutorial on Simple Machine Learning Methods Held for the Graduate School on Bionics, 2012	TeX	15349	14	32	14
+oll-python	ikegami-yukino/oll-python	13479424	Online machine learning algorithms (based on OLL C++ library)	C++	94	14	2	14
+python-alp	tboquet/python-alp	56086857	a machine learning platform for teams	Python	1262	14	2	14
+twitter-stream-ml	giorgioinf/twitter-stream-ml	36070149	Machine Learning over Twitter's stream. Using Apache Spark, Web Server and Lightning Graph server.	Scala	30792	14	9	14
+advent2013	masakazu-ishihata/advent2013	14997380	Machine Learning Advent Calendar 2013 の１２月８日の記事として	Ruby	188	14	4	14
+BagOfKeyPoses	DAIGroup/BagOfKeyPoses	24534457	Machine learning method based on a bag of key poses model and temporal alignment	C#	227	14	4	14
+scorer	paulhendricks/scorer	39271089	Metrics for scoring machine learning models in R	R	378	14	0	14
+photoshopped-or-not	Irio/photoshopped-or-not	63243440	Detecting Photoshopped images with Machine Learning. Created during Data Science Retreat.	Jupyter Notebook	1468	14	0	14
+corpusmaker	ogrisel/corpusmaker	381464	clojure utilities to build training corpora for machine learning / NLP out of public wikimedia dumps: status - partially stalled - will probably be reworked as cascalog scripts -- this project is in stalled mode right now: the pignlproc project is likely to replace it due to licensing constraints for future integration in Apache projects	Clojure	240	14	5	14
+machine-learning	zengkui/machine-learning	6531832	machine-learning	Python	2466	13	11	13
+MachineLearningDatasets	perborgen/MachineLearningDatasets	45931491	A collection of machine learning datasets	null	0	13	6	13
+appunti-machine-learning	w4nderlust/appunti-machine-learning	8123343	Appunti di machine Learning in italiano	null	11484	13	6	13
+MachineLearning	vbosch/MachineLearning	1803139	A set of base classes in order to perfom training scripts for Neural Networs ( by means of SNNS) and SVM ( by means of SVM Light and SVM Class)	Ruby	1741	13	3	13
+NgMachineLearningPython	Nonnormalizable/NgMachineLearningPython	8914244	Working the homework assignments of the machine learning Coursera course by Andrew Ng, in Python.	Python	288	13	5	13
+MAChineLearning	gianlucabertani/MAChineLearning	33823284	Machine Learning for the Mac	Objective-C	320	13	2	13
+veles.sound_feature_extraction	Samsung/veles.sound_feature_extraction	40337739	Distributed machine learning platform 	C++	5177	13	10	13
+spark-cs190.1x	zfz/spark-cs190.1x	38284952	Working of CS190.1x, Scalable Machine Learning	Python	909	13	24	13
+NMLM	nantes-machine-learning-meetup/NMLM	26169139	Nantes Machine Learning Meetup	JavaScript	65485	13	6	13
+idiml	g-c-k/idiml	57251476	Modular machine learning library	C++	20151	13	3	13
+intro-to-machine-learning	zkan/intro-to-machine-learning	33761131	Introduction to Machine Learning	Jupyter Notebook	432	13	0	13
+gmum.r	gmum/gmum.r	15167417	GMUM machine learning group R package	C++	80003	13	3	13
+LRE	udibr/LRE	49521610	NIST Language i-vector Machine Learning Challenge	Jupyter Notebook	422	13	6	13
+pyramid	cheng-li/pyramid	24652666	Open source Machine Learning library written in Java	Java	3095	13	7	13
+MLatImperial2016	yandexdataschool/MLatImperial2016	50028407	Materials for the course of machine learning at Imperial College organized by YSDA	Jupyter Notebook	158637	13	13	13
+MIPT_Data_mining_in_action_2015	vkantor/MIPT_Data_mining_in_action_2015	43239144	Data mining and machine learning course at MIPT	null	18715	13	5	13
+matex	abhinavvishnu/matex	53364045	Machine Learning Toolkit for Extreme Scale (MaTEx)	C	9834	13	5	13
+libreexp	arauhala/libreexp	5719163	C++ library implementing re-expression method (a machine learning technique)	Scilab	20324	13	2	13
+Datuk	mayuso/Datuk	50339112	Java API for Data Mining and Machine Learning	Java	81	13	3	13
+rustml	daniel-e/rustml	37922242	Machine learning in Rust.	Rust	72435	13	0	13
+sentiment-analysis-aws-lambda	cloudacademy/sentiment-analysis-aws-lambda	56849182	How to deploy a Machine Learning model for sentiment analysis in the Cloud with AWS Lambda.	Python	398	13	4	13
+Generative-Adversarial-Network-Demo	llSourcell/Generative-Adversarial-Network-Demo	63018641	Generative Adversarial Network Demo for Fresh Machine Learning #2	Python	25	13	2	13
+colorbot	primaryobjects/colorbot	10387564	A neural network color bot that uses machine learning (artificial intelligence) to categorize pictures as red, green, or blue overall. Uses node.js and mongodb.	JavaScript	7162	13	10	13
+SPCSAISelfDrivingCar	MCKapur/SPCSAISelfDrivingCar	39466366	A virtual self driving car powered by Unity and Machine Learning.	ASP	73108	13	2	13
+murphy	tberg12/murphy	38057152	Support library for NLP and machine learning.	Java	9853	13	1	13
+rss-feed-experiments	matpalm/rss-feed-experiments	44948	machine learning experiments around a bunch of rss articles	Ruby	144	13	2	13
+rarff	wwood/rarff	80647	(fork) A Ruby library for handling ARFF files, as popularized by the WEKA machine learning program	Ruby	152	13	3	13
+datasci	raffpaquin/datasci	31367431	My Virtual Machine for Machine Learning and data science	JavaScript	164	13	1	13
+mgtaxa	andreyto/mgtaxa	331145	A free software for taxonomic classification of metagenomic sequences with machine learning techniques	Python	40668	13	2	13
+kaggle-yelp-business-rating-prediction	theusual/kaggle-yelp-business-rating-prediction	11928097	Code for Kaggle Contest "RecSys2013: Yelp Business Rating Prediction" -- Predicting Business Ratings on Yelp.com Using Machine Learning.   My final submission scored an RMSE of 1.2307 which earned a rank of #7 out of ~250 teams.  This a collection of code that is meant to be run from python console, it is not a stand-alone program	Python	163692	13	8	13
+learn	Polkm/learn	58833989	A lightweight, simple, and modular machine learning library written in pure Lua.	Lua	17	13	0	13
+CS229-Machine-Learning	Yao-Yao/CS229-Machine-Learning	9287553	CS229 Machine Learning open course by Andrew Ng	Matlab	39632	12	17	12
+Machine-Learning-Books-With-Python	tdpetrou/Machine-Learning-Books-With-Python	61441709	Chapter by Chapter notes, exercises and code for a variety of machine learning books using Python	Jupyter Notebook	12907	12	20	12
+Principles-Of-Machine-Learning	MicrosoftLearning/Principles-Of-Machine-Learning	61331354	Course files for the Microsoft Principles of Machine Learning course	null	33954	12	12	12
+PracticalMachineLearningClass	albahnsen/PracticalMachineLearningClass	50750709		Jupyter Notebook	48090	12	15	12
+machine-learning	pawel-n/machine-learning	32810624	Experiments with haskell neural networks	Haskell	247	12	3	12
+machine_learning_play	ajdecon/machine_learning_play	932385	A sandbox for my code while I learn about machine learning.	Python	8605	12	3	12
+machine-learning-in-action	jandot/machine-learning-in-action	4563427	Clojure implementation of examples in Machine Learning in Action	Clojure	91	12	3	12
+machine-learning-ruby	mizoR/machine-learning-ruby	5699978		Ruby	93	12	2	12
+PacMan-AI	jcarrillo7/PacMan-AI	8652331	PacMan Machine Learning Artificial Intelligence Project	Python	448	12	13	12
+Logistic-Regression	mirzaasif/Logistic-Regression	3789182	Machine Learning::Classifier	Ruby	276	12	2	12
+tjungblut-online-ml	thomasjungblut/tjungblut-online-ml	24261341	Online Machine Learning Algorithms	Java	128	12	7	12
+euro2016predictor	iamhankai/euro2016predictor	60712371	Euro Cup 2016 Predictor using Machine Learning	Python	289	12	9	12
+ProFET	ddofer/ProFET	29345102	ProFET: Protein Feature Engineering Toolkit for Machine Learning	Python	134912	12	10	12
+baylorml	BaylorCS/baylorml	25590257	Machine learning library currently supporting convolutional neural networks and fast k-means clustering.	C++	5073	12	6	12
+Artificial-Intelligence	bulletproofpenguin/Artificial-Intelligence	704217	AI program that uses word associations, a directed weighted graph, and machine learning	null	94	12	10	12
+MLx	zer0n/MLx	31240688	Yet another machine learning framework	Jupyter Notebook	6294	12	2	12
+MLaPP	astahlman/MLaPP	28752323	Solutions to exercises from Machine Learning: A Probabilistic Perspective by Kevin P. Murphy	TeX	792	12	5	12
+viennajs-predictionio	florianeckerstorfer/viennajs-predictionio	19315849	Code example for my talk on Machine Learning with Node.js and PredictionIO at Vienna.js on 30 April 2014.	JavaScript	144	12	7	12
+Machine-learning-techniques-for-flow-based-network-intrusion-detection-systems	TheAxeC/Machine-learning-techniques-for-flow-based-network-intrusion-detection-systems	51666856	My Bachelor thesis for Bachelor Computer Science at UHasselt: An Intrusion detection system using machine learning approaches [Finished]	TeX	70514	12	0	12
+learning-music-features	wrongu/learning-music-features	4496692	Dartmouth CS74 (Machine Learning) final project: implemented algorithm by Olshausen and Field (1996), ran on piano midi data.	Matlab	26472	12	4	12
+VariantSpark	BauerLab/VariantSpark	33279527	VariantSpark is a framework for applying Spark-based Machine Learning methods to whole-genome variant information	Scala	14606	12	4	12
+PDL-ML	zenogantner/PDL-ML	1723362	machine learning example code in PDL (Perl Data Language)	Perl	120	12	1	12
+ios-Multi-Perceptron-NeuralNetwork	Kalvar/ios-Multi-Perceptron-NeuralNetwork	31252990	Neural network that MLP on Machine Learning (マシンラーニング).	Objective-C	94	12	1	12
+ml4webdevs	thatdatabaseguy/ml4webdevs	2405369	Code for my Machine Learning class at PyGotham Sept 16th-17th	Python	6863	12	1	12
+racket-ml	danking/racket-ml	14431105	A collection of things I found useful for doing Machine Learning problem sets.	Racket	148	12	0	12
+discussion-watchlist-suggester	guardian/discussion-watchlist-suggester	38652057	Hackday summer 2015: Using Amazon Machine Learning to predict which discussions should be watched	Scala	184	12	0	12
+machine-learning	CambridgeProgrammerStudyGroup/machine-learning	31328891		Jupyter Notebook	26991	11	13	11
+MachineLearning	chyikwei/MachineLearning	6005162	some machine learning algorithm I implemented before.	Python	817	11	14	11
+machine-learning	HadXu/machine-learning	52420579	my machine-learning tutorial	Jupyter Notebook	19925	11	12	11
+machine-learning-recipes	machine-learning-projects/machine-learning-recipes	56925604	Machine Learning Recipes with Josh Gordon	Python	11	11	10	11
+Machine-Learning-for-Beginners	prolific-idea/Machine-Learning-for-Beginners	59212606	Machine learning for beginners	Python	3605	11	15	11
+Machine-Learning-and-UFLDL	zihaolucky/Machine-Learning-and-UFLDL	11475769	Lectures and notes, with my honor code as programming exercise.	Matlab	235517	11	13	11
+mitchell-machine-learning	klutometis/mitchell-machine-learning	2564834		null	872	11	5	11
+machine_learning_and_data_mining	gh289054531/machine_learning_and_data_mining	13610438	常见数据挖掘和机器学习算法	Java	264	11	14	11
+machine-learning-coursera	JimLee4530/machine-learning-coursera	48909165	machine-learning-homework-coursera	Matlab	21967	11	5	11
+machine_learning_scripts	IAS-ZHAW/machine_learning_scripts	3199012	collection of machine learning scripts	Python	674	11	5	11
+machine-learning-regression-python	chengzh2008/machine-learning-regression-python	47307413		Jupyter Notebook	57322	11	12	11
+PracticalMachineLearning	ManzoorElahi/PracticalMachineLearning	28315114		JavaScript	2652	11	3	11
+hack-university-machine-learning	hackoregon/hack-university-machine-learning	50750620	Hack University course "Introduction to Machine Learning" sylabus, course material, python examples, resource links, and data sets	Jupyter Notebook	50195	11	7	11
+machine-learning-chinese	adewes/machine-learning-chinese	63715470	Material for my tutorial on machine-learning of Chinese (characters, texts, speech)	Jupyter Notebook	323125	11	3	11
+MLSS	NICTA/MLSS	30629497	Machine Learning Summer School	Python	19064	11	17	11
+PowerGraph	jegonzal/PowerGraph	11088250	PowerGraph: A framework for large-scale machine learning and graph computation.	C++	69755	11	405	11
+ML	alexksikes/ML	6340279	Old Java code implementing a couple of machine learning algorithms.	Java	2136	11	21	11
+mexproject	AKSW/mexproject	33152711	MEX Project: Metadata for Machine Learning Experiments	JavaScript	40523	11	7	11
+TeamCompML	mvpeng/TeamCompML	26101555	League of Legends + Machine Learning	TeX	58252	11	4	11
+ml_cheat_sheet	eternalmothra/ml_cheat_sheet	30630941	Machine Learning Cheat Sheet	TeX	926	11	5	11
+NBA-Machine-Learning-Tutorial	fbuentello/NBA-Machine-Learning-Tutorial	40015772	Predict an NBA player's PER score	JavaScript	3540	11	2	11
+cse515t	rmgarnett/cse515t	29066529	Materials for Bayesian Methods in Machine Learning Course	TeX	12226	11	6	11
+qtpy	johnoliverdriscoll/qtpy	2681854	Machine-learning strategist and the first Quantum Tic-tac-toe playing bot.	JavaScript	344	11	9	11
+cs7641-weka-jython	omscs-georgia-tech/cs7641-weka-jython	19976318	examples for python based access to weka in supervised machine learning	Python	15719	11	5	11
+pyprobml	probml/pyprobml	65924871	Python code for "Machine learning: a probabilistic perspective"	Jupyter Notebook	23479	11	3	11
+frog	natal/frog	12943622	A machine learning library for Rust.	Rust	209	11	2	11
+server	psi-project/server	13432371	A Play-based server implementing the PSI machine learning API	Java	1168	11	4	11
+ML-for-scientists	ljdursi/ML-for-scientists	27933458	Machine Learning for Scientists Tutorial	Python	7028	11	0	11
+hubminer	datapoet/hubminer	25406580	Hubness-aware machine learning library.	Java	8448	11	3	11
+kohonen	jlauron/kohonen	3530539	Kohonen Self Organizing Maps algorithm implementation in python, with other machine learning algorithms for comparison (kmeans, knn, svm, etc)	Python	247	11	10	11
+EasyMLPlatform	CalvinNeo/EasyMLPlatform	42910245	an easy distributed machine learning platform	JavaScript	12450	11	0	11
+darks-learning	liulhdarks/darks-learning	24322439	Darks learning is the machine learning algorithm library. It contains Word2vec,DBN, RBM, MLP, LSA, PLSA, SDA, Maxent, regression, etc.	Java	1227	11	4	11
+stem	abeschneider/stem	46250480	Swift Tensor Extensions for Machine-learning	Swift	466	11	1	11
+ios-KRKmeans-Algorithm	Kalvar/ios-KRKmeans-Algorithm	21407846	K-Means is clustering algorithm (クラスタリング分類) that one of Machine Learning methods.	Objective-C	438	11	3	11
+omesa	cmry/omesa	42242637	Experiment, Storage and Visualization Framework for Machine Learning research.	Python	33615	11	1	11
+audiolearn	darylsew/audiolearn	12113261	A machine learning demo using PyAudio and Scikits.	Python	4620	11	0	11
+AleaTK	quantalea/AleaTK	63395563	Library for general purpose numerical computing and Machine Learning based on tensors and tensor expressions.	C#	14478	11	2	11
+PRML_Notes	jasonding1354/PRML_Notes	40890721	该项目是关于机器学习经典书籍《Pattern Recognition and Machine Learning》的学习笔记，我用python实现了书中的一些实例，希望帮助感兴趣的人更好的理解	null	792	11	10	11
+osae	lrvick/osae	2558980	Open Sentiment Analysis Engine - Allows humans to flag sentiment for random Twitter samples. The data is saved for use with machine learning sentiment classification projects like Synt	Python	96	11	3	11
+fipi	felixbiessmann/fipi	48516418	Automatized political analysis of text. The machine learning model is trained on data from the https://manifestoproject.wzb.eu/ and uses bag-of-words features to predict political tendencies.	Python	15558	11	3	11
+racket-knn	asbaker/racket-knn	9486538	K Nearest Neighbors, KNN, is a lazy, supervised machine learning algorithm. This is an implementation in scheme using racket.	Racket	164	11	1	11
+EnMAS-Framework	EnMAS/EnMAS-Framework	10225512	EnMAS is an environment and simulation framework for multi-agent and team-based artificial intelligence research. Guided by current research in multi-agent machine learning, particularly the DEC-POMDP and POSG models.	Scala	72116	11	0	11
+MachineLearning	LocalGroupAstrostatistics2015/MachineLearning	36508382	Materials for the Wednesday Afternoon Machine Learning workshop	Python	2750	10	10	10
+Machine-Learning	whiskey/Machine-Learning	1660648	Basic implementations of machine learning algorithms	Python	1227	10	4	10
+coursera_machine_learning	rjurney/coursera_machine_learning	14464511	Python examples of the homework examples for Andrew Ng's Stanford Machine Learning class on Coursera	Python	168	10	5	10
+MachineLearning	gkokaisel/MachineLearning	2737958	Octave Code for Machine Learning Programming Exercises 	Matlab	29203	10	4	10
+js-ml-workshop	jctillman/js-ml-workshop	38199026	A javascript machine learning tutorial.	JavaScript	1125	10	83	10
+BerkeleyX-CS190.1x-Scalable-Machine-Learning	dipanjanS/BerkeleyX-CS190.1x-Scalable-Machine-Learning	38644708	This repository contains code files specifically IPython notebooks for the assignments in the course "Scalable Machine Learning" by UC Berkeley and Databricks on edX	null	26656	10	19	10
+ml_tutorials	AlexanderFabisch/ml_tutorials	13376721	Machine Learning Tutorials	HTML	7844	10	5	10
+AHaH	timmolter/AHaH	13842614	AHaH Machine Learning	Java	1136	10	6	10
+caltech.ml	santiaago/caltech.ml	7705686	Machine learning course from Caltech	Python	249	10	7	10
+mlsm	aronwc/mlsm	11690927	Machine Learning and Social Media Seminar	JavaScript	18685	10	12	10
+ml-playground	bzamecnik/ml-playground	25838451	Machine learning playground - small training projects	Jupyter Notebook	4558	10	10	10
+jmll	spbsu-ml-community/jmll	16483065	Java Machine Learning Library	Java	133769	10	3	10
+ubmlcourse	ubdsgroup/ubmlcourse	28672478	Collection of iPython notebooks for UB CSE Machine Learning course (CSE 474/574)	Jupyter Notebook	21396	10	35	10
+ml-class	tianyicui/ml-class	5495749	My programming exercise solution for the Machine Learning class on Coursera	Matlab	24960	10	9	10
+MLBook_source	tback/MLBook_source	507853	Machine Learning: An Algorithmic Perspective - Python sources that came with the book	Python	159	10	14	10
+ML_SecurityInformatics	albahnsen/ML_SecurityInformatics	57230511	Short Course - Applied Machine Learning for Security Informatics	Jupyter Notebook	29126	10	3	10
+LeVar	peoplepattern/LeVar	39468287	Machine learning training and evaluation database	Scala	215	10	2	10
+Deep-Learning-with-h2o-in-R	mercicle/Deep-Learning-with-h2o-in-R	40408573	Deep neural networks on over 50 classification problems from the UC Irvine Machine Learning Repository	R	577	10	14	10
+EvoML	EvoML/EvoML	55435508	Using Genetic Algorithms to aid Machine Learning	Python	35162	10	3	10
+learning-the-draft	seanjtaylor/learning-the-draft	56195045	Machine Learning the NFL Draft	R	1328	10	2	10
+smartlearner	SMART-Lab/smartlearner	11514304	SMART-Learner is a machine learning library built with researchers in mind.	Python	303	10	6	10
+nosy	pascalc/nosy	3299402	A framework for classifying text harvested from social media using supervised machine learning	Python	7578	10	5	10
+ml2016	davidrosenberg/ml2016	48124101	DS-GA 1003: Machine Learning and Computational Statistics,  Spring 2016	HTML	3257	10	3	10
+sqpug	rostyboost/sqpug	16132423	another machine learning library	D	374	10	1	10
+MLT	MenuPolis/MLT	31113560	Machine Learning Tutorial	null	124	10	1	10
+zenbrain	carlos8f/zenbrain	63992612	A framework for machine-learning bots	CSS	821	10	3	10
+RoboBuffett	danmane/RoboBuffett	4035165	Machine Learning project to predict stock performance based on textual analysis. Uses Bayesian multinomial classifier.	Python	1883	10	9	10
+d2s-tools	Data2Semantics/d2s-tools	4597158	Some tools for dealing with RDF data in a Machine Learning/Complexity context	Java	7350	10	5	10
+SALSA.jl	jumutc/SALSA.jl	32160355	Software Lab for Advanced Machine Learning with Stochastic Algorithms in Julia	Julia	698	10	3	10
+tictactoe	rolyatmax/tictactoe	18735612	Tic Tac Toe Machine Learning	JavaScript	1050	10	1	10
+ml_ti6_bracket_predictions	polats/ml_ti6_bracket_predictions	65076369	A machine learning experiment to predict TI6 brackets, based on Matt Harvey's March Madness 2016 predictions	Python	129	10	4	10
+clml.tutorials	mmaul/clml.tutorials	40393710	Tutorials for CLML - Common Lisp Machine Learning	Common Lisp	1324	10	0	10
+cocolour	zenozeng/cocolour	17437906	Color schemes generator based on machine learning	JavaScript	35542	10	1	10
+codebuff	antlr/codebuff	49157731	Language-agnostic pretty-printing through machine learning (uh, like, is this possible? YES, apparently).	Java	5932	10	3	10
+dockerRML	radioML/dockerRML	62240920	Docker images set up with tools for radio & machine learning tasks	VimL	12	10	1	10
+Emotion-Recognition	RamaneekGill/Emotion-Recognition	47037328	Use tensorflow and machine learning algorithms to predict the emotion depicted by an image of a face.	Python	3253	10	3	10
+Robotgen	yuchao86/Robotgen	7883189	Robotgen is a php machine learning library for web service. also including web data mining and analysis and so on	PHP	171	10	3	10
+brut	ChrisBeaumont/brut	11315199	Machine Learning on the Milky Way Project DR1	Python	30928	10	2	10
+Quantitive-Investing	zihaolucky/Quantitive-Investing	11412275	To find the habits of stocks market, we create this project, which would try to apply machine learning techniques and develop our own algorithms. 	Matlab	388341	10	5	10
+kmeans	andrejbauer/kmeans	34262376	A demonstration of Ocaml modules & functors for machine learning.	OCaml	220	10	0	10
+jpgml	renzodenardi/jpgml	2767059	Java porting of the Gaussian Process for machine learning software library by C.E. Rasmussean and C. Williams (http://www.gaussianprocess.org/gpml/)	null	123	10	5	10
+ruby-ml	Poilon/ruby-ml	42108702	A small and straight forward machine learning in ruby	Ruby	144	10	0	10
+ios-KRHebbian-Algorithm	Kalvar/ios-KRHebbian-Algorithm	10628534	Non-supervisor that Hebbian self-organization learning method in machine learning. (自分学習アルゴリズム).	Objective-C	228	10	1	10
+DataGenerator	FRosner/DataGenerator	12435477	Tool for generating various test data for machine learning and data mining algorithms.	Java	2136	10	1	10
+live-london	tobiasbueschel/live-london	51197266	:house: Using machine learning to predict the best borough to live in London.	CSS	19369	10	0	10
+data-science-on-mpp	gautamsm/data-science-on-mpp	45151219	A collection of examples illustrating data processing, data science, and machine learning on the Pivotal Greenplum and HAWQ MPP databases	Jupyter Notebook	4787	10	2	10
+MachineLearning	artmunich/MachineLearning	37898621	Mainly for course Machine Learning provided by Stanford.	Matlab	4942	9	8	9
+Andrew-Ng-Machine-Learning-Programming-solutions-	LilianYe/Andrew-Ng-Machine-Learning-Programming-solutions-	10389142	open course on coursera.org  Stanford University	null	19380	9	13	9
+ift6390_machine_learning_fundamentals	in3rtial/ift6390_machine_learning_fundamentals	23594287	ift6390 @ UdeM	Python	208168	9	9	9
+Coursera_MachineLearning	underspirit/Coursera_MachineLearning	61215163	Theano implementation of Andrew Ng's Machine Learning course on Coursera	Jupyter Notebook	39366	9	3	9
+MachineLearningForTrading	arvindevo/MachineLearningForTrading	5066039		Python	655	9	6	9
+DSE220_Machine_Learning	mGalarnyk/DSE220_Machine_Learning	53488315	Repo for my graduate data science machine learning class at UCSD (UC San Diego). This course provides a broad introduction to the practical side of machine-learning and data analysis. The topics covered in this class include topics in supervised learning, such as k-nearest neighbor classifiers, decision trees, boosting and perceptrons, and topics in unsupervised learning, such as k-means, PCA and Gaussian mixture models. 	Jupyter Notebook	69401	9	6	9
+AzureMachineLearningResources	amykatenicho/AzureMachineLearningResources	37622402	This folder contains materials relating to an Azure Machine Learning Demos showcased at Industry events	null	51082	9	4	9
+mlass	GuangchuangYu/mlass	3067294	:boom:Machine Learning clASS	R	956	9	9	9
+sentdex_scikit_machine_learning_tutorial_for_investing	cleesmith/sentdex_scikit_machine_learning_tutorial_for_investing	29983000	sentdex's scikit machine learning tutorial for investing	Python	699	9	4	9
+Machine-Learning	mlyundin/Machine-Learning	49787259	This is python implementation of Programming Exercises for 	Python	21302	9	1	9
+quantum_machine_learning_figures	peterwittek/quantum_machine_learning_figures	19425205	Scripts to generate the figures in the book Quantum Machine Learning: What Quantum Computing Means to Data Mining	TeX	284	9	2	9
+nyu_ml_lectures	amueller/nyu_ml_lectures	42475858	Materials for NYU Machine Learning Guest Lectures	Python	6930	9	10	9
+Newbie-Track	LxOpenDataMeetup/Newbie-Track	45349602	Introduction to machine learning 	Jupyter Notebook	14637	9	4	9
+machine-learning-book	kivantium/machine-learning-book	55347380	お金が欲しい	null	8	9	0	9
+coursera-machine-learning	takuyaa/coursera-machine-learning	43062219		null	144	9	1	9
+AI_Writer	llSourcell/AI_Writer	61417142	AI Writer for Machine Learning for Hackers #8	Python	377	9	7	9
+antivirus_demo	llSourcell/antivirus_demo	65594576	Antivirus Demo for Fresh Machine Learning #7	Python	13015	9	5	9
+TensorFlow_introduction	cbonnett/TensorFlow_introduction	58313535	Introduction to TensorFlow Machine Learning Meetup Barcelona	Jupyter Notebook	188	9	4	9
+mlai2015	lawrennd/mlai2015	41453152	Machine learning and adaptive intelligence module for 2015.	Jupyter Notebook	39281	9	10	9
+MachineLearningStudyGroup	nmanchev/MachineLearningStudyGroup	59806028	Materials from the London Machine Learning Study Group Meetups	Python	829	9	2	9
+graphlab	ekoontz/graphlab	854962	Graphlab from CMU: A New Parallel Framework for Machine Learning 	C	745	9	5	9
+umich-eecs445-f16	eecs445-f16/umich-eecs445-f16	67948613	Materials for EECS 445, and undergraduate Machine Learning course taught at the University of Michigan, Ann Arbor.	Jupyter Notebook	25734	9	14	9
+ml-experiments	xmlking/ml-experiments	58849015	 machine learning playground	Java	1576	9	1	9
+pcml-cheatsheet	Denwid/pcml-cheatsheet	28086436	Latex cheat sheet for the EPFL (http://epfl.ch/) course "Pattern Matching and Machine Learning", Fall 2014.	TeX	16231	9	8	9
+nerchuko	sids/nerchuko	439094	Machine Learning with Clojure.	Clojure	264	9	1	9
+bigoptim	IshmaelBelghazi/bigoptim	37093936	Large Scale Machine learning Optimization through Stochastic Average Gradient	C	15777	9	3	9
+coursera	hobson/coursera	9976058	Coursera Machine Learning class exercises (converted from Octave to Python + Numpy)	Java	36208	9	4	9
+OS-fuzzing	CIFASIS/OS-fuzzing	36799066	Using Machine Learning to predict the outcome of a zzuf fuzzing campaign	Python	2530	9	5	9
+easyml	scan33scan33/easyml	10869968	Easy-to-understand and short code for various machine learning applications	Python	383	9	2	9
+mlbooks	datalad/mlbooks	36072588	Collection of free machine learning books	null	9	9	1	9
+math-for-machinelearning	rasbt/math-for-machinelearning	52144999	Exercises, code examples, and additional info material for Think Machine Learning Volume 1: Precalculus for Programmers	null	82	9	3	9
+bdol-ml	bdol/bdol-ml	17230857	A centralized repository for a variety of clean machine learning examples.	Python	524	9	3	9
+rbutils	mananshah99/rbutils	20335461	Provides advanced machine learning capabilities as well as numerous fast and efficient algorithms in Ruby	Ruby	508	9	4	9
+NEATFlappyBird	NeatMonster/NEATFlappyBird	45122439	Machine learning to play Flappy Bird using NEAT approach	Java	128	9	0	9
+mlapp	ejackson/mlapp	7420560	Clojure implemantation of the programs in Kevin Murphy's "Machine Learning A Probabilistic Approach".  Personal study.	Clojure	18555	9	2	9
+BioPy	jaredmichaelsmith/BioPy	31742037	Biologically-Inspired and Machine Learning Algorithms written in Python	Python	904	9	1	9
+startup-engineering	vpavlenko/startup-engineering	16677192	6-day intensive course on frontend, backend with Python/Django, deployment, interfaces, machine learning and startup engineering itself (Spring 2014, in Russian)	CSS	3929	9	6	9
+MLweb	lauerfab/MLweb	42920774	Machine learning and scientific computing (linear algebra, statistics, optimization) javascript libraries, with an online lab.	JavaScript	366	9	2	9
+cakephp-predictionio	wa0x6e/cakephp-predictionio	14266491	CakePHP Plugin for the PredictionIO machine learning server	PHP	288	9	0	9
+Ladder.jl	mrtzh/Ladder.jl	35837474	A reliable leaderboard algorithm for machine learning competitions	Julia	148	9	1	9
+Tribler	csko/Tribler	2324100	Tribler with the gossip machine learning framework community.	Python	44136	9	2	9
+wordsmith	doug/wordsmith	601272	wordsmith is a processing library for machine learning for text	Java	15380	9	1	9
+spherical-k-means	teammcr192/spherical-k-means	15943778	Spherical k-means implementation in Matlab and C++ (with multithreading). The spherical k-means algorithm is used to automatically group text documents into a set of k clusters. Machine learning, data mining.	C++	27423	9	3	9
+rarff	andypayne/rarff	80246	Rarff is a Ruby library for dealing with Attribute-Relation File Format (ARFF) files. ARFF files are used to specify data sets for data mining applications, most notably the Weka machine learning toolkit.	Ruby	119	9	4	9
+Pattern-Recognition-for-Forex-Trading	PythonProgramming/Pattern-Recognition-for-Forex-Trading	32902848	http://pythonprogramming.net/machine-learning-pattern-recognition-algorithmic-forex-stock-trading/	Python	140	9	1	9
+Malicious_Website_Detection	medhini/Malicious_Website_Detection	54305566	Uses deep learning and machine learning techniques to detect and classify web pages as spam, malware and phishing	Python	9515	9	2	9
+FCEUX_Learning_Environment	ehrenbrav/FCEUX_Learning_Environment	54924932	A fork of the FCEUX Nintendo emulator to allow it to be used by the Google Deep Q-Network and other machine learning tools.	C++	14797	9	2	9
+netflix	jvanbrug/netflix	33335388	Machine learning algorithms for Netflix recommendations (Caltech CS/CNS/EE 156b, Spring 2015)	Python	902	9	0	9
+mokolo	gustii/mokolo	4160983	Collection of Machine Learning Algorithms for Node.js: Non-Negative Matrix Factorization (NMF), ...	JavaScript	112	9	1	9
+Numerix	safwank/Numerix	57253470	A collection of useful mathematical functions in Elixir with a slant towards statistics, linear algebra and machine learning	Elixir	68	9	2	9
+cross_validation	jmdeldin/cross_validation	9235037	Ruby library for k-fold cross-validation of machine learning classifiers. It also provides a confusion matrix for interpreting classifier results. NOTE: API is unstable and subject to change before v1.0.	Ruby	216	9	1	9
+MachineLearning	Everhusk/MachineLearning	33225473	Udacity course on Machine Learning	Python	4320	8	8	8
+firefox-machine-learning	matthewruttley/firefox-machine-learning	21882687	Code for testing machine learning algorithms on firefox browsing data for various user personalization projects	Python	154962	8	6	8
+MachineLearningToolkit	vpejovic/MachineLearningToolkit	7650021	Machine learning toolkit for android	Java	57	8	5	8
+Machine-Learning-With-Python	Thinkgamer/Machine-Learning-With-Python	58384893	此项目是我在学习《机器学习实战》这本书时的代码记录情况，用python实现，当然也会包括一些其他的机器学习算法，使用Python实现	Python	2816	8	5	8
+ml-hw	Pinafore/ml-hw	24208876	Homeworks for Machine Learning Course	Python	31616	8	39	8
+Scaled-ML	scaled-ml/Scaled-ML	32203040	Machine learning applied at large scale	Java	18435	8	6	8
+MachineLearningExperiments	lvilnis/MachineLearningExperiments	3770824	Building up a mini-library as I teach myself Scala + Machine Learning (mostly NLP)	Scala	5364	8	0	8
+LearningMachineLearning	graceavery/LearningMachineLearning	39367124	Swift implementation of "Data Science From Scratch" and http://karpathy.github.io/neuralnets/	Swift	4432	8	2	8
+hacking-machine-learning	kylepolich/hacking-machine-learning	59483746	Materials related to me talk for The Eleventh Hope conference (New York City, July 22-24)	Jupyter Notebook	9169	8	0	8
+DF14-Building-Machine-Learning-Systems-With-Apex	pbattisson/DF14-Building-Machine-Learning-Systems-With-Apex	25025776		Apex	240	8	4	8
+InteractiveMachineLearning	sheepsy90/InteractiveMachineLearning	32726516	A Small KNN Application in PyGame for Education	Python	180	8	0	8
+Oxford-Machine-Learning-Course-2015	rainyear/Oxford-Machine-Learning-Course-2015	49074453	Oxford Machine Learning Course 2015	Jupyter Notebook	415	8	2	8
+Arbiter	deeplearning4j/Arbiter	30822986	A platform agnostic Evaluation tool for Machine Learning algorithms	Java	810	8	10	8
+maul	bholley/maul	1004989	A Machine Learning approach to User-Agent parsing	C++	15834	8	5	8
+mlspark	cdgore/mlspark	14877400	Machine learning algorithms implemented in Scala on Spark	Scala	268	8	6	8
+anothermlkid	Oneplus/anothermlkid	6124701	yet another machine learning toys	Python	1460	8	3	8
+mldata	open-machine-learning/mldata	2018113	Machine Learning Data Set Repository (Source Code)	Python	12359	8	8	8
+MLKernels.jl	trthatcher/MLKernels.jl	30593279	Machine learning kernels in Julia.	Julia	4983	8	6	8
+malware-detection	dchad/malware-detection	60488314	Malware Detection and Classification Using Machine Learning	Jupyter Notebook	218625	8	5	8
+machine-learning-at-scale-with-python	zonca/machine-learning-at-scale-with-python	17960962		null	1812	8	1	8
+AzureML-R-Quick-Start	Quantia-Analytics/AzureML-R-Quick-Start	25210909	Code and data for the Quick Start Guide to R in Azure Machine Learning Studio. 	R	153	8	13	8
+learning-from-data	blaenk/learning-from-data	15065491	programming assignments for cal tech machine learning class	Python	144	8	4	8
+MLSummary	desmond-ong/MLSummary	11695382	Machine Learning Notes (Mainly from Stanford CS229 and Coursera courses taught by Andrew Ng)	null	1244	8	8	8
+MLMetrics.jl	JuliaML/MLMetrics.jl	52283571	Metrics for scoring machine learning models in Julia	Julia	77	8	3	8
+machinelearning	willembressers/machinelearning	29933847	A collection of Machine learning PHP classes.	PHP	553	8	5	8
+dockerfile-machinelearning	uetchy/dockerfile-machinelearning	39760642	Dockerfile for scientists studying Machine Learning.	Makefile	11	8	3	8
+elm	acba/elm	30246964	Python Extreme Learning Machine (ELM) is a machine learning technique used for classification/regression tasks.	Python	320	8	8	8
+pmll	pavlov99/pmll	1306956	Machine learning library.	Python	1351	8	1	8
+SpeakEasy-AI	Charging-Alot/SpeakEasy-AI	48587299	SpeakEasy is a machine learning project that aims to detect patterns in conversational responses.	Python	63	8	10	8
+intelligence	Sherlock92/intelligence	22044880	Machine learning library written in javascript for node	JavaScript	504	8	2	8
+learning.js	milroc/learning.js	7138884	Machine Learning in Javascript?	JavaScript	100	8	0	8
+ACM_DataScienceCamp_2015	joseph-rickert/ACM_DataScienceCamp_2015	44831438	Materials for the October 24, 2015 tutorial: Introduction to R for Machine Learning at that ACM Data Science Camp	HTML	24352	8	9	8
+ML-KNearest-VXX	nakulnayyar/ML-KNearest-VXX	53276419	Machine Learning Algo using Knearest Neighbors model on VXX trading strategy.	Jupyter Notebook	69	8	7	8
+libml	yminer/libml	8395611	OCAML Machine Learning Library 	OCaml	388	8	0	8
+realtime-spark-twitter-stream-mining	ambodi/realtime-spark-twitter-stream-mining	48254163	Real-time Machine Learning with Apache Spark on Twitter Public Stream	Python	170	8	5	8
+AudioNotebooks	kylemcdonald/AudioNotebooks	51879499	Collection of notebooks and scripts related to audio processing and machine learning.	Jupyter Notebook	3854	8	3	8
+libORF	orhanf/libORF	21089732	A  machine learning library focused on deep learning	Matlab	399	8	2	8
+flow	sorpaas/flow	66155964	Simple Flow-based Machine Learning with Tensorflow	CSS	350	8	2	8
+automator	ryhan/automator	19195870	Machine Learning using Dropbox Datastores	JavaScript	406	8	1	8
+dataformat	mikiobraun/dataformat	221482	Code for reading and writing machine learning data formats, in particular ARFF	Java	163	8	5	8
+sabina	seinosuke/sabina	56582432	Sabina is a machine learning library.	Ruby	2183	8	1	8
+bck_stats	brandonckelly/bck_stats	18816786	Routines for implementing various statistical and machine learning techniques.	Python	476	8	4	8
+OpeningTech	syhw/OpeningTech	1212838	Opening tech prediction through machine learning for Starcraft AI	C++	4388	8	2	8
+prediction	reckless-io/prediction	21790614	Use Machine Learning to predict abandoned carts and take action to prevent them for Magento platform	PHP	164	8	2	8
+learningmachinelearning	nicola/learningmachinelearning	26600737	Resources I am using to learn machine learning	null	8	8	1	8
+are-we-learning-yet	anowell/are-we-learning-yet	61688149	How ready is Rust for Machine Learning?	HTML	8763	8	0	8
+MLHadoop	punit-naik/MLHadoop	36229341	This repository contains Machine-Learning MapReduce codes for Hadoop which are written from scratch (without using any package or library). E.g. Prediction (Linear and Logistic Regression), Clustering (K-Means), Classification (KNN) etc.	Java	31	8	9	8
+notebooks	bernhard2202/notebooks	53570033	jupyter notebooks on machine learning, computational intelligence and statistics.. 	Jupyter Notebook	503	8	1	8
+scikit-learn-to-spark-ml	ybenoit/scikit-learn-to-spark-ml	43539491	Notebook comparing scikit-learn and Spark ML for building Machine Learning Pipelines	null	113	8	2	8
+AWS-Lambda-ML-Microservice-Skeleton	moesy/AWS-Lambda-ML-Microservice-Skeleton	54282133	A skeleton machine learning micro-service for AWS Lambda. 	Python	46043	8	1	8
+captcha-break	nladuo/captcha-break	59371207	captcha break based on opencv2, tesseract-ocr and some machine learning algorithm.	C++	21731	8	2	8
+farbopt	rmfarber/farbopt	21589905	A TF/s to PF/s numerical optimization and machine-learning framework as discussed in my Dr. Dobbs and techEnablement.com tutorials	C	2138	8	2	8
+spa	joelkuiper/spa	17823567	[DEPRECATED] Mozilla PDF.js based viewer for multiclass machine learning tasks	null	23664	8	0	8
+MLND	machinelearningnanodegree/MLND	65970143	A Wiki containing helpful information for new and existing students of the Machine Learning Nanodegree at Udacity. Written by students of the Nanodegree.	null	0	8	2	8
+LibEDM	Qiangli-Zhao/LibEDM	15485293	It's a C++ library for ensemble based machine learning.	C++	2749	8	1	8
+tcp2d	leurfete/tcp2d	7530016	A utility to produce data sets for machine learning and statistical analysis from tcp streams.	C	2675	8	2	8
+AI-Learning-Decision-Trees	kbohinski/AI-Learning-Decision-Trees	35185275	We made machine learning decision trees for our final project (gitrecommender) for CSC 380 - ARTIFICIAL INTELLIGENCE @ TCNJ.	Java	157	8	1	8
+ios-KRFuzzyCMeans-Algorithm	Kalvar/ios-KRFuzzyCMeans-Algorithm	33498986	Fuzzy C-Means is clustering algorithm (クラスタリング分類) combined fuzzy theory (ファジー理論) on Machine Learning.	Objective-C	30	8	0	8
+FukuML-Tutorial	fukuball/FukuML-Tutorial	60508813	Tutorial of FukuML, Simple machine learning library / 簡單易用的機器學習套件 FukuML 教學手冊	Jupyter Notebook	43	8	1	8
+Firebase-Plays-GCP-2016	thesandlord/Firebase-Plays-GCP-2016	67377142	Crowdsourced, Real-time gaming with a sprinkle of Machine Learning and Big Data. Powered by Firebase and Google Cloud Platform.	JavaScript	1005	8	0	8
+Streaming-Data-Algorithms	markfuge/Streaming-Data-Algorithms	3599086	Implementations of the Count-Min (CM) Sketch, Insert-only CM sketch, and the SpaceSaving sketch as part of UC Berkeley's Scalable Machine Learning class	C++	144	8	1	8
+propagation	atiasnir/propagation	20878497	Belief propagation is a general graph algorithm for ranking nodes based on their location in the graph and some prior knowledge.   The network is using in machine learning and bioinformatics in a variety  of applications.	Python	188	8	1	8
+fullrmc	bachiraoun/fullrmc	30262465	It's a Reverse Monte Carlo (RMC) package, designed with Artificial intelligence and Reinforcement Machine Learning algorithms to solve atomic/molecular model structure by moving its atoms positions until they have the greatest consistency with a set of experimental data and definitions.	Python	12028	8	1	8
+simbad	jimmikaelkael/simbad	2214784	Simbad is a Java 3d robot simulator for scientific and educationnal purposes. It is mainly dedicated to researchers/programmers who want a simple basis for studying Situated Artificial Intelligence, Machine Learning, and more generally AI algorithms, in the context of Autonomous Robotics and Autonomous Agents. It is not intented to provide a real world simulation and is kept voluntarily readable and simple.  Simbad enables programmers to write their own robot controller, modify the environment and use the available sensors. Don't think of it as a finite product but merely as an opened framework to test your own ideas.	Java	234	8	2	8
+PracticalMachineLearning	benjamin-chan/PracticalMachineLearning	24853557	Coursera course: Practical Machine Learning	R	472142	7	47	7
+Practical-Machine-Learning	dzlab/Practical-Machine-Learning	20619604	Notes and code from Practical Machine Learning course slides	R	169	7	29	7
+machine_learning	knowledgehacker/machine_learning	7602346	Frequently used machine learning algorithms implemented in C++	C++	32243	7	11	7
+Machine-Learning	Blz-Galaxy/Machine-Learning	38710226	Study Machine Learning in the Coursera	Matlab	166343	7	7	7
+Learning-From-Data	MichaelDS/Learning-From-Data	25200498	Machine Learning	R	1068	7	12	7
+machine-learning-course	jneira/machine-learning-course	2557978	Notes and code of the course	Matlab	131976	7	8	7
+Machine-Learning-Tasks	EslaMx7/Machine-Learning-Tasks	28499689	Simple implementation of KNN Algorithm, COS Similarity, Logistic Regression in Python	Python	288	7	7	7
+Machine-learning-programming-exercises	MihaiDamian/Machine-learning-programming-exercises	3029343	My solutions to the programming exercises from Stanford's Machine Learning online course	Matlab	21898	7	16	7
+omscs-cs7641-machine-learning-assignment-4	juanjose49/omscs-cs7641-machine-learning-assignment-4	46534659	I am open sourcing the boiler plate code necessary for Assignment 4 so we can focus on the analysis instead.	Java	29641	7	34	7
+Machine-Learning	Xelio/Machine-Learning	13348074	Perceptron Learning Algorithm implemented in JavaScript, and a html page to visualize the Learning	Matlab	379	7	3	7
+Machine-Learning-with-Python	anindya-saha/Machine-Learning-with-Python	42915649	Machine Learning Implementations in Python	Jupyter Notebook	281735	7	12	7
+MachineLearning-UW	dnc1994/MachineLearning-UW	42929253	Machine Learning Specialization offered by UW	Jupyter Notebook	364893	7	10	7
+Udacity_Machine_Learning_Engineer	arvin-dwarka/Udacity_Machine_Learning_Engineer	46020587	Udacity Machine Learning Engineer Nanodegree	HTML	44738	7	11	7
+systemml	deroneriksson/systemml	41560361	IBM's SystemML Machine Learning 	Java	196712	7	122	7
+Python-Machine-Learning	MarioPerezEsteso/Python-Machine-Learning	37422294		HTML	9544	7	6	7
+bangpypers-intro-to-ml	raghothams/bangpypers-intro-to-ml	37052019	Introduction to Machine Learning	null	14871	7	14	7
+machinelearningclassification	cambridgecoding/machinelearningclassification	32641136	boilerplate code, scripts, modules, data for Introduction to Machine Learning with Python	Python	169	7	271	7
+machine-learning	thelema/machine-learning	1640537	cse847 class project	OCaml	156	7	0	7
+MortgageMachineLearning	philwinder/MortgageMachineLearning	43132849	Code for GoTo CPH 2015	Python	1560	7	2	7
+stat-machine-learning	PrototypeAlex/stat-machine-learning	2522874	Notes and Exercises from Massey's Statistical Machine Learning Course	Python	11165	7	2	7
+gatech_cs7646_machine_learning_for_trading_unit_tests	lauradhamilton/gatech_cs7646_machine_learning_for_trading_unit_tests	50260928	Creating a repository to share unit tests for GaTech's Machine Learning for Trading class, Spring 2016 term.	Python	30	7	10	7
+MachineLearningCases	zuojie/MachineLearningCases	13216903	This is machine learning cases implemented by zuojie	Python	42286	7	3	7
+pyVision	pi19404/pyVision	24859994	pyVision machine learning library	Python	72998	7	5	7
+machine-learning-survey	sotetsuk/machine-learning-survey	50042839	Machine learning surrvey in Japanese	null	7781	7	0	7
+awesome-machine-learning	RatulGhosh/awesome-machine-learning	61782248	:book: List of some awesome university courses for Machine Learning!  Feel free to contribute!	null	45	7	0	7
+OpenCV_KNN_Character_Recognition_Machine_Learning	MicrocontrollersAndMore/OpenCV_KNN_Character_Recognition_Machine_Learning	37508334		C++	686	7	6	7
+q-behave	smigielski/q-behave	19155016	Machine learning library for Arduino	C++	1220	7	6	7
+fantasy	ihaque/fantasy	11937445	Machine learning for fantasy football draft prediction	Python	195	7	5	7
+coursera-ml005-unittests	cod3monk3y/coursera-ml005-unittests	18226886	Formal unit tests for Coursera Machine Learning ml-005	Matlab	457	7	8	7
+text-classifier	danielwuz/text-classifier	6108402	naive bayes based text classifier, machine learning	Java	2149	7	7	7
+simple-neural-network	jedborovik/simple-neural-network	51499639	Helper code for ForwardJS Machine Learning workshop	JavaScript	14	7	3	7
+MLD	alistairwalsh/MLD	42342069	Machine Learning Lessons in OpenCV - development repo	Jupyter Notebook	25556	7	5	7
+bottle_scikit_learn_web_services	ilknuricke/bottle_scikit_learn_web_services	20331712	creating machine learning web services using scikit_learn	null	1588	7	5	7
+classias	chokkan/classias	1074771	Classias: a collection of machine-learning algorithms for classification	C++	665	7	5	7
+SpamClassifierOfficeHours	benjamincohen1/SpamClassifierOfficeHours	30366256	The code from my codementor office hours on an introduction to machine learning and natural language processing	Python	1803	7	11	7
+mustard	Data2Semantics/mustard	16310572	mustard - Machine learning Using Svms To Analyse Rdf Data	Java	3844	7	5	7
+text_errata	astroML/text_errata	15948865	A Catalog of errors and typos in the book "Statistics, Data Mining, and Machine Learning in Astronomy	null	82	7	11	7
+spaska	nikolavp/spaska	2857760	A machine learning system that competes with weka. It is an attempt to build a faster more stable and cleaner(as code) machine learning library for the scientists mass.	Java	2848	7	6	7
+suggestr	luciencd/suggestr	41877735	Machine learning app to suggest courses to people 	JavaScript	6776	7	2	7
+AzureML_Recommend_Sample	NT-D/AzureML_Recommend_Sample	35645685	Azure Machine Learning で作成した API を呼び出すサンプルWebページです	C#	18437	7	9	7
+pykernels	gmum/pykernels	38014365	Python library for working with kernel methods in machine learning	Python	121	7	3	7
+android-malware-analysis	mwleeds/android-malware-analysis	55439497	This project seeks to apply machine learning algorithms to android malware classification.	Python	9	7	4	7
+cousera-ml	elyase/cousera-ml	9712022	Python port of the Coursera-Stanford Machine Learning Matlab code	Python	140	7	2	7
+mandolin	project-mandolin/mandolin	45491730	Large-scale Machine Learning using Apache Spark	Scala	8424	7	2	7
+naive-bayes	timnugent/naive-bayes	16700173	Naïve Bayes classifier with gaussian, multinomial and bernoulli decision rules [machine learning][statistics]	C++	144	7	5	7
+BigData	zhangxiangxiao/BigData	8017505	Collalboration Hub for the NYU's Big Data: Large Scale Machine Learning course	Lua	469	7	6	7
+haskell-data-mining	roberth/haskell-data-mining	2827858	Data mining and machine learning framework for Haskell	Haskell	1607	7	2	7
+passion-project-slides	harthur/passion-project-slides	9107926	Slides for my Passion Projects talk on Machine Learning and JS	JavaScript	5171	7	2	7
+MLZ	mgckind/MLZ	18616581	Machine Learning for photo-Z	Python	11848	7	0	7
+opinion_miner_deluxe	cltl/opinion_miner_deluxe	15796295	Opinion miner based of Machine Learning that can be trained on a corpus of KAF/NAF files	Python	109	7	4	7
+scalding-ml	alaiacano/scalding-ml	16870023	Fun with machine learning in scalding.	Scala	280	7	0	7
+CPSC540machinelearning	diktat/CPSC540machinelearning	15426081	Solutions to the assignments of the CPSC 540 Machine Learning course (2013) taught by Nando de Freitas	Python	1340	7	5	7
+swiftlearner	valdanylchuk/swiftlearner	62509836	SwiftLearner: Scala machine learning library	Scala	11707	7	1	7
+Rap_Lyric_Generator	llSourcell/Rap_Lyric_Generator	64081769	Rap Lyric Generator Demo for Fresh Machine Learning #4	Python	13	7	3	7
+MLPlots.jl	JuliaML/MLPlots.jl	46578366	Plotting recipes for statistics and machine learning using Plots.jl	Julia	566	7	2	7
+reddit-identifier	interfect/reddit-identifier	7073292	Use machine learning to identify Reddit users by comment contents	Python	76780	7	2	7
+funq	psaris/funq	58210538	Source files for "Fun Q: A Functional Introduction to Machine Learning in Q"	null	55	7	3	7
+ensembler	ClimbsRocks/ensembler	43966460	Automatically ensembles the predictions from different machine learning classifiers	JavaScript	94	7	2	7
+nano	accosmin/nano	33659435	C++ library [machine learning & numerical optimization]	C++	7328	7	1	7
+hello_ml	rudrapoudel/hello_ml	30450241	Hello world examples of the Machine Learning algorithms.	Matlab	11279	7	2	7
+FYP	IsaacLewis/FYP	1722168	Machine Learning-based AI for Texas Holdem	Java	73788	7	2	7
+StatisticsLearningMethod	JueFan/StatisticsLearningMethod	21208202	根据李航的《统计学习方法》章节内容进行代码编写,听说一般人都是搜索Machine Learning的	Java	784	7	6	7
+tutorial-sklearn-lhcb	glouppe/tutorial-sklearn-lhcb	33745633	Tutorial "An introduction to Machine Learning with Scikit-Learn", presented at CERN	null	2732	7	3	7
+genre-wizard	acganesh/genre-wizard	27915998	A machine learning system to classify music genres from audio.	Python	236	7	1	7
+Clustering	ripples-alive/Clustering	22104249	(MACHINE LEARNING) A cpp program realize the algorithm "Clustering by fast search and find of density peaks" by "Alex Rodriguez and Alessandro Laio".	C++	7972	7	2	7
+ParkplaetzeDD	MechLabEngineering/ParkplaetzeDD	32216678	Analyse und Machine Learning mit offenen Parkplatzdaten aus Dresden	Python	111220	7	0	7
+docent-learner	ericwhyne/docent-learner	24263352	A web interface which statelessly and randomly traverses digital collections of images or text and asks users to answer questions or tag the content. This was built and designed for quickly creating domain specific training sets for machine learning tasks.	Python	1045	7	4	7
+viennaphp-predictionio	florianeckerstorfer/viennaphp-predictionio	23799687	Example of my presentation on Machine Learning with PredictionIO and PHP at ViennaPHP on 8 September 2014.	Shell	140	7	2	7
+viennaphp-predictionio	florianeckerstorfer/viennaphp-predictionio	23799687	Example of my presentation on Machine Learning with PredictionIO and PHP at ViennaPHP on 8 September 2014.	Shell	140	7	2	7
+shapeless-weka	vuspenskiy/shapeless-weka	32671057	Scala adapter for Weka machine learning library using shapeless	Scala	16	7	0	7
+ios-KRGreyTheory	Kalvar/ios-KRGreyTheory	42063049	A predication method on machine learning especially in big data analysis.	Objective-C	37	7	0	7
+collective.machinelearning	collective/collective.machinelearning	34808737	Machine learning for Plone: clustering and topic modeling using natural language processing.	Python	164	7	0	7
+Helpme.jl	snotskie/Helpme.jl	20946746	Provides the @helpme macro, a machine-learning based suggestion engine for your troubled code.	Julia	388	7	1	7
+PLoS-Article-Classification	akud/PLoS-Article-Classification	2162059	Final project for Stats 132 at UC Berkeley; use machine learning algorithms to classify PLoS articles into subjects (accessing them via the SOLR API)	Python	180	7	0	7
+fast-furious	gtesei/fast-furious	15699668	code (R, Matlab/Octave), models and meta-models I needed in my Machine Learning Lab but I didn't found on the shelf	R	156128	7	0	7
+yelpData	emoreno619/yelpData	40143893	This Node.js, Flask and PostgreSQL app models topics in Yelp reviews in order to succinctly display prominent topics for all reviews of a location. Users then better understand which features scores reflect. Scraped 1.1mil reviews in one day + 1.6mil from Yelp academic dataset. Data sci + machine learning + web application + D3 data viz. 	HTML	4333	7	2	7
+Sentiment-Analysis-On-Finance-Data	NanditaRao/Sentiment-Analysis-On-Finance-Data	11414686	The application is a cloud service that provides the functionality of performing sentiment analysis on stock market and financial data. The application can be hosted on Google App Engine and makes use of many of the GAE services like Search Service, MemCache, DataStore etc. Given the name of a company, data from various sources like Twitter, Facebook Graph, Google News, Google Finance etc is aggregated. For each source, different models have been pretrained using some prior data. Using different models provided us with a chance to utilize different Machine Learning methodologies based on the type of data from each source. The various techniques that we have built and tested on are :Naive Bayes, Multinomial and Bernoulli text representations, KNN.	Python	560	7	9	7
+Predict-click-through-rates-on-display-ads	ivanliu1989/Predict-click-through-rates-on-display-ads	23959175	Display advertising is a billion dollar effort and one of the central uses of machine learning on the Internet. However, its data and methods are usually kept under lock and key. In this research competition, CriteoLabs is sharing a week’s worth of data for you to develop models predicting ad click-through rate (CTR). Given a user and the page he is visiting, what is the probability that he will click on a given ad? The goal of this challenge is to benchmark the most accurate ML algorithms for CTR estimation. All winning models will be released under an open source license. As a participant, you are given a chance to access the traffic logs from Criteo that include various undisclosed features along with the click labels. 	Python	1713	7	5	7
+LinkedME-iOS-Deep-Linking-Demo	WFC-LinkedME/LinkedME-iOS-Deep-Linking-Demo	60168534	LinkedME是国内首家企业级深度链接服务平台，致力于帮助App提高用户增长和流量变现。LinkedME采用Deep Linking，Deferred Deep Linking，Contextual Deep Linking， Machine Learning等技术，为移动产品提供全新的商业价值。	Objective-C	55647	7	0	7
+MachineLearning	flashpixx/MachineLearning	8402441	C++ framework that implements machinelearning algorithms (clustering, dimension reducing, genetic algorithms)	C++	5864	6	14	6
+caret-machine-learning	tobigithub/caret-machine-learning	45488051	Practical examples for the R caret machine learning package	R	100	6	8	6
+machine-learning	hsperr/machine-learning	34109285	Functions and helpers for ML	Python	22	6	4	6
+machine_learning_techniques	hugobowne/machine_learning_techniques	19189024	In which I implement some applications of machine learning techniques.	Jupyter Notebook	8221	6	8	6
+MachineLearning	apurva-sharma/MachineLearning	951487		Python	136629	6	3	6
+Machine-Learning--Perceptron	ptg180/Machine-Learning--Perceptron	2600022	Perceptron Algorithm Implementation	Python	95	6	4	6
+Machine_Learning_Matlab	charlesxu90/Machine_Learning_Matlab	16878637	Matlab codes for Machine Learning algorithms. 	Matlab	5628	6	4	6
+machine-learning-introducao-a-classificacao	alura-cursos/machine-learning-introducao-a-classificacao	52265673		Python	1108	6	10	6
+Neural-Networks-for-Machine-Learning	caewok/Neural-Networks-for-Machine-Learning	7924640	null	R	4926	6	17	6
+multimedia-machine-learning-tutorials	scampion/multimedia-machine-learning-tutorials	1313200		Python	747	6	5	6
+Machine-Learning	sasikanthkumar/Machine-Learning	42121213		C++	8048	6	2	6
+Machine-Learning-6.867-homework	peteflorence/Machine-Learning-6.867-homework	42822929		Jupyter Notebook	56404	6	8	6
+machinelearningintro	cambridgecoding/machinelearningintro	44985568	boilerplate code, scripts, modules, data for Introduction to Machine Learning with Python	Jupyter Notebook	187	6	109	6
+Large-Scale-Machine-Learning-With-Python	PacktPublishing/Large-Scale-Machine-Learning-With-Python	64469080	Code repository for Large Scale Machine Learning with Python, published by Packt	Jupyter Notebook	2036	6	4	6
+machine-learning-playground	kennethlynne/machine-learning-playground	23702153	Playing around with data	null	378	6	2	6
+Machine-Learning-Stanford-University-Coursera	UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera	24337611	Contains the Course Material and Assignment Solutions for the Machine Learning Course at Stanford University on Coursera. 	Matlab	22764	6	4	6
+machine-learning-stanford	nastra/machine-learning-stanford	14845424	Stanford Machine Learning Class	Matlab	23088	6	2	6
+Machine_Learning_Immunogenicity	NCBI-Hackathons/Machine_Learning_Immunogenicity	64324319	This is a repo for the Machine Learning Immunogenicity Team in the August 2016 NCBI Hackathon	Jupyter Notebook	125093	6	2	6
+mallet	juanmirocks/mallet	2941597	My fork of MAchine Learning for LanguagE Toolkit	Java	35734	6	24	6
+NgMachineLearningInR	rklancer/NgMachineLearningInR	1530565	my R translation of exercises from Andrew Ng's online, Matlab-centric Machine Learning class	R	108	6	3	6
+python-online-machine-learning-library	kzky/python-online-machine-learning-library	19884511		Python	3892	6	2	6
+RustMachineLearning	MaikKlein/RustMachineLearning	11882870	test	Rust	148	6	0	6
+machine-learning-testbed	BarclayII/machine-learning-testbed	30336768	Various experiments of machine learning	Python	4852	6	0	6
+machine_learning_recipes	cassiobotaro/machine_learning_recipes	56456895	:space_invader: Code developed in video series "Machine Learning Recipes", eventually with some personal comments and annotations.	Jupyter Notebook	225	6	1	6
+ml2015	davidrosenberg/ml2015	29717365	Website for DS-GA 1003: Machine Learning and Computational Statistics	HTML	59149	6	14	6
+tilitools	nicococo/tilitools	11458906	[ti]ny [li]ttle [tools] - Machine Learning related	Python	646	6	6	6
+ml_for_hackers	marcgg/ml_for_hackers	4845662	Machine Learning for Hackers	R	112307	6	3	6
+mldata-utils	open-machine-learning/mldata-utils	2018216	Machine Learning Data Set Repository Utilities	Python	3329	6	6	6
+ml-algorithms-simple	satojkovic/ml-algorithms-simple	3835836	A collection of machine learning algorithms in python	Python	105	6	5	6
+IndiaHacksML	kartikmehta15/IndiaHacksML	50920220	Machine Learning Hackathon organized by Hackerearth	R	9	6	3	6
+introduction_to_ml_with_spark	phatak-dev/introduction_to_ml_with_spark	41728152	Code and setup information for Introduction to Machine Learning with Spark	Scala	107	6	7	6
+Fraud_Detector	kskk02/Fraud_Detector	21476617	Fraud Detection using ensemble of Statistical, Network analysis and Machine learning approach. 	CSS	5656	6	6	6
+Augmentor	mdbloice/Augmentor	52899913	Image augmentation library in Python for machine learning.	Python	99	6	3	6
+learners	roderyc/learners	1693064	Machine learning algorithms written in scheme	Scheme	98	6	1	6
+Q-Rad.io	Q-Radio/Q-Rad.io	30618300	Rapid music discovery engine powered by machine learning. 	JavaScript	11092	6	5	6
+pigml	hanborq/pigml	10679590	An Apache Pig based machine learning pack for bigdata	Java	232	6	6	6
+BIDMach_Viz	BIDData/BIDMach_Viz	43014430	Interactive Machine Learning and Vizualization Tools	JavaScript	244779	6	2	6
+ASRDemos	danijel3/ASRDemos	48580708	Collection of machine learning demos for Automatic Speech Recognition	Jupyter Notebook	24476	6	5	6
+stat_agg	kaneplusplus/stat_agg	9135547	statistical aggregates for machine learning in python	Python	956	6	4	6
+shakespeare	benjaminaschultz/shakespeare	17097770	Identify relevant scientific papers with simple machine learning techniques	Python	646	6	4	6
+ML-MOOC-NPTEL	Santara/ML-MOOC-NPTEL	59830704	This repository contains the Tutorials for the NPTEL MOOC on Machine Learning.	Jupyter Notebook	11846	6	3	6
+niML	esafak/niML	22093436	Machine learning in nim	Nimrod	484	6	0	6
+Datasets	timmolter/Datasets	16538895	Datasets is a Java library for conveniently working with machine learning datasets. 	Java	78848	6	5	6
+AzureML-R-Serialization	Quantia-Analytics/AzureML-R-Serialization	27043786	A tutorial with example code on serializing R objects in the Microsoft Azure Machine Learning Environment	R	168	6	7	6
+DecisionTree	mostafacs/DecisionTree	29215758	Java Implementation  for Multi-Class Decision Tree Machine Learning Algorithm training with large files	Java	270	6	5	6
+practice	Ma-sa-ue/practice	54890126	programs about machine learning 	Jupyter Notebook	710119	6	0	6
+ml-scala	netzwerg/ml-scala	6905220	Scala machine learning explorations	Scala	5732	6	0	6
+kernlab	cran/kernlab	17696892	:exclamation: This is a read-only mirror of the CRAN R package repository.  kernlab — Kernel-Based Machine Learning Lab  	R	9120	6	12	6
+JuliaML	serhanaya/JuliaML	43344709	Machine Learning Algorithms (Julia)	Julia	40	6	0	6
+Boosting	jardon-u/Boosting	3009068	Generic C++ Machine Learning Library	C++	193	6	0	6
+PRML	wjgaas/PRML	30007150	pattern recognition and machine learning	null	342	6	0	6
+ios-ML-Recommendation-System	Kalvar/ios-ML-Recommendation-System	41596782	Implemented Machine Learning on a Recommendation System demo sample.	Objective-C	81	6	2	6
+mli	vadixidav/mli	44192876	Machine Learning Interface for Rust	Rust	33	6	0	6
+genetic-algorithms	mdgart/genetic-algorithms	9551164	Python port of "Machine Learning: Introduction to Genetic Algorithms"	Python	135	6	3	6
+scikit-learn-meetup	djsensei/scikit-learn-meetup	61246678	A dataset and notebook for demonstrating the power and simplicity of using scikit-learn for machine learning.	Jupyter Notebook	352	6	7	6
+gesture-recognition-for-human-robot-interaction	AravinthPanch/gesture-recognition-for-human-robot-interaction	27762252	Gesture Recognition For Human-Robot Interaction with modelling, training, analysing and recognising gestures based on computer vision and machine learning techniques.  #Human-Robot Interaction #HRI #Hand Gesture Recognition #Humanoid Robot #NAO #Skeletal Points Tracking #NiTE #Depth Camera #Asus Xtion Pro Live #Machine Learning #Adaptive Naive Bayes Classifier #ANBC #Gesture Recognition Toolkit #GRT	C++	514880	6	10	6
+naive-bayes-author-email	brainattica/naive-bayes-author-email	45348604	Machine Learning for Author of an email	Python	3988	6	0	6
+mlclass	fmarani/mlclass	2816498	Exercises from the Stanford machine learning class.	Matlab	29240	6	1	6
+gpu-workshop-2016	berkeley-scf/gpu-workshop-2016	50209376	Materials for workshop on GPU computation for statistics, data science, machine learning applications. 	HTML	4571	6	2	6
+ml-sims	ProfessorBrunner/ml-sims	30669755	Machine Learning applied to Cosmological Simulations	TeX	308948	6	2	6
+mlworkshop	morrislab/mlworkshop	58756613	Machine learning workshop presented at GLBIO 2016	Jupyter Notebook	25482	6	1	6
+auto_ml	ClimbsRocks/auto_ml	65155092	Automated machine learning for analytics & production	Python	273	6	1	6
+percipio	curiousily/percipio	30308005	Easy Data science (Machine learning) in JavaScript & Node (Multi-armed bandits, Naive Bayes)	JavaScript	220	6	2	6
+ml-examples	milosgajdos83/ml-examples	49219172	Simple Machine Learning examples implemented in different languages	R	18806	6	0	6
+ZICA_ML	lucattelli/ZICA_ML	27598785	Z Instant Comprehensive ABAP - Machine Learning Library	ABAP	11900	6	0	6
+awesome-ML	shashankg7/awesome-ML	58185890	Curated list of Machine Learning/Data Science resources	null	1	6	1	6
+DataScience-Examples	pavank/DataScience-Examples	34064030	Practical Implementation of Machine Learning Algorithms on Open Datasets in R and Python	HTML	5654	6	2	6
+Hearthstone-AI	sihrc/Hearthstone-AI	17619022	Machine Learning Driven Hearthstone AI written in Python	Python	287	6	1	6
+coursera-ml-julia	homuler/coursera-ml-julia	47056116	Coursera Stanford Machine Learning course in Julia	Julia	19461	6	1	6
+percept	VikParuchuri/percept	10512027	A modular machine learning framework that is easy to test and deploy.	Python	1116	6	0	6
+activator-breeze-streams	eigengo/activator-breeze-streams	19242617	Activator showing machine learning with Akka Streams and Breeze	Scala	31028	6	0	6
+active-citizen	rbjarnason/active-citizen	52751998	Active Citizen is an open source library, API and UI for activity streams and notifications using machine learning to recommend content to users.	JavaScript	4423	6	3	6
+mlcollection	posborne/mlcollection	560253	A collection (library) of machine learning algorithms and utilities	Python	3012	6	0	6
+PowerShellAylien	dfinke/PowerShellAylien	25366201	PowerShell Module to interact with AYLIEN Text Analysis API - a package consisting of eight different Natural Language Processing, Information Retrieval and Machine Learning APIs that can be adapted to your processes and applications with relative ease	PowerShell	440	6	7	6
+BlackBoxAuditing	algofairness/BlackBoxAuditing	48198920	Research code for auditing and exploring black box machine-learning models.	Python	29746	6	1	6
+spotifav	sdimi/spotifav	65100188	Map out your musical taste on Spotify with stats and machine learning	Jupyter Notebook	4878	6	1	6
+ml-vm-notebook	paulovn/ml-vm-notebook	43304375	Machine Learning Virtual Machine (provisioned with Vagrant) for building Spark Notebook applications	Jupyter Notebook	770	6	2	6
+mlpack-ios	Headtalk/mlpack-ios	18933438	Adopts mlpack machine learning as a project linkable in obj-c	C++	39508	6	1	6
+clj-example-nlp-ml	plandes/clj-example-nlp-ml	64150438	Example Project for Natural Language Processing and Machine Learning Libraries	Clojure	81	6	0	6
+DBScan	jessykate/DBScan	287740	Algorithms and other machine learning or data mining code	Python	71	6	1	6
+LAML	MingjieQian/LAML	47412987	Stand-alone pure Java library for linear algebra and machine learning	Java	6504	6	1	6
+rudra	Rudra-org/rudra	54786411	Distributed framework for large-scale machine learning with deep neural networks	X10	117	6	0	6
+BRML.jl	taheris/BRML.jl	12544384	Julia translation for David Barber's Bayesian Reasoning and Machine Learning MATLAB toolbox	Matlab	418	6	1	6
+yaqp	KinkyDesign/yaqp	305169	YAQP stands for "Yet Another Qsar Project". It is a RESTful web service which can be used to train machine learning models and use them to obtain toxicological predictions for given chemical compounds. The project is written in Java.	Java	23701	6	3	6
+FastForest	wangyi-fudan/FastForest	62428369	very fast machine learning with high accuracy based on oblique extreme random forest	null	1083	6	1	6
+newspaper_elixir_phoenix_elm	archdragon/newspaper_elixir_phoenix_elm	57594323	Use Machine Learning to generate a fake newspaper. Experiment with Elixir, Phoenix and Elm.	Elm	953	6	0	6
+mltools	DigitalGlobe/mltools	60995368	A collection of Machine Learning Tools for object detection and classification on DG imagery.	Python	27249	6	1	6
+draperbot	orderedanalog/draperbot	38206924	A collection of machine learning, artificial intelligence solutions for understanding the significance of marketing messaging to global consumers.	JavaScript	16255	6	1	6
+openmir	openmir/openmir	14532853	A website to allow researchers to listen to, view, annotate and perform audio feature extraction and machine learning on large bioacoustic archives.	JavaScript	59681	6	1	6

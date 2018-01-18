@@ -1,0 +1,1003 @@
+name	full_name	id	description	language	size	watchers	forks	stargazers_count
+echarts	ecomfe/echarts	9185792	A powerful, interactive charting and visualization library for browser	JavaScript	113058	13674	4859	13674
+PokemonGo-Map	AHAAAAAAA/PokemonGo-Map	63488276	🌏 Live visualization of all the pokemon in your area... and more! (shutdown)	null	129379	9267	4046	9267
+AlgorithmVisualizer	parkjs814/AlgorithmVisualizer	58836534	Algorithm Visualizer	JavaScript	17498	8452	1095	8452
+luigi	spotify/luigi	5888353	Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. 	Python	11007	5316	1008	5316
+fnordmetric	paulasmuth/fnordmetric	2400938	FnordMetric allows you collect and visualize timeseries data with SQL.	C++	18813	4868	405	4868
+pattern	clips/pattern	1696822	Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.	Python	46447	4752	862	4752
+epoch	epochjs/epoch	11010098	A general purpose, real-time visualization library.	HTML	2131	4624	263	4624
+learnGitBranching	pcottle/learnGitBranching	5405654	An interactive git visualization to challenge and educate!	JavaScript	47549	4571	1434	4571
+cubism	square/cubism	3859306	Cubism.js: A JavaScript library for time series visualization.	JavaScript	1811	4381	515	4381
+vega	vega/vega	7994556	A visualization grammar.	JavaScript	36845	4342	449	4342
+vis	almende/vis	9467421	Dynamic, browser-based visualization library	JavaScript	134499	4162	684	4162
+cube	square/cube	2374578	Cube: A system for time series visualization.	JavaScript	2188	3785	441	3785
+plato	es-analysis/plato	7403331	JavaScript source code visualization, static analysis, and complexity tool	JavaScript	9948	3682	237	3682
+EZAudio	syedhali/EZAudio	14812903	An iOS and OSX audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.	Objective-C	9941	3526	591	3526
+seaborn	mwaskom/seaborn	4704710	Statistical data visualization using matplotlib	Python	71543	3253	487	3253
+Gource	acaudwell/Gource	303762	software version control visualization	C++	3871	3231	311	3231
+FlameGraph	brendangregg/FlameGraph	2992074	stack trace visualizer	HTML	1254	2855	294	2855
+tota11y	Khan/tota11y	35451268	an accessibility (a11y) visualization toolkit	JavaScript	2369	2752	114	2752
+regulex	JexCheng/regulex	19441793	JavaScript Regular Expression Parser & Visualizer.	JavaScript	292	2685	304	2685
+MRProgress	mrackwitz/MRProgress	13838338	Collection of iOS drop-in components to visualize progress	Objective-C	4652	2413	293	2413
+PokemonGo-Map	PokemonGoMap/PokemonGo-Map	64970925	🌏 Live visualization of all the pokemon in your area... and more!	Python	32129	2347	1259	2347
+arbor	samizdatco/arbor	1246599	a graph visualization library using web workers and jQuery	JavaScript	1221	2281	579	2281
+RedisLive	nkrode/RedisLive	4603467	Visualize your redis instances, analyze query patterns and spikes. 	JavaScript	3340	2279	431	2279
+vizicities	UDST/vizicities	14155824	A framework for 3D geospatial visualization in the browser	JavaScript	13980	2258	244	2258
+redash	getredash/redash	13926404	Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.	Python	9131	2197	415	2197
+dancer.js	jsantell/dancer.js	3818593	high-level audio API, designed to make sweet visualizations	JavaScript	31201	2044	215	2044
+sheetsee.js	jlord/sheetsee.js	5373673	:eyes: :chart_with_upwards_trend: Visualize Data from a Google Spreadsheet	JavaScript	7719	2000	422	2000
+dygraphs	danvk/dygraphs	383715	Interactive visualizations of time series using JavaScript and the HTML canvas tag	JavaScript	21775	1972	436	1972
+earth	cambecc/earth	14106955	a project to visualize global weather conditions	JavaScript	53746	1971	382	1971
+datamaps	markmarkoh/datamaps	6631214	Customizable SVG map visualizations for the web in a single Javascript file using D3.js	JavaScript	74171	1946	501	1946
+regexper	javallone/regexper	7400568	Regular Expression Visualization Site	JavaScript	1627	1812	225	1812
+processing-js	jeresig/processing-js	16287	A port of the Processing visualization language to JavaScript.	Java	41895	1773	677	1773
+victory	FormidableLabs/victory	38460192	A collection of composable React components for building interactive data visualizations	JavaScript	16798	1761	63	1761
+pfff	facebook/pfff	932626	Tools for code analysis, visualizations, or style-preserving source transformation.	OCaml	39120	1752	149	1752
+Core-Data-Editor	ChristianKienle/Core-Data-Editor	22434128	Core Data Editor lets you easily view, edit and analyze applications‘ data. Core Data Editor is compatible with Mac and iOS applications and supports XML, SQLite and binary stores, visualizes all relationships and is able to edit the data and generate Objective-C code for the data model.	Objective-C	12957	1746	170	1746
+react-monocle	team-gryff/react-monocle	61919271	A developer tool to visualize a React application's component hierarchy.	JavaScript	6327	1729	48	1729
+cssstats	cssstats/cssstats	13982751	Webapp to visualize various stats about your css	HTML	3671	1639	150	1639
+webgl-globe	dataarts/webgl-globe	1637930	WebGL Globe is a platform for visualizing latitude longitude based information using WebGL.	JavaScript	42117	1606	689	1606
+nanovg	memononen/nanovg	14325757	Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations.	C	4010	1553	242	1553
+envisionjs	HumbleSoftware/envisionjs	850139	Dynamic HTML5 visualization	JavaScript	8024	1529	249	1529
+cal-heatmap	wa0x6e/cal-heatmap	8262284	Cal-Heatmap is a javascript module to create calendar heatmap to visualize time series data	JavaScript	2798	1455	185	1455
+keycastr	keycastr/keycastr	132914	KeyCastr, an open-source keystroke visualizer	Objective-C	5222	1437	126	1437
+OnlinePythonTutor	pgbovine/OnlinePythonTutor	2001372	Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser	JavaScript	60203	1388	371	1388
+jit	philogb/jit	212873	The JavaScript InfoVis Toolkit provides tools for creating Interactive Data Visualizations for the Web	JavaScript	9081	1336	291	1336
+d3-shape	d3/d3-shape	38640773	Graphical primitives for visualization, such as lines and areas.	JavaScript	1769	1270	57	1270
+cartodb	CartoDB/cartodb	4909355	Location Intelligence & Data Visualization tool	HTML	400368	1259	323	1259
+LayerVisualizer	romannurik/LayerVisualizer	42091415	A simple web-based 3D layer visualizer (useful for visualizing material UIs and other things involving depth/shadows)	HTML	4309	1242	81	1242
+d3-book	alignedleft/d3-book	6410597	Sample code files to accompany the book “Interactive Data Visualization for the Web”	HTML	348	1178	1153	1178
+d3plus	alexandersimoes/d3plus	7512098	A javascript library that extends D3.js to enable fast and beautiful visualizations.	JavaScript	45486	1167	147	1167
+ambrose	twitter/ambrose	4138309	A platform for visualization and real-time monitoring of data workflows	Java	14115	1132	202	1132
+Smallest-Federated-Wiki	WardCunningham/Smallest-Federated-Wiki	1953890	This wiki innovates by: 1. federated sharing, 2. drag refactoring and 3. data visualization.	JavaScript	9489	1110	180	1110
+exhibitor	Netflix/exhibitor	3181606	ZooKeeper co-process for instance monitoring, backup/recovery, cleanup and visualization.	Java	3035	1067	306	1067
+docker-swarm-visualizer	ManoMarks/docker-swarm-visualizer	61750042	A visualizer for Docker Swarm using the Docker Remote API, Node.JS, and D3	JavaScript	1774	1055	76	1055
+iTorch	facebook/iTorch	29255114	IPython kernel for Torch with visualization and plotting	Jupyter Notebook	6611	936	131	936
+explain-git-with-d3	onlywei/explain-git-with-d3	8973185	Use D3 to visualize simple git branching operations.	JavaScript	164	924	172	924
+promisees	bevacqua/promisees	42607033	:incoming_envelope: Promise visualization playground for the adventurous	JavaScript	9392	907	38	907
+tdb	ericjang/tdb	47898542	Interactive, node-by-node debugging and visualization for TensorFlow	JavaScript	161	898	75	898
+Ushahidi_Web	ushahidi/Ushahidi_Web	198798	Ushahidi v2. A platform that allows information collection, visualization and interactive mapping, allowing anyone to submit information through text messaging using a mobile phone, email or web form.	PHP	25286	871	644	871
+facette	facette/facette	2155566	Time series data visualization and graphing software	Go	10550	869	59	869
+team_dashboard	fdietz/team_dashboard	3619632	Visualize your team's metrics all in one place.	Ruby	4052	869	153	869
+deep-visualization-toolbox	yosinski/deep-visualization-toolbox	34583952	DeepVis Toolbox	Python	1607	850	232	850
+githut	littleark/githut	23108912	Visualization of data from github archive.	JavaScript	9516	843	76	843
+pev	AlexTatiyants/pev	48967547	Postgres Explain Visualizer	CSS	2905	834	32	834
+COSTouchVisualizer	conopsys/COSTouchVisualizer	18017290	Visualize touches, gestures and long presses on your iPhone or iPad	Objective-C	2733	830	56	830
+BirdWatch	matthiasn/BirdWatch	9323489	Tweet stream analysis and visualization with real-time updates.	HTML	19289	799	146	799
+datawrapper	datawrapper/datawrapper	4922017	An open source data visualization platform helping everyone to create simple, correct and embeddable charts in minutes.	PHP	21832	785	196	785
+altair	ellisonbg/altair	42757577	Declarative statistical visualization library for Python	Jupyter Notebook	11069	769	48	769
+mapv	huiyan-fe/mapv	38416811	a library of geography visualization-地理信息可视化库	JavaScript	74192	751	286	751
+regexper-static	javallone/regexper-static	28521302	Regular Expression Visualization Site (static site version)	JavaScript	654	748	127	748
+graphviz	ellson/graphviz	13154096	Graph Visualization Tools	C	164452	711	198	711
+d3.compose	CSNW/d3.compose	17517291	Compose complex, data-driven visualizations from reusable charts and components with d3	JavaScript	4818	707	22	707
+mtools	rueckstiess/mtools	5806020	A collection of scripts to set up MongoDB test environments and parse and visualize MongoDB log files.	HTML	11043	698	154	698
+philogl	senchalabs/philogl	1383787	A WebGL Framework for Data Visualization, Creative Coding and Game Development	JavaScript	121568	685	133	685
+Neural-Network	nxxcxx/Neural-Network	21391692	Abstract visualization of biological neural network	JavaScript	2145	678	97	678
+react-render-visualizer	redsunsoft/react-render-visualizer	31086501	Render visualizer for ReactJS	JavaScript	10	668	15	668
+lightning	lightning-viz/lightning	22023776	Data Visualization Server	JavaScript	21510	643	74	643
+c2	lynaghk/c2	3310274	Declarative data visualization in Clojure(Script).	JavaScript	358	627	52	627
+awesome-audio-visualization	willianjusten/awesome-audio-visualization	54681855	A curated list about Audio Visualization.	Ruby	740	623	45	623
+explorer	keen/explorer	37276906	Keen IO Data Explorer - a point-and-click analytics and visualization tool	JavaScript	85045	619	51	619
+lyra	vega/lyra	6179334	An interactive, graphical Visualization Design Environment (VDE)	JavaScript	10005	617	110	617
+EventDrops	marmelab/EventDrops	24091171	A time based / event series interactive visualization using d3.js	JavaScript	2701	614	111	614
+awesome-dataviz	fasouto/awesome-dataviz	39454666	:chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.	null	69	611	79	611
+gotrace	divan/gotrace	53668532	Concurrency tracer and visualizer for Go (Golang) programming language	JavaScript	2307	604	28	604
+JSCity	aserg-ufmg/JSCity	37922354	Visualizing JavaScript source code as navigable 3D cities	JavaScript	7214	603	31	603
+Chroma-Hash	mattt/Chroma-Hash	263030	A sexy, secure live visualization of password field input	JavaScript	332	596	42	596
+orchestrator	outbrain/orchestrator	19106945	MySQL replication topology manager/visualizer	Go	5501	589	120	589
+protovis	mbostock/protovis	579777	A visualization toolkit for JavaScript using SVG.	JavaScript	19289	582	108	582
+objc-dependency-visualizer	PaulTaykalo/objc-dependency-visualizer	11394510	Objective-C and Swift dependency visualizer. It's tool that helps to visualize current state of your project. It's really easy to see how tight your classes are coupled. 	JavaScript	1566	581	33	581
+gltail	Fudge/gltail	33714	Real-time visualization of server traffic, events and statistics with Ruby, SSH and OpenGL	Ruby	677	576	98	576
+lightbeam	mozilla/lightbeam	1989551	An add-on and web app for visualizing HTTP requests between websites in real time.	JavaScript	25661	575	151	575
+dockviz	justone/dockviz	18998308	Visualizing docker data	Go	337	559	53	559
+algovis	enjalot/algovis	23984871	collection of projects and links about algorithm visualization	null	909	558	46	558
+undotree	mbbill/undotree	5462888	The ultimate undo history visualizer for VIM	VimL	221	549	36	549
+harviewer	janodvarko/harviewer	3570959	HAR Viewer is a web application that allows visualizing  HTTP Archive logs (HARs)	JavaScript	65000	549	104	549
+chap-links-library	almende/chap-links-library	4190517	a web based visualization library for displaying graphs, networks, and timelines	JavaScript	41807	545	174	545
+greuler	maurizzzio/greuler	39165090	graph theory visualizations	JavaScript	3336	542	18	542
+android-visualizer	felixpalmer/android-visualizer	2901410	Takes the input from the Android MediaPlayer and displays visualizations, like in iTunes or WinAmp	Java	26503	537	255	537
+euphony	qiao/euphony	4334373	MIDI visualizer in WebGL	JavaScript	16793	528	75	528
+PojoViz	maurizzzio/PojoViz	22848686	Visualize the object structure of many JavaScript libraries & frameworks	JavaScript	12506	526	19	526
+echarts-x	ecomfe/echarts-x	30224827	Extension pack of ECharts providing globe visualization	JavaScript	8513	524	200	524
+transitive.js	conveyal/transitive.js	13044127	Transit data visualization	JavaScript	10842	509	40	509
+visualixir	koudelka/visualixir	45759977	A process/message visualizer for BEAM nodes.	CSS	27048	505	15	505
+linkurious.js	Linkurious/linkurious.js	20803071	A Javascript toolkit to speed up the development of graph visualization and interaction applications.	JavaScript	11728	497	131	497
+pm	anvaka/pm	35466866	package managers visualization	JavaScript	12873	478	37	478
+party-mode	preziotte/party-mode	23087643	An experimental music visualizer using d3.js and the web audio api.	JavaScript	208406	477	66	477
+Dex	PatMartin/Dex	54937496	Dex : The data explorer.  A data visualization tool written in java/javafx capable of powerful ETL and publishing D3 and other HTML visualizations.	JavaScript	113437	470	96	470
+VTK	Kitware/VTK	631615	Visualization Toolkit	C++	182181	464	347	464
+dangle	fullscale/dangle	8414241	A set of AngularJS directives that provide common D3 visualizations for elasticsearch	JavaScript	315	450	55	450
+graph-composer	clue/graph-composer	10075815	Dependency graph visualization for composer.json (PHP + Composer)	PHP	51	447	28	447
+mbtaviz.github.io	mbtaviz/mbtaviz.github.io	18912241	Visualizing MBTA Data	JavaScript	45316	445	90	445
+cscore	filoe/cscore	36457857	An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited. 	C#	98102	434	92	434
+Prefuse	prefuse/Prefuse	2838470	Prefuse is a set of software tools for creating rich interactive data visualizations in the Java programming language. Prefuse supports a rich set of features for data modeling, visualization, and interaction. It provides optimized data structures for tables, graphs, and trees, a host of layout and visual encoding techniques, and support for animation, dynamic queries, integrated search, and database connectivity. 	Java	5061	421	165	421
+TouchVisualizer	morizotter/TouchVisualizer	29810298	Lightweight touch visualization library in Swift. A single line of code and visualize your touches!	Swift	65261	419	30	419
+google_visualr	winston/google_visualr	601109	A Ruby Gem for the Google Visualization API. Write Ruby code. Generate Javascript. Display a Google Chart.	Ruby	781	413	86	413
+ulogme	karpathy/ulogme	19722827	Automatically collect and visualize usage statistics in Ubuntu/OSX environments.	Python	11763	413	105	413
+Tilt	victorporof/Tilt	1800242	Tilt: a WebGL-based 3D visualization of a Webpage	JavaScript	52225	411	32	411
+PTShowcaseViewController	exalted/PTShowcaseViewController	3570375	An initial implementation of a "showcase" view( controller) for iOS apps... Visualizes images, videos and PDF files beautifully! (by @pittleorg) [meta: image, photo, video, document, pdf, album, gallery, showcase, gallery, iOS, iPhone, iPad, component, library, viewer]	Objective-C	24248	400	86	400
+leaflet-dvf	humangeo/leaflet-dvf	8144488	Leaflet Data Visualization Framework	JavaScript	28037	398	83	398
+the-graph	the-grid/the-graph	13345709	SVG custom elements for FBP graph editing and visualization. Used in noflo/noflo-ui	JavaScript	4778	391	83	391
+d3-cookbook	NickQiZhu/d3-cookbook	8688833	Source code for "Data Visualization with D3 Cookbook"	JavaScript	982	389	587	389
+geoplotlib	andrea-cuttone/geoplotlib	31260633	python toolbox for visualizing geographical data and making maps	Python	26220	388	32	388
+ThreeAudio.js	unconed/ThreeAudio.js	5002669	ThreeAudio helps you create music visualizations in Three.js or tQuery. 	JavaScript	1160	383	47	383
+FSInteractiveMap	ArthurGuibert/FSInteractiveMap	28568806	A charting library to visualize and interact with a vector map on iOS. It's like Geochart but for iOS!	Objective-C	733	383	53	383
+SeeGit	Haacked/SeeGit	3622414	SeeGit - The Git Repository Visualizer	C#	18955	381	89	381
+TimeFlow	FlowingMedia/TimeFlow	798870	Timeline visualization application	Java	5739	379	65	379
+space-radar	zz85/space-radar	44453199	Disk Space Visualization App built with Electron & d3.js	JavaScript	353	377	19	377
+Blend4Web	TriumphLLC/Blend4Web	18142614	Blend4Web is a tool for interactive 3D visualization on the Internet	HTML	3009181	375	86	375
+Lipstick	Netflix/Lipstick	10202995	Pig Visualization framework	JavaScript	5700	374	113	374
+dependo	auchenberg/dependo	8588623	Visualize your CommonJS or AMD module dependencies in a force directed graph report.	HTML	139	374	42	374
+goviz	hirokidaichi/goviz	18598398	a visualization tool for golang project dependency	Go	8059	373	22	373
+JSModeler	kovacsv/JSModeler	5862152	A JavaScript framework to create and visualize 3D models.	JavaScript	15763	370	54	370
+voice-recording-visualizer	tyorikan/voice-recording-visualizer	37455705	Simple Visualizer from mic input for Android.	Java	298	367	57	367
+CodeFlower	fzaninotto/CodeFlower	8552495	Source code visualization utility written in JavaScript with d3.js. Does your code look beautiful?	JavaScript	1059	366	218	366
+NodeFlow	Telenav/NodeFlow	52271014	NodeFlow is a library that makes visualizing hierarchical content easier.	Java	1296	364	41	364
+cpp-to-assembly	ynh/cpp-to-assembly	5918135	C/C++ to assembly visualizer	CoffeeScript	140	352	45	352
+plot	gonum/plot	11601889	A repository for plotting and visualizing data	Go	5578	348	42	348
+represent-map	abenzer/represent-map	4582627	Visualize your startup community on a custom Google map. Based on the code for http://represent.la	PHP	3964	348	194	348
+ClickEffects	codrops/ClickEffects	30648003	A set of subtle effects for click or touch interactions inspired by the visualization of screen taps in mobile app showcases. The effects are done with CSS animations mostly on pseudo-elements.	CSS	568	347	56	347
+superconductor	Superconductor/superconductor	10067521	Big data visualization on the web	JavaScript	31282	346	29	346
+MusicPlayerViewController	BeamApp/MusicPlayerViewController	4492414	An iPhone view controller to visualize and control music playback	Objective-C	2485	344	79	344
+cava	karlstav/cava	17808949	Console-based Audio Visualizer for Alsa	C	762	340	30	340
+viz	donnemartin/viz	48873013	Interactive visualizations and stats of GitHub's newest, most popular repos.  http://www.donnemartin.com/viz	Python	35403	340	25	340
+HTML5_Audio_Visualizer	wayou/HTML5_Audio_Visualizer	16841602	An audio spectrum visualizer built with HTML5 Audio API	HTML	431	337	115	337
+metrilyx-2.0	Ticketmaster/metrilyx-2.0	16997146	High performance visualization and analytics system to OpenTSDB	JavaScript	10085	336	64	336
+visulator	thlorenz/visulator	34630333	A machine emulator that visualizes how each instruction is processed	JavaScript	1840	336	24	336
+github_globe	aaasen/github_globe	9925668	A visualization of GitHub users throughout the globe	JavaScript	1397	332	44	332
+scapy	phaethon/scapy	30015633	Network packet and pcap file crafting/sniffing/manipulation/visualization security tool (based on scapy) with python3 compatibility	Python	2299	330	81	330
+pyLDAvis	bmabey/pyLDAvis	33696562	Python library for interactive topic model visualization. Port of the R LDAvis package.	Jupyter Notebook	3846	329	79	329
+CATransform3D-Test	honcheng/CATransform3D-Test	8063466	A test app to visualize view transformation when value in CATransform3D matrices change	Objective-C	209	328	34	328
+doubanj	ktmud/doubanj	8271922	Visualization of your reading history.	JavaScript	1919	324	72	324
+Weave	WeaveTeam/Weave	1671811	Weave (Web-based Analysis and Visualization Environment)	ActionScript	608101	324	60	324
+django-rest-pandas	wq/django-rest-pandas	15720872	Serves up your Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)	Python	155	323	26	323
+Hawk	ferventdesert/Hawk	55284016	visualized crawler & ETL IDE written with C#/WPF	C#	9736	320	184	320
+GraphvizAnim	mapio/GraphvizAnim	50784834	A tool to create animated graph visualizations, based on graphviz. 	Python	757	319	18	319
+rhizome	ztellman/rhizome	9845520	simple graph and tree visualization	Clojure	258	317	16	317
+missingno	ResidentMario/missingno	54834492	Missing data visualization module for Python.	Python	6229	317	13	317
+netgrafio	dorneanu/netgrafio	19141566	netgrafio - Visualize your network	JavaScript	1447	315	13	315
+soundcloud-visualizer	michaelbromley/soundcloud-visualizer	15492137	Audio visualization with web audio API, canvas & the SoundCloud API	HTML	1226	314	91	314
+ruby-heap-viz	mattbaker/ruby-heap-viz	21909455	An interactive Ruby Heap Visualization	JavaScript	2799	308	13	308
+pastalog	rewonc/pastalog	55171747	Simple, realtime visualization of neural network training performance.	JavaScript	11530	304	28	304
+object_playground	jamesshore/object_playground	9805943	A tool for visualizing and experimenting with JavaScript object relationships.	JavaScript	16656	303	84	303
+rcloud	att/rcloud	5250457	Collaborative data analysis and visualization	JavaScript	74149	301	104	301
+procedural_city_generation	josauder/procedural_city_generation	39394658	Procedural City Generation program implemented in Python and Visualized with Blender.	Python	82803	300	30	300
+OpenRelativity	MITGameLab/OpenRelativity	7274741	An open source framework to add the effects of traveling at relativistic speeds to visualizations or games	C#	19731	299	48	299
+lumify	lumifyio/lumify	14567924	open source big data integration, analytics, and visualization	Java	100838	295	165	295
+Flare	prefuse/Flare	817685	Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques. 	ActionScript	1852	295	67	295
+rxvision	jaredly/rxvision	31679286	visualizer debugger for reactive streams	JavaScript	3045	294	16	294
+LSTMVis	HendrikStrobelt/LSTMVis	60346253	Visualization Toolbox for Long Short Term Memory networks (LSTMs)	Jupyter Notebook	4704	293	63	293
+redux-store-visualizer	romseguy/redux-store-visualizer	42432781	Visualize Redux store in real time	JavaScript	2157	293	5	293
+holoviews	ioam/holoviews	19542768	Stop plotting your data - annotate your data and let it visualize itself	Python	9871	288	38	288
+code_swarm	rictic/code_swarm	37399	A (fork of a) slick visualization for your source code	Java	37650	287	49	287
+node-stackvis	joyent/node-stackvis	3911233	Stacktrace visualization tools	JavaScript	405	282	20	282
+django-categories	callowayproject/django-categories	301567	This app attempts to provide a generic category system that multiple apps could use. It uses MPTT for the tree storage and provides a custom admin for better visualization (copied and modified from feinCMS).	Python	1307	282	112	282
+flyboard	yuantiku/flyboard	21120671	A simple, flexible, friendly data visualization system.	HTML	5174	277	79	277
+ByakuGallery	diegocarloslima/ByakuGallery	15169312	An open source Android library that allows the visualization of large images with gesture capabilities	Java	31086	276	86	276
+observer_cli	zhongwencool/observer_cli	45471988	Visualize Erlang Nodes On The Command Line	Erlang	1838	275	21	275
+taxitracker	chriswhong/taxitracker	21329738	Repo for NYC Taxis: A Day in the Life, a data visualization that shows the movements and earnings of a single NYC taxi over 24 hours.	JavaScript	1148	274	91	274
+bearcart	wrobstory/bearcart	9860710	Creating Rickshaw.js visualizations with Python Pandas	JavaScript	707	269	32	269
+CHChromaHashView	mattt/CHChromaHashView	18427311	A classic password visualization concept, ported to iOS	Objective-C	219	268	13	268
+django-dashing	talpor/django-dashing	20731693	django-dashing is a customisable, modular dashboard application framework for Django to visualize interesting data about your project. Inspired in the dashboard framework Dashing	JavaScript	1091	268	57	268
+mayavi	enthought/mayavi	1288547	3D visualization of scientific data in Python	Python	81583	267	103	267
+gc-viz	kenfox/gc-viz	22818324	Animated visualizations of several garbage collection algorithms	JavaScript	7596	267	28	267
+model	curran/model	18812043	A functional reactive model library for interactive data visualization.	JavaScript	2508	265	22	265
+cli-visualizer	dpayne/cli-visualizer	39967038	CLI based audio visualizer	C++	24797	262	17	262
+vizflow	vizflow/vizflow	34310098	vizflow is an ES6 interactive visualization engine	JavaScript	55040	260	8	260
+jsxgraph	jsxgraph/jsxgraph	4528770	JSXGraph is a cross-browser library for interactive geometry, function plotting, charting, and data visualization in a web browser.	JavaScript	86531	259	68	259
+git-workflow	jvns/git-workflow	14432340	Tool to visualize your git workflow, in a pretty graph	Python	169	258	23	258
+location-history-visualizer	theopolisme/location-history-visualizer	24810177	Visualize your Google Location History using an interactive heatmap	HTML	89	258	46	258
+data-visualization	gboeing/data-visualization	23509745	Miscellaneous data visualization projects, examples, and demos: mostly Python (pandas + matplotlib) and JavaScript (leaflet)	Jupyter Notebook	128067	256	66	256
+ferry	cmu-is-projects/ferry	23473587	A data migration and visualization command line gem in Ruby	Ruby	4973	256	17	256
+cubesviewer	jjmontesl/cubesviewer	7273285	Explore and visualize analytical datasets	JavaScript	10365	254	54	254
+EarthView	RossAnderson/EarthView	4010984	3D Visualization of Earth using Map Tiles for iOS	Objective-C	19837	249	54	249
+ember-timetree	CrowdStrike/ember-timetree	9532735	Visualize hierarchical timeline data. Built with Ember.js and D3.js	JavaScript	798	248	41	248
+earthdata-search	nasa/earthdata-search	40671758	Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.	Ruby	73528	245	77	245
+ZLSinusWaveView	zhxnlai/ZLSinusWaveView	25806355	A Siri like voice visualization view using EZAudio. Modified from SISinusWaveView for iOS.	Objective-C	8610	244	29	244
+kaggle-titanic	agconti/kaggle-titanic	9783692	A tutorial for Kaggle's Titanic: Machine Learning from Disaster competition. Demonstartes basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques. 	Jupyter Notebook	7617	242	214	242
+ranwhen	p-e-w/ranwhen	9732726	Visualize when your system was running	Python	174	239	15	239
+unveil	michael/unveil	760908	A data-driven visualization toolkit	JavaScript	4541	237	15	237
+brainfuck-visualizer	fatiherikli/brainfuck-visualizer	9436544	Javascript Brainfuck Interpreter and Visualizer. Built with Backbone.js	JavaScript	150	235	52	235
+Memacs	novoid/Memacs	2092708	What did I do on February 14th 2007? Visualize your (digital) life in Org-mode	Python	927	233	32	233
+npmgraph.an	anvaka/npmgraph.an	16677055	2d visualization of npm	JavaScript	2051	232	20	232
+keycodes	wesbos/keycodes	19160697	Easy visualizer for JavaScript KeyCodes	JavaScript	34	232	65	232
+reform-swift	laszlokorte/reform-swift	41258773	Swift implementation of the reform dynamic drawing application inspired by Bret Victor's talk "Drawing Dynamic Visualizations"	Swift	2559	232	21	232
+villoc	wapiflapi/villoc	34208124	Visualization of heap operations. 	Python	283	230	36	230
+restconsole	ahmadnassri/restconsole	1997191	HTTP Client and Request Visualizer and Constructor tool, helps developers build, debug and test RESTful APIs.	JavaScript	3633	230	59	230
+GrowthForecast	kazeburo/GrowthForecast	2801059	Lightning Fast Graphing/Visualization	Perl	6499	228	44	228
+cohorts	bslatkin/cohorts	6684907	Cohort visualizer – A handy tool for browsing cohort datasets	JavaScript	588	227	32	227
+gcviz	Netflix/gcviz	10092222	Garbage Collector Visualization Tool/Framework	Python	88	226	38	226
+stat-distributions-js	richarddmorey/stat-distributions-js	35361404	Javascript library for the visualization of statistical distributions	JavaScript	741	226	10	226
+rubyvis	clbustos/rubyvis	942636	Ruby version of Protovis, a visualization toolkit.	Ruby	5860	225	16	225
+glue	glue-viz/glue	1768238	Linked Data Visualizations Across Multiple Files	Python	30444	225	57	225
+Slicer	Slicer/Slicer	2006302	Multi-platform, free open source software for visualization and image computing.	C++	441239	218	257	218
+sound-of-sorting	bingmann/sound-of-sorting	10206521	The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms	C++	770	216	37	216
+hGraph	goinvo/hGraph	5235639	An open source javascript-based web application for visualizing health data.	C++	7531	216	39	216
+air	cambecc/air	11578772	a project to visualize Tokyo wind and air pollutants	JavaScript	1869	215	61	215
+DonorsChoose_Visualization	adilmoujahid/DonorsChoose_Visualization	29923930		JavaScript	368	212	151	212
+webpack-visualizer	chrisbateman/webpack-visualizer	43617555	Visualize your Webpack bundle	JavaScript	347	212	10	212
+AutoresizeMask-for-Xcode	garnett/AutoresizeMask-for-Xcode	7298259	Simple xCode plugin to visualize view autoresizing if it's set from code	Objective-C	156	211	19	211
+edda	mongodb-labs/edda	4599201	A log visualizer for MongoDB	Python	2166	209	28	209
+tick	harvesthq/tick	3399003	Tick is a JavaScript plugin that makes visualizing dynamically changing numbers a breeze.	CSS	540	209	35	209
+source-map-visualization	sokra/source-map-visualization	8926478	Just a simple hacky visualisation of SourceMaps	JavaScript	1672	207	16	207
+datamaps.co	caspg/datamaps.co	60367521	Datamaps.co is a free and simple platform for creating visualizations with data maps	JavaScript	4795	207	28	207
+VisualSedimentation	INRIA/VisualSedimentation	6982392	Visual sedimentation is a novel design metaphor that progressively generates and updates visualizations of streaming data, inspired by the process of physical sedimentation. This process is the result of objects falling due to gravity forces, that aggregate into compact layers over time. The process is well understood since our environment is shaped by sedimentation: mountains, hills or rivers are the visible result of this long process.	JavaScript	6731	207	48	207
+awesome-dashboard	obazoud/awesome-dashboard	24758659	A curated list of amazingly awesome dashboards/visualization resources.	null	8	206	22	206
+dash	plotly/dash	33702544	Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python	Python	10537	206	54	206
+d3-pre	fivethirtyeight/d3-pre	49242490	Pre-render d3 visualizations	HTML	2114	206	9	206
+voyager	vega/voyager	29434046	Visualization browser for open-ended data exploration	JavaScript	14871	205	36	205
+minty	lumpy-turnips/minty	53892655	Step by step visualization of node processess	HTML	2685	205	7	205
+SISinusWaveView	raffael/SISinusWaveView	15508289	A Siri like voice input visualizer using EZAudio.	Objective-C	275	205	24	205
+infoviz	nocoo/infoviz	5506831	Information visualization.	JavaScript	11263	202	36	202
+history-timeline	ybogdanov/history-timeline	50485384	Visualization of the globally famous people lifetimes. https://ybogdanov.github.io/history-timeline/	JavaScript	2656	202	21	202
+asterank	typpo/asterank	4144488	asteroid database, interactive visualizations, and discovery tools	HTML	144440	201	46	201
+tsnejs	karpathy/tsnejs	21405570	Implementation of t-SNE visualization algorithm in Javascript.	JavaScript	128	200	45	200
+Graph-Visualization	davidpiegza/Graph-Visualization	2238765	3D graph visualization with WebGL / Three.js	JavaScript	1257	199	56	199
+igv	igvteam/igv	3416578	Integrative Genomics Viewer. Fast, efficient, scalable visualization tool for genomics data and annotations 	Java	383514	197	98	197
+degraph	schauder/degraph	2308247	Test and Visualize and Manage Dependencies of classes and packages in JVM Byte Code (think Scala and Java)	Scala	15123	197	20	197
+overview-server	overview/overview-server	4373521	Open source large document set visualization platform	JavaScript	41670	195	24	195
+stonesense	DFHack/stonesense	2284512	A retro isometric visualizer for Dwarf Fortress	C++	52499	195	41	195
+svidget	joeax/svidget	25237570	A JavaScript framework for building cool data visualization widgets in SVG.	JavaScript	1234	194	18	194
+jsDataV.is-source	sathomas/jsDataV.is-source	23918976	Source code for jsDataV.is visualizations	JavaScript	2200	194	94	194
+largeVis	elbamos/largeVis	58356089	An implementation of the largeVis algorithm for visualizing large, high-dimensional datasets, for R	HTML	255987	194	36	194
+progfun-stats	heathermiller/progfun-stats	7127388	Visualize statistics from the MOOC "Functional Programming Principles in Scala" using Scala!	Scala	941	193	63	193
+AngularJS-FlowChart	codecapers/AngularJS-FlowChart	10576167	An example/template WebUI control for visualizing and editing flow charts	JavaScript	1462	191	104	191
+ParaView	Kitware/ParaView	639921	VTK-based Data Analysis and Visualization Application	C++	173412	188	113	188
+csv-fingerprint	setosa/csv-fingerprint	22798837	Qualitative visualization of the data types of CSV files	JavaScript	494	187	17	187
+interactive	twitter/interactive	10802570	Twitter interactive visualization	ApacheConf	355439	186	54	186
+NBA-Player-Movements	linouk23/NBA-Player-Movements	64963939	🏀 Visualization of NBA games from raw SportVU data logs	Python	46610	186	13	186
+dataviz	opendns/dataviz	22075792	OpenDNS Data Visualization Framework	CSS	13625	185	22	185
+jclasslib	ingokegel/jclasslib	2788710	jclasslib bytecode viewer is a tool that visualizes all aspects of compiled Java class files and the contained bytecode.	Kotlin	9034	185	78	185
+erlubi	krestenkrab/erlubi	4484065	Ubigraph Erlang Client (and Process Visualizer)	Erlang	242	183	21	183
+GitHubVisualizer	artzub/GitHubVisualizer	7579663	Visualization the history of repository changes based on data from GitHub	JavaScript	6348	180	60	180
+rnaseq_tutorial	griffithlab/rnaseq_tutorial	22481024	Informatics for RNA-seq: A web resource for analysis on the cloud. Educational tutorials and working pipelines for RNA-seq analysis including an introduction to: cloud computing, critical file formats, reference genomes, gene annotation, expression, differential expression, alternative splicing, data visualization, and interpretation.	R	459018	179	109	179
+metajs	int3/metajs	7321417	Visualize your Javascript with a CPS metacircular interpreter.	CoffeeScript	447	179	7	179
+galry	rossant/galry	6302474	High-performance interactive visualization in Python	Python	9023	177	25	177
+p5-music-viz	therewasaguy/p5-music-viz	25232722	Workshop on music visualization with p5.js from Eyeo '15, previously MozFest '14, NYU ITP	JavaScript	60455	172	39	172
+flexible-nav	gre/flexible-nav	2114475	NOT MAINTAINED – Improve your navigation experience - this jQuery lib improves a webpage navigation and helps to visualize different sections. of a document, an article,.. any web page.	CoffeeScript	202	172	28	172
+chartx	thx/chartx	33850526	Data Visualization Solutions 	JavaScript	14441	167	27	167
+luma.gl	uber/luma.gl	50340928	A JavaScript WebGL Framework for Data Visualization	JavaScript	82495	166	18	166
+RainbowVis-JS	anomal/RainbowVis-JS	3510746	A JavaScript library for colour data visualization. Easily map numbers to a smooth-transitioning colour legend.	JavaScript	56	166	42	166
+geobases	opentraveldata/geobases	7795752	Data services and visualization	JavaScript	1205979	164	22	164
+insights	ignacioola/insights	7154849	A JavaScript library to visualize and navigate graphs	JavaScript	1515	161	38	161
+node-wargames	mape/node-wargames	761933	Visualization of an IRC channel in a wargame theme.	JavaScript	228	159	24	159
+solar-system-of-js	shaunlebron/solar-system-of-js	32772736	Visualize the languages on the JS platform	Clojure	1860	158	6	158
+beatdetektor	cjcliffe/beatdetektor	1989183	BeatDetektor BPM detection / visualization library	JavaScript	115	157	27	157
+glumpy	glumpy/glumpy	23520171	Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization	Python	12238	157	37	157
+Plots.jl	tbreloff/Plots.jl	41365799	Powerful convenience for Julia visualizations and data analysis	Julia	107825	156	35	156
+binify	kevinschaul/binify	9209123	A command-line tool to better visualize crowded dot density maps.	Python	564	155	10	155
+vsxu	vovoid/vsxu	2320838	Visual programming language; Real-time OpenGL graphics; Embeddable; GPL/LGPL Licensed; Audio/Music Visualizer; Animation tool	C++	151676	155	33	155
+ZLHistogramAudioPlot	zhxnlai/ZLHistogramAudioPlot	25809931	A hardware-accelerated audio visualization view using EZAudio, inspired by AudioCopy.	Objective-C	13841	154	20	154
+chiasm	chiasm-project/chiasm	30226672	A browser based environment for interactive data visualizations.	JavaScript	2099	153	17	153
+ChromaHashView	MichaelEvans/ChromaHashView	18501627	A classic password visualization concept, ported to Android  http://mattt.github.io/Chroma-Hash/	Java	11604	151	7	151
+kityformula-editor	fex-team/kityformula-editor	17619075	SVG-based visualization Equation Editor	JavaScript	2515	150	78	150
+hualos	fchollet/hualos	37793722	Keras Total Visualization project	Python	264	148	17	148
+hdfs-du	twitter/hdfs-du	5331282	Visualize your HDFS cluster usage	JavaScript	1303	148	62	148
+google-visualization-issues	google/google-visualization-issues	35331177		null	120	147	12	147
+allnpmviz3d	anvaka/allnpmviz3d	25334702	3d visualization of npm	JavaScript	5036	145	15	145
+goast-viewer	yuroyoro/goast-viewer	21348382	Golang AST visualizer	Go	442	144	14	144
+bootstrap-calendar	ahmontero/bootstrap-calendar	3786805	Calendar to visualize data using some bootstrap styles.	JavaScript	382	144	67	144
+github-stats	IonicaBizau/github-stats	42532574	:chart_with_upwards_trend: Visualize stats about GitHub users and projects in your terminal.	JavaScript	27	144	4	144
+scalable-data-visualization	znation/scalable-data-visualization	28829268	React.js Conference 2015 talk and demo	JavaScript	1403	143	34	143
+ihog	cvondrick/ihog	6832590	A tool to visualize feature spaces commonly used in object detection.	C	73525	143	89	143
+GitViz	Readify/GitViz	14164590	Real-time, presentation-quality, Git visualizer to help with Git training	C#	422	142	22	142
+gocmdpev	simon-engledew/gocmdpev	59337295	A command-line GO Postgres query visualizer, heavily inspired by pev (https://github.com/AlexTatiyants/pev)	Go	31	142	4	142
+seer	CoralineAda/seer	384272	Seer is a lightweight, semantically rich wrapper for the Google Visualization API. It allows you to easily create a visualization of data in a variety of formats, including area charts, bar charts, column charts, gauges, line charts, and pie charts.	Ruby	178	141	19	141
+sparkle	mighdoll/sparkle	15621208	visualization server	JavaScript	7448	140	16	140
+deepViz	bruckner/deepViz	14001976	Visualization tools for deep convolutional networks	JavaScript	7969	140	40	140
+microservices-dashboard	ordina-jworks/microservices-dashboard	53966381	Dashboard for visualizing Spring Boot microservices and the components they link to.	HTML	22173	140	14	140
+visualee	Thomas-S-B/visualee	9371304	A maven plugin to visualize java ee projects	Java	648	140	6	140
+bubbletree	okfn/bubbletree	2011914	Radial Bubble Tree Visualization	JavaScript	2048	139	66	139
+runway-browser	salesforce/runway-browser	57460523	Interactive visualization framework for Runway models of distributed systems	HTML	594	139	10	139
+bitlisten	MaxLaumeister/bitlisten	9155696	Realtime Bitcoin transaction visualizer, written in HTML/Javascript:	JavaScript	42243	137	56	137
+DynamicGrid	codrops/DynamicGrid	10792175	A dynamic grid layout that let's you choose how many rows and columns of items are shown.  Partly based on the visualization of Google Trends, except that you can add transitions.	JavaScript	119	137	39	137
+papermachines	papermachines/papermachines	5418467	A Zotero extension for analysis and visualization in the digital humanities.	JavaScript	60441	135	21	135
+sql-joins-app	le0pard/sql-joins-app	28279262	SQL JOINS visualizer	HTML	1031	135	13	135
+funnel.js	inlineblock/funnel.js	9946993	Funnel Visualization written in D3 and Backbone using HTML.	JavaScript	191	133	16	133
+pycortex	gallantlab/pycortex	12472709	Pycortex is a python-based toolkit for surface visualization in fMRI data	Python	133705	133	43	133
+deepdraw	auduno/deepdraw	39700422	Notebook example of how to generate class visualizations with Caffe	Jupyter Notebook	27662	132	41	132
+PCSEQ	LarrrrryT/PCSEQ	13181926	EQ visualizer	Objective-C	133	131	27	131
+kaggle-talkingdata-visualization	adilmoujahid/kaggle-talkingdata-visualization	63885246	Source code for blog post: Interactive Data Visualization of Geospatial Data using D3.js, DC.js, Leaflet.js and Python	JavaScript	993	130	45	130
+dataviva-site	DataViva/dataviva-site	10696967	Rapid data visualization engine	JavaScript	522869	130	37	130
+facewall	HubSpot/facewall	10439926	Grid visualization of Gravatars for an organization. #hubspot-open-source	CoffeeScript	13464	130	41	130
+space-tweet	fat/space-tweet	717134	Node + Socket.IO + MooTools + Twitter + Space Invaders = space-tweet (a visualization of good vs. evil)	JavaScript	861	130	20	130
+friture	tlecomte/friture	102587	Real-time audio visualizations (spectrum, spectrogram, etc.)	Python	18847	130	30	130
+DVL	vogievetsky/DVL	1769799	Dynamic Visualization LEGO	JavaScript	4126	128	16	128
+lacij	pallix/lacij	1696183	Lacij is a graph visualization library for Clojure  with automatic layouts, edition and undo/redo support.	Clojure	365	128	5	128
+json2html	bloopletech/json2html	126574	JSON 2 HTML offers an easy way to visualize a string of JSON text.	JavaScript	127	128	59	128
+programming-languages-influence	yaph/programming-languages-influence	5956327	Code to retrieve data for the programming languages influence visualizations from Freebase	Python	280	128	40	128
+aether	codecombat/aether	11693784	Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.	JavaScript	47210	128	50	128
+netscope	ethereon/netscope	39747141	Neural network visualizer	JavaScript	407	127	41	127
+dataexplorer	okfn/dataexplorer	5050476	View, visualize, clean and process data in the browser.	JavaScript	5560	127	45	127
+IPython-Dashboard	litaotao/IPython-Dashboard	43122214	A stand alone, light-weight web server for building, sharing graphs created in ipython. Build for data science, data analysis guys. Aiming at building  an interactive visualization, collaborated dashboard, and real-time streaming graph. 	Python	7070	126	35	126
+voice-change-o-matic	mdn/voice-change-o-matic	20767547	Web Audio API-powered voice changer and visualizer	JavaScript	495	126	46	126
+react-transform-render-visualizer	spredfast/react-transform-render-visualizer	42602649	A React Transform equivalent to React Render Visualizer	JavaScript	17	126	6	126
+armok-vision	JapaMala/armok-vision	20792762	A 3d realtime visualizer for Dwarf Fortress	C#	287017	125	12	125
+rcviz	carlsborg/rcviz	19219905	Python call graph visualization for recursive functions. 	Python	309	124	11	124
+basil.js	basiljs/basil.js	4337410	An attempt to port the spirit of the Processing visualization language to Adobe Indesign.	JavaScript	4065	124	20	124
+hexaflip	dmotz/hexaflip	8631041	Visualizes arrays as cube interfaces	CoffeeScript	3753	123	26	123
+profvis	rstudio/profvis	42738776	Visualize R profiling data	JavaScript	6220	121	15	121
+Brunel	Brunel-Visualization/Brunel	41870387	Brunel Visualization	Jupyter Notebook	348650	120	24	120
+Equalizer	Eyescale/Equalizer	1536948	Equalizer is the standard middleware to create and deploy parallel OpenGL-based applications. It enables applications to benefit from multiple graphics cards, processors and computers to scale the rendering performance, visual quality and display size. An Equalizer application runs unmodified on any visualization system, from a simple workstation to large scale graphics clusters, multi-GPU workstations and Virtual Reality installations.  	C++	72049	118	75	118
+pprof	google/pprof	50629145	pprof is a tool for visualization and analysis of profiling data	Go	413	117	24	117
+ggtree	GuangchuangYu/ggtree	27470866	:christmas_tree:an R package for visualization and annotation of phylogenetic trees with their covariates and other associated data	R	9068	117	25	117
+git-cheatsheet	ndp/git-cheatsheet	1111303	Interactive cheatsheet, visualization of git.	JavaScript	890	116	42	116
+lanmap2	rflynn/lanmap2	152074	builds database/visualizations of LAN structure from passively sifted information	C	7582	116	27	116
+rubrowser	blazeeboy/rubrowser	66382841	a ruby code dependency graph interactive visualizer	Ruby	327	116	3	116
+chemozart	mohebifar/chemozart	30010288	Web-based 3D molecule editor and visualizer with molecular mechanics calculators.	JavaScript	371	116	6	116
+godepgraph	kisielk/godepgraph	8189253	A Go dependency graph visualization tool	Go	2312	115	17	115
+aws-security-viz	anaynayak/aws-security-viz	2410040	Visualize your aws security groups.	Ruby	160	115	25	115
+neovigator	maxdemarzi/neovigator	1388454	Demo visualization of Neo4j data	JavaScript	405	114	48	114
+Kepler-Visualization	blprnt/Kepler-Visualization	3851019	Processing sketch for Visualizing Kepler mission data.	Processing	710	113	32	113
+inkscope	inkscope/inkscope	14954767	inkScope is  a ceph visualization and admin interface	JavaScript	19173	113	50	113
+d3-deconstructor	ucbvislab/d3-deconstructor	25990037	A Google Chrome plugin for extracting data from D3 visualizations.	JavaScript	85916	113	12	113
+data-projector	datacratic/data-projector	19582155	Visualizing High-Dimensional Data in the Browser with SVD, t-SNE and Three.js	JavaScript	536	113	27	113
+node-dc-mongo	anmolkoul/node-dc-mongo	36926280	Source code for the project demonstrating data visualization using d3.js, dc.js, node.js and mongodb	JavaScript	1870	112	94	112
+perception	tmcw/perception	30832584	collected & summarized research on the effectiveness of visualization techniques	null	12	112	5	112
+brainbrowser	aces/brainbrowser	17673490	Web-based visualization tools for neurological data.	JavaScript	180163	111	54	111
+polartone	mattdesl/polartone	42424386	experimental audio visualizer	JavaScript	89	111	8	111
+org.geppetto	openworm/org.geppetto	3923591	Geppetto - An open platform for life sciences data exploration, visualization and simulation 	Python	24483	110	39	110
+spark-ml-streaming	freeman-lab/spark-ml-streaming	29442382	Visualize streaming machine learning in Spark	Python	13320	110	40	110
+BlackWidow	madisonmay/BlackWidow	40869540	Visualizing Python Project Import Graphs	Python	248	110	4	110
+DependencyWheel	fzaninotto/DependencyWheel	13493943	A package dependency visualization using d3.js. Currently supports Composer for PHP.	HTML	1330	109	84	109
+focuslight	focuslight/focuslight	15607449	Lightning Fast Graphing/Visualization, built on RRDTool	Ruby	785	109	14	109
+azure-kubernetes-visualizer	Azure/azure-kubernetes-visualizer	23335200	azure-kubernetes-visualizer	JavaScript	120	109	27	109
+raftscope	ongardie/raftscope	20016054	super hacky visualization of Raft	JavaScript	769	108	29	108
+visNetwork	datastorm-open/visNetwork	34519310	R package, using vis.js library for network visualization	JavaScript	4478	108	21	108
+imagelayers-graph	microscaling/imagelayers-graph	31966641	A visualization tool to inspect and optimize Docker images used in your projects.	JavaScript	964	108	28	108
+fsv	mcuelenaere/fsv	4149466	fsv is a file system visualizer in cyberspace. It lays out files and directories in three dimensions, geometrically representing the file system hierarchy to allow visual overview and analysis.	C	405	108	26	108
+IndentGuides	SublimeText/IndentGuides	2161475	Draw vertical guides to easily visualize indent depth.	Python	9	107	39	107
+where-do-you-go	lehrblogger/where-do-you-go	456791	Visualize your Foursquare check-ins as a heat map and share the places you go!	Python	3680	107	12	107
+datagramas	carnby/datagramas	20466491	datagramas - view and scaffold d3.js visualizations in Jupyter notebooks	JavaScript	1386	106	16	106
+DGLE	DGLE-HQ/DGLE	5334254	Powerful independent cross-platform engine for 2D/3D games and visualizations. Young, strong and crazy!	C++	21682	105	18	105
+pycel	dgorissen/pycel	2605241	A library for compiling excel spreadsheets to python code & visualizing them as a graph	Python	301	105	34	105
+visualize_ML	ayush1997/visualize_ML	64548922	Python package to visualize some processes involved in Machine learning.	Python	213	105	7	105
+UpSetR	hms-dbmi/UpSetR	36315632	An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..  	HTML	23184	104	23	104
+armsglobe	dataarts/armsglobe	10535099	Arms Globe Visualization	JavaScript	4877	103	86	103
+GraphGL	uskudnik/GraphGL	1855370	A network visualization library	JavaScript	7914	103	17	103
+imagelayers	microscaling/imagelayers	30611924	Docker Image Visualization and Badges	Go	1227	103	34	103
+subwayMap	techbubble/subwayMap	2033085	A jquery plugin to render data as a subway map visualization	JavaScript	156	103	38	103
+wordcloud2	Lchiffon/wordcloud2	60066845	R interface to wordcloud for data visualization.	JavaScript	3114	103	36	103
+graphqlviz	sheerun/graphqlviz	54353510	GraphQL Server schema visualizer	JavaScript	834	102	4	102
+qliksense-extension-tutorial	stefanwalther/qliksense-extension-tutorial	31142325	A comprehensive tutorial how to create Qlik Sense Visualization Extensions.	JavaScript	4347	100	27	100
+d3_rails	logical42/d3_rails	2560538	Ruby on Rails integration for the Javascript Data Visualization Framework, D3.	Ruby	2783	100	19	100
+LINQPad.QueryPlanVisualizer	Giorgi/LINQPad.QueryPlanVisualizer	53326643	SQL Server query execution plan visualizer for LINQPad	C#	238	100	6	100
+reddit-network-vis	whichlight/reddit-network-vis	11775596	network visualization of Reddit discussions	JavaScript	228	99	14	99
+twitter-stream-globe	twitterdev/twitter-stream-globe	23593247	A real-time 3D visualization of Tweets around the world. Uses three.js (WebGL), Angular & PubNub.	JavaScript	3436	98	25	98
+chunk-scatter	cowchimp/chunk-scatter	22591954	Analyze and visualize HTTP responses that use chunked encoding	JavaScript	152	98	7	98
+amazon-kinesis-data-visualization-sample	awslabs/amazon-kinesis-data-visualization-sample	18813709	Amazon Kinesis Data Visualization Sample Application	JavaScript	1065	97	44	97
+datascope	walmartlabs/datascope	59906946	Visualization of Clojure data structures using Graphviz	Clojure	180	97	1	97
+libfreenect-goodies	amiller/libfreenect-goodies	1141048	Extra libraries and examples for libfreenect, especially high level processing, vision, and visualizations	Python	2812	97	24	97
+mcmap	Zahl/mcmap	948139	mcmap is a tiny map visualizer for Minecraft. Maps are drawn from an isometric perspective.	C++	482	97	32	97
+ember-visualizations	cmeiklejohn/ember-visualizations	4694496	Basic Ember.js visualizations built in D3.	JavaScript	448	96	14	96
+BrainGrapher	kitschpatrol/BrainGrapher	541337	Processing-based visualizer for NeuroSky EEG brainwave data  output from the Arduino Brain library.	Processing	1733	96	56	96
+machine-learning	apeeyush/machine-learning	25671448	Demonstrates data munging, analysis and visualization techniques	Python	23697	95	26	95
+kippo-graph	ikoniaris/kippo-graph	11234298	Visualize statistics from a Kippo SSH honeypot	PHP	17943	95	36	95
+angularjs-periscope	mrajcok/angularjs-periscope	33058669	A tool for visualizing AngularJS prototypal $scope inheritance, $scope data structures, and services	JavaScript	170	95	6	95
+draw-cycle	bahmutov/draw-cycle	50312494	Simple Cycle.js application visualized: streams, events, DOM	HTML	1065	95	2	95
+g3m	glob3mobile/g3m	12868151	The multiplatform advanced visualization framework	Java	627826	93	46	93
+ggnet	briatte/ggnet	10565716	Network visualization with ggplot2	R	15739	93	19	93
+vamonos	rosulek/vamonos	10280367	Vamonos: browser-based algorithm visualization	HTML	8537	93	9	93
+HeatMapDemo	ryanolsonk/HeatMapDemo	3926483	A heat map visualization for the Map Kit Framework on iOS	Objective-C	448	93	18	93
+zmon	zalando/zmon	28139492	Real-time monitoring of critical metrics & KPIs via elegant dashboards, Grafana3 visualizations & more	Shell	5330	93	15	93
+mars	marckhoury/mars	21784520	A graph drawing tool for large graph visualization. 	C	22194	92	10	92
+LastHistory	triplef/LastHistory	520377	Interactive Visualization of Last.fm Listening Histories and Personal Streams	Objective-C	501	92	2	92
+timevis	daattali/timevis	63218141	Create interactive timeline visualizations in R	R	696	92	11	92
+Chess-Inspector	ology/Chess-Inspector	16600016	Visualize move, protection and threat status	Perl	2899	92	2	92
+R-Network-Visualization-Workshop	kateto/R-Network-Visualization-Workshop	37701036	Static and dynamic network visualization with R - code and tutorial from Polnet 2016 workshop.	HTML	13337	91	56	91
+mail-trends	mihaip/mail-trends	7214639	Analysis and visualization of email data	Python	582	91	32	91
+visualizing-projections	shaunlebron/visualizing-projections	32013489	interactive visualization of projections	JavaScript	239	91	4	91
+CanvasLayer	brendankenny/CanvasLayer	4980329	A <canvas> map layer for the Google Maps JavaScript API v3 for 2d and WebGL data visualization	JavaScript	236	91	28	91
+Git-Supervisual-Cheatsheet	mattharrison/Git-Supervisual-Cheatsheet	1111406	A cheatsheet that visualizes commands for git	Python	1127	91	21	91
+aima-javascript	aimacode/aima-javascript	53184308	Javascript implementation of algorithms (and visualizations) from Russell And Norvig's "Artificial Intelligence - A Modern Approach"	JavaScript	560	90	30	90
+github-network-analysis	coyotebush/github-network-analysis	9423725	Analysis and visualization of top GitHub repositories	Python	2321	89	12	89
+tilecloud	sbrunner/tilecloud	2954583	A powerful utility for generating, managing, transforming, and visualizing map tiles in multiple formats.	Python	863	89	22	89
+ripe-atlas-community-contrib	RIPE-Atlas-Community/ripe-atlas-community-contrib	8092696	Contributions by the community of the RIPE Atlas visualizations, tools for analysing measurements data	Python	531	89	24	89
+angularplasmid	vixis/angularplasmid	22851553	DNA Plasmid Visualization Component using AngularJS	HTML	3067	88	15	88
+TW5-TiddlyMap	felixhayashi/TW5-TiddlyMap	26675859	Map drawing and topic visualization for your wiki	JavaScript	17507	88	23	88
+vim-mundo	simnalamburt/vim-mundo	28008709	:christmas_tree: Vim undo tree visualizer	VimL	749	88	9	88
+mpdviz	lucy/mpdviz	11235467	console mpd visualizer (currently dead)	Go	446	88	4	88
+assetviz	Munter/assetviz	7779211	Assetviz is a web application code base visualization tool. Generate a self encapsulated html-file with a force directed graph representing the assets in your project and their relations.	JavaScript	141	88	4	88
+VisualizationLibrary	MicBosi/VisualizationLibrary	32726740	Visualization Library is a C++ middleware for high-performance 2D and 3D graphics applications based on OpenGL 1.x-4.x supporting Windows, Linux and Mac OS X.	C++	57344	87	12	87
+ATTabandHoldAudioRecord	ioslovers/ATTabandHoldAudioRecord	12049708	Tab hold and record with voice visualization wave and LED effects 	Objective-C	242	87	34	87
+Phinch	PitchInteractiveInc/Phinch	14211385	Phinch is an open-source framework for visualizing biological data, funded by a grant from the Alfred P. Sloan foundation. This project represents an interdisciplinary collaboration between Pitch Interactive, a data visualization studio in Berkeley, CA, and biological researchers at UC Davis.	PHP	29516	87	16	87
+d3-relationshipgraph	hkelly93/d3-relationshipgraph	59070516	A framework for visualizing parent-child relationships with d3js	JavaScript	387	86	6	86
+li-visualizations	lithiumtech/li-visualizations	17684257	A set of D3 visualizations and visual elements created for Lithium Labs projects	JavaScript	3482	85	7	85
+Tensorflow-MultiGPU-VAE-GAN	timsainb/Tensorflow-MultiGPU-VAE-GAN	67741182	A single jupyter notebook multi gpu VAE-GAN example with latent space algebra and receptive field visualizations. 	Jupyter Notebook	10533	84	9	84
+KinoVision	keijiro/KinoVision	59833739	Frame visualization utility for Unity	C#	16121	83	9	83
+liquidity.js	nhalloran/liquidity.js	56340381	Data visualization library for depicting quantities as animated liquid blobs	JavaScript	16590	83	6	83
+streamgraph	hrbrmstr/streamgraph	30683413	:wavy_dash: htmlwidget for creating streamgraph visualizations in R	HTML	2262	83	33	83
+builder	Polychart/builder	16490552	Data visualization for your database.	Python	2199	82	26	82
+postgis-editor	lukasmartinelli/postgis-editor	55851223	An accessible PostGIS query editor and visualizer.	JavaScript	7475	82	4	82
+catcorrjs	ideo/catcorrjs	12435153	Visualize correlations across many dimensions of categorical data (e.g., from a survey)	JavaScript	418	82	12	82
+charted	google/charted	22396761	Visualization toolkit for Dart language	Dart	3122	81	40	81
+python-data-visualization-course	rhiever/python-data-visualization-course	50595284	Course materials for teaching data visualization in Python.	Jupyter Notebook	2194	81	17	81
+ieee754-visualization	bartaz/ieee754-visualization	13834578	IEEE 754 Double Precision Floating Point Visualization	JavaScript	211	80	14	80
+visualizer-app	spotify/visualizer-app	10908107	Visualizer App Demo	null	744	80	33	80
+owid-grapher	OurWorldInData/owid-grapher	35030133	Interactive data visualizations done quickly	JavaScript	42890	80	15	80
+ArcheoloGit	marmelab/ArcheoloGit	19232325	Where should you focus the maintenance efforts? ArcheoloGit is a visualization of age and dev activity for software, powered by d3.js.	JavaScript	1982	80	6	80
+corrplot	taiyun/corrplot	2910722	Package corrplot is for visualizing a correlation matrix	R	286	80	31	80
+SMAccessibilityOverlay	SeanMcTex/SMAccessibilityOverlay	7977302	Tool for developers to visualize what voiceover users will "see" when using their apps	Objective-C	282	80	4	80
+AssemblyVisualizer	denismarkelov/AssemblyVisualizer	1707833	Data visualization plugin for .NET decompilers, currently supporting ILSpy and Reflector	C#	14217	79	21	79
+datomicism	shaunxcode/datomicism	6068568	interface for visualizing datomic schemas and queries	JavaScript	562	79	15	79
+Social-Timeline	suth/Social-Timeline	2791371	A beautiful visualization of social data gathered using ThinkUp	JavaScript	144	78	22	78
+upset	VCG/upset	14993915	UpSet - Visualizing Intersecting Sets	JavaScript	2945	78	24	78
+markmap	dundalek/markmap	39264626	Visualize markdown documents as mindmaps	JavaScript	376	78	10	78
+code-is-beautiful	quantifiedcode/code-is-beautiful	35546799	An open-source collection of code visualizations, licensed under AGPL and free to use.	JavaScript	3677	78	12	78
+Fancycharts.js	ahoiin/Fancycharts.js	41971646	JS library to visualize percentage values http://fancycharts.ahoi.in	JavaScript	128	78	3	78
+diffract	ameyms/diffract	30288177	A set of d3 based visualization components built for React	JavaScript	2565	77	12	77
+frequensea	fdb/frequensea	28041197	Visualizing the frequency spectrum.	C	44940	77	12	77
+RxSpy	niik/RxSpy	16879267	Reactive application debugger/visualizer for .NET	C#	1690	77	3	77
+GolangSortingVisualization	SimonWaldherr/GolangSortingVisualization	22700556	examples of various sorting algorithms in golang (with visualization)	Go	490	76	5	76
+Heat-Tracer	gflarity/Heat-Tracer	1335943	Realtime Performance Visualization Using Socket.IO, Canvas and Dtrace	JavaScript	534	76	7	76
+InteractiveVis	oxfordinternetinstitute/InteractiveVis	4434728	The InteractiveVis project, funded by JISC from May to September 2012, aims to allow easy creation of interactive visualisations for geospatial and network data using native web technologies (HTML5, CSS3, and SVG) and allow these visualisations to be self-contained so that they may run entirely offline in ebooks and other media. The project will survey existing solutions and build the necessary components to fill in missing features and smooth over incompatibilities in between existing libraries. The project will further provide online hosted wizards to allow for the easy creation of these interactive visualizations. All code is open source and released under the GNU GPL v3 license.	JavaScript	45756	76	24	76
+private-parts	lookout/private-parts	17075714	A responsive visualization framework for privacy policies.	CSS	230	75	33	75
+streamed	arscan/streamed	11966723	Casual live data stream and visualization server.	JavaScript	1632	75	10	75
+css-visualizer	likethemammal/css-visualizer	16448899	Visualizers made entirely from DOM elements and CSS3 Animations and Transforms.	JavaScript	72353	75	11	75
+trelliscope	tesseradata/trelliscope	9235588	Detailed Visualization of Large Complex Data in R	R	12928	74	22	74
+textSNE	turian/textSNE	243451	2-d visualization of high-dimensional input: Python code for rendering t-SNE code with text labels for each point	Python	1140	74	36	74
+local-audio-visualizer	cbrandolino/local-audio-visualizer	5930153	HTML5 local music player + audio visualizer	JavaScript	71	74	22	74
+mdb	legalosLOTR/mdb	4683110	MDB (MovieDirBrowser) -  a cool way to visualize your movie collection and decide which movie to watch next! Run MDB on a folder or a set of files/folders and it downloads imdb data for all movie files found and shows it in a nice GUI.	Python	1082	74	6	74
+Visualization-Plugins	mstr-dev/Visualization-Plugins	36353350	This repository contains visualization plugins that fit to MicroStrategy's Web/Desktop platform. 	JavaScript	6599	73	92	73
+d3visualization	biovisualize/d3visualization	7925078	An alternative gallery for d3.js	HTML	520	73	28	73
+FXyz	Birdasaur/FXyz	18034933	JavaFX 3D Visualization and Component Library	Java	24216	73	21	73
+d3-hierarchy	d3/d3-hierarchy	39152400	2D layout algorithms for visualizing hierarchical data.	JavaScript	899	73	20	73
+runtime-tracer	neuroo/runtime-tracer	3818647	Dynamic tracing for binary applications (using PIN), IDA plugin to visualize and interact with the traces	C	2524	73	14	73
+revisit	MoritzStefaner/revisit	648410	revisit is a real-time visualization of the latest twitter messages (tweets) around a specific topic. Use it create your own twitter wall at a conference or an ambient display at your company or whatever other idea you come up with. In contrast to other twitterwalls, it provides a sense of the temporal dynamics in the twitter stream, and emphasizes the conversational threads established by retweets and @replies. You will need Flash CS4 to compile the sources.	ActionScript	2135	73	12	73
+jobsVisualization	wwj718/jobsVisualization	62489445	换一种姿势找合适的工作	Jupyter Notebook	1571	72	11	72
+pd-visualization	NYPL-publicdomain/pd-visualization	46299151	A visualization and interface that helps users explore ~187K digital items from NYPL in the public domain	Python	120551	72	6	72
+mercer	gmarland/mercer	42417453	3D interactive data visualizations	JavaScript	647	72	4	72
+akka-visualmailbox	ouven/akka-visualmailbox	59358662	A visualizer for your Akka message flows	Scala	312	72	4	72
+VisualMusic	surunzi/VisualMusic	19562665	HTML5 music visualization (Chrome only)	JavaScript	1921	71	20	71
+data-vis-d3	alignedleft/data-vis-d3	27974966	Code examples for “Data Visualization and Infographics with D3” course	HTML	432	71	103	71
+muxViz	manlius/muxViz	14506091	Analysis and Visualization of Interconnected Multilayer Networks	R	17192	71	14	71
+rviz	ros-visualization/rviz	5860736	ROS 3D Robot Visualizer	C++	12872	71	137	71
+The-Nature-of-Code-Cosmos-Edition	shiffman/The-Nature-of-Code-Cosmos-Edition	11370643	Repository for fall 2013 workshop at ITP on space data visualization	Processing	23250	71	12	71
+logitext	ezyang/logitext	3555725	Beautiful, interactive visualizations of logical inference	Haskell	807	71	3	71
+GLVisualize.jl	JuliaGL/GLVisualize.jl	33243887	Visualization library written in Julia and OpenGL	Julia	70831	70	19	70
+devel	sjPlot/devel	27482073	sjPlot - Data Visualization for Statistics in Social Science	R	5770	70	15	70
+livemap	UlmApi/livemap	2287744	Real-time visualization of public transportation based on parsed GTFS data sets.	JavaScript	3665	70	28	70
+d3sparql	ktym/d3sparql	19795683	JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js	HTML	258	70	28	70
+reddit-bigquery	minimaxir/reddit-bigquery	43539305	Code + Jupyter notebook for analyzing and visualizing Reddit Data quickly and easily	R	9592	70	15	70
+uvcdat	UV-CDAT/uvcdat	6660536	Ultrascale Visualization Climate Data Analysis Tools	C++	317760	69	43	69
+bitcoin-rt	cbeams-archive/bitcoin-rt	4282891	Visualize Bitcoin network transactions in real time	JavaScript	13028	69	33	69
+supergroup	Sigfried/supergroup	15555672	Supergroup brings extreme convenience and understandability to the manipulation of Javascript data collections, especially in the context of D3.js visualization programming.	HTML	1116	69	5	69
+QuickPlot	tepf/QuickPlot	51310285	Quick and easy data visualizations with Haskell	JavaScript	5848	69	7	69
+SearchVisualizer	ejmahler/SearchVisualizer	20170004	A program that visualizes some popular search algorithms	C++	159	69	9	69
+pitchRx	cpsievert/pitchRx	5317544	Tools for scraping MLB Gameday data and Visualizing PITCHf/x	R	72738	69	11	69
+aws-elk-billing	ProTip/aws-elk-billing	22192861	Tools for Loading and Visualizing AWS Detailed Billing with ELK(Elasticsearch, Logstash, Kibana)	Shell	2906	69	17	69
+sna-js	craigtutterow/sna-js	14868630	Javascript code to visualize and calculate relevant metrics for egocentric social network analysis using a 2d adjacency matrix drawing on the LinkedIn API as input.	JavaScript	294	69	25	69
+redux-state-history	inakianduaga/redux-state-history	48070595	Redux store enhancers for tracking and visualizing state changes	TypeScript	25	69	1	69
+vizard	yieldbot/vizard	45154620	magic visualization	Clojure	462	68	1	68
+WebVOWL	VisualDataWeb/WebVOWL	34138298	Visualizing ontologies on the Web	JavaScript	2678	68	24	68
+piccolo	adafruit/piccolo	6893983	Tiny Arduino music visualizer	Assembly	165	67	32	67
+PopulationPyramid.net	madewulf/PopulationPyramid.net	1304613	Visualization of the population pyramids of the world, based on the United Nations data.	Python	7536	67	12	67
+kepler-mapper	MLWave/kepler-mapper	41101861	KeplerMapper is a Python class for visualization of high-dimensional data and 3-D point cloud data.	Python	3308	67	19	67
+grblControl	Denvi/grblControl	39151714	GRBL controller application with G-Code visualizer written in Qt.	C++	33636	67	41	67
+violent-theremin	mdn/violent-theremin	20909438	Violent theremin uses the Web Audio API to generate sound, and HTML5 canvas for a bit of pretty visualization. The colours generated depend on the pitch and gain of the current note, which are themselves dependant on the mouse pointer position.	JavaScript	32	67	22	67
+git-punchcard-plot	guanqun/git-punchcard-plot	2448631	a tool to visualize the time distribution of commits	JavaScript	196	67	11	67
+timeplot	jkff/timeplot	1190640	Analyst's swiss army knife for visualizing data from ad-hoc log files	Haskell	3447	67	12	67
+django-google-charts	mvasilkov/django-google-charts	2202458	Google Visualization API template tags and helpers for Django framework	Python	151	66	25	66
+tomviz	OpenChemistry/tomviz	17905329	Cross platform, open source application for the processing, visualization, and analysis of 3D tomography data	C++	7544	66	22	66
+pgpdump	kazu-yamamoto/pgpdump	525704	A PGP packet visualizer	C	248	66	17	66
+Vega.jl	johnmyleswhite/Vega.jl	10925780	A Julia package for generating visualizations in Vega 	Julia	16509	66	21	66
+refinery-platform	parklab/refinery-platform	2838735	The Refinery Platform is a data management, analysis and visualization system for bioinformatics and computational biology applications. The platforms consists of three major components: a data repository with rich metadata capabilities, a workflow engine based on the popular Galaxy system, and visualization tools to support the exploration and interpretation of results at all stages of the analysis process.	Python	51325	66	9	66
+gcp-live-k8s-visualizer	brendandburns/gcp-live-k8s-visualizer	26504663	Source code for the Kubernetes visualizer used in the GCP Live Container Engine Demo	JavaScript	719	66	55	66
+abi-tracker	lvc/abi-tracker	42122861	A tool to visualize ABI changes timeline of a C/C++ software library	Perl	116	66	3	66
+typhoon	zalando/typhoon	43296008	Erlang-based stress and load testing tool for microservices, with visualizations	Erlang	593	65	7	65
+d3-tutorials	uwdata/d3-tutorials	15973085	D3 Tutorials for CSE512 Data Visualization Course at University of Washington	HTML	2983	64	28	64
+GenVisR	griffithlab/GenVisR	29838964	Genome data visualizations	R	34885	64	22	64
+interactive-bpann	drdrsh/interactive-bpann	49923581	A web-based step-by-step interactive visualization of artificial neural networks	JavaScript	537	64	7	64
+glimpse.js	racker/glimpse.js	6888204	A visualization library built on top of d3.	JavaScript	6944	64	3	64
+Sahale	etsy/Sahale	30657111	A Cascading Workflow Visualizer	JavaScript	1731	64	15	64
+CodePerspective	swax/CodePerspective	5208069	Visualize the code behind .Net applications in real-time 	C#	14683	64	13	64
+gtfs-visualizations	cmichi/gtfs-visualizations	10243899	Visualizing GTFS data.	JavaScript	15622	63	9	63
+leaflet-echarts3	wandergis/leaflet-echarts3	49625327	A plugin for leaflet to load echarts3 map and Make big data visualization easier.	JavaScript	2376	63	24	63
+snake-charmer	snake-charmer-devs/snake-charmer	18740272	A self-contained Python workbench for scientific programming, data mining, maths, stats and visualization	Python	4028	63	10	63
+clearmaps	sunlightlabs/clearmaps	519087	An ActionScript mapping framework for data visualization.	ActionScript	24519	63	3	63
+system-viz	walmartlabs/system-viz	47779148	Graphviz visualization of a component system	Clojure	125	63	0	63
+GitVersionTree	crc8/GitVersionTree	12016561	A tool to help visualize git revisions and branches.	C#	185	63	30	63
+limn	wikimedia/limn	4290450	A GUI Visualization Toolkit	HTML	6316	62	19	62
+conceptviz.github.io	conceptviz/conceptviz.github.io	35027554	Gallery of Concept Visualization	JavaScript	27784	62	8	62
+spectrogramJS	vlandham/spectrogramJS	15509957	spectrogram visualization in the browser	JavaScript	644	62	4	62
+bubblechart	jondavidjohn/bubblechart	12499265	:chart_with_upwards_trend: BubbleChart is a JavaScript module for comparative visualization of two dimensional data.	CoffeeScript	4205	62	8	62
+plotnetcfg	jbenc/plotnetcfg	30241010	Tool to visualize network config	C	183	62	14	62
+hprof2flamegraph	cykl/hprof2flamegraph	10726221	Flame Graph visualization for Java (HPROF, Honest-profiler)	Perl	382	61	7	61
+storm-graphite	verisign/storm-graphite	30072445	An Apache Storm IMetricsConsumer that forwards Storm's built-in metrics to a Graphite server for real-time graphing, visualization, and operational dashboards.	Java	736	61	30	61
+NLExtract	nlextract/NLExtract	3124492	Convert (ETL) and visualize free Dutch geo-datasets.	JavaScript	44792	61	37	61
+reactive-viz	timcharper/reactive-viz	29460388	Reactive streams (akka-streams) visualizer	Scala	506	61	6	61
+MoleculesMac	BradLarson/MoleculesMac	9529601	The Mac version of the open source Molecules molecular visualizer.	Objective-C	2423	61	6	61
+thoth	trulia/thoth	22006492	Thoth is a real-time solr monitor and search analysis engine. It's a set of tools that can help you collect, visualize and leverage data coming from your solr search Infrastructure	Java	60017	61	9	61
+bitiodine	mikispag/bitiodine	18224958	With BitIodine you can find transactions between two addresses or two clusters, address-to-cluster and cluster-to-address, get a list of addresses that sent/received Bitcoin to/from a particular address and visualize clusters controlled by the same user or entity, filtering by amount and time.	C++	10597	61	21	61
+birt	eclipse/birt	19821157	The open source Eclipse BIRT reporting and data visualization project. 	Java	199009	60	84	60
+jgraph	patrickfuller/jgraph	8077728	An embeddable webGL graph visualization library.	JavaScript	1667	60	14	60
+Cloth_Simulation	MauriceGit/Cloth_Simulation	39618979	Cloth-Visualization via particle-simulation.	C	23238	60	9	60
+GCview	adobe-research/GCview	11984021	GC / memory management visualization and monitoring framework.	JavaScript	517	60	9	60
+openvis2016	nbremer/openvis2016	57398778	These are the slides and visualization examples that I presented during the OpenVis conference at Boston on April 25th 2016 for my talk “SVGs beyond mere shapes”	JavaScript	13264	60	11	60
+digit	optionfactory/digit	64307760	Learn git by visualizing it	JavaScript	1210	60	2	60
+ros3djs	RobotWebTools/ros3djs	8788891	3D Visualization Library for use with the ROS JavaScript Libraries	JavaScript	3290	59	50	59
+VWorkflows	miho/VWorkflows	6278839	Flow Visualization Library for JavaFX and VRL-Studio	Java	29738	59	25	59
+elmflux	yang-wei/elmflux	51935282	Visualization of Elm Signals	Elm	126	59	3	59
+IconicHistory	yemount/IconicHistory	17519807	A Chrome extension that visualizes browser history as a favicon stack	JavaScript	584	59	7	59
+html5readiness.com	paulirish/html5readiness.com	612479	visualization of html5 and css3 features and when they are implemented	CSS	527	58	7	58
+open311dashboard	codeforamerica/open311dashboard	1441411	Visualizing and analyzing Open311 data on one unified, customizable dashboard	Python	20319	58	16	58
+VisTrails	VisTrails/VisTrails	5346495	VisTrails is an open-source data analysis and visualization tool. It provides a comprehensive provenance infrastructure that maintains detailed history information about the steps followed and data derived in the course of an exploratory task: VisTrails maintains provenance of data products, of the computational processes that derive these products and their executions. 	Python	190891	58	21	58
+PySurfer	nipy/PySurfer	1551431	Cortical neuroimaging visualization in Python	Python	19706	57	41	57
+s2map	blackmad/s2map	6857730	quick and dirty latlng visualizer	C	6071	57	14	57
+jquery.ytLoad	Mythli/jquery.ytLoad	12343655	A youtube inspired, simple, lightweight jQuery plugin to visualize ajax progress.	JavaScript	41	57	11	57
+CorsairKeyboardSpectrograph	CalcProgrammer1/CorsairKeyboardSpectrograph	25234695	Spectrograph audio visualizer for Corsair K70 RGB keyboard for Windows and Linux	C++	144	57	14	57
+bitjet	rgbkrk/bitjet	30995914	:rocket: Binary visualization using IPython widgets	JavaScript	49	56	4	56
+xeoengine	xeolabs/xeoengine	28131018	A data-driven 3D visualization engine on WebGL. 	JavaScript	116473	56	9	56
+print_o	koriym/print_o	5217495	An object graph visualizer	PHP	2407	56	7	56
+heapfrag	tenderlove/heapfrag	54230918	Heap visualizer for Ruby	Ruby	430	56	6	56
+kernel_visualization	vonnyfly/kernel_visualization	42439021	Generate callgraphs for Linux/Solaris/FreeBSD kernel function calls	Python	18488	55	25	55
+event2timeline	certsocietegenerale/event2timeline	10758862	Simple Microsoft Windows sessions event logs visualization	Python	323	55	7	55
+geojs	OpenGeoscience/geojs	12960038	High performance visualization and analysis for geospatial and biomedical domain	JavaScript	48077	55	18	55
+cytoscape	cytoscape/cytoscape	7654975	Cytoscape: an open source platform for network analysis and visualization	Shell	162	55	30	55
+dom-treemap	philogb/dom-treemap	486288	DOMTreeMap is a robust, library agnostic, HTML/CSS/JavaScript TreeMap visualization library.	JavaScript	114	55	7	55
+working-with-big-data	pauldix/working-with-big-data	5382062	Slides, code, and supplemental materials for the LiveLesson: Working with Big Data: Infrastructure, Algorithms, and Visualizations	Ruby	254	55	34	55
+sensmove	alex3165/sensmove	42606185	Sensmove is the first open-sourced smart insole system that allows the user to visualize his foot forces simultaneously on his smartphone.	Objective-C	169276	55	3	55
+ngsplot	shenlab-sinai/ngsplot	33125736	Quick mining and visualization of NGS data by integrating genomic databases	R	262463	54	23	54
+LEDStrip	wyager/LEDStrip	23416063	An LED music visualizer	C	902	54	5	54
+dungeon-builder	julsam/dungeon-builder	17575913	Dungeon builder visualizer	Haxe	452	54	4	54
+sensorreadout	onyxbits/sensorreadout	4157403	Android app for visualizing sensor readout	Java	724	54	26	54
+makefile2dot	vak/makefile2dot	948767	Visualize your Makefile using GraphViz dot utility 	Python	286	54	6	54
+d3js-101	scottcheng/d3js-101	7946258	A technical intro to D3.js visualization library	null	2718	53	9	53
+multinetx	nkoub/multinetx	43675759	multiNetX is a python package for the manipulation and visualization of multilayer networks. It is build on NetworkX (https://networkx.github.io/)	TeX	4300	53	8	53
+Headstart	pkraker/Headstart	15936466	A tool for creating web-based knowledge domain visualizations.	JavaScript	7454	53	14	53
+databus	deanhiller/databus	9835917	time series data in cassandra with visualization(NREL's opensource databus project)	Python	376877	52	17	52
+schema-viz	metosin/schema-viz	53564179	Plumatic Schema visualization using Graphviz.	Clojure	220	52	2	52
+pipeline-stage-view-plugin	jenkinsci/pipeline-stage-view-plugin	49715416	Visualizes Jenkins pipelines	CSS	922	52	25	52
+opt-cpp-backend	pgbovine/opt-cpp-backend	43234879	C and C++ visualizer backend for Online Python Tutor	C	17179	52	18	52
+microbiome-tools	ubiome-opensource/microbiome-tools	38267846	For tool creators to share their inventions that analyze, visualize, and make meaning of microbiome data.	Python	932	52	7	52
+instant	siuying/instant	4062115	An experiment on real time visualize development tool, inspired by Bret Victor's Inventing on Principle talk and @ermau C# Implementation.	JavaScript	397	52	4	52
+solgraph	raineorshine/solgraph	62669862	Visualize Solidity control flow for smart contract security analysis.  :dollar: ⇆ :dollar:	JavaScript	33	52	1	52
+WebGL-Audio-Visualization	macobo/WebGL-Audio-Visualization	13061424	http://macobo.github.io/WebGL-Audio-Visualization/	JavaScript	122798	51	11	51
+railway	loddit/railway	7069476	a railway data visualization project.	CoffeeScript	553	51	8	51
+anvio	meren/anvio	17193514	An analysis and visualization platform for 'omics data	Python	39112	51	15	51
+backbone.d3	AdRoll/backbone.d3	11611407	Reusable D3 visualizations using Backbone.js views	JavaScript	268	51	20	51
+Gundo	vim-scripts/Gundo	1079126	Visualize your undo tree.	Python	418	51	6	51
+jmpy	beltashazzer/jmpy	41248523	Quick plotting and data visualization of pandas and numpy data.	Python	9933	51	0	51
+Audio-Visualizer	indrajithi/Audio-Visualizer	59298474	Audio Visualizer in C++ using OpenGL	C	7740	51	3	51
+string-matching-visualization	justinj/string-matching-visualization	14081095	Visualizing Brute Force, KMP, and Boyer-Moore	Clojure	376	50	16	50
+globalmigration	null2/globalmigration	10566506	visualization of global migration flows	HTML	20045	50	37	50
+stix-viz	STIXProject/stix-viz	14027958	STIX Visualization Tool	HTML	20830	50	8	50
+graphiti	ThibaultReuille/graphiti	21020631	OpenGraphiti Project : Data Visualization Framework	C++	47274	50	19	50
+e3	RavelLaw/e3	40154287	An Ember addon for data visualization 	JavaScript	1114	50	9	50
+gvis	jeremyolliver/gvis	263470	Rails plugin for easy embedding charts with Google Visualization API	Ruby	276	50	20	50
+BioFabric	wjrl/BioFabric	9234429	BioFabric is an open-source network visualization tool	Java	504	50	8	50
+flood-map	osm-in/flood-map	42805931	A simple web map to visualize flood information on maps	JavaScript	588	50	34	50
+depict	kevinschaul/depict	11355866	Depict aims to easily render fallback images for complex visualizations. (IE 8, I'm looking at you.)	JavaScript	70	50	14	50
+gitviz	kevinw/gitviz	5619831	Visualize git repository internals as they change, live, in the browser.	JavaScript	505	50	1	50
+Metrics.NET.FlotVisualization	etishor/Metrics.NET.FlotVisualization	18725286	JavaScript visualization app for Metrics.NET (https://github.com/etishor/Metrics.NET) based on the excelent charting capabilities of FlotCharts (http://www.flotcharts.org/)	JavaScript	605	49	20	49
+CIDA-Viz	USGS-CIDA/CIDA-Viz	23467771	Datasets and docs for CIDA's data visualization challenge	R	261208	49	35	49
+SortingAlgorithmAnimations	vbohush/SortingAlgorithmAnimations	18991568	Visualization and comparison of sorting algorithms	Java	284	49	12	49
+ProfileView.jl	timholy/ProfileView.jl	11745764	Visualization of Julia profiling data	Julia	224	49	8	49
+shinyData	yindeng/shinyData	28644958	A GUI for interactive data analysis, visualization and presentation	R	1566	49	24	49
+lucify-refugees	lucified/lucify-refugees	45693660	A visualization of the flow of asylum seekers to European countries from 2012 onwards.	JavaScript	13601	49	12	49
+vtraceroute	aishraj/vtraceroute	39929747	vTraceRoute - A simple traceroute visualizer.	Go	1786	49	4	49
+VisualJusticeTW	yudazilian/VisualJusticeTW	46177634	台灣法務視覺資料 (Visualized Criminal Justice Data of Taiwan)	JavaScript	6996	49	2	49
+Rdataviz	pablobarbera/Rdataviz	13499773	Materials for workshop "Data Visualization with R and ggplot2"	R	15566	48	51	48
+pkgdiff	lvc/pkgdiff	3274193	A tool for visualizing changes in Linux software packages	Perl	6734	48	10	48
+angular-dimple	esripdx/angular-dimple	20074015	Angular Dimple is a series of Angular directives that help you create graphs and visualizations based on Dimple.js and d3. It's designed to create graphs as simply as possible from flat JSON data	JavaScript	806	48	15	48
+afterglow	zrlram/afterglow	9436679	graph visualization tool	Perl	223	47	9	47
+axle	axlelang/axle	1395264	Axle Domain Specific Language for Scientific Cloud Computing and Visualization	Scala	69872	47	8	47
+datausa-site	DataUSA/datausa-site	38699463	The most comprehensive visualization of U.S. public data —	JavaScript	1280500	47	12	47
+openbudgetoakland	openoakland/openbudgetoakland	7845579	Visualizations of Oakland's budget data, and explanations about the budget process.	HTML	10561	47	76	47
+vdquil	daveliepmann/vdquil	13058840	Visualizing Data (in Quil!)	Clojure	2516	47	4	47
+KeyboardVisualizerVCUI	CalcProgrammer1/KeyboardVisualizerVCUI	40071271	Razer Chroma and Corsair RGB Keyboard Spectrograph Visualizer for Windows with Visual C++ UI	C++	8934	47	21	47
+BuildVision	nagits/BuildVision	32875039	A Visual Studio extension to visualize the building process.	C#	417	47	6	47
+venture-dealr	dlopuch/venture-dealr	35076584	Visualize and turn the knobs on venture financing concepts such as dilution, option pools, liquidation preferences, down-rounds, and more!	JavaScript	13811	47	6	47
+DeepVisualization	happynear/DeepVisualization	45661583		Matlab	23332	46	21	46
+d3-tsline	boorad/d3-tsline	2648763	a time-series line graph visualization using D3	JavaScript	230	46	16	46
+grasp	joeltg/grasp	37545429	Visualize Lisp	JavaScript	22349	46	1	46
+tsp-solver	dmishin/tsp-solver	3230158	Travelling Salesman Problem solver in pure Python + some visualizers	Python	880	46	18	46
+avos	CiscoSystems/avos	20111551	New Visualization Tool for Openstack	Python	38096	45	9	45
+acetate	geoiq/acetate	1095915	Stylesheets for clean geographic data visualization. 	Python	20475	45	8	45
+SPIED-viz	sonalgupta/SPIED-viz	21139339	Stanford Pattern-based Information Extraction and Diagnostics -- Visualization	JavaScript	500	45	10	45
+mongo-graph	Clever/mongo-graph	11465560	visualize mongo data	CoffeeScript	26	45	2	45
+UnityAudioVisualizerTutorial	miketucker/UnityAudioVisualizerTutorial	2074262	Demonstrates using OSC to visualize audio in a Unity3d project	C#	490	45	19	45
+open-network-insight	Open-Network-Insight/open-network-insight	48076411	Open Network Insight is an open source solution for packet and flow analytics on Hadoop.  It provides ingest and transform of binary data, scalable machine learning, and interactive visualization for identifying threats in network flows and DNS packets.  Open Network Insight uses the open source projects Jupyter, nfdump, wireshark, and D3.	null	394	45	11	45
+c3vis	ExpediaDotCom/c3vis	40509817	Visualize the resource utilisation of Amazon ECS clusters	JavaScript	431	45	4	45
+visualizer	Codeinwp/visualizer	11550832	WordPress Visualizer plugin is a simple, easy to use and quite powerful tool to create, manage and embed interactive charts into your WordPress posts and pages.	PHP	900	45	19	45
+chrollusion	disconnectme/chrollusion	3578740	Collusion for Chrome (and Safari!) is a browser extension that lets you visualize and, optionally, block the otherwise invisible websites tracking you (based on Mozilla’s Firefox add-on Collusion <https://github.com/toolness/collusion>).	JavaScript	2986	45	32	45
+atlas-economic-complexity	cid-harvard/atlas-economic-complexity	18333389	The Atlas online is a powerful interactive tool that enables users to visualize a country’s total trade, track how these dynamics change over time and explore growth opportunities for more than a hundred countries worldwide.	HTML	140320	45	18	45
+money	mohnish/money	18423117	Money (beta) - let's you manage your money and visualize where your money goes. Built using Ruby 2.3.0, Rails 4.2.5, Backbone and Bootstrap	Ruby	22866	45	8	45
+lab	concord-consortium/lab	2774959	HTML5-based scientific models, visualizations, graphing, and probeware	JavaScript	132202	44	33	44
+datazilla	mozilla/datazilla	4148916	Datazilla is a system for managing and visualizing data.	JavaScript	16226	44	15	44
+minifolds	echen/minifolds	3625532	ggplot2-inspired d3 app to make instant interactive visualizations	CoffeeScript	94	44	11	44
+appstract	gophergala/appstract	29736674	Visualize go programs in a graph to create an overview of its structure by scanning a GitHub repository	Go	299	44	7	44
+stagehand	camerond/stagehand	14593979	Stagehand helps designers (and developers) use simple static markup to describe, visualize, and debug complex interface interactions.	JavaScript	241	44	2	44
+aperturejs	unchartedsoftware/aperturejs	13630629	ApertureJS - an open, adaptable and extensible JavaScript visualization framework	JavaScript	100119	43	14	43
+leaflet-echarts	wandergis/leaflet-echarts	47736861	A plugin for leaflet to load echarts map and Make big data visualization easier.	JavaScript	2738	43	21	43
+Audio-visualizer	jahfer/Audio-visualizer	3925095	Small audio visualizer built using openFrameworks	C	10944	43	11	43
+Artemis	sanger-pathogens/Artemis	322216	Artemis is a free genome viewer and annotation tool that allows visualization of sequence features and the results of analyses within the context of the sequence, and its six-frame translation	Java	34650	43	18	43
+gleam	dgrtwo/gleam	18162527	Creating interactive visualizations with Python	JavaScript	2860	43	6	43
+Mole2015	Oceanware/Mole2015	58898279	Mole for Visual Studio 2015 Debugger Visualizer.	null	752	43	2	43
+Brayns	BlueBrain/Brayns	61363694	Visualizer for large-scale and interactive ray-tracing of neurons	C++	9736	43	5	43
+jquery.graspSchedule.js	Tak0002/jquery.graspSchedule.js	20158113	jQuery graspSchedule.js is a simple jQuery calendar plugin used to visualize complex schedules & events, a little similar to the timeline or event calendar.	JavaScript	354	43	9	43
+JOUR491-Data-Visualization	mattwaite/JOUR491-Data-Visualization	12086038	Course materials for a data visualization course taught at the University of Nebraska-Lincoln's College of Journalism and Mass Communications	HTML	34980	42	20	42
+nagvis	NagVis/nagvis	31555328	Visualization addon for your open source monitoring core	PHP	13104	42	18	42
+PyMultiNest	JohannesBuchner/PyMultiNest	2460960	Pythonic Bayesian inference and visualization for the MultiNest Nested Sampling Algorithm or MCMC.	Python	1472	42	29	42
+MeowmeowPlayer	wayou/MeowmeowPlayer	17160764	An HTML5 Music Player with Spectrum Visualizer	JavaScript	703	42	26	42
+ReferenceExplorer	tsubaki/ReferenceExplorer	21450569	ReferenceExplorer will visualize the object and component dependencies	C#	6117	42	13	42
+phpunit-d3-report	marmelab/phpunit-d3-report	13502728	Visualize the slowest parts of a PHPUnit testsuite using d3.js	JavaScript	2482	42	6	42
+splot	jkff/splot	1190654	Visualizing the activity of many concurrent processes	Haskell	51	42	3	42
+gitg	GNOME/gitg	4579671	gitg is a GitX clone for GNOME/gtk+. It aims at
+  being a small, fast and convenient tool to visualize git history and actions
+  that benefit from a graphical presentation.	Vala	19132	42	12	42
+composing-graphics	chnn/composing-graphics	31192437	Presentation and demo code for composing data visualizations in Ember	JavaScript	1524	42	1	42
+mapviz	swri-robotics/mapviz	27551673	Modular ROS visualization tool for 2D data.	C++	1275	41	20	41
+vim-markology	jeetsukumaran/vim-markology	17768680	Vim mark visualization, navigation and management	VimL	39	41	6	41
+omegalib	uic-evl/omegalib	10537822	A hybrid visualization framework for desktops, large immersive displays and the web	C	402303	41	24	41
+palladio	humanitiesplusdesign/palladio	26826666	An application that brings humanities research methods to data visualization.	JavaScript	49927	41	3	41
+music-frequency-d3	bignerdranch/music-frequency-d3	33737706	A music frequency visualizer using D3.js	JavaScript	12515	41	20	41
+vudio.js	margox/vudio.js	52510768	A simple web audio visualizer.	JavaScript	2136	41	7	41
+viscm	matplotlib/viscm	38525273	A tool for visualizing and designing colormaps using colorspacious and matplotlib	Python	1063	41	10	41
+aurora	pixelmatix/aurora	24278991	Aurora runs on SmartMatrix, a beautiful music visualizer, dynamic art display, video game art display.	C++	16981	41	18	41
+isat	koansys/isat	3213731	Satellite Orbit Tracker: implement most-current SGP models and algorithms in JavaScript, then use to visualize hundreds of satellites with any browser	JavaScript	33162	41	18	41
+web-dictaphone	mdn/web-dictaphone	20534499	A sample MDN app that uses getUserMedia and MediaRecorder API for recording audio snippets, and The Web Audio API for visualizations.	JavaScript	42	41	16	41
+Elevation	mezzoblue/Elevation	334561	Elevation is a route visualizer that renders personal GPS data in 3D space. Built in Processing.	Java	2042	41	8	41
+wordgraph	davis/wordgraph	19951431	A small app that visualizes words used in a conversation	JavaScript	748	41	0	41
+npm2dot	wyvernnot/npm2dot	38800455	Convert npm dependency list to dot file which can be visualized using graphiz	JavaScript	2748	41	1	41
+kmap	cjrd/kmap	15426891	Knowledge map visualization library	JavaScript	942	40	10	40
+edge	QianmiOpen/edge	14254418	Dubbo Visualized Testing Tool	CSS	1149	40	44	40
+python-viz-intro	jonblower/python-viz-intro	24058423	Introduction to data visualization in Python, including plotting data from NetCDF files. Originally created for a Short Course in Data Assimilation and Visualization at the University of Reading, September 2014.	Python	12040	40	14	40
+benchgraph	CodingBerg/benchgraph	50431505	Visualization of Golang benchmark output using Google charts	Go	5	40	2	40
+c2-demos	lynaghk/c2-demos	4581335	Example C2 visualizations and applications	Clojure	152	40	12	40
+torch-visbox	Aysegul/torch-visbox	43214870	visualizing what ConvNets learn with camera	Lua	872	40	6	40
+influent	unchartedsoftware/influent	13630672	Influent is an HTML5 tool for visually and interactively following transaction flow, rapidly revealing actors and behaviors of potential concern that might otherwise go unnoticed. Summary visualization of transactional patterns and actor characteristics, interactive link expansion and dynamic entity clustering enable Influent to operate effectively at scale with big data sources, in any modern web browser. Influent has been used to explore data sets with millions of entities and hundreds of millions of transactions.	JavaScript	21707	40	18	40
+Quibbler	Antrikshy/Quibbler	33100726	An experimental website powered by Socket.IO where anonymous chat messages are beautifully visualized in real time	JavaScript	919	40	11	40
+openafs	openafs/openafs	364443	Fork of OpenAFS from git.openafs.org for visualization	C	109515	39	27	39
+Tracer	SideChannelMarvels/Tracer	52448505	Set of Dynamic Binary Instrumentation and visualization tools for execution traces.	C++	100	39	11	39
+mojsart	mojsart/mojsart	20045724	A crowd-sourced music visualization engine inspired by a desire to find new ways to visualize music libraries	JavaScript	37636	39	4	39
+Visualizing-Deep-Learning	colah/Visualizing-Deep-Learning	24776994	A series of blog posts on visualizing deep learning.	JavaScript	1125	39	16	39
+json-schema-viewer	jlblcc/json-schema-viewer	19954421	JavaScript tool for visualizing json-schemas	JavaScript	1211	39	8	39
+gramm	piermorel/gramm	47769110	Gramm is a powerful visualization toolbox which allows to quickly create complex, publication-quality figures in Matlab, and is inspired by R's ggplot2 library by Hadley Wickham. As a reference to this inspiration, gramm stands for GRAMmar of graphics for Matlab.	Matlab	10916	39	19	39
+torch-pastalog	Kaixhin/torch-pastalog	55677288	A Torch interface for pastalog - simple, realtime visualization of neural network training performance	Lua	4	39	1	39
+pipe	Pipend/pipe	35079531	A Web tool for querying any data source (SQL, MongoDB, ElasticSearch, Redis ...), and analyzing and visualizing the result.	LiveScript	695	39	5	39
+Forcecraft	metadaddy/Forcecraft	15686152	Visualization of Salesforce Data in Minecraft	Java	17499	38	14	38
+election-insights	IBM-Bluemix/election-insights	40556883	Sentiment analysis and visualization on all things election	JavaScript	1229	38	30	38
+caleydo	Caleydo/caleydo	9451506	Caleydo - Visualization for Molecular Biology	Java	1503813	38	13	38
+gltrail	Fudge/gltrail	2506	Real-time web-server visualization using OpenGL and a force directed layout	C++	151	38	8	38
+ImageVisualizer	Jaex/ImageVisualizer	15399803	Visual Studio 2015 Image Visualizer	C#	65	38	3	38
+oip	USU-Security/oip	11429878	"organicip" visualizer - uses libpcap and SDL to visualize IP traffic between endpoints	C++	1743	38	4	38
+ivy	Microsoft/ivy	48673189	IVy is a research tool intended to allow interactive development of protocols and their proofs of correctness and to provide a platform for developing and experimenting with automated proof techniques. In particular, IVy provides interactive visualization of automated proofs, and supports a use model in which the human protocol designer and the automated tool interact to expose errors and prove correctness.	Python	2885	38	17	38
+Sound-Visualizer	srchea/Sound-Visualizer	9959435	:musical_note: A sound visualizer in Web Audio API and WebGL (Three.js)	JavaScript	6609	38	15	38
+urbium	willwclo/urbium	19952625	An urban visualizer	JavaScript	12460	38	0	38
+crunchcrawl	petewarden/crunchcrawl	858077	A project to gather, analyze and visualized the data in Crunchbase	PHP	39929	38	11	38
+d3-context-menu	patorjk/d3-context-menu	23058971	A plugin for d3.js that allows you to easy use context-menus in your visualizations.	CSS	23	38	17	38
+common-clarity	kkschick/common-clarity	26188246	Visualizing Common Core test data into actionable insights for teachers	Python	32920	38	4	38
+NERD.DISCO	TimPietrusky/NERD.DISCO	22894279	Combination of Tessel & Node.js to create visualizations using LED (NeoPixel) based on sound (Web Audio API).	JavaScript	23027	38	2	38
+libgateY	tneukom/libgateY	23577143	Visualize and control your C++ application with a web browser using variables shared over websockets between C++/JS. No dependencies, single .cpp/.hpp, C++11, OS X, MSVC >12, Linux 	C++	1776	38	1	38
+google-visualization-python	google/google-visualization-python	35116715	Automatically exported from code.google.com/p/google-visualization-python	Python	180	37	22	37
+Visual-Town-Budget	goinvo/Visual-Town-Budget	8864073	Open-source budget visualization framework.	JavaScript	6762	37	42	37
+glanceyear	Kraigo/glanceyear	25275441	JQuery data visualization / Glance Year	JavaScript	152	37	7	37
+tmve	jseabold/tmve	2597129	Fork of topic model visualization engine	Python	12035	37	12	37
+davix	secviz/davix	14608183	Data Analysis and Visualization Linux Toolset	Shell	4376	37	12	37
+gl-surface3d	gl-vis/gl-surface3d	16711273	3D parametric surface visualization	JavaScript	1146	37	8	37
+lightning-scala	lightning-viz/lightning-scala	30164098	Scala client for the Lightning data visualization server (WIP)	Scala	39823	37	17	37
+emperor	biocore/emperor	7758329	Emperor a tool for the analysis and visualization of large microbial ecology datasets	JavaScript	26676	37	29	37
+echarts-x	pissang/echarts-x	28071777	Extension pack of ECharts providing 3d plots and globe visualization	JavaScript	5611	37	13	37
+django-gcharts	rhblind/django-gcharts	6001716	Provides a QuerySet, Manager and other tools for easy integration with the Google Visualization API	Python	539	37	12	37
+visularity	sandinmyjoints/visularity	4120028	Realtime semantic similarity visualization with gensim, d3.js, and hookbox	JavaScript	368	37	7	37
+numbars	needim/numbars	15657698	number visualization with bars, like progressbar	CSS	591	37	3	37
+MusicStreamer	harjot-oberai/MusicStreamer	57459873	A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music.	Java	26660	37	9	37
+dcaction	DCActionforChildren/dcaction	13683312	Free and open-source mapping tools and data workflow for visualizing neighborhood data	JavaScript	18570	37	45	37
+census_explorer	gazetteerhk/census_explorer	16160129	Explore Hong Kong's neighborhoods through visualizations of census data	Python	11014	37	9	37
+shard-viz	mongodb-labs/shard-viz	5361157	A chrome plugin for visualizing sharded MongoDB clusters	JavaScript	831	37	10	37
+visual	idescat/visual	12808135	Visual is a Javascript library for data visualization developed by the Statistical Institute of Catalonia (Idescat). It is based on popular open source solutions. Visual offers a simple interface that encapsulates the complexity of these solutions for the most common chart types.	HTML	3605	37	9	37
+Gitualize	Gitualize/Gitualize	38793396	Visualize GitHub repos as they evolve over time.	JavaScript	2049	37	4	37
+word2vec-pride-vis	arnicas/word2vec-pride-vis	27005498	A hack to replace Pride & Prejudice text with closest word2vec model word, and visualize results.	Python	29692	37	9	37
+kibana-heatmap	ppi-ag/kibana-heatmap	21820541	This module provides an additional panel type for the Kibana web application that visualizes time-stamped log events stored in the Elasticsearch database.	JavaScript	342	37	7	37
+smrt-git	yangshun/smrt-git	37052252	Singapore train lines visualized in the form of git commits and branches	Shell	293	37	2	37
+mongo-aggregation-debugger	gflandre/mongo-aggregation-debugger	38495662	Debug MongoDb's aggregation framework and visualize what each stage of the pipeline outputs	JavaScript	155	37	2	37
+JSAV	vkaravir/JSAV	1922931	JavaScript Algorithm Visualization library	JavaScript	4036	36	21	36
+budget	bengarvey/budget	7494793	Philadelphia Budget Data data visualization	JavaScript	6335	36	13	36
+mapsapi-heatmap	yandex/mapsapi-heatmap	22951111	Heatmap: Yandex.Maps API plugin for data visualization	JavaScript	358	36	9	36
+webvs	azeem/webvs	10319426	Audio Visualization rendering library for the browser	JavaScript	11493	36	6	36
+bart-employees-in-d3	vicapow/bart-employees-in-d3	13488685	a data visualization of the salary of BART employees built with D3	JavaScript	499	36	9	36
+weeknd3	gruiz17/weeknd3	8555237	Visualization of the song "Echoes of Silence" by The Weeknd. [mainProject]	JavaScript	9019	36	10	36
+connectomeviewer	LTS5/connectomeviewer	590156	Software Application for the Visualization and Analysis of Multi-Modal Multi-Scale Network and Neuroimaging Data with Python	Python	114562	36	18	36
+R-Network-Visualization-Basics-to-Advanced	kateto/R-Network-Visualization-Basics-to-Advanced	55626077	Basic and advanced network visualization with R - code and tutorial from my Sunbelt 2016 workshop. 	R	5648	36	2	36
+StarWars	gastonstat/StarWars	4993975	Visualizing Star Wars scripts with arc diagrams	R	677	36	28	36
+InfoVizGeek	shivkumarganesh/InfoVizGeek	32076517	List of tools and Utilities for Data and Information Visualization. Ever Expanding list with Insights into some of the most happening Frameworks.	null	2070	36	4	36
+d3-state-visualizer	romseguy/d3-state-visualizer	40987432	Real-time visualizations of your application state	JavaScript	756	36	7	36
+TRAPCITY	JacksonGariety/TRAPCITY	13556929	A music visualizer for TRAPCITY.	JavaScript	15073	36	1	36
+shifted-maps	FH-Potsdam/shifted-maps	35545001	Shifted Maps visualizes personal movement data as a network of map extracts showing visited places.	JavaScript	25410	36	7	36
+mapplz-ruby	mapmeld/mapplz-ruby	21437518	Ruby gem to store, query, and visualize map data without all the complexity	Ruby	1236	36	1	36
+d3-gauge	thlorenz/d3-gauge	13025057	Gauge visualization built on top of d3.	CSS	1378	35	11	35
+timecloud	stef/timecloud	79647	jQuery Timecloud - a javascript visualization widget	JavaScript	803	35	3	35
+schwarzschild	rantonels/schwarzschild	31465247	A real-time WebGL visualization of a Schwarzschild Black Hole	HTML	12286	35	7	35
+openspendingjs	openspending-archive/openspendingjs	2011939	OpenSpending js library and mini-apps including visualizations	JavaScript	17246	35	28	35
+bikeshare	ramnathv/bikeshare	11588928	Visualizing Bike Sharing Networks with rCharts and Shiny	CSS	799	35	43	35
+gitmap	oracleofnj/gitmap	51033954	Visualization of GitHub Ecosystems and Repo Relationships	HTML	20037	35	1	35
+prolog	cdglabs/prolog	34144450	The best Prolog visualizer	JavaScript	3221	35	3	35
+traffic-engine-app	opentraffic/traffic-engine-app	36878689	Web application for processing and visualizing traffic statistics.	JavaScript	2614	35	17	35
+netjsongraph.js	interop-dev/netjsongraph.js	40670235	NetJSON NetworkGraph visualizer based on d3.js	JavaScript	298	35	10	35
+Hash-Table-Visualized	vhalbwachs/Hash-Table-Visualized	20196839	A visualization of a Hash Table using Angular.js	JavaScript	208	35	0	35
+Core-Plot	ogino/Core-Plot	1311594	Core Plot is a plotting framework for Mac OS X and iOS. It provides 2D visualization of data, and is tightly integrated with Apple technologies like Core Animation, Core Data, and Cocoa Bindings.	Objective-C	21168	35	6	35
+Analyzing-Visualizing-Data-PowerBI	MicrosoftLearning/Analyzing-Visualizing-Data-PowerBI	44605061	This repository contains the lab files and other resources for the free Microsoft course DAT207x: Analyzing and Visualizing Data with Power BI. To learn how to connect, explore, and visualize data with Power BI, sign up for this course on edX.	null	455157	35	58	35
+brute-force-plotter	eyadsibai/brute-force-plotter	35382271	Tool to visualize data quickly with no brain usage for plot creation	Python	3607	35	5	35
+medium_visualization	ricardo-bion/medium_visualization	55659469		null	15	34	4	34
+malwarez	YakindanEgitim/malwarez	8366111	Malware visualization on earth map	JavaScript	108711	34	14	34
+d3-stock	arnauddri/d3-stock	30265598	Stock prices visualization using d3.js	JavaScript	280	34	15	34
+rails-google-visualization-plugin	mwarnock/rails-google-visualization-plugin	28758	A rails plugin that provides simple block helpers to introduce google visualizations (gap minder)	Ruby	845	34	10	34
+clusterProfiler	GuangchuangYu/clusterProfiler	20360040	:bar_chart:statistical analysis and visualization of functional profiles for genes and gene clusters	R	10211	34	32	34
+gdc2	davidfischer/gdc2	9395233	An interactive data visualization of where open source comes from	Python	4387	34	14	34
+itowns	iTowns/itowns	50191475	iTowns is a JS/WebGL framework for 3D geospatial data visualization	JavaScript	7382	34	15	34
+cronviz	federatedmedia/cronviz	2638029	A crontab visualizer	Ruby	175	34	16	34
+arcane.gl	DodekaHydra/arcane.gl	11641606	WebGL Music Visualizer	JavaScript	27285	34	8	34
+depan	google/depan	32349559	DepAn is a direct manipulation tool for visualization, analysis, and refactoring of dependencies in large applications.	Java	2912	34	13	34
+vis.js	caseif/vis.js	34193606	Monstercat visualizer in Javascript and three.js.	JavaScript	2368	34	21	34
+stream-viz	thlorenz/stream-viz	13122695	Visualizes streams in the browser.	JavaScript	884	34	5	34
+duvet	pybee/duvet	13023748	A GUI tool for visualizing coverage data.	Python	938	34	12	34
+epiviz	epiviz/epiviz	9941645	EpiViz is a scientific information visualization tool for genetic and epigenetic data, used to aid in the exploration and understanding of correlations between various genome features.	JavaScript	29866	34	5	34
+luminoso	commonsense/luminoso	609201	A visualizer for multi-dimensional semantic data	Python	30603	34	8	34
+minute	tmcw/minute	2966151	a personal data visualizer	JavaScript	436	34	2	34
+dejavis-sandbox	michael/dejavis-sandbox	816747	A sandbox for pluggable data visualizations	JavaScript	358	34	2	34
+web-analytics-dashboard	mcpasin/web-analytics-dashboard	28271567	This is a simple Web Analytics Dashboard created with R and Shiny package. Visualizations are interactive and make use of Google Charts. 	R	123	34	28	34
+devium	dgrapov/devium	7403036	Dynamic Multivariate Data Analysis and Visualization Platform	R	2067	33	32	33
+textSentimentViz	LucasEstevam/textSentimentViz	46765172	Visualization of text sentiment using deep learning	JavaScript	743	33	8	33
+PG_Curve	lipiji/PG_Curve	3484286	Matlab code for computing and visualization: Confusion Matrix, Precision/Recall, ROC,  Accuracy, F-Measure etc. for Classification.	Objective-C	227	33	54	33
+FXyz	FXyz/FXyz	26685587	A JavaFX 3D Visualization and Component Library	Java	19111	33	9	33
+CUNY-data-storytelling	amandabee/CUNY-data-storytelling	10465653	A course in journalism and data visualization. 	HTML	8451	33	5	33
+universal-java-matrix-package	ujmp/universal-java-matrix-package	39726618	A Java Library for sparse and dense matrices, linear algebra, visualization and big data	Java	5849	33	10	33
+ID3-Decision-Tree	willkurt/ID3-Decision-Tree	5699175	JavaScript Implementation of the ID3 Decision Tree algorithm with some basic visualization	JavaScript	244	33	11	33
+arcgis-echarts	wandergis/arcgis-echarts	48480631	A plugin for ArcGIS JS API to load echarts map and Make big data visualization easier.	JavaScript	6035	33	22	33
+flow-inspector	webholics/flow-inspector	4403509	A web-based network flow visualization tool.	JavaScript	2326	33	3	33
+compass	vega/compass	25840522	Visualization Recommendation Engine, powered by Vega-Lite Specification Language	JavaScript	11480	33	2	33
+audio-visualizer-with-controls	wayou/audio-visualizer-with-controls	33673764	html5 audio visualizer with audio play controls	JavaScript	9399	33	7	33
+ExoVis	curt-mitch/ExoVis	12790670	Exoplanet system visualizer	JavaScript	59244	33	1	33
+visualizing-events	gareth-lloyd/visualizing-events	1280113	History Hackday project: visualizing the time and place of events recorded in Wikipedia	Java	1093	33	6	33
+Places	neonichu/Places	18194971	iOS app which  uses the Moves API to visualize which places you spent the most time at in the last seven days.	Objective-C	368	33	14	33
+globe-viewer	k9/globe-viewer	63019290	Globe Viewer - Visualize the globe using WebGL	JavaScript	20561	33	0	33
+bj-air-vis	scottcheng/bj-air-vis	6932535	A visualization of Beijing air pollution	JavaScript	443	32	23	32
+formula1-lap-charts	davidor/formula1-lap-charts	26558355	Lap chart visualization of Formula 1 races.	JavaScript	333	32	5	32
+saturation	sroske/saturation	438797	A color theme visualization toy	Objective-C	10558	32	4	32
+Templar	schulmar/Templar	15343180	Visualization tool for Templight C++ template debugger traces	C++	328	32	3	32
+lightning.js	lightning-viz/lightning.js	30133664	Javascript client for the Lightning data visualization server.	JavaScript	958	32	4	32
+2015-02-23_bryan-fields-talk	jennybc/2015-02-23_bryan-fields-talk	31132213	Talk at Workshop on Visualization for Big Data: Strategies and Principles, Fields Institute http://www.fields.utoronto.ca/programs/scientific/14-15/bigdata/visualization/	null	9470	32	8	32
+visualizing-couchdb-changes-with-node-js	karmi/visualizing-couchdb-changes-with-node-js	1061460	An experiment in basic real-time visualization of CouchDB _changes stream with Node.js and Socket.IO	JavaScript	218	32	6	32
+Sushi	dphansti/Sushi	16993713	Tools for visualizing genomics data	R	51184	32	9	32
+spiderman	ltebean/spiderman	17766933	a crawler with visualized config board	JavaScript	1895	32	8	32
+wikipedia-map	controversial/wikipedia-map	50757083	A web app for visualizing the connections between Wikipedia pages.	JavaScript	1122	32	16	32
+napchart	larskarbo/napchart	36324958	A polyphasic sleep visualizer written in Javascript	CSS	6547	32	6	32
+dump-info-visualizer	dart-lang/dump-info-visualizer	21358135	A visualizer for the JSON data produced by the dart2js --dump-info command	Dart	14603	32	14	32
+airborne	stewdio/airborne	31085204	Flight data visualized on a WebGL globe. Just like everyone else.	JavaScript	19281	32	8	32
+android-rotation-sensor-sample	kplatfoot/android-rotation-sensor-sample	10567775	Example of using the Android rotation sensor and visualizing the device rotation with a custom view.	Java	561	32	14	32
+tmv	ajbc/tmv	22382316	topic model visualization	Python	11547	31	11	31
+web-visualizations	openmhealth/web-visualizations	40674833	A library of web visualizations for mobile health data.	JavaScript	1376	31	8	31
+phy	kwikteam/phy	22426819	Spike sorting, analysis, and visualization of ephys data in Python	Python	4125	31	25	31
+RoaveDeveloperTools	Roave/RoaveDeveloperTools	18835885	A PHP application visualization/debugging tool for ZendFramework/Symfony	PHP	1345	31	8	31
+Pynteractive	coelias/Pynteractive	30976426	Pilot to work with dynamic visualization by using python	JavaScript	6070	31	4	31
+arcgis-echarts3	wandergis/arcgis-echarts3	49625358	A plugin for ArcGIS JS API to load echarts3 map and Make big data visualization easier.	JavaScript	1902	31	15	31
+vis	vlandham/vis	3071553	starter kit for visualizations	JavaScript	23561	31	14	31
+NohBoard	ThoNohT/NohBoard	9871392	A Keyboard Visualizer	C#	1092	31	11	31
+taxontree	bpodgursky/taxontree	51799851	Visualization of the taxonomic tree of all known species	JavaScript	801	31	3	31
+poem-flowers	nicola/poem-flowers	27350019	[POEM] Interactive visualization and code poetry. (probably) first poem in git commits	HTML	4543	31	2	31
+d3-sankey	d3/d3-sankey	47321555	Visualize flow between nodes in a directed acyclic network.	JavaScript	26	31	7	31
+LeapWebVisualizer	markmsmith/LeapWebVisualizer	6842350	Project to visualize the hand and finger data from the Leap Motion in a web browser	JavaScript	1696	31	8	31
+vizwit	timwis/vizwit	41299286	An interactive data visualization tool	JavaScript	9412	30	11	30
+cy2neo	jexp/cy2neo	22276876	Cy2Neo - Tiny Neo4j Cypher Workbench with D3 Visualization	JavaScript	623	30	20	30
+panorama	americanpanorama/panorama	43214148	Panorama visualization toolkit (START HERE)	JavaScript	8153	30	4	30
+ggbio	tengfei/ggbio	2337610	Grid and ggplot2 based visualization for biological data	R	21731	30	6	30
+divvyvision	mattshax/divvyvision	32435129	Divvy.Vision is an open-source visualization platform of Chicago's Divvy bike share program.	JavaScript	10798	30	14	30
+d3js_trace	Etsukata/d3js_trace	13885789	Trace data visualization with d3js	JavaScript	296	30	0	30
+colorgorical	connorgr/colorgorical	61828558	Colorgorical: a tool for creating categorical information visualization color palettes.	C	10573	30	1	30
+ghc-vis	def-/ghc-vis	20652842	Visualize live Haskell data structures in GHCi	Haskell	6049	30	5	30
+branchesapp	choonkeat/branchesapp	3622908	a better git(hub) forks visualizer	Ruby	126	30	4	30
+n-queens-visualizer	Haseeb-Qureshi/n-queens-visualizer	51252000	Visualizes solutions to the N-Queens problem, written in React & Flux	JavaScript	395	30	12	30
+javascript	stewdio/javascript	5734514	Course notes for “Visualizing JavaScript” class at NYU ITP, Autumn 2012.	JavaScript	6866	30	3	30
+twitter-graph-visualization	JohnCoogan/twitter-graph-visualization	6962613	Analysis of the Twitter Social graph using Python, NetworkX, and D3.js	Python	179	29	15	29
+ember-run-loop-visual	machty/ember-run-loop-visual	13300567	Interactive visualization of the Ember Run Loop	JavaScript	162	29	10	29
+slycat	sandialabs/slycat	11371048	Web-based data science analysis and visualization platform.	Jupyter Notebook	97374	29	8	29
+angular-timeline	destegabry/angular-timeline	13212626	Angular directive to display an interactive visualization chart to visualize events in time.	JavaScript	249	29	9	29
+js-vd	freizl/js-vd	34424672	JavaScript source code dependency visualization	JavaScript	3086	29	2	29
+exporter	sebastianbergmann/exporter	8016381	Provides the functionality to export PHP variables for visualization	PHP	145	29	7	29
+visualizer	ui-router/visualizer	50962056	UI-Router state visualizer and transition visualizer	TypeScript	3461	29	6	29
+thinkback	waxpancake/thinkback	1677489	A ThinkUp-powered time capsule and visualization of your Twitter history.	JavaScript	228	29	5	29
+not-a-tuner-yet	akfish/not-a-tuner-yet	23309724	A HTML5 sound visualization experiment that failed to be a guitar tuner. 	CSS	6802	29	5	29
+snack	cornelltech/snack	43013223	Stochastic Neighbor and Crowd Kernel (SNaCK) embeddings: Quick and dirty visualization of large-scale datasets via concept embeddings	C++	1651	29	7	29
+cable2graph	wlwardiary/cable2graph	2318548	WikiLeaks Cablegate Reference Network Visualization : cables.csv to graph to svg/html5	CSS	101034	29	3	29
+VeloView	Kitware/VeloView	29314440	VeloView performs real-time visualization of live captured 3D LiDAR data from Velodyne's HDL sensors (HDL-64E, HDL-32E, and VLP-16)	Shell	8073	29	21	29
+VeloView	Kitware/VeloView	29314440	VeloView performs real-time visualization of live captured 3D LiDAR data from Velodyne's HDL sensors (HDL-64E, HDL-32E, and VLP-16)	Shell	8073	29	21	29
+osm-node-density	tyrasd/osm-node-density	11109896	:city_sunrise: a visualization of OpenStreetMaps node density	JavaScript	151978	29	2	29
+crime-in-chicago	open-city/crime-in-chicago	3123166	A data visualization that lets you explore crime trends in Chicago's 50 wards. Built using open crime report data from the Chicago Police Department.	JavaScript	3318	29	14	29
+mcpe_viz	Plethora777/mcpe_viz	43249248	Minecraft Pocket Edition (MCPE) World Visualization & Reporting Tool with Web App	C++	343916	29	4	29
+react-render-visualizer-decorator	marcin-mazurek/react-render-visualizer-decorator	42362790	Render visualizer decorator (ES7) for React	JavaScript	19	29	4	29
+i18n_viz	railslove/i18n_viz	2385639	Gem to visualize i18n strings within a rails project	Ruby	198	29	11	29
+StringViz	ThimoKl/StringViz	9717827	Visualize string positions with JavaScript	JavaScript	212	29	2	29
+audio-sort	skratchdot/audio-sort	11245965	A webpage to visualize and audibilize sorting algorithms using javascript.	JavaScript	2247	29	5	29
+maftools	PoisonAlien/maftools	49122332	Summarize, Analyze and Visualize MAF files from TCGA or in house studies.	R	15853	29	15	29
+manybots	webcracy/manybots	1077328	Use apps to log everything you do, then visualize everything with this Activity Streams + OAuth platform.	JavaScript	509	29	5	29
+provenance	chrisdickinson/provenance	39931668	visualize dependencies between functions in your JS	JavaScript	120	29	0	29
+nth-root	aevange/nth-root	13223472	Visualizer for determining n-th roots of complex numbers; using D3 and angular	JavaScript	625	29	2	29
+TADbit	3DGenomes/TADbit	12459632	TADbit is a complete Python library to deal with all steps to analyze, model and explore 3C-based data. With TADbit the user can map FASTQ files to obtain raw interaction binned matrices (Hi-C like matrices), normalize and correct interaction matrices, identify and compare the so-called Topologically Associating Domains (TADs), build 3D models from the interaction matrices, and finally, extract structural properties from the models. TADbit is complemented by TADkit for visualizing 3D models	Python	285370	29	24	29
+grails-google-visualization	bmuschko/grails-google-visualization	1505119	Grails plugin that provides a taglib for the interactive charts of the Google Visualization API	Groovy	901	28	43	28
+genomation	BIMSBbioinfo/genomation	1983197	R package for genomic feature analysis and visualization	HTML	29105	28	13	28
+glimpse	metsci/glimpse	3662856	Dynamic and Interactive Visualization of Big Data In Java and OpenGL	Java	30976	28	14	28
+d3-geomap	stevenrskelton/d3-geomap	17383764	Polymer Web Component for geographic topology visualization	HTML	7154	28	4	28
+projectm	projectM-visualizer/projectm	12046604	projectM - cross-platform music visualization	C	104246	28	4	28
+TrendTextView	hrules6872/TrendTextView	31011946	TrendTextView is an extended TextView component for Android inspired by Google Trends visualization	Java	183	28	8	28
+lanyard	bringhurst/lanyard	531244	WebGL GIS visualization. Based on WorldWind Java and Closure Tools.	JavaScript	51892	28	7	28
+pdns-toolkit	adulau/pdns-toolkit	2147466	Passive DNS visualization and Passive DNS server toolkit	JavaScript	2671	28	4	28
+snelly	portsmouth/snelly	48008249	Ray dispersion visualization in WebGL 	JavaScript	23697	28	1	28
+lightning-example-notebooks	lightning-viz/lightning-example-notebooks	29203635	Example Jupyter notebooks of lightning visualizations	CSS	2228	28	16	28
+UberByCity	stevengoldberg/UberByCity	42493853	Visualizing Uber Data	JavaScript	1207	28	5	28
+howitzer_stat	strongqa/howitzer_stat	15629820	Howitzer extension used for automated tests coverage visualization of web application pages.	Ruby	1739	28	2	28
+data-vis-process	alignedleft/data-vis-process	21806393	Open research into data visualization process	null	272	28	0	28
+html5-web-audio-showcase	NIPE-SYSTEMS/html5-web-audio-showcase	37454335	Fancy Audio Visualizations in HTML5 and the Web Audio API	JavaScript	192	28	14	28
+sabesp-mananciais-api	rafaell-lycan/sabesp-mananciais-api	29194920	[Experiment] A simple scraping application to visualize data about water in São Paulo.	JavaScript	444	28	8	28
+rabbitmq-visualizer	jmcle/rabbitmq-visualizer	13785229	A representation of the RabbitMQ messaging concepts visualized using D3.js	null	256	28	3	28
+mysql-slow-query-log-visualizer	benkaiser/mysql-slow-query-log-visualizer	22125567	A slow query log visualiser for slow MySQL queries. Forked from https://code.google.com/p/mysql-slow-query-log-visualizer/	JavaScript	253	28	10	28
+requestdiff	vdel26/requestdiff	44674696	Send two HTTP requests and visualize any differences	JavaScript	0	28	3	28
+schemapper	NathanielWroblewski/schemapper	15623870	Schemapper is a database-agnostic tool to visualize Rails schemas using D3	Ruby	314	28	3	28
+suspendresume	01org/suspendresume	9941164	The Suspend/Resume project provides a tool for system developers to visualize the activity between suspend and resume, allowing them to identify inefficiencies and bottlenecks.	HTML	1986	28	13	28
+manybots	manybots/manybots	3709837	Your data repository for activities, your platform for your agents, visualizations, notifications, predictions and app connections.	Ruby	6584	28	5	28
+pacvis	farseerfc/pacvis	60876905	Visualize pacman local database using Vis.js, inspired by pacgraph.	Python	5136	28	1	28
+KJV-bible-database-with-metadata-MetaV-	robertrouse/KJV-bible-database-with-metadata-MetaV-	3878358	MetaV contains the “Who, Where, and When” of every single passage in the Bible at word-level detail. This database is specially structured to simplify complex “big picture” analysis or visualizing biblical information.  It pulls from a variety of other sources which are available for use under Public Domain, Creative Commons, or other open use license.	null	44423	28	11	28
+webgl-visualization	pubnub/webgl-visualization	16359088	A visualization of the PubNub traffic in WebGL.	JavaScript	5977	27	16	27
+node-timeline-visualizations	twitterdev/node-timeline-visualizations	21452064	Interactive timeline of when your friends joined Twitter. Uses Node.js, twit and vis.js.	JavaScript	1011	27	13	27
+Telemetry	Overdrivr/Telemetry	49189916	Data visualization and communication with embedded devices	C	460	27	8	27
+playbook	mode/playbook	26208824	Queries and visualization code for Mode Playbook.	HTML	206	27	5	27
+emailinsight	andreykurenkov/emailinsight	29502539	Just a place to store my scripts/code for tinkering with email data. Eventually may make it into more of a visualization/insight tool.	Python	28	27	8	27
+PlayingGoogleAnalyticsDataViz	mcpasin/PlayingGoogleAnalyticsDataViz	40833793	Packing a couple of inspiring Google Analytics visualizations within a R Shiny Dashboard	R	92	27	26	27
+D3Fire	mattdodge/D3Fire	10809569	Power your D3 visualizations with data from Firebase	HTML	6	27	7	27
+atom-markdown-mindmap	dundalek/atom-markdown-mindmap	39727428	Visualize markdown files as mindmaps in Atom editor	CoffeeScript	1040	27	4	27
+grunt-dependencygraph	auchenberg/grunt-dependencygraph	7368116	Visualize your CommonJS or AMD module dependencies.	JavaScript	314	27	4	27
+TwitVisual	nickwei84/TwitVisual	20752966	Visualize Tweets by Geolocation	JavaScript	140	27	0	27
+lissa	mtytel/lissa	9904685	Lissa Juice. A web audio app that visualizes audio and is useful for explaining lissajous figures.	JavaScript	574	27	6	27
+batlog-d3-chart	pietvandongen/batlog-d3-chart	22375645	Project to visualize batlog data	JavaScript	2452	27	0	27
+PcapViz	mateuszk87/PcapViz	29625478	Visualize network topologies and collect graph statistics based on pcap files	Python	69	27	6	27
+feature-viewer	calipho-sib/feature-viewer	36719341	Library to visualize protein sequence features in javascript using D3 - From SIB CALIPHO group; neXtProt project 	JavaScript	2436	27	4	27
+imageplot	culturevis/imageplot	10494556	ImagePlot is a free software tool that visualizes collections of images and video of any size. It is implemented as a macro which works with the open source image processing program ImageJ.	Java	149191	27	7	27
+iot-visualization	ibm-messaging/iot-visualization	25036506	This repository contains sample(s) for visualizing data in the IBM Internet of Things Foundation	JavaScript	160	26	25	26
+termite-visualizations	uwdata/termite-visualizations	16392529	[development moved to termite-data-server]	Python	4998	26	17	26
+FsPlot	TahaHachana/FsPlot	14979952	F# Data Visualization Library	F#	17460	26	6	26
+d3-dag-visualization	nickholub/d3-dag-visualization	13354787	DAG Visualization with D3	JavaScript	300	26	13	26
+jquery-treemap	lrgalego/jquery-treemap	2916349	A div based tree map visualization plugin for jquery	JavaScript	177	26	24	26
+duviz	soxofaan/duviz	3297972	Command line disk space usage visualization utility	Python	395	26	5	26
+tideline	tidepool-org/tideline	15691740	Library for Tidepool's timeline-style diabetes data visualization(s) used in Blip	JavaScript	38646	26	11	26
+CPPDebuggerVisualizers	KindDragon/CPPDebuggerVisualizers	5143031	C++ Debugger Visualizers	C++	221	26	8	26
+iVisDesigner	donghaoren/iVisDesigner	11576564	iVisDesigner is a web-based toolkit that let you create customized information visualization designs interactively.	JavaScript	16273	26	5	26
+pulsar-reporting-ui	pulsarIO/pulsar-reporting-ui	44603005	Pulsar Data Visualization, gets the data from Pulsar Reporting API, builds different charts and displays them in the browser.	JavaScript	10990	26	5	26
+collection-chronology	rdio/collection-chronology	1468531	Visualize an Rdio collection chronologically and listen in-page.	CSS	152	26	19	26
+wifiscanvisualizer	securitytube/wifiscanvisualizer	31487675	Wi-Fi Scan Visualizer by Pentester Academy	null	4412	26	6	26
+cubeviz.ontowiki	AKSW/cubeviz.ontowiki	2436444	OntoWiki component to visualize RDF-DataCubes	JavaScript	47865	26	5	26
+ofxHistoryPlot	armadillu/ofxHistoryPlot	3583004	Visualize value history on a configurable graph	C++	129	26	8	26
+padpyght	lifning/padpyght	7123119	An open-source gamepad visualizer in Python	Python	1143	26	5	26
+mvc-tree	givanse/mvc-tree	24339343	:deciduous_tree: A chronological visualization of the family of MVC patterns.	JavaScript	7469	26	1	26
+mazery	stevejackson/mazery	2361755	Maze generation visualizer using html5 Canvas, Coffeescript, jQuery, Compass	CoffeeScript	111	26	6	26
+nicar16-visualizing-data-python	robroc/nicar16-visualizing-data-python	49857413	Tutorial on visualizing data with matplotlib and pandas for NICAR16	Jupyter Notebook	553	26	6	26
+pagerankgraph	petewarden/pagerankgraph	1162757	Visualizes search engine ranking algorithms for a given domain	PHP	291	26	5	26
+dprof	AndreasMadsen/dprof	32636931	Sync but mostly async profiling and visualizing done dynamically	JavaScript	395	26	7	26
+mobilevis	bocoup/mobilevis	16295304	MobileVis - a gallery of mobile data visualizations	JavaScript	427	26	3	26
+WritingStats	smarr/WritingStats	5051698	Track and Visualize Your Writing Progress	XSLT	160	26	2	26
+d3js_smash_brothers	forrestthewoods/d3js_smash_brothers	25104260	Some example visualizations built with D3.js 	JavaScript	495	26	4	26
+circos	vigsterkr/circos	985241	Circos is a software package for visualizing data and information. It visualizes data in a circular layout — this makes Circos ideal for exploring relationships between objects or positions.	Perl	40988	26	10	26
+fragview	i-rinat/fragview	2068986	disk fragmentation visualizer based on FIEMAP and FIBMAP ioctls (linux specific)	C++	337	26	4	26
+TweetGeoViz	JaredHawkins/TweetGeoViz	21860853	Visualization tool to view tweets by location and content.	JavaScript	5616	25	19	25
+osmviz	cbick/osmviz	466493	An OpenStreetMap Visualization Toolkit for Python	Python	768	25	11	25
+chemkit	kylelutz/chemkit	1360773	A C++ library for molecular modelling, cheminformatics and molecular visualization.	C++	8742	25	13	25
+BI	Steema/BI	50261518	www.steebi.com Datamining, Visualization, Machine-Learning, Big data	Pascal	4710	25	10	25
+unix-command-survey	jvns/unix-command-survey	10952821	Visualization of correlations between HN users' .bash_history	Python	288	25	6	25
+tribe	DistrictDataLabs/tribe	26564606	Tribe extracts a network from an email mbox and writes it to a graphml file for visualization and analysis.	Jupyter Notebook	1969	25	33	25
+dvisual	justdark/dvisual	29731157	A visualization toolkit based on html's canvas and Javascript	JavaScript	37454	25	8	25
+bbvis	tracelytics/bbvis	7099186	Chrome Dev Tools extension for Backbone network visualization	JavaScript	579	25	4	25
+Maps	JeroenDeDauw/Maps	4338833	Maps is the MediaWiki extension that enables visualization of geographic data with dynamic embedded maps.	JavaScript	8496	25	23	25
+dataviz-elements	amontalenti/dataviz-elements	12994875	Elements of Data Visualization with Python and D3	JavaScript	7964	25	3	25
+ANNIS	korpling/ANNIS	5449546	ANNIS is an open source, versatile web browser-based search and visualization architecture for complex multilevel linguistic corpora with diverse types of annotation.	Java	174447	25	19	25
+pipeleaflet	murphy214/pipeleaflet	67079809	Simple Methodologies for parsing JS/HTML for the easiest visualization. 	Python	122	25	3	25
+project_prototype	bookstein/project_prototype	26038468	Hackbright final project: D3 visualization of Twitter users' politiciziation, using machine learning to classify political tweets	CSS	35652	25	3	25
+Deep_Inside_Convolutional_Networks	artvandelay/Deep_Inside_Convolutional_Networks	33844917	This is a caffe implementation to visualize the learnt model  	Python	3528	25	15	25
+ovc-2016-videos	bocoup/ovc-2016-videos	58083668	Code for visualizing videos from OpenVis Conf 2016	CSS	25066	25	5	25
+gif-3d	mikolalysenko/gif-3d	24026839	3D gif visualizer	JavaScript	1724	25	1	25
+summarytrees	kshirley/summarytrees	30562705	R package to compute and visualize summary trees	C	849	25	6	25
+dTree	ErikGartner/dTree	48499231	A library for visualizing data trees with multiple parents (such as family trees) built on top of D3	JavaScript	151	25	6	25
+neovis.js	johnymontana/neovis.js	55628517	Neo4j + vis.js = neovis.js. Graph visualizations in the browser with data from Neo4j.	JavaScript	1510	25	3	25
+Visualization-Data	zmaril/Visualization-Data	4541742	A repo full of data that is useful for visualizing other data. 	null	361	24	6	24
+user-access-visualization	forcedotcom/user-access-visualization	5814692		Apex	1208	24	13	24
+Fourier-Visualizations	bgrawi/Fourier-Visualizations	49362591	Understanding Fourier Approximations & Oscillators with HTML5 Canvas & WebAudio APIs	HTML	24	24	2	24
+lumberjack	stevenproctor/lumberjack	8996712	Log File analysis and visualization for Clojure	Clojure	157	24	4	24
+chess-dataviz	ebemunk/chess-dataviz	34920966	chess visualization library written for d3.js	JavaScript	1961	24	2	24
+onebusaway-gtfs-realtime-visualizer	OneBusAway/onebusaway-gtfs-realtime-visualizer	3555518	A visualizer for GTFS-realtime transit data.	Java	553	24	10	24
+red-black-visualizer	maxmalin/red-black-visualizer	11509959	A D3.js visualization of a red black tree	JavaScript	136	24	0	24
+R-poll-bias	gka/R-poll-bias	12984136	A set of R scripts to visualize and analyze bias in the polls	R	2104	24	9	24
+neoviz	obruening/neoviz	400556	rails app uses graphviz to visualize a neo4j database	null	169	24	2	24
+ppllink	zbryikt/ppllink	6949938	public person relationship visualization	Python	6171	23	9	23
+choroplethrZip	arilamstein/choroplethrZip	31626715	Data and Visualization of US ZIP Codes	R	126126	23	12	23
+QuickQanava	cneben/QuickQanava	39349320	C++11/Qt/QML graph visualization library.	C++	4477	23	6	23
+exploratory-parsing	AboutUs/exploratory-parsing	1912103	Web tooling and visualization functions supporting the exploratory parsing of semi-structured text.	C	132	23	10	23
+svforth	ephsec/svforth	13206171	SVFORTH - A Forth for Security Analysis and Visualization	Python	2206	23	5	23
+data-vis	ofZach/data-vis	3361254	code for my parsons (2012) class on data visualization, including in class examples, etc	C++	6219	23	9	23
+oreilly-matplotlib-course	croach/oreilly-matplotlib-course	44339278	Jupyter notebooks from my O'Reilly Media course "Matplolib for Developers: Data Visualization and Analysis with Python"	Jupyter Notebook	96058	23	7	23
+juniper-grafana	brunorijsman/juniper-grafana	36074205	Visualization of Juniper device telemetry using Grafana, InfluxDB, PyEZ, and GPB	Protocol Buffer	206	23	4	23
+loupe	jdonaghue/loupe	12021380	A pure JavaScript data visualization library	JavaScript	505	23	0	23
+react-d3-enter-exit-transitions	Swizec/react-d3-enter-exit-transitions	57133000	A proof of concept exploration of using d3js transitions in a React visualization.	JavaScript	1409	23	3	23
+poker-hacker	kevinhamiltonsmith/poker-hacker	10470231	Poker session tracking and data visualization	JavaScript	2840	23	0	23
+simple-circle-packing	inconvergent/simple-circle-packing	54291970	brief intro to python + cairo for visualization/drawing	Python	427	23	1	23
+svviz	svviz/svviz	26459236	Read visualizer for structural variants	Python	20183	23	3	23
+storage-viz	mongodb-labs/storage-viz	6378870	visualize Mongo's storage and indexes	JavaScript	336	23	6	23
+HdrHistogramVisualizer	ennerf/HdrHistogramVisualizer	38581181	Visualizer for HdrHistogram and JHiccup logs	Java	114	23	5	23
+django-netjsongraph	interop-dev/django-netjsongraph	43381390	Network Topology Visualizer & Network Topology Collector	Python	605	23	6	23
+celestia	novas0x2a/celestia	788158	UNOFFICIAL MIRROR: Celestia is an application for real-time 3D visualization of space, with a detailed model of the solar system, over 100,000 stars, more than 10,000 galaxies, and an extension mechanism for adding more objects.	C	112891	23	7	23
+wikireplay	cosmiclattes/wikireplay	11564906	A javascript tool to visualize the diff's in wikipedia	JavaScript	852	23	5	23
+Molecules	BradLarson/Molecules	22168848	Molecules is an open source 3-D molecular visualizer for iOS.	Objective-C	1239	23	7	23
+wikidata-graph-builder	AngryLoki/wikidata-graph-builder	50282859	Visualize Wikidata items using d3.js	CoffeeScript	702	23	3	23
+jChartFX	softwarefx/jChartFX	12305640	jChartFX is a powerful HTML5-compliant charting component using JavaScript libraries to leverage the power of jQuery, CSS and SVG capabilities to deliver aesthetically superior charts and a richer end user experience, providing the most complete collection of charts and graphs for professional and serious business data visualization and analysis.	CSS	4057	23	4	23
+packvis	0x00A/packvis	22146477	package visualizer for the commandline	JavaScript	135	23	0	23
+scxml-viz	jbeard4/scxml-viz	5944668	A d3-based library for visualizing SCXML with SVG.	JavaScript	202	23	2	23
+visualizeRevTree	neojski/visualizeRevTree	14618501	Visualize couchdb/pouchdb revision tree right in your browser	JavaScript	513	23	4	23
+seqplots	Przemol/seqplots	23114802	:chart_with_upwards_trend:SeqPlots - An interactive tool for visualizing NGS signals and sequence motif densities along genomic features using average plots and heatmaps.	HTML	21495	23	8	23
+mineflayer-voxel	vogonistic/mineflayer-voxel	8043695	Attempt at visualizing what the bot is up to using voxel.js	JavaScript	568	23	3	23
+Audio_Snowflake	doubledherin/Audio_Snowflake	26186985	A music visualizer inspired by Spirograph--my capstone project for Hackbright Academy	Python	25941	23	1	23
+show-commits	vicapow/show-commits	39323248	Visualize the commits of a repo from the command line	HTML	587	23	0	23
+thegamma-fsharp-prototype	the-gamma/thegamma-fsharp-prototype	39262270	Archived prototype of The Gamma project which used the F# language with an F# Compiler Service running on the server & FunScript for JavaScript compilation. Includes various sample World Bank visualizations.	JavaScript	5522	23	3	23
+Visualization	hpcc-systems/Visualization	22117259	HPCC Visualization Framework	JavaScript	31139	22	38	22
+CNN_visualization	guruucsd/CNN_visualization	31806177	An implementation of CNN visualization.	null	408	22	26	22
+nupic.cerebro	numenta/nupic.cerebro	13048688	Visualization webapp for NuPIC	JavaScript	441	22	11	22
+PokemonGo-Map-forTelegram	robbcocco/PokemonGo-Map-forTelegram	63862584	PokéMap visualization from Telegram	Python	492	22	12	22
+graph-llvm-ir	pfalcon/graph-llvm-ir	8396836	Visualization of LLVM IR	Python	141	22	8	22
+mcrits	crits/mcrits	27559339	CRITs IOC Visualization in Maltego	Python	433	22	6	22
+Qt-custom-gauge-widget	Berrima/Qt-custom-gauge-widget	27388236	Qt gauge custom widget for data visualization	C++	35	22	18	22
+Geo-Friendship-Visualization	marcelcaraciolo/Geo-Friendship-Visualization	1469295	A simple Python script for creating geo-located social network friendships visualizations	Python	1709	22	7	22
+ElasticSearch	BitTigerInst/ElasticSearch	59923772	An open source hot tweets searching and visualization.	JavaScript	2601	22	17	22
+viewport-width-visualization	paulirish/viewport-width-visualization	38396700	what do the widths and devices of responsive design look like?	JavaScript	352	22	2	22
+Hiryu	S03D4-164/Hiryu	38191136	IOC Management and Visualization Tool	JavaScript	1809	22	4	22
+open-budget	tpreusse/open-budget	5596365	A visualization web app for hierarchical budgets.	JavaScript	7255	22	8	22
+3dsav	kylemcdonald/3dsav	1353422	Code for 3d Sensing and Visualization class.	C++	1371	22	7	22
+neuronvisio	mattions/neuronvisio	229393	A Graphical User Interface with 3D Visualization features for NEURON simulation enviroment	Python	9102	22	11	22
+coffeewheel	armish/coffeewheel	28670350	D3 Coffee Wheel visualization ported to R via htmlwidgets framework	R	2138	22	6	22
+react-layered-chart	palantir/react-layered-chart	48083510	A high-performance canvas-based time series visualization in React.	TypeScript	782	22	5	22
+npm-describe	mikach/npm-describe	13436830	NPM package dependencies visualization	JavaScript	260	22	0	22
+Visual-Inference-Tools	garrettgman/Visual-Inference-Tools	1939085	A suite of visualization tools that demonstrate the intuition behind statistical inference. 	R	817	22	6	22
+SCIRun	SCIInstitute/SCIRun	3462772	SCIRun is a Problem Solving Environment (PSE), for modeling, simulation and visualization of scientific problems. This is version 5, the Qt/Boost/C++11 conversion of SCIRun v4.	C++	88337	22	23	22
+HVOX-Engine	sp4cerat/HVOX-Engine	40136476	Visualization of Large Procedural Voxel-Terrains using ISO-Surfaces based on nested Clip-Boxes	C++	5734	22	3	22
+tempo	tempo-project/tempo	4233459	Tempo - Collect, Analysis and Visualize Data	PHP	4561	22	6	22
+pytest-poo	pelme/pytest-poo	11401300	Visualize your crappy tests	Python	208	22	2	22
+parkadelphia	laurenancona/parkadelphia	50048425	search and visualize parking regulations using Mapbox GL 	JavaScript	7655	22	8	22
+stmBrowser	mroberts/stmBrowser	31475007	Visualizations for the stm package	JavaScript	2585	22	2	22
+discovery	ncolomer/discovery	10168920	An elasticsearch plugin to visualize and explore indexed OpenStreetMap data	JavaScript	342	22	7	22
+socialbeat	xaviershay/socialbeat	60701	A proof of concept social crowd beat visualization thing, inspired by Giles Bowkett's RubyFringe talk.	Ruby	235	22	0	22
+dependensee	awaisathar/dependensee	9822196	A dependency tree visualizer for the Stanford Typed-Dependency Parser	Java	53236	22	5	22
+Job-Parser	basalamader/Job-Parser	48926589	small web parser that gets all the top jobs and visualizes the various salaries for each position	Python	0	22	9	22
+barIndicator	kapantzak/barIndicator	36854913	This is a jQuery plugin that helps you visualize numeric data (percentage or absolute numbers) in to bars.	HTML	94	22	14	22
+dm-visualizer	postmodern/dm-visualizer	626354	Visualizes the Models, Properties and Relationships defined in a DataMapper based Ruby project.	Ruby	238	22	4	22
+iso-elk-stack	ucla-it-security/iso-elk-stack	37392812	The UCLA Information Security Office customized an integration of Logstash, Elasticsearch, and Kibana (the "ELK stack") to extract security-specific information, richly visualize that data, and create notifications based on specific concerns.	Shell	755	22	5	22
+statistical	noqqe/statistical	1606048	statistical is a tiny easy-to-use bash script for visualizing simple data in your terminal.	Shell	445	22	1	22
+Source-Tree-Visualizer	huntergdavis/Source-Tree-Visualizer	3243943	connects to many types of source control repositories and visualizes the changes as an actual tree.  Demos, examples, working code included.  Feature updates and pull requests from downstream are always appreciated for the betterment of all :)	C++	39504	22	2	22
+forge	arrayfire/forge	35898690	High Performance Visualization	C++	2492	21	19	21
+nv	ornl-sava/nv	6296223	Nessus Vulnerability visualization for the web	JavaScript	33366	21	9	21
+lod-graph	edsu/lod-graph	932595	A protovis visualization of the linked open data cloud.	JavaScript	301	21	11	21
+vtk-js	Kitware/vtk-js	57900965	Visualization Toolkit for the Web	JavaScript	74155	21	3	21
+java_visualize	daveagp/java_visualize	10536418	Visualization for Java, using the Online Python Tutor frontend	JavaScript	1054	21	16	21
+flextreemap	joshtynjala/flextreemap	479543	TreeMap data visualization component for Adobe Flex	ActionScript	3039	21	9	21
+teaching-with-datavis	walkerke/teaching-with-datavis	15749323	Code for 'Teaching with Interactive Data Visualization' site	HTML	15181	21	9	21
+social-grid	Instrument/social-grid	5786833	Abstract Grid Visualization for Social Media	ActionScript	410244	21	6	21
+geoevent	zbryikt/geoevent	29083558	visualization of event and its magnitude	JavaScript	1813	21	5	21
+dependency-parse-tree	sobhe/dependency-parse-tree	15202434	Dependency parse tree visualization with D3 library.	CoffeeScript	382	21	5	21
+PISTON	losalamos/PISTON	3539447	A Portable Cross-Platform Framework for Data-Parallel Visualization Operators	C++	817	21	12	21
+wordtree	silverasm/wordtree	1637689	A quick-and-dirty wordtree visualization in JS+html+svg	JavaScript	211	21	7	21
+betalabs-data-viz-class	giladlotan/betalabs-data-viz-class	2879835	twitter API + network graph visualization class at Betaworks	Python	91	21	6	21
+radialflows	keen/radialflows	21828759	Radial flow (sunburst) data visualization	Ruby	922	21	2	21
+D3-dateline	pbinkley/D3-dateline	16143310	D3 visualization of correspondence, with letters arranged on a horizontal timeline, with links, and handling of undated items.	JavaScript	176	21	7	21
+fos	fos/fos	2089645	Fos is a 3D engine in Python and OpenGL which concentrates on scientific visualization	Python	2667	21	10	21
+kbn_sankey_vis	chenryn/kbn_sankey_vis	51758937	Sankey diagram for Kibana visualize.	JavaScript	16	21	16	21
+react-basic-vis-examples	pbeshai/react-basic-vis-examples	49400562	A few basic visualization examples that build on each other, using React and D3.js. 	JavaScript	11	21	3	21
+d3-resume	glena/d3-resume	15691487	D3.js based resume visualizer	null	186	21	5	21
+GeoParser	memex-explorer/GeoParser	40201572	Extract and Visualize location from any file	JavaScript	166407	21	12	21
+jira-dependency-graph	pawelrychlik/jira-dependency-graph	17063678	Graph visualizer for JIRA tickets' dependencies	Python	33	21	8	21
+rastervis	oscarperpinan/rastervis	11705876	The raster package defines classes and methods for spatial raster data access and manipulation. The rasterVis package complements raster providing a set of methods for enhanced visualization and interaction.	R	44072	21	8	21
+knossos	knossos-project/knossos	19774195	KNOSSOS is a software tool for the visualization and annotation of 3D image data and was developed for the rapid reconstruction of neural morphology and connectivity. 	C++	21982	21	5	21
+BeatDetektor3-Demo	cjcliffe/BeatDetektor3-Demo	5606758	BeatDetektor 3 WebGL Demo / Visualizer with Drag+Drop audio support	JavaScript	7935	21	8	21
+phragile	wmde/phragile	25461348	Sprint overviews and data visualizations for Phabricator projects	PHP	8067	21	4	21
+tkyprof	maoe/tkyprof	2177609	An interactive GHC profiling visualizer	Haskell	357	21	2	21
+Holograf	Holograf/Holograf	30621784	Holograf is a 3D interactive program flow and algorithm visualizer	JavaScript	41138	21	8	21
+marlowe	newrelic/marlowe	10749796	Experimental project for investigating interesting visualizations of APM data	JavaScript	13550	21	5	21
+fedora-packages	fedora-infra/fedora-packages	1752810	A webapp that visualizes data from various pieces of Fedora Infrastructure. Written in Python using TurboGears2 and Moksha.	Python	8991	21	22	21
+pixelpulse	nonolith/pixelpulse	1975582	Visualize and control real-time streams in a browser-based interface	CoffeeScript	1043	21	5	21
+Procedural-Geometry-Maps	sp4cerat/Procedural-Geometry-Maps	55827837	The Maps are visualized using the Tessellation Shader	C	4037	21	3	21
+FlowPlotter	automayt/FlowPlotter	16149794	Generates visualizations from the output of flow tools such as SiLK.	Shell	484	21	3	21
+bio-graphics	jandot/bio-graphics	20440	Bio::Graphics is a ruby library for visualizing annotations on chromosomes	Ruby	1721	21	5	21
+leaflet-spatial-prefix-tree	mapzen/leaflet-spatial-prefix-tree	28634458	Leaflet plugin for visualizing spatial prefix trees, quadtree and geohash	JavaScript	586	21	5	21

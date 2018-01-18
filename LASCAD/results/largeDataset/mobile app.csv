@@ -1,0 +1,1003 @@
+name	full_name	id	description	language	size	watchers	forks	stargazers_count
+ionic	driftyco/ionic	12256376	Advanced HTML5 mobile development framework and SDK. Build incredible mobile apps with web technologies you already know and love. Best friends with AngularJS.	TypeScript	94475	25638	5555	25638
+ratchet	twbs/ratchet	5448530	Build mobile apps with simple HTML, CSS, and JavaScript components. 	CSS	16494	13345	1433	13345
+Bolts-ObjC	BoltsFramework/Bolts-ObjC	16368651	Bolts is a collection of low-level libraries designed to make developing mobile apps easier.	Objective-C	933	4843	464	4843
+reapp	reapp/reapp	28242126	Make hybrid mobile apps with power	JavaScript	234	3603	191	3603
+OnsenUI	OnsenUI/OnsenUI	12755139	Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.	JavaScript	210459	3328	480	3328
+touchstonejs	touchstonejs/touchstonejs	25205606	Mobile App Framework powered by React	CSS	14554	3239	175	3239
+BeeFramework	gavinkwoe/BeeFramework	5583022	[Experimental] A semi-hybrid framework that allows you to create mobile apps using Objective-C and XML/CSS	Objective-C	28306	3228	1159	3228
+jQTouch	senchalabs/jQTouch	745502	Create powerful mobile apps with just HTML, CSS, and Zepto.js (or jQuery).	CSS	54399	2908	650	2908
+Bolts-Android	BoltsFramework/Bolts-Android	16368712	Bolts is a collection of low-level libraries designed to make developing mobile apps easier.	Java	535	2825	429	2825
+MTStatusBarOverlay	myell0w/MTStatusBarOverlay	1157658	A custom iOS status bar overlay seen in Apps like Reeder, Evernote and Google Mobile App	Objective-C	851	1990	367	1990
+code-push	Microsoft/code-push	43459513	A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.	TypeScript	8502	1763	137	1763
+generator-ionic	diegonetto/generator-ionic	14666940	Build hybrid mobile apps using the Ionic Framework	JavaScript	7248	1732	353	1732
+junior	justspamjustin/junior	7342218	A front-end framework for building html5 mobile apps with a native look and feel.	CSS	708	1612	237	1612
+card.io-iOS-SDK	card-io/card.io-iOS-SDK	10626680	card.io provides fast, easy credit card scanning in mobile apps	Objective-C	463677	1459	334	1459
+LaunchKit	LaunchKit/LaunchKit	64170263	A set of web-based tools for mobile app developers, now open source!	JavaScript	13649	1242	124	1242
+noder-react-native	soliury/noder-react-native	38262513	The mobile app of cnodejs.org written in React Native	JavaScript	5549	1208	275	1208
+cnodejs-ionic	lanceli/cnodejs-ionic	26163862	The mobile app of https://cnodejs.org, web demo https://lanceli.github.io/cnodejs-ionic	JavaScript	1754	1123	345	1123
+icomet	ideawu/icomet	12617714	A C1000K comet/push server built with C++, for web and mobile app	C	3662	1041	401	1041
+clank	Wolfr/clank	10178606	Clank: open source prototyping framework for mobile apps	CSS	6246	947	90	947
+ionic-native	driftyco/ionic-native	46805578	Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support. The successor to ngCordova. Pairs exquisitely with a nice bottle of Ionic Framework.	TypeScript	4346	901	258	901
+card.io-Android-SDK	card-io/card.io-Android-SDK	10626798	card.io provides fast, easy credit card scanning in mobile apps	Java	102732	874	296	874
+Bolts-Swift	BoltsFramework/Bolts-Swift	54134004	Bolts is a collection of low-level libraries designed to make developing mobile apps easier.	Swift	82	755	41	755
+CrossApp	9miao/CrossApp	19964056	Cross-Platform Mobile APP Development Engine	C++	1413229	746	716	746
+django-rest-auth	Tivix/django-rest-auth	19325336	This app makes it extremely easy to build Django powered SPA's (Single Page App) or Mobile apps exposing all registration and authentication related functionality as CBV's (Class Base View) and REST (JSON)	Python	407	621	233	621
+elm-native-ui	elm-native-ui/elm-native-ui	45697060	WIP experiment: Build mobile apps in Elm using React Native.	Elm	10332	603	25	603
+ForerunnerDB	Irrelon/ForerunnerDB	16614962	A JavaScript database with mongo-like query language, data-binding support, runs in browsers and hybrid mobile apps as a client-side DB or on the server via Node.js!	JavaScript	73010	527	45	527
+jianshi	wingjay/jianshi	43634704	A Full-Stack mobile app, including Android side & Server side, Simple-Poem 简诗. You can write poem in graceful & traditional Chinese style.	Java	44711	516	136	516
+PageSlider	ccoenraets/PageSlider	8860322	A simple library providing hardware accelerated page transitions for Mobile Apps	JavaScript	251	510	169	510
+PushNotificationSample	hollyschinsky/PushNotificationSample	26417040	A new sample mobile app built with Ionic/ngCordova to register and receive push notifications for iOS and Android. Also includes node services for pushing notifications to one or many devices at a time.	JavaScript	4294	495	196	495
+card.io-iOS-source	card-io/card.io-iOS-source	27400916	The open-source code for the card.io-iOS-SDK:  provides fast, easy credit card scanning in mobile apps	Objective-C	167044	451	165	451
+Web-2.0-Touch	vitmalina/Web-2.0-Touch	1949281	JavaScript mini framework for rapid mobile apps development on touch devices (iPhone, iPad, Android and other webkit browsers)	CSS	888	427	72	427
+MobileApp-Pentest-Cheatsheet	tanprathan/MobileApp-Pentest-Cheatsheet	43485323	The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.	null	111	388	144	388
+CodenameOne	codenameone/CodenameOne	32973467	Write once run anywhere native mobile apps using a subset of Java 8	Java	202896	377	108	377
+ClickEffects	codrops/ClickEffects	30648003	A set of subtle effects for click or touch interactions inspired by the visualization of screen taps in mobile app showcases. The effects are done with CSS animations mostly on pseudo-elements.	CSS	568	347	56	347
+OpenPTT	OpenPTT/OpenPTT	38295418	A mobile app for telnet://ptt.cc	JavaScript	2199	337	50	337
+HealthClinic.biz	Microsoft/HealthClinic.biz	44771262	The samples contained in this repo are used to present an end-to-end demo scenario based on a fictitious B2B and multitenant system, named “HealthClinic.biz” that provides different websites, mobile apps, desktop apps, wearable apps, and services running on the latest Microsoft and open technologies aligned with announcements to showcase during the Connect(); 2015 event.
+
+The current published version works with Visual Studio 2015 Update 1 RC bits and ASP.NET 5.0 Beta 8. The final version used at Connect(); 2015 will be published soon.	JavaScript	23267	315	168	315
+app-evolve	xamarinhq/app-evolve	56794095	Xamarin Evolve 2016 Mobile App	C#	10654	314	139	314
+sencha-SlideNavigation	wnielson/sencha-SlideNavigation	3167115	Sliding side menu for Sencha Touch apps.  Inspired by Facebook's mobile app menu.	JavaScript	15459	282	137	282
+card.io-Android-source	card-io/card.io-Android-source	27944640	The open-source code for the card.io-Android-SDK: provides fast, easy credit card scanning in mobile apps	C++	31919	270	186	270
+collide	driftyco/collide	22168677	A powerful javascript animation engine for web and hybrid mobile apps, inspired by Facebook Pop, built by the Ionic team.	JavaScript	377	245	24	245
+DraggableYoutubeFloatingVideo	vizllx/DraggableYoutubeFloatingVideo	30177762	This demo app will animate the view just like Youtube mobile app, while tapping on video a UIView pops up from right corner of the screen and the view can be dragged to  right corner through Pan Gesture and more features are there as Youtube iOS app . The whole design is done with Auto Layout and it is compatible with iOS 6 too. No need to worry about screen size as it will run smoothly on any device size iPhone 4s to iPhone 6 Plus	Objective-C	48382	244	61	244
+learn-redux	dwyl/learn-redux	48518818	:boom: Comprehensive Notes for Learning (how to use) Redux to manage state in your Web/Mobile Apps.	HTML	220	234	13	234
+ohSnap	justindomingue/ohSnap	12605305	A simple  jQuery/Zepto notification library designed to be used in mobile apps	JavaScript	141	226	39	226
+ios-branch-deep-linking	BranchMetrics/ios-branch-deep-linking	20539166	The Branch Metrics iOS SDK for deferred and contextual mobile deep linking. Branch helps mobile apps grow with deep links / deeplinks that power referral systems, sharing links and invites with full attribution and analytics.	Objective-C	158586	212	85	212
+SDScaffoldSync	stevederico/SDScaffoldSync	8134470	Create a Cloud Syncing Mobile App in 3 Minutes	Objective-C	258	211	13	211
+hn	premii/hn	11993635	Hacker News mobile app	JavaScript	238	207	31	207
+mobile	toggl/mobile	15930255	Native mobile apps for Toggl	C#	28491	196	76	196
+LoomSDK	LoomSDK/LoomSDK	12335264	The Loom SDK, a native mobile app and game framework.	LoomScript	361891	195	53	195
+xamarin-forms-book-preview-2	xamarin/xamarin-forms-book-preview-2	29980531	Sample code for the 2nd Preview Edition of "Creating Mobile Apps with Xamarin.Forms"	C#	16065	191	133	191
+ioniclub	IonicChina/ioniclub	33350454	The mobile app of http://ionichina.com/	JavaScript	10567	184	97	184
+rip_mobello	mobello/rip_mobello	4131496	HTML5 UI framwork for building mobile apps	JavaScript	7892	184	44	184
+devise_google_authenticator	AsteriskLabs/devise_google_authenticator	2828123	A Devise extension to allow your app to utilise Google's 2FA Mobile app	Ruby	515	181	93	181
+MyDriving	Azure-Samples/MyDriving	51373773	Building IoT or Mobile solutions are fun and exciting. This year for Build, we wanted to show the amazing scenarios that can come together when these two are combined. So, we went and developed a sample application. MyDriving uses a wide range of Azure services to process and analyze car telemetry data for both real-time insights and long-term patterns and trends. The following features are supported in the current version of the mobile app.	C#	20393	175	113	175
+Lark	egret-labs/Lark	31641861	Lark is an interactive mobile application framework which developers can use it to create rich and interactive mobile apps with HTML5. 	TypeScript	55736	170	45	170
+reacteu-app	Thinkmill/reacteu-app	38461513	ReactEurope TouchstoneJS Mobile App	Java	11760	162	56	162
+react-native-redux-starter-kit	LeoLeBras/react-native-redux-starter-kit	39840042	:rocket: A starter boilerplate for a mobile app using React Native and Redux	JavaScript	249	155	38	155
+ionic-sublime-plugin	imsingh/ionic-sublime-plugin	19664310	This is a simple plugin for sublime text 3 for development of Mobile Apps with Ionic Framework.	null	134	150	33	150
+mobile	Minds/mobile	27719540	Minds mobile apps	C	416021	147	50	147
+mobile-apps-4-ways	ptraeg/mobile-apps-4-ways	13850569	Companion code for the Smashing Magazine mobile development series on developing applications using 4 different development technologies.	JavaScript	7860	143	137	143
+xamarin-forms-book-samples	xamarin/xamarin-forms-book-samples	50187313	Code samples for "Creating Mobile Apps with Xamarin.Forms"	C#	14725	141	99	141
+moodlemobile2	moodlehq/moodlemobile2	31589741	The Moodle Mobile app version 2.x	JavaScript	63208	140	441	140
+juniversal	juniversal/juniversal	22027221	Write cross platform mobile apps, in Java	Java	15637	136	17	136
+zoey	StanAngeloff/zoey	1557177	Small, customisable and lightweight framework for developing mobile apps.	JavaScript	1721	134	17	134
+Oleose	ScoopThemes/Oleose	24855112	Free Open Source Bootstrap 3 Mobile App Landing Page	JavaScript	12647	130	67	130
+tarifa	TarifaTools/tarifa	19501047	Your friendly toolchain for mobile app development on top of Apache Cordova	JavaScript	35202	130	16	130
+NSDate-Time-Ago	nikilster/NSDate-Time-Ago	9533704	Implements Facebook's format for Time Ago (on their mobile apps)	Objective-C	305	127	33	127
+angular-7min	mgcrea/angular-7min	10173922	Angular Seven Minute Workout sample mobile app w/ Cordova	CSS	4378	126	29	126
+react-native-config	luggit/react-native-config	52316423	Bring some 12 factor love to your mobile apps!	Objective-C	235	114	26	114
+Bolts-Java	BoltsFramework/Bolts-Java	16528694	[Archive] Bolts is a collection of low-level libraries designed to make developing mobile apps easier.	Java	107	114	24	114
+appframework-templates	krisrak/appframework-templates	15036216	HTML5 Mobile App UI templates created using Intel App Framework	JavaScript	2439	112	84	112
+plush	pjay/plush	6946374	Push notifications for mobile apps - built on the Typesafe stack to ensure scalability	Scala	398	107	38	107
+generator-angularjs-cordova	keshavos/generator-angularjs-cordova	19071472	A yeoman generator which combines the best features and practices to initialise and scaffold an AngularJS based cordova mobile app using a module based approach.	JavaScript	7739	105	22	105
+fastgap	FastGap/fastgap	14316606	Jump start developing native mobile apps using Phonegap.	JavaScript	4609	104	51	104
+wp-app	wp-app/wp-app	40624720	An open source, customizable mobile app for WordPress management	JavaScript	2883	102	16	102
+Ionic-TypeScript-Starter	Justin-Credible/Ionic-TypeScript-Starter	36251320	:iphone: Platform and IDE agnostic starter project for building mobile apps with Ionic and TypeScript.	TypeScript	3091	102	32	102
+onsen-css-components	OnsenUI/onsen-css-components	19337628	CSS Components Generator for Mobile Apps.	JavaScript	21436	99	24	99
+AppBoilerplate	jonathan-fielding/AppBoilerplate	3517321	A jquery mobile app boilerplate	JavaScript	489	99	31	99
+wp-appkit	uncatcrea/wp-appkit	19324660	WP-AppKit WordPress plugin (create mobile apps connected to WordPress)	JavaScript	6150	99	39	99
+applause	applause/applause	1489633	Cross platform mobile development toolkit consisting of a DSL for defining mobile apps and code generators for creating native apps for iOS, Android, Windows Phone 7 and Google App Engine. Based on Eclipse and Xtext. the official repo is at applause/applause.	Java	35613	99	27	99
+ache-gesture	flashache/ache-gesture	7188871	Gesture recognition framework for Adobe AIR Mobile App based on Starling	ActionScript	1075	97	16	97
+CloudBread	CloudBreadProject/CloudBread	32986842	CloudBread is free OSS project for mobile game and mobile app server engine powered by cloud service.	C#	95771	96	75	96
+cordova-facebook	ccsoft/cordova-facebook	15448862	Cordova plugin that handles Facebook integration in mobile apps.	Objective-C	833	95	46	95
+react-native-cnblogs	togayther/react-native-cnblogs	57367558	cnblogs.com mobile app powered by react-native	JavaScript	1014	93	46	93
+drupal-create	acquia/drupal-create	7101549	Drupal Create - an iOS mobile app	Objective-C	2026	92	34	92
+mobile-buy-sdk-ios	Shopify/mobile-buy-sdk-ios	36382861	Shopify’s Mobile Buy SDK makes it simple to sell physical products inside your mobile app. With a few lines of code, you can connect your app with the Shopify platform and let your users buy your products using Apple Pay or their credit card.	Objective-C	15830	87	36	87
+Framework7-Contacts7-MVC	philipshurpik/Framework7-Contacts7-MVC	21123678	Framework7 MVC contacts mobile app example	JavaScript	1212	85	48	85
+apkshellext	kkguo/apkshellext	33372332	Show mobile app icons in windows explorer  	C#	12179	85	19	85
+ionic-present	driftyco/ionic-present	16622496	Present Ionic in your town. Share the new way to build mobile apps.	JavaScript	48521	83	127	83
+react-ratchet	jsdf/react-ratchet	29543017	React components for the Ratchet mobile app UI library	JavaScript	31	83	14	83
+Mobile-App-Performance	harrycheung/Mobile-App-Performance	30713594	Source for this	Objective-C	49180	80	22	80
+android-branch-deep-linking	BranchMetrics/android-branch-deep-linking	20421659	Deferred Deep Linking SDK for Android apps powered by Branch Metrics. We help mobile apps grow with deep links / deeplinks that power referral systems, sharing links and invites with full attribution and analytics.	HTML	17920	80	52	80
+calabash	calabash/calabash	25813353	Automated Acceptance Testing for Mobile Apps	Ruby	42755	79	15	79
+twitter-titanium	ebryn/twitter-titanium	2571987	The easiest way to handle Twitter authentication in your Titanium Mobile app	JavaScript	2155	78	61	78
+ember.js-mobile-animations-gestures	blangslet/ember.js-mobile-animations-gestures	11443042	Ember.js mobile app that demos basic animated transitions and touch gestures. 	CSS	346	77	11	77
+jQuery.handleStorage	jas-/jQuery.handleStorage	1698887	Provide secure offline storage for your mobile apps 	JavaScript	281	73	13	73
+mappwidget	lemberg/mappwidget	30293028	mAppWidget is a code library designed for rapid design and integration of custom maps for Android mobile apps	Java	10327	71	43	71
+cognito-helper	olegabu/cognito-helper	44888097	Wrapper for Amazon Cognito library with methods common for a web or mobile app, like authentication with email and password, signup, federated login, link accounts, reset password etc.	JavaScript	184	71	18	71
+ionic-ebook	innovieco/ionic-ebook	22828909	Full-stack Mobile App with Ionic Framework eBook	JavaScript	1948	70	28	70
+flexapp	Differential/flexapp	13636154	Free mobile app website template	JavaScript	1662	68	38	68
+strong-remoting	strongloop/strong-remoting	10045175	Communicate between objects in servers, mobile apps, and other servers.	JavaScript	1745	68	58	68
+html5-in-mobile-apps	ptraeg/html5-in-mobile-apps	10446366	iOS and Android code examples for my HTML5 in mobile applications article	Objective-C	552	67	38	67
+ionictests	yafraorg/ionictests	16780872	Test mobile apps based on cordova angularjs and ionciframework	JavaScript	8553	67	36	67
+Silo_app	StefanoCecere/Silo_app	16983992	 a Cordova mobile app built with Ionic framework & AngularJS (dedicated to the humanist writer and thinker Mario Rodriguez Cobos, aka "Silo")	JavaScript	8612	67	31	67
+foam	percolate/foam	33314734	A library to quickly and easily enable multiple monitoring & support platforms for your mobile apps	Java	582	66	6	66
+weight-tracker	paullewis/weight-tracker	11481288	A 60fps mobile app	JavaScript	1184	65	9	65
+movies	appcelerator/movies	31899258	Appcelerator loves Movies! So we built this cross platform application to showcase just how good movies can look on a mobile app.	JavaScript	1741	64	37	64
+react-native-game	DimitriMikadze/react-native-game	48061244	IOS and Android mobile app "Guess famous people" built on React Native	JavaScript	4271	63	11	63
+Magento-Two-factor-Authentication	magento-hackathon/Magento-Two-factor-Authentication	16415724	Should be time-based or counter-based (HOTP/TOTP), and support the Google Authenticator mobile app.	PHP	938	63	24	63
+GwtMobile-PhoneGap	dennisjzh/GwtMobile-PhoneGap	1144026	gwtmobile-phonegap is a GWT wrapper of the PhoneGap Javascript library. PhoneGap is a cross-platform development framework that provides core mobile device features to web-based mobile apps. GWT by Google is a new way of developing web applications -- write apps in Java then compile into javascript. gwtmobile-phonegap enables a GWT mobile application to use PhoneGap functions.	Java	601	60	17	60
+NYSenateMobileApp	nysenate/NYSenateMobileApp	703141	Our Appcelerator-based Mobile Smartphone Application for iPhone, Android, Blackberry and Palm	JavaScript	10970	59	17	59
+xamarin-forms-book-preview	xamarin/xamarin-forms-book-preview	23803331	Sample code for the Preview Edition of "Creating Mobile Apps with Xamarin.Forms"	C#	4784	59	42	59
+BuildmLearn-Toolkit	BuildmLearn/BuildmLearn-Toolkit	10389464	BuildmLearn Toolkit is an easy-to-use program that helps the users make mobile apps without any knowledge of application development.	C++	66310	59	105	59
+OneSignal-iOS-SDK	OneSignal/OneSignal-iOS-SDK	33515718	OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your native iOS app with OneSignal. https://onesignal.com	Objective-C	90600	59	29	59
+azure-mobile-apps-net-server	Azure/azure-mobile-apps-net-server	43841288	The .NET server SDK for Azure Mobile Apps.	C#	910	58	28	58
+web2app	kakao/web2app	10615934	tiny javascript library to launch a mobile app. from a webpage	JavaScript	162	58	21	58
+OneSignal-Website-SDK	OneSignal/OneSignal-Website-SDK	33572600	OneSignal is a free push notification service for web and mobile apps. This SDK makes it easy to integrate your website with OneSignal Push Notifications. https://onesignal.com	JavaScript	6326	58	21	58
+OneSignal-Android-SDK	OneSignal/OneSignal-Android-SDK	33515679	OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your native Android or Amazon app with OneSignal. https://onesignal.com	Java	5287	57	50	57
+phoenixframework	phoenixframe/phoenixframework	49762512	phoenixframework是一个支持对webUI，接口，web性能，mobile app或mobile browser进行自动化测试和监控的平台。官网：	JavaScript	168454	57	32	57
+azure-mobile-apps-node	Azure/azure-mobile-apps-node	35129048	The Node.js server SDK for Azure Mobile Apps.	JavaScript	7360	56	34	56
+learn-reactjs	giantelk/learn-reactjs	23471010	Resources to Learn ReactJS - build web & mobile apps.	null	285	55	4	55
+building-a-complete-mobile-app-with-ionic-framework	ionicthemes/building-a-complete-mobile-app-with-ionic-framework	34222731	JSConfUY 2015 Ionic workshop app	JavaScript	7490	52	38	52
+MobileMapStarter	gregallensworth/MobileMapStarter	7398003	A starting framework for mobile apps using Phonegap/Cordova. jQuery Mobile, Leaflet, Geocoder, and more!	Java	8908	52	29	52
+titanium-coffeescript-sample	johnthethird/titanium-coffeescript-sample	875938	Sample app using CoffeeScript to build a Titanium Mobile app	JavaScript	140	52	5	52
+storymaker	StoryMaker/storymaker	4206953	Android mobile app. Make your story great.	Java	63607	49	44	49
+twinkle	cgbystrom/twinkle	31133460	GPU-accelerated UI framework powered by JavaScript for desktop/mobile apps	C++	4623	49	8	49
+amazon	xamarin/amazon	5753014	Library for accessing Amazon web services from mobile apps	C#	1490	48	28	48
+turnpike-ios	URXtech/turnpike-ios	11208764	An iOS Router to enable deeplinking in mobile apps.	Objective-C	4799	48	9	48
+SwedbankJson	walle89/SwedbankJson	8811106	Unofficial API client for the Swedbank's and Sparbankerna's mobile apps in Sweden.	PHP	261	48	7	48
+YouTube-Video-Listing-Ionic-Mobile-App	hughred22/YouTube-Video-Listing-Ionic-Mobile-App	39044327	A hybrid mobile app build with Ionic Framework, AngularJS and YouTube API V3.	JavaScript	2084	47	24	47
+FIFA16-Unofficial-Mobile-API	curt2008/FIFA16-Unofficial-Mobile-API	8542982	Connect to the FIFA16 Mobile App using PHP	PHP	1041	47	30	47
+MobDistTool	rgroult/MobDistTool	43023906	Mobile App Distribution Tool	CSS	9153	46	10	46
+targets	timanglade/targets	7140772	A mobile app to locate the Target stores nearest you.	JavaScript	9229	45	62	45
+wp-rest-api-demo	scottopolis/wp-rest-api-demo	21581880	Demo mobile app using WordPress REST API	CSS	324	45	40	45
+BackSteroids	born2net/BackSteroids	29608181	Backbone powered mobile app boilerplate driven by AppGyver's Steroids framework	JavaScript	2631	45	19	45
+cordova-ionic-phonegap-branch-deep-linking	BranchMetrics/cordova-ionic-phonegap-branch-deep-linking	39475511	The Cordova SDK for deferred deep linking is a thin wrapper around our native iOS/Android SDKs. Branch helps mobile apps grow with deep links / deeplinks that power referral systems, sharing links and invites with full attribution and analytics.	Objective-C	22239	45	54	45
+TFSwipeShrink	tfrank64/TFSwipeShrink	20009064	UIView minimizing component similar to the YouTube mobile app.	Objective-C	27868	43	11	43
+node-xpush	xpush/node-xpush	15205558	XPUSH is an realtime communication channel server for quickly, easily adding scalable functionality to web and mobile apps.	JavaScript	770	43	12	43
+sf-sense	SF-sense/sf-sense	20193002	Mobile app to detect crime in your area	JavaScript	6304	42	0	42
+umm	jleyva/umm	2807936	Unofficial Moodle Mobile app	JavaScript	658	41	35	41
+keosu	keosuofficial/keosu	19373140	Keosu is an open source CMS for mobile app.	JavaScript	11053	40	18	40
+OneSignal-Cordova-SDK	OneSignal/OneSignal-Cordova-SDK	33638938	OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your Ionic, PhoneGap CLI, PhoneGap Build, Cordova, or Sencha Touch app or game with OneSignal. Supports Android, iOS, and Amazon's Fire OS platforms. https://onesignal.com	Objective-C	2028	40	32	40
+wakatime-mobile	DavidFrahm/wakatime-mobile	33454694	Mobile app for WakaTime	JavaScript	4648	39	14	39
+MobileTemplates-JumpstartApp	developerforce/MobileTemplates-JumpstartApp	11664974	Sample mobile app, designed for smart phones, to demonstrate the use of Mobile Design Templates, Developer Mobile Packs, and the Salesforce Platform Mobile Services	Apex	5171	39	42	39
+meteor-wkwebview	practicalmeteor/meteor-wkwebview	36622907	A meteor package for using the significantly better and faster WKWebView in mobile apps on iOS 8+.	JavaScript	8	38	4	38
+fable-react_native-demo	fsprojects/fable-react_native-demo	64166894	Demo of Fable with React Native for cross platform native mobile apps	F#	911	37	8	37
+tcad-code	appcelerator-training/tcad-code	2142567	Projects and code for our TCAD certification course, Building Native Mobile Apps with Titanium	JavaScript	6349	36	55	36
+boot-ionic	mraible/boot-ionic	18180701	An example mobile app written with Ionic Framework	JavaScript	1022	36	17	36
+startupwatch-app	labsterx/startupwatch-app	19580569	A mobile app that provides information on startup companies, including company profiles, job listing, search and more.	JavaScript	2705	36	11	36
+branch-deep-linking-public-api	BranchMetrics/branch-deep-linking-public-api	21625193	The Branch Metrics public API for mobile deep linking / deeplinking applications. Branch helps mobile apps grow with deep links / deeplinks that power referral systems, sharing links and invites with full attribution and analytics.	null	136	36	8	36
+Android	OrgCurrent/Android	20118998	Android mobile app.	JavaScript	35575	35	9	35
+cordova-resource-generators	busterc/cordova-resource-generators	21995426	Quickly generate mobile app icons and splash screens for Cordova builds	Shell	20	35	12	35
+ionic-tutorial-dinnerapp	ashteya/ionic-tutorial-dinnerapp	31299978	:fork_and_knife: Tutorial: Build Your First Mobile App With The Ionic Framework	JavaScript	3817	35	24	35
+Ghost-vs-Monsters---OOP	dmccuskey/Ghost-vs-Monsters---OOP	2464536	Re-write of Corona SDK mobile app Ghost vs Monsters into object-oriented architecture	Lua	6415	35	17	35
+ANE-chromecast	renaudbardet/ANE-chromecast	17912936	An ANE to unleash the power of the cast devices on AIR mobile apps	Objective-C	3344	34	7	34
+Xamarin.Plugins	edsnider/Xamarin.Plugins	28605124	Cross platform plugins for Xamarin and Windows mobile apps	C#	570	33	13	33
+django-mobile-app-distribution	Proper-Job/django-mobile-app-distribution	12081175	Django Mobile App Distribution is a Django app that allows you to distribute iPhone, iPad and Android apps over the air to your clients.	Python	309	32	10	32
+Framework7-MVC-base	philipshurpik/Framework7-MVC-base	21209062	Base mobile app example using Framework7 and RequireJs	JavaScript	589	32	17	32
+appsales-mobile	caffo-archived/appsales-mobile	108148	Mobile App Store sales report analysis	Objective-C	1105	32	5	32
+geoJoy	jakobhans/geoJoy	1047345	THIS VERSION IS VERY OLD. MIGHT UPDATE IT SOMETIME IN THE FUTURE. LEFT FOR LEARNING/SHARING PURPOSES. A jQuery Mobile / HTML5 powered geoLocation tagging mobile app.	JavaScript	454	32	9	32
+ClearCache	Innoruptor/ClearCache	19581014	Mobile app developers spend a lot of time writing code to access remote data and assets (i.e. images) used within apps. ClearCache aims to simplify the configuring and managing of caching layers within iOS apps at the method level.	Objective-C	232	32	3	32
+hello-startup-site	brikis98/hello-startup-site	28210613	The website and mobile app for the book "Hello, Startup"	JavaScript	88167	31	15	31
+phonegap-oauth-google-api-mobile	liquidlabs/phonegap-oauth-google-api-mobile	5870552	A Mobile App showing how to implement OAuth 2.0 with Google API on Phonegap with Childbrowser	JavaScript	250	31	41	31
+react-native-toolkit	marty-wang/react-native-toolkit	40452246	A collection of common UI components for react native mobile apps.	JavaScript	1732	31	4	31
+1Sheeld-Arduino-Library	Integreight/1Sheeld-Arduino-Library	23279631	An Arduino library for 1Sheeld. It is the interface to your smartphone's accessories, sensors and virtual shields. It allows you to communicate and interact with our mobile app using our own custom protocol.	C++	1064	31	13	31
+Branch-iOS-Invite-SDK	BranchMetrics/Branch-iOS-Invite-SDK	29659749	The purpose of the Branch iOS Invite SDK is to provide an out-of-the-box functional 'invite feature' for apps consuming the Branch SDK that want to utilize a standard invite feature in their app. Branch helps mobile apps grow with deep links that power referral systems, sharing links and invites with full attribution and analytics.	Objective-C	390	31	7	31
+Titanium-Mobile-Reference-Directory-App	givp/Titanium-Mobile-Reference-Directory-App	772204	A sample Titanium project allowing developers to quickly build a reference directory mobile app	JavaScript	203	30	7	30
+mobisplash	SamVerschueren/mobisplash	49019124	Mobile app splash screen generator	JavaScript	34	30	1	30
+location-tracker-couchapp	cloudant-labs/location-tracker-couchapp	29685534	This tutorial shows how to build a mobile app in HTML5 and Javascript that records a device’s location and saves it to an IBM Cloudant database	CSS	5216	30	15	30
+mobile-buy-sdk-android	Shopify/mobile-buy-sdk-android	43315252	Shopify’s Mobile Buy SDK makes it simple to sell physical products inside your mobile app. With a few lines of code, you can connect your app with the Shopify platform and let your users buy your products using their credit card.	Java	3284	30	23	30
+OneSignal-Unity-SDK	OneSignal/OneSignal-Unity-SDK	33522199	OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your Unity app with OneSignal. https://onesignal.com	C#	242546	30	4	30
+ionic2-tutorial-github	ashteya/ionic2-tutorial-github	52335557	:octocat: Tutorial: Build Your First Mobile App With Ionic 2 & Angular 2	JavaScript	1017	29	31	29
+app-coffeecups	jamesmontemagno/app-coffeecups	50527117	Coffee Consumption App built with Xamarin.Forms and Azure Mobile Apps	C#	681	29	18	29
+TiAlloyCharts	ricardoalcocer/TiAlloyCharts	12470194	Alloy Widget to add pretty charts to your mobile apps using HighCharts.js.  This is a WIP.  If you like it and use it, please send Pull Requests.	JavaScript	3676	29	15	29
+conference-mobile-app	droidcon/conference-mobile-app	963360	An Android App adapted form the Google IO one for Droidcon. Issue tracker: https://novoda.lighthouseapp.com/projects/61492-droidcon-mobile-app/milestones/current	Java	10946	28	16	28
+Wordpress-Mobile-Application	4013465w/Wordpress-Mobile-Application	54871244	为wordpress 博客开发移动应用（安卓/IOS）	HTML	4964	28	13	28
+Simple-shopping-cart-for-Sencha-Touch-2	kostysh/Simple-shopping-cart-for-Sencha-Touch-2	4918494	Simple yet powerful script for adding shopping cart features to Sencha Touch based mobile apps.	JavaScript	6459	28	13	28
+SwiftlySalesforce	mike4aday/SwiftlySalesforce	49215320	Swift, Salesforce, iOS, mobile: an easy-to-use framework for building native mobile apps with Swift & the Salesforce Platform	Swift	138	28	5	28
+uMobile-app	Jasig/uMobile-app	2797632	uMobile Application	JavaScript	19423	27	19	27
+Apps	ovatsus/Apps	9282984	Mobile Apps made with F#	C#	13365	27	10	27
+TitaniumMobileHotshot	TheBrousse/TitaniumMobileHotshot	5747415	Creating Mobile Apps with Appcelerator Titanium	JavaScript	32086	27	20	27
+remoteadmin-mobile	logicminds/remoteadmin-mobile	1873368	Mobile app that controls your puppet environment through foreman api	ActionScript	4024	27	0	27
+sma	dealancer/sma	4183602	Social Mobile App	JavaScript	324	26	13	26
+azure-mobile-apps-net-client	Azure/azure-mobile-apps-net-client	46075467	Managed Client SDK for Azure Mobile Apps	C#	5067	26	27	26
+azure-mobile-apps-js-client	Azure/azure-mobile-apps-js-client	46444073	Javascript Clients for Azure Mobile Apps	JavaScript	3616	26	10	26
+emobc-html5	emobc/emobc-html5	6299834	eMobc HTML5 Framework: Develop mobile apps based in XML	JavaScript	19660	26	23	26
+famous-flickr	thaiat/famous-flickr	25518911	A flickr like mobile app implemented with famous	CSS	1326	26	5	26
+CordovaAlbumViewer	RickStrahl/CordovaAlbumViewer	28426477	Sample code for "Taming Mobile Apps with Cordova and Visual Studio" CODE magazine article	JavaScript	7357	26	17	26
+rhatter	quintonwall/rhatter	1720387	Rails and JQuery Mobile app using the Chatter REST API	JavaScript	786	25	8	25
+UIKit	limitlessperspective/UIKit	1307212	Port of Apple's UIKit to Cappuccino. Designed for Mobile App development with Objective-J.	Objective-J	771	25	5	25
+kayak-mobile-client	shbhrsaha/kayak-mobile-client	28278042	A basic client for the Kayak mobile app's server API	Python	132	25	3	25
+newshunt	kaissaroj/newshunt	30519180	A Hybrid Social Mobile App Developed using MeteorJs & Framework7	CSS	188	25	1	25
+Programming-Mobile-Applications-for-Android-Handheld-Systems	jbutewicz/Programming-Mobile-Applications-for-Android-Handheld-Systems	16787093	I will post my solutions to the labs from the Coursera class Programming Mobile Applications for Android Handheld Systems taught by Adam Porter from January 21, 2014 to March 18, 2014 here upon completion.	Java	4304	24	45	24
+berlin-vegan-guide	smeir/berlin-vegan-guide	1479612	deprecated mobile app for iOS and Android (Sencha Touch & phonegap)	JavaScript	8815	24	8	24
+piwik-mobile	piwik/piwik-mobile	4439101	Check out Piwik Mobile 2: https://github.com/piwik/piwik-mobile-2/ - Piwik Mobile App - Liberating Web Analytics on the go!	JavaScript	8326	24	6	24
+smarter-apps	pierceboggan/smarter-apps	61157227	Learn how to build smarter mobile apps using Microsoft Cognitive Services & Xamarin.	C#	44756	23	24	23
+polymer-native	PixelsCommander/polymer-native	58212761	Develop completely native mobile apps with Web Components	JavaScript	4010	23	4	23
+IcelandEarthquakes	paranoida/IcelandEarthquakes	33359566	Mobile App made in react-native! It displays Earthquakes that happened in Iceland in last 48 hours.	JavaScript	703	23	10	23
+mobile-app-introduction-template	CodyHouse/mobile-app-introduction-template	25510905	A basic template to showcase the best features of your app	JavaScript	1888	22	8	22
+RemotePresentations	sergioaraki/RemotePresentations	15478667	Controls HTML5 presentation with mobile apps	Java	659	22	7	22
+TwitchCast	Arxk/TwitchCast	23335371	An unofficial Twitch mobile app	JavaScript	900	22	7	22
+monaca-framework-ios	monaca/monaca-framework-ios	5698348	Monaca Framework provides additional functionalities for PhoneGap hybrid mobile apps	Objective-C	5112	22	4	22
+BuildmLearn-Toolkit-Android	BuildmLearn/BuildmLearn-Toolkit-Android	34827256	This repository contains the Android version of the BuildmLearn Toolkit. BuildmLearn Toolkit is an easy-to-use program that helps the users make mobile apps without any knowledge of application development.	Java	114929	22	73	22
+map-gallery-template-js	Esri/map-gallery-template-js	3072048	This Public Gallery template is designed for anyone who wants to showcase their ArcGIS Online maps, layers, and mobile apps in a dynamic web gallery.	JavaScript	6073	22	23	22
+bradypodion	excellenteasy/bradypodion	11266162	Create post-platform mobile apps with ease	JavaScript	5589	22	1	22
+Curatescape	CPHDH/Curatescape	3586508	Curatescape is a mobile app ecosystem, designed to "curate the landscape" through the use of geo-located historical texts, archival film and images, oral history (and other) audio, and short documentary videos. 	null	172048	22	4	22
+MobileApp	Fruzenshtein/MobileApp	11561004	Test Spring application with CNVR and REST	Java	231	21	41	21
+spine.mobile.contacts	maccman/spine.mobile.contacts	2381355	Example Spine Mobile App	CoffeeScript	774	21	7	21
+mobile-apps-article-templates	guardian/mobile-apps-article-templates	16987877	Templates for articles on both iOS and Android next-gen apps	CSS	44520	21	5	21
+html5-kitchensink-cordova-xdk-af	krisrak/html5-kitchensink-cordova-xdk-af	14056067	HTML5 Kitchen Sink Mobile App showing Apache Cordova*, Intel XDK APIs and Intel AppFramework features and capabilities	JavaScript	1158	21	22	21
+kco-mobile-sdk	klarna/kco-mobile-sdk	53515511	Klarna Checkout SDK for mobile apps: iOS, Android and Cordova	HTML	18546	21	6	21
+HowIsTheWeather	lis186/HowIsTheWeather	1786621	A titanium mobile app for iPhone and android to display current local weather.	JavaScript	3401	21	3	21
+Branch-Integration-Guides	BranchMetrics/Branch-Integration-Guides	26975387	All the guides to integrate Branch deep links on iOS and Android apps, how to set up content share, deep linked ads and referral systems. Branch.io helps mobile apps grow with deep links / deeplinks that power referral systems, sharing links and invites with full attribution and analytics.	null	5597	21	15	21
+MeatText	bsudekum/MeatText	5636344	A mobile app version of MeetMeHere	JavaScript	18026	20	9	20
+HTML5-Tumblr-Mobile-App	stungeye/HTML5-Tumblr-Mobile-App	3528864	Tumblr + HTML5 + Phonegap = Mobile App	CSS	215	19	15	19
+azure-mobile-apps-quickstarts	Azure/azure-mobile-apps-quickstarts	47575905	Client and server templates for Azure Mobile Apps	C#	14216	19	17	19
+azure-mobile-apps	Azure/azure-mobile-apps	44565427	Build better mobile applications using Azure Mobile Apps	null	4	19	4	19
+Ioniclub	XueRainey/Ioniclub	55935159	Ioniclub is hybird mobile app of https://cnodejs.org	TypeScript	1086	19	4	19
+cushymoco	mayflower/cushymoco	10098357	a shop-agnostic native mobile app framework for e-commerce shops like OXID, Magento and Shopware	PHP	9313	19	11	19
+documentation	BranchMetrics/documentation	32894178	The Branch Metrics Developer Documentation. Branch helps mobile apps grow with deep links / deeplinks that power referral systems, sharing links and invites with full attribution and analytics.	JavaScript	107233	19	13	19
+Web-Frameworks-for-Mobile-App-Development	KurtRudolph/Web-Frameworks-for-Mobile-App-Development	3322003	Code for a demonstration of Ruby on Rails, jQuery Mobile, Phongap	JavaScript	1006	18	14	18
+f9-ionic-webrtc	russellf9/f9-ionic-webrtc	31720974	A mobile app using WebRTC	JavaScript	18044	18	11	18
+App-Plus-Onepage-HTML5-App-landing-page-Template	themefisher/App-Plus-Onepage-HTML5-App-landing-page-Template	30108244	App-Plus is a very clean Landing Page Template for Mobile App. Well organized and very easy to customize, App-Plus is better way to present and promote your startup mobile app website	CSS	956	18	17	18
+phonegap-backbone	changer/phonegap-backbone	4358606	Boilerplate for getting cross-platform mobile apps out using the beauty of backbone.js	JavaScript	362	18	12	18
+Branch-Example-Deep-Linking-Branchster-iOS	BranchMetrics/Branch-Example-Deep-Linking-Branchster-iOS	23770502	Branch Metrics example application for iOS mobile deep linking / deeplinking - the Branchster app. Branch helps mobile apps grow with deep links / deeplinks that power referral systems, sharing links and invites with full attribution and analytics.	Objective-C	18964	18	13	18
+AlloySingleWindowNavigation	nsrosenqvist/AlloySingleWindowNavigation	9222857	An MIT licensed navigation controller for the Titanium Alloy mobile app framework that's built to work with a single window and utilize views instead of multiple windows. It's also very flexible and can used in combination with several windows using one instance per window.	JavaScript	4950	18	7	18
+tiny_sinatra_jquery_mobile_app	marc-an-be/tiny_sinatra_jquery_mobile_app	5342680	Tiny Sinatra jQuery Mobile App	Ruby	116	17	8	17
+droidcon-2015-mobile-app	droidconpl/droidcon-2015-mobile-app	38940738	Mobile app for droidcon Kraków conference	Java	621	17	4	17
+twenty-app	hr-twenty/twenty-app	19088135	Twenty - Mobile app	JavaScript	3398	17	3	17
+openmbta-android	hyoun98/openmbta-android	2285017	Android mobile app for the metro Boston transportation system	Java	1151	17	14	17
+spade	rf/spade	4362969	inject events into titanium mobile apps	Java	2139	17	4	17
+NewIM	yamingd/NewIM	23822999	This is a simple NewIM, created for Mobile App.using Netty, Zookeeper and Protobuf	Java	451	17	18	17
+pushserver	EFForg/pushserver	24734506	A server for sending push notifications to mobile apps	JavaScript	172	17	3	17
+TiOpenChat	BOXOUT-THINKERS/TiOpenChat	47012495	Titanium open source chat mobile app for iOS/Android using BaaS by BOXOUT THINKERS	JavaScript	89635	17	9	17
+teem	P2Pvalue/teem	24595444	Teem is a web tool and mobile app for collaboration in communities, which facilitates onboarding of newcomers	JavaScript	9132	17	14	17
+chrome-angular-template	infomofo/chrome-angular-template	16825479	a template for mobile apps in android, ios, and chrome backed by a yeoman angular project	JavaScript	1070	17	4	17
+CrumpRealEstate	tomgersic/CrumpRealEstate	4800911	This is the Salesforce.com Mobile SDK iOS native demo app shown during the Painless Mobile App Development Webinar on June 27, 2012.	Objective-C	5991	17	3	17
+meteor-app-with-remote-server	rclai/meteor-app-with-remote-server	38941442	Example of how to run a Meteor web app or mobile app that uses a different Meteor backend.	JavaScript	121	17	2	17
+LuasataGlance	thecosmicfrog/LuasataGlance	28836361	Android Wear and mobile app providing real-time tram stop information for Dublin's Luas light rail service.	Java	2543	17	2	17
+city-app	PhantomAppDevelopment/city-app	49224509	An Adobe AIR mobile app that uses the Youtube V3 API, Foursquare API, Flickr API and RSS feeds.	ActionScript	217	17	1	17
+puffin	puffinrocks/puffin	44172461	lightweight webapp catalog based on containers, with user interface à la mobile app store	Python	2062	17	1	17
+Branch-Example-Deep-Linking-Branchster-Android	BranchMetrics/Branch-Example-Deep-Linking-Branchster-Android	28652423	Branch Metrics Example application for Android mobile deep linking / deeplinking - the Branchster app. Branch helps mobile apps grow with deep links / deeplinks that power referral systems, sharing links and invites with full attribution and analytics.	Java	4135	17	4	17
+angular-avatar	ajsoriar/angular-avatar	51941101	Angular Avatar is a simple and lightweight AngularJS directive that generates e. Several angular atributes are available to configure the output: size, shape, resolution, colors, etc.a letter's avatar like Microsoft or Google do in their web apps. First letter of each word in a string or a group of initials will be used to generate the avatar. The image of the avatar will be rendered in an html img tag as a real png or jpeg. The image data can be retrieved using javascript to be stored in back-end giving you an initial profile picture in your web or mobile apps when the user does not upload on	HTML	395	17	3	17
+confetti	alunny/confetti	1002260	generate mobile app config files	Ruby	632	16	16	16
+phonegap-google-universal-analytics	blast-analytics-marketing/phonegap-google-universal-analytics	11210354	Use analytics.js (GA Universal Analytics) with PhoneGap mobile apps.	JavaScript	170	16	23	16
+TiInstagramUtil	atsusy/TiInstagramUtil	6892771	Hooks Instagram from Titanium Mobile app.	Python	112	16	5	16
+node-deeplink	mderazon/node-deeplink	27536422	Easily create an endpoint in your web server that redirects deep links to mobile apps	JavaScript	40	16	9	16
+stlive	tohagan/stlive	22328044	Massively speed up Sencha Touch mobile app development. Avoid compiling and redeployment.	JavaScript	1214	16	4	16
+audio-streaming-app	24hourkirtan/audio-streaming-app	49738618	Audio Streaming App Based on Ionic HTML5 Hybrid Mobile App Framework 	JavaScript	18946	16	8	16
+kaec-app	PhantomAppDevelopment/kaec-app	19919199	An Apache Flex mobile app that uses the Youtube V3 API, Foursquare API, Flickr API and RSS feeds. 	ActionScript	586	16	5	16
+Arbiter-Android	ROGUE-JCTD/Arbiter-Android	13153488	Arbiter is a mobile app that lets you build a map to use for situational awareness and geospatial data collection using a smartphone or tablet	HTML	13280	16	14	16
+Trustroots-React-Native	Trustroots/Trustroots-React-Native	63338730	React Native mobile app for Trustroots	Clojure	675	16	1	16
+whereat-macroid	the-learning-collective/whereat-macroid	34427455	mobile app for tactical comms on protest marches	Scala	232	16	1	16
+ember-ratchet-example	cavneb/ember-ratchet-example	21256440	Instructions to creating a hybrid mobile app with EmberCLI and Ratchet	JavaScript	126	16	2	16
+Azot	appstud/Azot	39128408	Azot is a micro behaviors analytics for mobile apps - 	Objective-C	26819	16	1	16
+OneSignal-WordPress-Plugin	OneSignal/OneSignal-WordPress-Plugin	35697346	OneSignal is a free push notification service for web and mobile apps. This plugin makes it easy to integrate your website with OneSignal Push Notifications. https://onesignal.com	CSS	22709	16	3	16
+rube	kennytilton/rube	59517636	A pure dataflow aka reactive library for building Clojure or ClojureScript models that run by themselves (like Rube Goldberg Machines). Includes Qxia, a mobile app development framewor based on qooxdoo mobile.	JavaScript	15916	16	0	16
+mobile-app	Grisu-NOE/mobile-app	24306384	This project aims to build a modern mobile web-app based on the framework Ionic to improve the functionality of http://mobile.leitstelle122.at/.	HTML	8587	15	4	15
+limewallet	limewallet/limewallet	27363086	limewallet mobile app	JavaScript	17886	15	12	15
+30technologies30days-mobile-app	shekhargulati/30technologies30days-mobile-app	14201801	The mobile application for 30technologiesin30days challenge https://www.openshift.com/blogs/learning-30-technologies-in-30-days-a-developer-challenge	JavaScript	4756	15	15	15
+azure-mobile-apps-ios-client	Azure/azure-mobile-apps-ios-client	45963582	iOS Client SDK for Azure Mobile Apps	Objective-C	3483	15	13	15
+GagBook	dicksonleong/GagBook	5919905	An unofficial mobile app for 9GAG website, using Qt/QML.	C++	1727	15	7	15
+FunctionalMeetup	praeclarum/FunctionalMeetup	60387196	Example code for Frank Krueger's Functional Mobile Apps talk at NDC Oslo 2016	F#	2931	15	6	15
+titanium-store	Monglo/titanium-store	5757592	Titanium Store for persistent data storage in titanium mobile apps.	JavaScript	119	15	2	15
+macros	workfloapp/macros	51629560	Clojure macros for web and mobile app development	Clojure	386	15	1	15
+unity-branch-deep-linking	BranchMetrics/unity-branch-deep-linking	29449996	The Branch Metrics Unity Deferred Deep Linking SDK. Branch helps mobile apps grow with deep links / deeplinks that power referral systems, sharing links and invites with full attribution and analytics.	Objective-C	35566	15	5	15
+middleman-ratchet	caedes/middleman-ratchet	9149352	middleman-ratchet is an extension for the Middleman static site generator that adds support for the Ratchet prototyping mobile apps	CSS	263	15	2	15
+Finicky	tpryan/Finicky	1834202	Finicky is a mobile app designed to track hard to find local items for travelers.  Made with Flex and AIR.	ActionScript	110191	15	1	15
+juggler	jamuhl/juggler	7344961	Juggler is a free and open source framework to build html5 mobile apps and  deploying them to devices thanks to phonegap.	JavaScript	27228	15	0	15
+magento-rest-cordova-mobile-app	guohuadeng/magento-rest-cordova-mobile-app	32860624	html5 mobile app by cordova, connect to magento by rest api	JavaScript	52147	14	17	14
+Emby.Mobile	MediaBrowser/Emby.Mobile	25432664	A Cordova-based mobile app for Emby	JavaScript	862636	14	24	14
+sendbird-sample	smilefam/sendbird-sample	49048873	SendBird - Messaging and Chat API for Mobile Apps and Websites	null	54480	14	23	14
+JabbRIsMobile	Redth/JabbRIsMobile	9436370	MvvmCross based set of mobile apps for JabbR	C#	2208	14	7	14
+COSCUP2011MobileApp	lis186/COSCUP2011MobileApp	2215197	This is a titanium mobile app for COSCUP 2011	JavaScript	18945	14	0	14
+ifixit-microsoft	iFixit/ifixit-microsoft	10806259	iFixit mobile app development for Windows Phone 8 and Windows 8	C#	66961	14	5	14
+ti-fighter	itspriddle/ti-fighter	1371760	Wage intergalactic war against your Titanium Mobile apps.	CoffeeScript	847	14	2	14
+Geolocation-Examples	aaronpk/Geolocation-Examples	1738822	Example code from my presentation on Geolocation in Web and Mobile Apps	Objective-C	128	14	3	14
+carmino	jrburke/carmino	6974722	Build web apps targeted for mobile apps using a card metaphor	JavaScript	6974	14	2	14
+JSpager-Ionic-Template	jsappme/JSpager-Ionic-Template	40372363	JSpager converts a Facebook page into a chat hybrid mobile app using Ionic Framework, Ionic Material, Facebook API and Socket.io. JSpager is only an Ionic template. Customization is required to obtain a well finished and polished app.	JavaScript	12191	14	6	14
+wsdot-mobile-app	WSDOT/wsdot-mobile-app	13480113	Source code for the WSDOT HTML5 mobile Web application	Java	1754	13	6	13
+libreplanapp	Igalia/libreplanapp	6600367	LibrePlan Mobile App	JavaScript	429	13	11	13
+azure-mobile-apps-android-client	Azure/azure-mobile-apps-android-client	47153321	Android Client SDK for Azure Mobile Apps	Java	9315	13	14	13
+ChkBook	pdsullivan/ChkBook	25234311	Mobile App using Ionic Framework	JavaScript	15087	13	4	13
+pgajdrupal	amitavroy/pgajdrupal	13007961	Phonegap AngularJS mobile app with Drupal as REST server	CSS	792	13	3	13
+ionic-ion-airbnbmenu	mAmged/ionic-ion-airbnbmenu	28865437	using this ion you can extend your application menu to look like airbnb mobile app menu	JavaScript	11	13	8	13
+monaca-framework-android	monaca/monaca-framework-android	5698333	Monaca Framework provides additional functionalities for PhoneGap hybrid mobile apps	Java	24077	13	5	13
+yellr	hhroc/yellr	20356930	Comunity Engagement Journalism Mobile App, Website, and Eco-System	JavaScript	38180	13	5	13
+xamarin-gradle-plugins	cfraz89/xamarin-gradle-plugins	19600192	Plugins to build xamarin mobile apps using gradle	Groovy	544	13	2	13
+PubKit	narup/PubKit	30777643	Lightweight messaging, data store and push notification platform for mobile apps - http://pubkit.co	JavaScript	705832	13	3	13
+Re-Locate	nicmitchell/Re-Locate	32781740	Cross platform hybrid mobile app for real estate	HTML	8349	13	2	13
+lilacs	ricardoalcocer/lilacs	13279829	Li'l ACS is an instant API on top of Appcelerator Cloud Services, using the Custom Objects API.  Use LilACS any time you need to have a custom on-line database for your web and/or mobile apps.	CSS	1305	13	6	13
+learn-saucelabs	dwyl/learn-saucelabs	30361698	:boom: Learn to use SauceLabs.com to test your Web/Mobile apps in ALL the Browsers!	null	9	13	3	13
+air-ane-branch-deep-linking	BranchMetrics/air-ane-branch-deep-linking	32167328	Branch Metrics Adobe AIR Native Extension for iOS & Android. Branch helps mobile apps grow with deep links / deeplinks that power referral systems, sharing links and invites with full attribution and analytics. 	Objective-C	35696	13	2	13
+Compare	shuhei/Compare	61545202	A super-simple mobile app to compare temperatures of yesterday and today.	JavaScript	3272	13	0	13
+todo-app	PhantomAppDevelopment/todo-app	60982829	An Adobe AIR mobile app that uses the Firebase V3 API to save users to do's lists and manage their accounts.	ActionScript	130	13	0	13
+Tesla-Mobile-App	exrin/Tesla-Mobile-App	52582751	An example app replicating some of the functionality of the official Tesla Mobile App.	C#	772	12	4	12
+ForekastMobile	mcongrove/ForekastMobile	24075578	The mobile app for Forekast	JavaScript	6847	12	8	12
+MobileAppReportCard	joswr1ght/MobileAppReportCard	29149253	Microsoft Excel spreadsheets for consistent security evaluation of Android and iOS mobile applications	null	142	12	2	12
+HyperReload	mikaelkindborg/HyperReload	11401202	Rapid development of mobile apps in JavaScript	JavaScript	9101	12	8	12
+transita	lhl/transita	218149	Public Transit Mobile App	Java	617	12	2	12
+Mobile-Code-Catalog	GSA/Mobile-Code-Catalog	9675606	Source code from around, inside, and outside the federal government that can be helpful to federal agencies building mobile apps.	HTML	1409	12	12	12
+fourbar	tygart/fourbar	19773839	a kivy mobile app for a four bar linkage 	Python	14112	12	3	12
+playbook_famous_phonegap	FamousMobileApps/playbook_famous_phonegap	22928542	Nick's playbook for building mobile apps with phonegap and famo.us	null	5818	12	6	12
+velociratchet-meteor-package	zendylabs/velociratchet-meteor-package	28678780	Velociratchet is a Meteor mobile app prototyping tool built on Ratchet, Velocity, Momentum, and Iron Router. 	CSS	74	12	6	12
+location-tracker-angular	cloudant-labs/location-tracker-angular	30260692	This tutorial shows how to build a mobile app in HTML5, Javascript and Angular that records a device’s location and saves it to an IBM Cloudant database	JavaScript	4053	12	13	12
+tabris-js-template-app	eclipsesource/tabris-js-template-app	52343282	Native mobile apps javascript starter - 7 apps in 1 (iOS, Android). Build your app easily with Tabris.js	JavaScript	1120	12	7	12
+openshift-myshoppinglist	gfidente/openshift-myshoppinglist	3509750	demo mobile app deployed on OpenShift built in pure html5 with Flask/jQuery Mobile, stores on MongoDB	Python	223	12	5	12
+hs-cordova	mtolly/hs-cordova	22291952	Use Haskell (GHCJS) to develop Cordova mobile apps (note: has not been updated to modern GHCJS)	Haskell	796	12	4	12
+GeeksNearby	pwalczyszyn/GeeksNearby	5068973	It's a simple mobile app to exchange contacts between people in near distance	Objective-C	5798	12	3	12
+mobilenode	kwhinnery/mobilenode	13154054	A tiny node-like environment for native mobile apps	JavaScript	115	12	1	12
+titanium-branch-deep-linking	BranchMetrics/titanium-branch-deep-linking	39475502	The Titanium SDK shares the same code base as the Branch Web SDK, and enables you to call all the same functions from your Titanium app.  Branch helps mobile apps grow with deep links / deeplinks that power referral systems, sharing links and invites with full attribution and analytics.	JavaScript	81772	12	9	12
+UWP-Swipe-in-Hamburger-menu	db71/UWP-Swipe-in-Hamburger-menu	48234342	Windows 10 (Mobile) apps need a more consitent UI. Use this Hamburger menu swipe-in for the Groove hamburger menu looks and feel.	C#	79	12	2	12
+names-app	PhantomAppDevelopment/names-app	65071238	An Adobe AIR mobile app that makes extensive use of SQLite to search, filter and suggest names from tens of thousands of records.	ActionScript	20802	12	2	12
+JokeBox	Yu-w/JokeBox	36219416	iOS mobile app written purely in Swift. Your daily funny joke of the day. Take your time for relaxing and having fun!	Swift	18696	12	0	12
+MWDCON-example	mike-north/MWDCON-example	38651531	One codebase to generate a web app, desktop app and mobile app, using the Ember.js ecosystem and build tools.	Objective-C	1268	12	0	12
+JailbreakQA-Mobile-App	Fr0stDev/JailbreakQA-Mobile-App	5385629	Application for JailbreakQA, YAY	Objective-C	20749	11	9	11
+mobile	PointCloudLibrary/mobile	12528387	PCL related code to mobile apps	C++	4355	11	14	11
+OpenBlock-Mobile-App	tshedor/OpenBlock-Mobile-App	3667797	Built using Appcelerator's Titanium for Mobile and the OpenBlock API that powers LarryvilleKU.com	JavaScript	849	11	2	11
+azure-mobile-apps-net-files-client	Azure/azure-mobile-apps-net-files-client	41941928	Managed client SDK for Azure Mobile Apps integrated blob/file storage features	C#	1057	11	9	11
+mobile-apps-with-ionic-and-firebase	tutsplus/mobile-apps-with-ionic-and-firebase	39647361		CSS	2140	11	11	11
+xavccMobileApp	xavierlacot/xavccMobileApp	1351712	An Appcelerator Titanium application for the URL shortener xav.cc	JavaScript	1551	11	1	11
+onebusaway-windows-phone	OneBusAway/onebusaway-windows-phone	13223850	Source code for the OneBusAway mobile app on Windows Phone	C#	3437	11	12	11
+azure-mobile-apps-cordova-client	Azure/azure-mobile-apps-cordova-client	49990219	Cordova client plugin for Azure Mobile Apps	JavaScript	723	11	4	11
+News-Qt-App	owncloud/News-Qt-App	10688220	A repository for the Qt based Newsreader Mobile app.	C++	3213	11	5	11
+exhibition-android	primesoftpro/exhibition-android	53855303	Online exhibition mobile app	Java	6882	11	1	11
+jquerymobile-tabbar	mlynch/jquerymobile-tabbar	4704284	An easier to use NavBar control for jQuery Mobile apps	JavaScript	102	11	5	11
+mobisplash-cli	SamVerschueren/mobisplash-cli	49154184	Mobile app splash screen generator	JavaScript	25	11	0	11
+app-privacy-screens	appsalliance/app-privacy-screens	22120342	Easy-to-install mobile app privacy screens that provide enhanced transparency for consumers.	JavaScript	305	11	4	11
+ConfMate	flrent/ConfMate	9851856	The ultimate app to bring your conference to the next level. Give your attendees a shiny offline mobile app they can use to create custom schedule and browse conf details.	JavaScript	13295	11	6	11
+CMS	engmsaleh/CMS	26809348	CMS and Mobile App Maker. Shovel apps is a web software that lets you create awesome mobile applications for Android, iOS and Windows Phone, with different designs for each platform with the web technologies that you love: HTML, CSS and JavaScript. The whole platform and extensions are developed using Node.JS (JavaScript) and Web Components. Hybrid mobile apps feel like native ones, but are easier to maintain and scale. You have full access to native functionality using generic JavaScript methods (Camera, SD Card, microphone, contacts, etc.).	JavaScript	800	11	9	11
+neeman	intellum/neeman	47588329	A WKWebView wrapper for converting a web app into a hybrid mobile app without getting in the way of your native code.	Swift	4242	11	2	11
+rails-mobile-app-sample	tscolari/rails-mobile-app-sample	2396067	Sample rails application using jquery mobile and mobylette	Ruby	500	10	7	10
+DrupalCamp-Ionic-Mobile-App	kevinblanco/DrupalCamp-Ionic-Mobile-App	22045677	Mobile app that consume Drupal Services for the DrupalCamp Costa Rica. Uses Ionic framework.	JavaScript	13924	10	7	10
+PayPal-Code-Examples	saranyan/PayPal-Code-Examples	2876454	Integrating PayPal API with Mobile Apps	Ruby	1851	10	31	10
+DevelopingMobileAppsWithPhoneGap	cfjedimaster/DevelopingMobileAppsWithPhoneGap	7487832	Developing Mobile Applications with PhoneGap	JavaScript	14572	10	21	10
+mad-parse	kwhinnery/mad-parse	7726126	Mobile App Distribution with Twilio and Parse	JavaScript	715	10	12	10
+IOSReferenceApp	kaltura/IOSReferenceApp	8854830	Kaltura Reference Mobile app for iOS	Objective-C	34184	10	8	10
+monkeytalk	alexnauda/monkeytalk	15399205	Free and Open Source Mobile App Testing Tool (from Gorilla Logic)	Java	16811	10	19	10
+apptuter	egirna/apptuter	21588994	Apptuter is a framework to produce mobile apps out of social media content	JavaScript	28177	10	7	10
+RadioStudent-Android	RadioStudent/RadioStudent-Android	15374390	Mobile app for streaming our favorite local radio station in Ljubljana, Slovenia	Java	1812	10	9	10
+ionic	RioBus/ionic	56117930	RioBus mobile app written with Ionic2	TypeScript	4049	10	4	10
+seat	gzhtml5/seat	6748258	online seat selector, a plugin for web apps and mobile apps, developed with jQuery and HTML	JavaScript	196	10	9	10
+AppiumRepl	Jonahss/AppiumRepl	18116490	Simple REPL (Read-eval-print Loop) for controlling mobile apps through Appium	JavaScript	1833	10	7	10
+sensu-monitoring-app	nsulistiyawan/sensu-monitoring-app	47247928	Ionic based (hybrid) mobile apps for server monitoring using sensu monitoring api 	JavaScript	2104	10	4	10
+drawerform	malcolmgroves/drawerform	9560038	Using FireMonkey Layouts, Animations and Gesture support to create a Facebook-style layout for your mobile app.	Delphi	117	10	7	10
+liferay-events-app	jamesfalkner/liferay-events-app	34414903	A cross-platform mobile app used for events, conferences, symposiums, and more. Built on the Liferay and Titanium Appcelerator platforms.	JavaScript	1738	10	8	10
+xapp	xoxco/xapp	2018398	An HTML5/Javascript boilerplate for constructing offline-enabled mobile apps	JavaScript	290	10	2	10
+crash-log-report	liu-yanjun/crash-log-report	22497577	Mobile app crash log report sdk	Java	544	10	1	10
+MRStackExample	mahipal/MRStackExample	4554612	This is a sample iPhone app that uses the StackExchange API to show a properly decoupled architecture for mobile apps to interact with web backends.	Objective-C	166	10	2	10
+oss-perf	wilsonmar/oss-perf	42345971	:rocket: How to create a more nimble, comprehensive, and yet lower cost approach to measure the speed and load capacity risks of high-traffic desktop web and mobile apps. Contents is being reformatted to ASCIIDOC for publishing in website/book/ebook form using Jerkyll and Amazon Lambda.	Ruby	1753	10	6	10
+RxApp	bordoley/RxApp	23753585	Functional reactive mvvm framework for building mobile apps using the Reactive Extensions	C#	1124	10	0	10
+IBM-Ready-App-for-Venue	IBM-MIL/IBM-Ready-App-for-Venue	44840832	IBM Ready App for Venue demonstrates a personalized and social experience within the fictional theme park - Brickland. At Brickland, visitors use their mobile app to discover what is near them, find their way to their favorite attractions, keep in touch with their group, and achieve badges based on their activity.	C	179781	10	6	10
+Mobile-applications	BuildmLearn/Mobile-applications	19025386	This repository contains source code for educational mobile applications.	HTML	1078699	9	27	9
+mobile-app-development	solarphinn/mobile-app-development	41496123	Repository of examples in support of mobile app development course.	Java	46799	9	9	9
+building-mobile-apps-flex	lheberlie/building-mobile-apps-flex	8441599	Building Mobile Applications with the ArcGIS API for Flex: In this session we show you how easy it is to use Flex to deploy native mobile mapping applications on iPhone and Android. We’ll cover considerations for mobile versus web development. And, explore topics such as map performance, events, multiple views as well as handling gesture, orientation changes and we’ll also cover debugging tips.	ActionScript	26080	9	12	9
+OpenCamp-Mobile-App	elofland/OpenCamp-Mobile-App	682719	Titanium project files for the OpenCamp mobile iPhone/Android application	Objective-C	91258	9	3	9
+InventoryMobileApp	nysenate/InventoryMobileApp	8483792	This project utilizes an Android-based tablet with a bar-code scanner to track Senate inventory in the most efficient manner possible.	Java	6361	9	2	9
+ideploy	beiliubei/ideploy	24310156	mobile app deploy tools	Python	14	9	6	9
+zulip-mobile	zulip/zulip-mobile	58298428	Experimental Zulip mobile app using React Native	JavaScript	135	9	5	9
+com.revivalx.ratchet	datomnurdin/com.revivalx.ratchet	21883553	This source code provides example for simple hybrid mobile app using cordova and ratchet 2.	Java	3482	9	7	9
+tourguide	tourguide/tourguide	12967120	Titanium Mobile App for tour guiding on Android & iOS using TourML bundles	JavaScript	128886	9	7	9
+ebt-near-me	codeforamerica/ebt-near-me	22696834	A mobile app that shows the nearest places you can use an EBT card nationwide.	JavaScript	1736	9	8	9
+mobile	docebo/mobile	24684820	This project is the open source version of the Docebo Mobile App for iOs and Android Smartphones	JavaScript	5612	9	11	9
+Ionic-CouchDB-chat-app	mkovacek/Ionic-CouchDB-chat-app	42190646	Simple chat mobile app, like whatsApp lite version	JavaScript	5756	9	4	9
+ionictips	tipaday/ionictips	50606450	Get one Ionic tip everyday. Juice up your Ionic mobile app development.	null	563	9	5	9
+GWeather	bob-sims/GWeather	1696812	small Appcelerator Titanium Mobile app to demo pull of undocumented Google Weather API data	JavaScript	4381	9	7	9
+ionic2-angular2-firebase	chsakell/ionic2-angular2-firebase	66715022	Building hybrid mobile apps using Ionic 2 and Firebase	TypeScript	23327	9	4	9
+image-saver	scripterkaran/image-saver	38127246	Offline Images. Ionic module for saving remote images to local file system in HTML mobile Apps.	JavaScript	156	9	4	9
+backrack	erichmenge/backrack	3959449	Rack and Sprockets powered Backbone.js mobile app generator	JavaScript	204	9	1	9
+phonepack	wagnercsfilho/phonepack	41524499	Free and open source Javascript, HTML and CSS library for create Web and Mobile apps	CSS	8466	9	2	9
+drupanium_authentication	utneon/drupanium_authentication	4164191	This titanium mobile app is a work in progress. This titanium mobile project includes the drupanium_framework which is being developed. The purpose of this mobile app is to use the drupanium framework components for application, authentication and user.	JavaScript	1807	9	3	9
+learn-mean-seed	jackrabbitsgroup/learn-mean-seed	14871774	Learn Angular (AngularJS). Learn Node (node.js). Learn HTML5, CSS3, Javascript. Learn to build responsive, cross-platform (mobile) apps and websites using the MEAN stack / generator-mean-seed.	JavaScript	2008	9	2	9
+hello-cordova	xmnboy/hello-cordova	19720266	Sample webview app illustrating use of Cordova APIs in a hybrid mobile app. Also shows how to detect the device ready event and detect when running in a browser (not inside Cordova container).	JavaScript	4991	9	6	9
+xamarin-branch-deep-linking	BranchMetrics/xamarin-branch-deep-linking	32038668	The Xamarin SDK is a cross platform SDK you can use to access the Branch deep linking / deeplinking APIs from your Xamarin application. Branch helps mobile apps grow with deep links / deeplinks that power referral systems, sharing links and invites with full attribution and analytics.	C#	70383	9	5	9
+ionic-aurelia	stalniy/ionic-aurelia	55724586	Advanced HTML5 mobile development framework and SDK. Build incredible mobile apps with web technologies you already know and love. Available with Aurelia now! http://ionicframework.com/	TypeScript	20018	9	0	9
+dotcms-mobile-app	dotCMS/dotcms-mobile-app	24428283	Code for the native mobile app that works with the dotcms demo site.	JavaScript	15201	8	6	8
+Mobile-App-Distribution-with-SMS	RobSpectre/Mobile-App-Distribution-with-SMS	4631298	An example of how to use Twilio SMS to distribute your mobile app.	Python	807	8	4	8
+seekr_mobile_app	leggsimon/seekr_mobile_app	40650079		JavaScript	25104	8	2	8
+10-minute-dynamic-mobile-app	beeman/10-minute-dynamic-mobile-app	33285196	How to rapidly create an API and dynamic mobile app, a demo made for a local meetup	JavaScript	2689	8	5	8
+www	VirPong/www	2458078	Resource files for the VirPong mobile app.	JavaScript	10102	8	8	8
+Joomla_API	jibon57/Joomla_API	32875370	Joomla API for mobile apps (Android, Iphone/Ipad & External site)	PHP	48	8	10	8
+PCQuickCommands	theblixguy/PCQuickCommands	16811236	Client and Mobile app	Java	5033	8	3	8
+Geotrek-mobile	makinacorpus/Geotrek-mobile	18873391	Geotrek mobile, mobile app of Geotrek Rando	CSS	53087	8	7	8
+DNSPod-Mobile	DNSPod/DNSPod-Mobile	2321961	A Cross-Platform Mobile App for DNSPod	null	88	8	5	8
+cordova-flurry	Initsogar/cordova-flurry	16660178	Cordova plugin that integrate Flurry Analytics in your mobile app.	Objective-C	3084	8	5	8
+com.dougsko.diceware	dougsko/com.dougsko.diceware	1861955	Diceware mobile app	JavaScript	5875	8	1	8
+Orange	baidao/Orange	19451134	mobile app framework	CSS	1465	8	1	8
+Selfie-Fun	akshayKMR/Selfie-Fun	44043558	Mobile app for detecting and analyzing faces in your photos	CSS	669	8	6	8
+railsconf-2016-demo-mobile-app	andrewhavens/railsconf-2016-demo-mobile-app	57464236		Ruby	6691	8	2	8
+buildnotifier	intridea/buildnotifier	11454071	Mobile App and Web App Release Distribution Management	Ruby	871	8	2	8
+cordova-app	openfoodfacts/cordova-app	27002797	Open Food Facts mobile app, developed with Cordova, for iOS, Android, Windows Phone, FirefoxOS etc.	JavaScript	835	8	6	8
+force-contacts-ratchet	ccoenraets/force-contacts-ratchet	17448777	A sample Salesforce.com Mobile App with Ratchet 2.0	JavaScript	320	8	3	8
+cfunited-2010-mobile-application	cfaddict/cfunited-2010-mobile-application	807909	This is the mobile application for the CFUnited conference.	JavaScript	660	8	1	8
+appchallenge	bholdt/appchallenge	25276526	30 Day Mobile App Challenge	JavaScript	2144	8	1	8
+mobile-hope	novamean/mobile-hope	34354389	Mobile Hope is an mobile app to manage the operations of Mobile Hope in Leesburg, VA.  The Mobile Hope program is designed to support the needs of precariously housed, homeless and at risk youth living in Loudon County	JavaScript	4168	8	26	8
+Munch	enochng1/Munch	60029598	Tinder-styled Restaurant Recommendation Mobile App ( Lighthouse Labs Project )	Objective-C	10838	8	4	8
+WebChat	Skookum/WebChat	8605593	Example mobile web app for the workshop "Forget Native: Learn to Write HTML5 Mobile Apps"	JavaScript	440	8	3	8
+jquery.mb.ile	pupunzi/jquery.mb.ile	1113367	javascript framework for mobile app (iOs).	JavaScript	8606	8	1	8
+ionic-validate-with-toast	njleonzhang/ionic-validate-with-toast	47163175	A pure angular validate specially for mobile app/website without jQuery dependency. 	JavaScript	1654	8	3	8
+AppSessionDemo	patrickseda/AppSessionDemo	3862933	A client-side Session timeout for Titanium mobile apps.	JavaScript	2126	8	0	8
+amakani	amakan/amakani	66394266	amakan mobile apps for Android and iPhone.	Objective-C	3706	8	1	8
+OneSignal-Xamarin-SDK	OneSignal/OneSignal-Xamarin-SDK	51481149	OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your Xamarin app with OneSignal. https://onesignal.com	C#	33867	8	4	8
+amakani	amakan/amakani	66394266	amakan mobile apps for Android and iPhone.	Objective-C	3706	8	1	8
+Small-apps-onepage-html5-app-landing-page	themefisher/Small-apps-onepage-html5-app-landing-page	30115484	Smart App is a clean and modern Landing Page Template for Mobile App. Built with Bootstrap 3.Well organized and very easy to customize, Smart App is better way to present and promote your startup mobile app website.	CSS	1004	8	6	8
+react-native-card-scan	zfedoran/react-native-card-scan	58084266	React Native credit card scanning in mobile apps using Card.io	Java	4	8	1	8
+Ionic2-Angular2-YouTube-Channel-App	hughred22/Ionic2-Angular2-YouTube-Channel-App	62464912	A hybrid mobile app for listing and playing your own YouTube videos inside your YouTube Channel. Build with Ionic 2, Angular 2 and YouTube API V3.	CSS	73002	8	8	8
+Map-Explorer-Open	mapocosm/Map-Explorer-Open	5059599	Mobile app for Android and iOS, written in Javascript Appcelerator Titianium	null	1364	8	0	8
+andraia-js-mobile-framework	grevory/andraia-js-mobile-framework	15328856	An ultra-lightweight javascript framework for building small mobile apps the way you like	JavaScript	920	8	1	8
+appa-sariicon	sariina/appa-sariicon	46210044	Appa Sariicon is a collection of 147 webfont icons that are carefully designed for Web and Mobile Apps	HTML	0	8	0	8
+posada	ShamariFeaster/posada	66577301	It's called POSADA (personal open source automated digital assistant). It's a open source digital assistant. The primary use cases are financial (paying bills, transferring money, etc). It will open source and user hosted. People host their assistant on pre-loaded, plug and play raspberry pi 3s. Hopefully there will be a community of developers that will share integrations (ie, scraping scripts). So if I want my assistant to work with my local bank, I build an intergration and now anyone else that has the same bank can connect to it. POSADA's logic will be programmable as well. So you can customize when it alerts you, requests confirmation, or automatically transfers money from one account to another to pay a bill. One of the use cases I'm most excited about is the ability of POSADA to make donations to organization and charities you care about. So rather than setting up an auto-pay thing with a 3rd party, you tell POSADA how much you want to give, how frequently, and can even adjust the amount based on an assessment of your current financial position. The user would be in total control and I hope that will encourage more people to financial support media outlets, open source projects, and other worthy causes on a regular, sustaining basis. I've got a mobile app prototype that handles two factor authentication and will eventually grow to become the front end of the assistant. I'm currently leveraging the built in speech-to-text capabilities of android phone to allow the user to communicate with their assistant via voice.	null	1	8	0	8
+mobile-app-backend-mongodb-mongoose-1	MiamiCoder/mobile-app-backend-mongodb-mongoose-1	26602354	Mobile app backend tutorial using MongoDB and Mongoose. 	JavaScript	1596	7	9	7
+cordova-mad	mindon/cordova-mad	16631801	cordova mobile app dev	JavaScript	186	7	6	7
+wp-mobile-app-example	miya0001/wp-mobile-app-example	21314299	Example theme WordPress JSON Rest API	CSS	582	7	3	7
+mobile-app	GlobalQuran/mobile-app	51311426	Mobile app for any device. 	JavaScript	18357	7	1	7
+leanote-mobile	lealife/leanote-mobile	33439311	Leanote mobile app (mui+html5plus)	JavaScript	212	7	5	7
+hitch-a-ride	btford/hitch-a-ride	8017015	Mobile app for EECS 441	null	109	7	8	7
+whereat-native	whereat/whereat-native	50261913	safe location sharing mobile app built on top of React Native	JavaScript	299	7	13	7
+on-the-go-mobile	zendtech/on-the-go-mobile	22684429	Mobile part of Zend On The Go mobile app	JavaScript	11497	7	13	7
+IonicOfflineBlog	arvind07/IonicOfflineBlog	31852220	This is a small mobile app to demonstrate offline capabilities of hybrid mobile apps.	JavaScript	3728	7	9	7
+ane-mobile-app-billing	funkypandagame/ane-mobile-app-billing	26806706	Apple store and Google play store integration ANE	Java	2739	7	0	7
+ThinkOut-MobileApp	williamsrz/ThinkOut-MobileApp	48038788		C#	133	7	0	7
+tripmobile	TripSit/tripmobile	26719539	TripSit mobile app for Android	Java	42121	7	2	7
+RCTRealtimeNews	realtime-framework/RCTRealtimeNews	46436319	Enterprise mobile app using React Native and the Realtime Platform	JavaScript	78	7	3	7
+FreefallHighScore	FreeFallHighScore/FreefallHighScore	2165244	The first in a line of Antagonistic Mobile Apps	Objective-C	12042	7	3	7
+Yazarim	ihsanbal/Yazarim	33783644	Hürriyet Hackathon Mobile App	C	32664	7	0	7
+bit6-js-sdk	bit6/bit6-js-sdk	19873233	Rich messaging and voice/video calling for web and mobile apps.	null	326	7	2	7
+PrivacyDefense	mokasocial/PrivacyDefense	2624708	ACLU Privacy Defense Mobile App	Objective-C	10315	7	1	7
+template-blank	gomobile/template-blank	24956487	Use this template to start with a blank HTML for creating mobile apps.	JavaScript	243	7	3	7
+mipApp	ngBraves/mipApp	61936268	Hibrid and native mobile app to control a MIP robot	TypeScript	1442	7	2	7
+mobox	davidjbeveridge/mobox	5277900	Mobile app prototype in a box.	Ruby	27605	7	1	7
+crisp-app-mobile	crisp-im/crisp-app-mobile	59220578	:iphone: Crisp React Native mobile app	Objective-C	3749	7	1	7
+Mobileorgie	Metalorgie/Mobileorgie	11902151	Mobile app for Metalorgie.com	JavaScript	7311	7	1	7
+Mobile-Apps-Authentication-Authorization-ASP.NET-WEB-MVC-4.0	aamir-poswal/Mobile-Apps-Authentication-Authorization-ASP.NET-WEB-MVC-4.0	11129730	Authentication/Authorization using MVC 4 SimpleMembership for iPhone/Andriod/Windows Phone Client Applications  (ASP.NET WEB API)	null	64	7	2	7
+Forms9PatchDemo	baskren/Forms9PatchDemo	49013599	Simplify multi-device image management in your PCL Xamarin.Forms mobile apps	C#	924	7	2	7
+GCM-app	life0fun/GCM-app	5488745	A full fledged GCM mobile app with fragment UI and message persistent	Java	2404	7	1	7
+floribus	murilloflores/floribus	33308535	Mobile app to show Florianopolis public transportation timetables	JavaScript	21445	7	0	7
+OpenGLInsights-Porting	ashcairo/OpenGLInsights-Porting	2689815	Samples provided for the Porting Mobile Apps to WebGL chapter of OpenGL Insights	C++	784	7	1	7
+sethgoesmobile	nukomeet/sethgoesmobile	6363261	Let's crowdsource a mobile app for Seth Godin.	CoffeeScript	112	7	0	7
+thesis	millenomi/thesis	1021767	My thesis work. A distributed, mobile app to make in-class interactions persistent and searchable and a ton of stuff like that.	Objective-C	2823	7	2	7
+mobile-browser-prototyping-kit	Doteveryone/mobile-browser-prototyping-kit	58217357	A kit for prototyping mobile apps in the browser.	CSS	327	7	1	7
+combat	infinum/combat	2019089	Deploy your iPhone and Android applications to clients with ease. It's like Capistrano, only for mobile apps.	Ruby	120	7	2	7
+ATA	chiliberto/ATA	890887	A mobile app that displays the calendar of events for Artists' Television Access, an experimental arts space in San Francisco, Ca.  Created by Gilbert Guerrero, with Corona SDK by Ansca Mobile, http://anscamobile.com	Lua	405	7	4	7
+design-kit-axure-library	duzyn/design-kit-axure-library	50910822	An Axure widget library contained **most** common UI patterns in desktop, web and mobile app design regions.	null	1139	7	0	7
+generator-titanium	Bradleycorn/generator-titanium	12627447	A yeoman generator to scaffold Appcelerator Titanium mobile app projects for use with the Titanium CLI	JavaScript	3500	7	1	7
+appgo	oxfeeefeee/appgo	53714904	Appgo is a mobile app backend solution that bundles negroni, gorm and other utilities	Go	73	7	1	7
+clojure-xamarin	DavidYKay/clojure-xamarin	56703539	A project to get ClojureCLR working on Xamarin for cross-platform native mobile app development.	null	1	7	0	7
+worona-mobile-app	Benuit/worona-mobile-app	20645602	Turn your WordPress site  into a native app.	Lua	663	6	4	6
+craftar-example-ios	Catchoom/craftar-example-ios	12919024	Catchoom mobile app example for iOS	Objective-C	9324	6	7	6
+Mobile-Applications-for-Android	TelerikAcademy/Mobile-Applications-for-Android	46935844		Java	10184	6	6	6
+stopwatch-example	vkarpov15/stopwatch-example	43442437	Ionic framework mobile app for stopwatch-server-example	JavaScript	4209	6	6	6
+ionic-mobile-app-template	castlewhitehall/ionic-mobile-app-template	29989094	development of the ionic mobile app template	JavaScript	561	6	1	6
+WordPress-bb10	b0unc3/WordPress-bb10	12978674	WordPress mobile app for BlackBerry 10 devices 	C++	1128	6	4	6
+OBS-Translation-App	unfoldingWord-dev/OBS-Translation-App	17376764	This is the translation mobile app for Open Bible Stories	Java	9478	6	6	6
+Safe	VJAI/Safe	32583398	Cordova based hybrid mobile app to keep your photos safe	JavaScript	492	6	9	6
+berlin-vegan-guide	Berlin-Vegan/berlin-vegan-guide	33683869	mobile app for android	Java	1049	6	2	6
+backend-services-push-hybrid-advanced	telerik/backend-services-push-hybrid-advanced	19978152	A Cordova/PhoneGap-based mobile app that demonstrates advanced push notifications topics such as custom parameters and targeting.	JavaScript	5183	6	8	6
+nativescript-azure-mobile-apps	PeterStaev/nativescript-azure-mobile-apps	57411530	NativeScript plugin for working with Microsoft Azure Mobile Apps services	TypeScript	1493	6	1	6
+vandymobile-ios	VandyApps/vandymobile-ios	4369890	A mobile app for the Vanderbilt Mobile team.	Objective-C	11773	6	2	6
+velociratchet-demo	zendylabs/velociratchet-demo	28659916	Velociratchet is a Meteor mobile app prototyping tool built on Ratchet, Velocity, Momentum, and Iron Router.	HTML	200	6	4	6
+conf-app-boilerplate	devevents/conf-app-boilerplate	35060452	The easiest way to create mobile apps for conference/events.	JavaScript	4420	6	2	6
+touchkit	vaadin/touchkit	12978679	Vaadin TouchKit is a Pro Tool for Vaadin Framework which enables you to build mobile apps out of your Vaadin Framework applications	Java	20761	6	8	6
+ionic-boilerplate	dannynelson/ionic-boilerplate	17685727	A seed for creating scalable mobile apps with phonegap, angular, and ionic	JavaScript	6844	6	2	6
+generator-react-native	jimzhan/generator-react-native	37292277	React Native project biolerplate for building mobile apps.	JavaScript	120	6	0	6
+tribeez	antoinerousseau/tribeez	50558129	Web and Mobile app made with React	JavaScript	23418	6	1	6
+PizzaDeliveryApp	voidabhi/PizzaDeliveryApp	19000371	Mobile app for ordering pizza online	CSS	3924	6	0	6
+terces	chetanganatra/terces	41584886	Mobile app for Password Management using Ionic Framework	JavaScript	10061	6	2	6
+angular-notification	xelita/angular-notification	15621349	Bring Apache Cordova Notification API to AngularJS Mobile Apps...	null	136	6	0	6
+tainan-1999	newmanchen/tainan-1999	35023037	A mobile app based on http://1999.tainan.gov.tw/OpenExplain.aspx for Tainan citizens to add/query requests to Tainan-1999 system.	Java	1134	6	3	6
+yubikey-googleauth	mutantmonkey/yubikey-googleauth	2974665	Google Authenticator that uses Yubikey instead of a mobile app.	Python	6	6	0	6
+Blueprint	vipickering/Blueprint	11106687	Blueprint is a rapid keynote prototyping framework for building mobile apps	null	7536	6	1	6
+kickball-app	amaliebarras/kickball-app	56077348	mobile app design project for the Iron Yard week 7	null	42635	6	0	6
+PlantAlert_backend	PlantAlert/PlantAlert_backend	26555783	A mobile app for helping your plants not die.	JavaScript	1008	6	0	6
+ProgrammeTV	mauricesvay/ProgrammeTV	13404810	A simple mobile app to get the french TV schedule for tonight	JavaScript	436	6	0	6
+aframe	AFrame/aframe	18087315	AFrame is a .NET automation framework that leverages existing frameworks such as Selenium for web apps, Microsoft Coded UI for desktop apps and Appium for mobile apps. At its core, AFrame provides a common programming interface across all three platforms encouraging maintainability, reuse and many more side effects.	C#	5817	6	7	6
+ember-cordova-animation-demo	artificialio/ember-cordova-animation-demo	23242445	Showing the capabilities of liquid-fire for mobile apps	CSS	1928	6	0	6
+jquery-mobile-backtotop-plugin	operationmobile/jquery-mobile-backtotop-plugin	3382376	This plugin will enhance a users' experience of your jQuery Mobile app by adding a 'Back to top' button to a page.	JavaScript	86	6	3	6
+Monitor	scorpiodwy/Monitor	55528747	This is the demo project for students learning mobile app develop to do the final project	Java	182	6	0	6
+sushi	romemore/sushi	26433412	A framework based on Parse to keep your data up-to-date in your mobile apps 	Java	1284	6	0	6
+Apache-Flex-iOS-7-App	HDsign/Apache-Flex-iOS-7-App	19255969	This application show how to make your Apache Flex mobile app look like native iOS 7.	CSS	3176	6	0	6
+template-blank-ad-project	gomobile/template-blank-ad-project	24956638	[App Designer Ready] Use this template to develop cross-platform mobile app using the drag-and-drop UI designer and your choice of UI widgets provided by Intel App Framework, jQuery Mobile, Bootstrap or Topcoat. Apps developed with this template can be built to run on various mobile devices as well as in a mobile browser.	JavaScript	217	6	4	6
+codeigniter3-cinder	monsterlane/codeigniter3-cinder	25418519	Cinder is designed to provide a single page app like experience for websites, wep apps, or web based mobile apps.	PHP	2622	6	0	6
+MP3QuranForAndriod	abodehq/MP3QuranForAndriod	7343999	MP3 QURAN is an online Quran app for Android users to listen all surahs of quran online using Amazon streaming service. you can create your own web, Desktob, Mobile apps. using our API service and for free :  http://mos7af.com/mp3quranapi/ ** you can create as many playlists as you want in avery easy way, also you can download any sura to your Device.	Java	4459	6	5	6
+ATPHP	kelvindc/ATPHP	6079758	lightweight PHP prototyping framework aim to rapid develop CRUD backend with MySQL for Mobile App and HTML5 ajax based applications.	PHP	108	6	0	6
+webStorage	developerdynamo/webStorage	43132732	angular module for simply save data (single values, object, array) into browser local storage for web and mobile app.	JavaScript	47	6	0	6
+testmunk_gem	testmunk/testmunk_gem	23200672	The testmunk gem assists you in creating Calabash tests based on the Page Object Model. It supports Android and iOS and contains many useful methods that are used to interact with your mobile app.	Ruby	397	6	1	6
+Ext.ux.touch.ListOptions	SwarmOnline/Ext.ux.touch.ListOptions	2910812	This plugin duplicates the functionality found in Twitter’s mobile apps where an options menu is exposed after swiping over an item in a list.	null	916	6	0	6
+devcycle-mobile-app	TourTrak/devcycle-mobile-app	14897076	The hybrid cross platform mobile app build for the TD Five Boro Bike Tour. 	JavaScript	856280	5	3	5
+Adler-Mobile-App	lucasqiu/Adler-Mobile-App	13686400		null	11199	5	4	5
+mediawiki-extensions-MobileApp	wikimedia/mediawiki-extensions-MobileApp	14378352	Github mirror of  MediaWiki extension MobileApp - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing	CSS	225	5	6	5
+mobile-app-seed	darlinglele/mobile-app-seed	28530848	PhoneGap + Framework7 + AngularJS + RequireJS 快速移动开发模板 (Life's too short to be taken seriously) 	CSS	1404	5	2	5
+WordpressMobileApp	CraigChilds94/WordpressMobileApp	20396909	A template for a HTML5 mobile app, using cordova which integrates a Wordpress feed.	Java	16884	5	2	5
+carcloud-mobile-app	imduffy15/carcloud-mobile-app	24801788	Mobile Application for CarCloud	JavaScript	10124	5	2	5
+ReactApp	jay3dec/ReactApp	34607275	Mobile App Using ReactJS	JavaScript	7	5	4	5
+mobile	chamilo/mobile	24545696	PhoneGap mobile app	JavaScript	13160	5	3	5
+Mobile-Applications-for-iOS	TelerikAcademy/Mobile-Applications-for-iOS	25212732		Objective-C	28798	5	8	5
+cloud-hana-mobile-app-tutorial	SAP/cloud-hana-mobile-app-tutorial	41816520	Illustration of the logon and OData access functions with the SAP's Mobile SDK for native apps.	Java	45	5	3	5
+wildrank-desktop	nwalters512/wildrank-desktop	20710987	The desktop companion to the WildRank mobile app.	Java	13499	5	8	5
+qrcodemobile	lbracegirdle/qrcodemobile	6471727	QR Code Mobile App for PhoneGap	null	1192	5	7	5
+Android-Mobile-App	longinus89/Android-Mobile-App	4227722	A Project for Google application mobile.	Java	3012	5	1	5
+KPFT-Mobile-App	MojoHand/KPFT-Mobile-App	580779	iPhone companion to KPFT 90.1FM Houston	Objective-C	136	5	1	5
+Crossfit-mobile-app	jumptack/Crossfit-mobile-app	1739692	Titanium crossfit mobile application	Objective-C	36604	5	0	5
+angular-cordova-device	xelita/angular-cordova-device	15612009	Bring Apache Cordova Device API to AngularJS Mobile Apps...	JavaScript	200	5	5	5
+app-ocr-functions	jamesmontemagno/app-ocr-functions	65061587	Cognitive Services, Azure Functions, Azure Mobile Apps, and Xamarin	C#	440	5	4	5
+ViSH_mobile	ging/ViSH_mobile	6668811	Mobile apps for ViSH platform	Objective-C	15309	5	1	5
+TitaniumOpenBadges	smachaje/TitaniumOpenBadges	6944318	Open Badges mobile app in Appcelerator Titanium	JavaScript	5020	5	3	5
+treemo-mobile	treemoapp/treemo-mobile	38384089	Hybrid mobile app	JavaScript	42167	5	1	5
+jak-android	JAKBank/jak-android	19909673	Android mobile app for JAK Members Bank	Java	1691	5	3	5
+bashrety	jinjin86/bashrety	17247782	bashrety mobile app	JavaScript	27996	5	0	5
+ShopingMall	ruifeng2357/ShopingMall	29391789	This is app for android that can buy & sell goods via mobile app.	Java	16036	5	5	5
+song-mixer	kpiszczek/song-mixer	11060939	Project for "Creative Programming for Digital Media & Mobile Apps"	JavaScript	6912	5	3	5
+podverse	podverse/podverse	33634509	Podcast subscribing and clip sharing mobile app	Swift	52808	5	2	5
+titanium-lib	lasar/titanium-lib	5242918	Simple collection of tools for developing Titanium mobile apps	JavaScript	143	5	1	5
+oky	jsdf/oky	14626480	An okayish framework for mobile apps with Backbone.	JavaScript	220	5	2	5
+eat-this-one	eat-this-one/eat-this-one	34574822	Open Source mobile app to share meals with your colleagues at work or at the uni during lunch time.	JavaScript	5214	5	6	5
+app	ogijima-library/app	59541384	Mobile app for Ogijima library	JavaScript	6290	5	1	5
+localart	Code4HR/localart	20774437	An HTML5 mobile app for navigating & browsing locations of public art, architecture, and culture in Norfolk, VA.	JavaScript	3799	5	6	5
+meteor-mobile-boilerplate	arbesfeld/meteor-mobile-boilerplate	27208779	Starting point for mobile apps	CSS	424	5	1	5
+neopet	PETComputacaoUFPR/neopet	43711682	Mobile app for Flarum (flarum.org) made with Ionic	JavaScript	2826	5	2	5
+YoIntervengoiOS	Olinguito/YoIntervengoiOS	29377615	Yo Intervengo Mobile App iOS	Objective-C	34203	5	1	5
+rovermob	michaellperry/rovermob	32901320	Rover mobile app framework	C#	137	5	2	5
+tv-ionic	tvlive/tv-ionic	26191650	mobile app using ionic framework	JavaScript	7598	5	1	5
+usergrid-mobile	snoopdave/usergrid-mobile	24797533	Example jQuery-Mobile & Cordova mobile app, backed by Usergrid	JavaScript	34076	5	2	5
+USIMobileApp	arael/USIMobileApp	7822111	Mobile app for the USI Campus; Cordova and Sencha based	JavaScript	12640	5	2	5
+Flex-Demo-4.10.0-mobile	HDsign/Flex-Demo-4.10.0-mobile	11554018	Flex 4.10.0 Experimental Layouts Demo Mobile App	null	540	5	2	5
+wildgarlic	funkatron/wildgarlic	1259068	a simple urbandictionary mobile app, written in JavaScript with the Jo framework	JavaScript	412	5	2	5
+Shion-Touch	audaciouscode/Shion-Touch	2614064	Shion mobile app for iOS devices	null	2993	5	1	5
+BLE_Debugger_Android	JUMA-IO/BLE_Debugger_Android	49632371	This is a mobile APP for transferring raw data to/from BLE(Bluetooth Low Energy) devices. It is a powerful debugging tool for developers to identify or test BLE issues. 	Java	563	5	6	5
+seed-angular-cordova	olivejs/seed-angular-cordova	42421370	Olive seed for AngularJS and Cordova to build ambitious mobile apps	JavaScript	924	5	2	5
+stormpath-android-notes-example	stormpath/stormpath-android-notes-example	54159348	Integrating Stormpath into a mobile app	Java	7596	5	0	5
+shoppinglist	mariogarcia/shoppinglist	6437594	A Grails + AngularJS example (Web mobile app)	JavaScript	460	5	2	5
+django-phonegap	cwurld/django-phonegap	15737089	Demo showing creation of Phonegap mobile app, integrated with Django via REST.	Python	160	5	2	5
+testing-hybrid-apps-with-appium	afternoon/testing-hybrid-apps-with-appium	24142120	Presentation and example of testing a hybrid mobile app with Appium	JavaScript	184	5	2	5
+Fall15_MAD_class_examples	CUATLAS/Fall15_MAD_class_examples	41715598	Fall 15 Mobile App Development class examples	Swift	15143	5	1	5
+digital-mass	xmatthewx/digital-mass	3994170	A bare-bones mobile app used to trace & share your bicycle commutes for posterity!	JavaScript	1061	5	2	5
+GouvCamp-mobile	jolicode/GouvCamp-mobile	3770701	Mobile app for the GouvCamp 2012	JavaScript	3936	5	0	5
+my-bike-lane-mobile	jessamynsmith/my-bike-lane-mobile	35011182	Mobile app for my-bike-lane	CSS	1933	5	2	5
+template-blank-cordova-project	gomobile/template-blank-cordova-project	24964785	Use this template to develop cross-platform mobile apps that can be built to run on various mobile devices as well as in a mobile browser. This template has all the device initialization code necessary for creating a mobile app using Cordova or Intel XDK APIs.	JavaScript	301	5	3	5
+ibm-worklight-angular	g00glen00b/ibm-worklight-angular	16272108	A simple todo-app called YaTa (Yet Another Todo App) with only one goal: to create an IBM Worklight mobile app using AngularJS and the Ionic UI framework.	JavaScript	596	5	3	5
+appception-tahoe	aristiden7o/appception-tahoe	10902802	Mobile App Performance Challenge: Native vs. HTML5 Hybrid Apps	Ruby	668	5	0	5
+coApp	coimotion/coApp	21081867	A small framework to build COIMOTION powered mobile apps	JavaScript	848	5	0	5
+Kissmetrics-JS-for-Appcelerator	acktie/Kissmetrics-JS-for-Appcelerator	3966571	A Javascript library to send Kissmetrics event from Appcelerator mobile apps	JavaScript	1642	5	1	5
+Comic-Surfer	jcalonso/Comic-Surfer	4177783	HTML5 Comic visualizer mobile App and authoring tool	JavaScript	1557	5	1	5
+Centre-Events	bob-sims/Centre-Events	3381217	Conference or event mobile app prototype in Appcelerator Titanium Mobile.	JavaScript	1205	5	1	5
+app-mobile-angularjs-ratchet2	vicentegarcia/app-mobile-angularjs-ratchet2	17611089	Sample Mobile App built with AngularJS and Ratchet 2.0	JavaScript	208	5	1	5
+blinker	rakyll/blinker	39310324	A tiny Raspberry Pi program controlled by a Go mobile app	Go	128	5	1	5
+TGFramework-Android	techgrains/TGFramework-Android	30280277	TGFramework is to provide developer friendly library, that can help to improve feature development rather focusing on common structure creation during every mobile app development. 	HTML	1207	5	3	5
+Simply-Mobile-UI	Skiing-Marmot/Simply-Mobile-UI	10438640	Provide a graphical interface forthe Simply Mobile app generator. Allow you to build complete Appcelerator Titanium mobile apps by drag and drop.	JavaScript	1292	5	0	5
+py3_google_authenticator	yurri/py3_google_authenticator	11232805	A back-end module to use with Google Authenticator mobile app written in Python 3	Python	128	5	0	5
+NoKunda	MHaroonBaig/NoKunda	24998862	NoKunda Mobile app is designed to Report Electricity theft happening in Pakistan.	Objective-C	93429	5	1	5
+BB10-WebWorks-Community-Samples-Augmented-Reality	georgemck/BB10-WebWorks-Community-Samples-Augmented-Reality	10133090	Sample project for creating Mobile Augmented Reality Mobile Apps for the BlackBerry 10 platform	null	2008	5	1	5
+fuzzer	bunqcom/fuzzer	41110024	Program for testing a mobile app by sending it semi-random inputs.	Java	188	5	1	5
+alcohol-app	PhantomAppDevelopment/alcohol-app	54793818	An Adobe AIR mobile app that uses the Yelp V2 API, Geolocation, OpenStreetMaps and SQLite.	ActionScript	286	5	0	5
+100apps	addr/100apps	53506628	I'm creating 100 mobile apps in 100 days. Mostly Swift/iOS, maybe some React Native.	Objective-C	37988	5	1	5
+PhoneGapWakandaStudioExtension	saadmos/PhoneGapWakandaStudioExtension	10317167	A Wakanda Studio Extension that could be used to convert a web mobile app to a native one after send it to build PhoneGap, the input of the extension is the current project that should contains the smatphone page and the output is a zip file that should be uploaded to the build phonegap website	JavaScript	1096	5	4	5
+FitnessApp	ruifeng2357/FitnessApp	29488076	This is an Android & iPhone app for own health state can record, analysis and share using mobile app	Java	3174	5	1	5
+Drupal-Services---Titanium-Example	DigitalFrontiersMedia/Drupal-Services---Titanium-Example	3398230	An example Titanium Mobile App demonstrating how to connect to Drupal Services 7.x-3.x via XMLRPC	Objective-C	20394	5	1	5
+passwordless-login	denismo/passwordless-login	14466694	Login into mobile apps and website on the Internet without entering your password or sharing any other private information	Erlang	220	5	1	5
+ImageChooserSample	ipragmatech/ImageChooserSample	34179700	This is sample application for using facebook fresco and imagechooselibrary to upload the picture from library or camero for android mobile app	Java	192	5	1	5
+Unity-ANE	lilili87222/Unity-ANE	47123279	UnityAds ane for flash air mobile app ,witch enable as3 developer integrate Unity video Ad and rewarded video ads in their IOS and Android apps	ActionScript	11863	5	0	5
+shakara	saniyusuf/shakara	61245583	Shakara is an open source mobile app for finding great designs for your Nigerian Ankara. Originally conceived by Uyoyo Sule. This is the Ionic spinoff of the app. 	CSS	1003	5	1	5
+ChurchMobile	RyannosaurusRex/ChurchMobile	2130923	A cross-platform mobile app for our mobile church that has no building.  Communication is key and this app aims to offer mobile updates to replace bulletins and notifications of different venues, happenings and events.  Built on PhoneGap and JQuery Mobile.	JavaScript	1087	5	2	5
+Android-Mobile-Banking-Demo	knurld/Android-Mobile-Banking-Demo	58183502	Add the power of voice based authentication to your mobile apps - Sample Native Android Mobile Banking App using Knurd.io Speaker Verification APIs	Java	601	5	1	5
+IBM-Bluemix-iOS	IBM-Bluemix/IBM-Bluemix-iOS	50672670	With the IBM Mobile Console for Bluemix mobile app, you can always know the status of your most critical cloud applications, even on the go.	null	3	5	2	5
+Eventarin	DavidSilverlight/Eventarin	23046044	Event Management Tool used for conferences built on Xamarin mobile development technology. Used to create mobile apps for local conferences that allow attendees to view sessions, events, build a schedule and other features that are voted on by the community.	C#	86234	5	1	5
+Ushahidi_WinMobile	ushahidi/Ushahidi_WinMobile	198800	Ushahidi Windows Mobile App. Ushahidi is a platform that crowdsources crisis information, allowing anyone to submit crisis information through text messaging using a mobile phone, email or web form.  Windows Mobile PocketPC 2003 - Windows Mobile 6 PocketPC - Windows Mobile 6 SmartPhone	C#	41994	5	1	5
+App-invites	shivasurya/App-invites	34559942	App invites - Facebook Developers.App Invites are a rich and personal way for people to invite their Facebook friends to a mobile app.Example repo For Android App Project build with Android Studio.	Java	223	5	1	5
+PDFReporter	OpenSoftwareSolutions/PDFReporter	20092527	The library is a fork of the popular open source Jasper Reports and supports the common features provided by Jasper Reports, but offline and for mobile apps. The PDFReporter library supports iOS, Java and Android library, Windows experimental. For your document and report design you use the PDFReporter Studio where you can visualize your data.	Java	137864	5	1	5
+My-Diary-mobile-app	jihonrado/My-Diary-mobile-app	5331286	Simple diary mobile app built using HTML5, local storage, geolocation, offline capabilities, CSS3 transitions and google maps API. Final assignment of the "Mobile Web 2: Applications" course (by W3C Dev Campus).	JavaScript	240	4	6	4
+PyCon-Mobile-App	pythonindia/PyCon-Mobile-App	62886917	PyCon India App developed with Kivy	Python	7349	4	8	4
+dreamhouse-mobile-app	dreamhouseapp/dreamhouse-mobile-app	58014896	DreamHouse customer-facing mobile application built with the Salesforce Mobile SDK	JavaScript	4166	4	5	4
+PyDelhiMobile	akshayaurora/PyDelhiMobile	52424092	Mobile App for PyDelhi	Python	2824	4	8	4
+Shodan.io-mobile-app	PaulSec/Shodan.io-mobile-app	37527132	Official repository for the Shodan.io mobile Application	null	11227	4	5	4
+klipsmobile	gelhaar/klipsmobile	3219684	KLIPS mobile-App	PHP	420	4	3	4
+DMGY9103-MobileApps-SP15	IDMNYU/DMGY9103-MobileApps-SP15	29982023	Repository for the IDM Spring 2015 Mobile Apps Course	null	552	4	14	4
+guide-mobile_app_conception	DISIC/guide-mobile_app_conception	51932206	Ce guide présente les étapes à effectuer pour créer une application mobile accessible. Le but est de définir les spécifications fonctionnelles avec les zonings, de définir l'ergonomie et la navigation dans l'application et de créer les maquettes pour fournir au développeur tous les éléments nécessaires à la création d'une application accessible.	null	142	4	2	4
+mobile-app-development-ios	solarphinn/mobile-app-development-ios	64133755	Code examples for Mobile Application Development for iOS.	Swift	146	4	2	4
+bootstrap-mobile-app-mvc-skeleton	AndiDog/bootstrap-mobile-app-mvc-skeleton	6269744	Brunch skeleton for a performant application with modular routing & screen navigation approach (push/pop, support for tabs, transitions), MVC-based, using CoffeeScript (and optionally Stylus and Handlebars), Twitter's Bootstrap for styling	Java	5934	4	2	4
+mobile-app	AdlerMobile/mobile-app	14479041	Mobile Navigation and Tour App for Adler Planetarium.	Objective-C	41182	4	1	4
+mobile_app	unl/mobile_app	2127101	Phonegap Mobile App	JavaScript	408	4	1	4
+on-the-go-api	zendtech/on-the-go-api	22676969	API part of Zend On The Go mobile app	PHP	291	4	12	4
+rapt-resources	ScottyB/rapt-resources	17119209	List of mobile app prototyping tools	null	116	4	6	4
+Fall16_MAD	CUATLAS/Fall16_MAD	66048156	Mobile App Development class examples	Swift	4194	4	4	4
+bond-content	Icenium/bond-content	23078674	Interactive tutorials for building mobile apps with Telerik Platform	null	680	4	10	4
+generator-mobile-app	peutetre/generator-mobile-app	13570734	[Deprecated, look at tarifa.tools] A Yeoman generator for mobile web apps using Cordova	JavaScript	308	4	0	4
+angulargap.github.io	ejchet/angulargap.github.io	16868047	AngularGap is a beautiful front-end framework for developing hybrid mobile apps in HTML5.	CSS	2038	4	8	4
+AzureFileSync	nishanil/AzureFileSync	49003309	Samples for Azure Mobile Apps (File Sync support)	C#	315	4	6	4
+tipBru	martingrondein/tipBru	55313416	tipBru - Android Mobile App	HTML	1018	4	2	4
+mobile	huicloud/mobile	46468217	a mobile app powerd by Dzh Cloud and React Native	Objective-C	9941	4	5	4
+moodle-local_mobile	moodlehq/moodle-local_mobile	20225945	Local plugin for extending the current Moodle Mobile app features	null	1434	4	14	4
+azure-mobile-apps-with-ionic	Microsoft/azure-mobile-apps-with-ionic	62677875	Ionic template integrated with Azure mobile app services	JavaScript	4111	4	4	4
+Heinz-Disaster-Response-Mobile-Application	aaronmgross/Heinz-Disaster-Response-Mobile-Application	2695854		JavaScript	17661	4	3	4
+Mobile-App-Back-End	vlasboius/Mobile-App-Back-End	48694189	Used technologies: Node.JS (Express), Firebase, Firebase Token generator, Twilio, Ionic push server	JavaScript	5	4	0	4
+coa-nolahealth-mobile	togakangaroo/coa-nolahealth-mobile	3545958	Code For America HackDay Nola Health Mobile app	Ruby	581	4	3	4
+xuetangx-Mobile	gaoyan10/xuetangx-Mobile	14795057	XuetangX(Tsinghuax or Edx Moocs project) Mobile App and simulator API Server by node.js	JavaScript	4405	4	5	4
+android-client	rutgersmobile/android-client	18813418	Android client for the official Rutgers University mobile app.	Java	21020	4	3	4
+si.nej.mobile.feri	digitaljerry/si.nej.mobile.feri	3165428	FERI Mobile App	JavaScript	24360	4	0	4
+day11-30technologies30days-mobile-app-with-push-notification	shekhargulati/day11-30technologies30days-mobile-app-with-push-notification	14230857	The day 11 demo app. It is a mobile application with push notification using AeroGear	JavaScript	3112	4	2	4
+CocoaFish	LearningTitanium/CocoaFish	2971251	Instant backend solution for your mobile apps	JavaScript	2149	4	2	4
+node.js-youtube-scraper	jrcryer/node.js-youtube-scraper	2791865	jQuery Mobile App which scraps content from YouTube homepage	null	1956	4	3	4
+ember-cli-proto-css	poetic/ember-cli-proto-css	25164994	CSS Framework for mobile apps with Cordova and Ember CLI. 	JavaScript	301	4	2	4
+whereat-android	whereat/whereat-android	37745444	Mobile app to help actvists coordinate tactical communications during protests	Java	607	4	3	4
+locationtracker	rajrsingh/locationtracker	24959131	HTML5 mobile app for tracking location with a simple sample LeafletJS map viewer	CSS	2186	4	7	4
+uc-maps-mobile	almapp/uc-maps-mobile	50109157	UC Maps mobile app built with React Native	JavaScript	1114	4	2	4
+JGBoilerplate	JoomGap/JGBoilerplate	45053032	A JoomGap starter project to create a hybrid mobile app for Joomla! CMS, powered by Cordova/PhoneGap, AngularJS and Ionic.	JavaScript	2979	4	10	4
+AoDispor-Android	AoDispor/AoDispor-Android	49587103	Ao Dispor mobile app	Java	11777	4	0	4
+somtoday_api	raketwissenschaftler/somtoday_api	24332245	A python wrapper for the api somtoday uses in their mobile app	Python	20	4	3	4
+MapNav	ChrisXin/MapNav	39303672	An indoor Map Navigation mobile App, built with Java, XML, Google Android Sensor API	Java	4464	4	4	4
+angular2-wordpress	smartbiz/angular2-wordpress	55289529	Build a Mobile App for your WordPress based business using Angular 2	HTML	506	4	4	4
+Berry	Hayman/Berry	10836796	Cross platform mobile app framework for Xamarin	C#	438	4	2	4
+PetSitter	MobileAppDevPetSitter/PetSitter	43512232	Pet Sitter Mobile App	Swift	2250	4	1	4
+jxcore-tutorial-angular	karaxuna/jxcore-tutorial-angular	41643020	nodejs mobile app tutorial	JavaScript	45012	4	1	4
+RTU_GROUP_PROJ	Kristaps-B/RTU_GROUP_PROJ	24032310	Mobile app for "Projektešanas laboratorijas" subject.	JavaScript	22896	4	0	4
+wl-mobile	fnp/wl-mobile	1402643	Mobile app for Wolne Lektury	JavaScript	1735	4	1	4
+ineedit	cfjedimaster/ineedit	1763201	repo for my mobile app	ActionScript	4278	4	1	4
+shipmate	tmecklem/shipmate	16593398	A web application similar to testflight for private hosting and distribution of mobile apps for testing.	Ruby	21670	4	3	4
+iOS-MAS-SDK	CAAPIM/iOS-MAS-SDK	55442837	iOS Mobile SDK for CA Mobile App Services and CA Mobile API Gateway	null	65636	4	2	4
+zero	ekylibre/zero	18790776	Mobile app for tracking intelligency	null	18772	4	1	4
+navio	cctmag/navio	12985302	Mobile [ App | Art | Action ] Group	Objective-C	21762	4	1	4
+ti.version	danielmahon/ti.version	5877591	Python compile script to increment build versions for Appcelerator Titanium Mobile apps	Python	120	4	2	4
+hesperian-mhealth-pregnancy-warning-signs	saqimtiaz/hesperian-mhealth-pregnancy-warning-signs	1634512	Mobile app using Hesperian content about warning signs during pregnancy	JavaScript	17106	4	2	4
+penn-mobile-android	pennlabs/penn-mobile-android	16791473	Penn's mobile app for Android	Java	23197	4	0	4
+ojoVoz_mobile	ojovoz/ojoVoz_mobile	3103841	A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz	PHP	39874	4	6	4
+arbiter-old	ROGUE-JCTD/arbiter-old	5606622	Arbiter is a mobile app for geospatial data collection in both connected and disconnected environments. 	JavaScript	134109	4	2	4
+VocaDB-App	VocaDB/VocaDB-App	21620488	VocaDB mobile app build with cordova and ionic framework	JavaScript	61237	4	1	4
+ShoppingPad	jj09/ShoppingPad	46108987	Multiplatform (Windows 10, Android, iOS) Mobile App built with Xamarin	C#	934	4	1	4
+circulator-mobile	octolabs/circulator-mobile	711724	"Where's my bus?" mobile app for DC Circulator	Python	212	4	0	4
+AppFiguresRanks	Smileek/AppFiguresRanks	30881181	Shows your mobile apps' ranks via AppFigures account	C#	616	4	0	4
+meteor-file-registry	UK-AS-HIVE/meteor-file-registry	22616137	Functionality for media-sharing mobile apps, based on Meteor + Cordova	CoffeeScript	6487	4	0	4
+SafestWay	jmealo/SafestWay	8379901	SafestWay is a mobile app that provides safe walking routes based on crime data.	JavaScript	11238	4	2	4
+Course-Manager	daifu/Course-Manager	3842358	a ucla course manager on mobile app by Titanium	JavaScript	23640	4	1	4
+angular-touch-faster	onemanclapping/angular-touch-faster	47943550	Set of directives to accelerate angular mobile apps even further	JavaScript	5	4	0	4
+ActionFitnessMobile	gulerianitin/ActionFitnessMobile	24203910	An android mobile app  for fitness and exercise	Java	30396	4	0	4
+cedos	ndsl-kaist/cedos	45167693	Cellular Data Offloading System for Delay-tolerant Mobile Apps	C	8160	4	1	4
+ionic-autocomplete	ajayparsana/ionic-autocomplete	45670775	Auto complete box for ionic mobile app	JavaScript	1664	4	1	4
+andbrain	AndbrainTeam/andbrain	61951182	LETS BUILD AWESOME MOBILE APPS USING THE EASIEST WAY	Java	107	4	1	4
+ownercheck	FallibleInc/ownercheck	67116947	 Verify ownership of domains and mobile apps	HTML	81	4	0	4
+mobile-ios-samples	CartoDB/mobile-ios-samples	60267686	iOS mobile app with Carto Mobile SDK	Objective-C++	52434	4	0	4
+bordeaux.js	1000Memories/bordeaux.js	10653342	Create an interactive demo for your mobile app	JavaScript	7173	4	1	4
+giftcycle	evolverine/giftcycle	4498799	Gift economy mobile app for exchanging free stuff through scavenger.org.uk, freecycle, etc.	JavaScript	3325	4	2	4
+STARnotes	mlaguren/STARnotes	16647905	Demo mobile app for continuous integration using Appium	Objective-C	344	4	0	4
+android-material-io	opozo/android-material-io	31845186	Android Material Design Google IO Mobile App	Java	19608	4	4	4
+pickup	edwlook/pickup	17322858	Mobile app for finding impromptu sport events	JavaScript	5076	4	0	4
+zurich_mobile	mysociety/zurich_mobile	7604108	Mobile app for Zurich version of FixMyStreet	JavaScript	16287	4	1	4
+Top-10-Key-Performance-Techniques-for-Hybrid-mobile-Apps	mohamed-taman/Top-10-Key-Performance-Techniques-for-Hybrid-mobile-Apps	34928950	Top 10 Key Performance Techniques for Hybrid mobile Apps session	JavaScript	3768	4	1	4
+appschopper	johnadam01/appschopper	5981351	Appschopper is a world renowned Mobile Apps development company which caters its services in Custom Mobile Apps Development for iPhone, iPad, Android, BlackBerry & Windows Phone.	null	48	4	0	4
+wpapp	dodyrw/wpapp	3018812	WordPress plugin for data provider for WpApp Titanium Template for mobile app	PHP	127	4	1	4
+git-mobile-for-github	WyomingSoftware/git-mobile-for-github	52533423	Git-Mobile is an IOS and Android mobile app to access GitHub.	null	1224	4	0	4
+cinemair-front	Cinemair/cinemair-front	38997070	A Madrid open air cinema movie finder mobile app (with ionic!)	JavaScript	5411	4	0	4
+nativeloop-mobile	nativeloop/nativeloop-mobile	66176733	⚡ developing native mobile apps just got a whole lot more awesome ⚡	JavaScript	251	4	0	4
+Crunch	apsdehal/Crunch	18801158	A mobile app that lets you get most out of Muzi	JavaScript	8701	4	0	4
+Android-Magento-Rest-Api-Integration	ipragmatech/Android-Magento-Rest-Api-Integration	39053525	This sample based on Android Platform that connects to Magento REST API and authenticate/authorise the customer to access the product lists from their mobile app.	Java	1328	4	3	4
+Cargo-ios	fifty-five/Cargo-ios	43677252	Cargo iOS allows to integrate third party SDK to GTM for mobile apps	Objective-C	142	4	0	4
+sliding-menu	danielcardoso/sliding-menu	23850411	Sliding Menu Plugin - Mobile app list-style navigation in the browser.	HTML	315	4	1	4
+gof-patterns	mjumbewu/gof-patterns	949272	A simple "flash cards" mobile app for the Gang of Four design patterns.	JavaScript	1725	4	1	4
+DontBullyMe	CeceXX/DontBullyMe	43208540	A mobile app that helps to fight violence, criminality and bullying.	Swift	228	4	0	4
+tristar-eye	baldram/tristar-eye	51247009	The mobile app that helps to check current Tricity traffic status.	Java	21216	4	0	4
+SeedToHarvest	aSchimp/SeedToHarvest	14033821	A cross-platform mobile app for crop records - designed with the organic farmer in mind.	Ruby	964	4	0	4
+clinicaltrials-app	PhantomAppDevelopment/clinicaltrials-app	17604789	An Apache Flex mobile app that uses the ClinicalTrials API, Foursquare API and SQLite. 	ActionScript	611	4	1	4
+campingstove	nblumoe/campingstove	2861093	Campingstove is a boilerplate for platform independent mobile app development with html5 and well structured, modularized javascript.	JavaScript	240	4	2	4
+meteosuisse	bfritscher/meteosuisse	15362426	html/js client visualisation for meteosuisse rain/radar data provided by meteosuisse mobile app api	JavaScript	448	4	0	4
+Recipes	gustavHsiung/Recipes	3490827	 a Titanium Mobile app following Chapter 2 of "Appcelerator Titanium Smartphone App Development Cookbook". 	JavaScript	33710	4	0	4
+x10switch	harm/x10switch	15549333	A Ruby on Rails Mobile app (JQuery Mobile) that helps control X10 lighting using Heyu on Linux. 	Ruby	1748	4	1	4
+wpreader	enoliglesias/wpreader	40919679	Cordova mobile application to read wordpress blog and generate a cross platform mobile app	JavaScript	562	4	1	4
+iOS-MAS-Foundation	CAAPIM/iOS-MAS-Foundation	56534713	iOS Mobile SDK for CA Mobile App Services and CA Mobile API Gateway - MASFoundation Framework	Objective-C	19351	4	1	4
+iToDo	Code-Munkeys/iToDo	20140537	(Objective-C, C#, NoSQL and JSON) A full stack approach to integrating mobile and server side technology... 1. Mobile App, 2. WebAPI, 3. Database	PowerShell	80356	4	0	4
+TheCompassionateFatherApp	dsmedia/TheCompassionateFatherApp	1660026	"The Compassionate Father" is a story from the Bible and is part of the Open Bible Stories project. The contents of this repository contain the source code for a PhoneGap multi-platform mobile app that contains the text and plays a video in multiple languages.	Java	23326	4	2	4
+MobileFlex	josephlabrecque/MobileFlex	36344833	A demo Adobe AIR project showing the basics of mobile app development with Apache Flex. Video tutorials at https://www.youtube.com/playlist?list=PLlWQCxntZmDq8UgPeXSShiK89Z4yJfi_2	null	360	4	0	4
+ui5_pull_to_refresh	js1972/ui5_pull_to_refresh	17892238	Test UI5 SplitterApp with Pull-To-Refresh and Scrolling back to previous list item (i.e. Twitter mobile app)	JavaScript	12636	4	0	4
+Banking-mobile-demo	knurld/Banking-mobile-demo	51176389	Add the power of voice based authentication to your mobile apps - Sample HTML5 Mobile Banking App using Knurd.io Speaker Verification APIs 	CoffeeScript	177	4	0	4
+OneSignal-ChromeApp-SDK	OneSignal/OneSignal-ChromeApp-SDK	33690095	OneSignal is a free push notification service for Chrome and mobile apps. This plugin makes it easy to integrate your Chrome App or Extension with OneSignal. https://onesignal.com	JavaScript	156	4	1	4
+Pitch-Night	johndbritton/Pitch-Night	846689	Pitch Night is a mobile app for keeping track of pitches at an event like Startup Weekend. This app was built as a prototype in 24 hours at Startup Weekend DC by John Britton, Amitahb Jotwani, Vishal Shah, and Reagan Williams.	JavaScript	488	4	0	4
+mobile-app	OneMoreCheckin/mobile-app	3620033	One More Checkin : mobile client	JavaScript	53631	3	3	3
+MobileApp	shreyag12/MobileApp	21118866	Communication between Android and servlet	Java	226	3	3	3
+MobileApp	ccvonline/MobileApp	11592864	CCV's mobile application central repository.	C#	246174	3	2	3
+angular-mobile-app-redirect	vokal/angular-mobile-app-redirect	24202616		JavaScript	182	3	4	3
+Snope-Mobile-App	codeforboston/Snope-Mobile-App	46630156	App for hiring snow shovelers and finding job opportunities as a snow shoveler	JavaScript	3222	3	3	3
+Social-Network-Mobile-App	mjheller/Social-Network-Mobile-App	51332071	A GPS mobile application built with Ionic Advanced HTML5 Hybrid Mobile App Framework and AngularJS.  Users authenticate through Facebook via Firebase and can set GPS location to view different feeds and events in their local city. 	JavaScript	20620	3	3	3
+MoodleMobileApp	arael/MoodleMobileApp	7821878	Moodle Mobile App; Cordova and Sencha based	JavaScript	14877	3	3	3
+AndroidReferenceApp	kaltura/AndroidReferenceApp	8854665	Kaltura Reference Mobile app for Android	Java	4277	3	14	3
+TV-Show-tracker-mobile-app	harshq/TV-Show-tracker-mobile-app	43665838	Mobile application of TV show tracker developed with Ionic framework.  	JavaScript	4736	3	3	3
+Contacts-API-Mobile-App-with-Cordova-and-Ionic	OfficeDev/Contacts-API-Mobile-App-with-Cordova-and-Ionic	40143420	Simple mobile application built using Cordova, AngularJS, and the Ionic Framework to display contacts from Office 365	JavaScript	4416	3	4	3
+9ine-Mobile-App	domthinks/9ine-Mobile-App	1545325	Applications for Good Project- 9ine Mobile App	null	9370	3	2	3
+KitpagesMobileAppBuilderBundle	kitpages/KitpagesMobileAppBuilderBundle	8181142	This bundle is used to generate specific plateform packages (android, iOS, phonegap, firefoxOS,...) from a given common Html/JS code base	PHP	108	3	3	3
+WebDreamer	HuaweiSoft/WebDreamer	24359243	A graphic tool for design mobile Apps.	JavaScript	17039	3	7	3
+jodo	Vendar/jodo	2132562	an opensource mobile app.	JavaScript	23697	3	2	3
+AppiumiOSTest_Legacy	SmritiTuteja/AppiumiOSTest_Legacy	17262753	This repository contains sample script for automating iOS mobile apps using Appium	Java	159	3	9	3
+open-event-orga-app	fossasia/open-event-orga-app	65606855	Open Event Mobile App for Organizers and Entry Manager	TypeScript	12389	3	5	3
+rubiqube	mobiqube/rubiqube	2319117	Mobile App	PHP	1301	3	0	3
+commerce_drupalgap_app	signalpoint/commerce_drupalgap_app	18218976	A demonstration mobile app for Drupal Commerce with DrupalGap.	JavaScript	228	3	6	3
+NextSteps	appdevdesigns/NextSteps	8548108	Next Steps mobile app for IOS and Android built with Titanium	JavaScript	2912	3	7	3
+app	kissymobileteam/app	10028094	Mobile App Toolkit，处理view共存和跳转的基础框架	JavaScript	1145	3	15	3
+cordova-rails	dchun/cordova-rails	17991612	sample mobile app backend	Ruby	232	3	2	3
+DM-GY-9103-SP16-MobileApps	IDMNYU/DM-GY-9103-SP16-MobileApps	50457073		null	1629	3	6	3
+MobileApplicationsWithJsAndIonic	jbavari/MobileApplicationsWithJsAndIonic	24748722	Presentation for building Mobile Applications with JavaScript and Ionic	JavaScript	5592	3	3	3
+MobileAppSample	tokuhirom/MobileAppSample	1204651		Perl	164	3	0	3
+mobile-app-development	koenvancrombrugge/mobile-app-development	30827984	Mobile App Development using java & android studio	Java	4067	3	0	3
+BoochReader	booch/BoochReader	5735049	Mobile app to quickly read RSS feeds and Tweets	JavaScript	21183	3	4	3
+chat-se-mobile-app	RedRiderX/chat-se-mobile-app	18704560	A PhoneGap based mobile wrapper for se chat + some helpful additions	JavaScript	7780	3	1	3
+Thirsty-Dudes-Mobile-App	mgoldsmithstudio/Thirsty-Dudes-Mobile-App	1712652	Thirsty Dudes iPhone, iPad and Android app built with Titanium Mobile.	null	48624	3	0	3
+Ruby-Conf-Mobile-App	bhushangahire/Ruby-Conf-Mobile-App	3591752	Ruby Conf Mobile App	JavaScript	1236	3	1	3
+mobile-app-5x1	Nelkit/mobile-app-5x1	24625510		Swift	1482	3	1	3
+Mobile-App-Class-Assignments-2015	Andrew-Quebe/Mobile-App-Class-Assignments-2015	37939433	Upload of all assignment zip files for my Mobile App Class. Some projects are incomplete, some have things that are broken. This is just intended to keep a back up of the files.	null	13688	3	0	3
+PhonegapFileUpload	ShashiBadhuk/PhonegapFileUpload	19097324	Uploading Image from Phonegap Mobile App to PHP backend	Java	7001	3	4	3
+mScan	singhalmanav/mScan	15942877	mScan Mobile App	Java	11129	3	1	3
+xuetangx-Mobile-android	gaoyan10/xuetangx-Mobile-android	15524312	XuetangX(Tsinghuax or Edx Moocs project) Mobile App on android platform	Java	11607	3	4	3
+Dcare	nozelrosario/Dcare	27539593	Hybrid Mobile App for Diabetes Care using PhoneGap + Ionic + AngularJs Material 	JavaScript	15467	3	3	3
+MoLiveServer	paoloboschini/MoLiveServer	10475696	Server for the Live mobile app for live programming	JavaScript	26838	3	3	3
+theCarnaby	AlexChien/theCarnaby	938130	theCarnaby mobile app	JavaScript	113976	3	0	3
+app	conscious-world/app	52710898	The mobile app	Objective-C	561980	3	0	3
+getcravemobile	anandiyer/getcravemobile	1921785	getcrave mobile app	JavaScript	775	3	1	3
+spine.weather	evanblack/spine.weather	1723776	A simple mobile app in Spine that uses Yahoo YQL.	JavaScript	1440	3	3	3
+teststack	critick/teststack	57880940	Test your entire Stack of APIs,Web,Mobile Apps and Run on Containers	Ruby	8186	3	4	3
+learn-azure	pierceboggan/learn-azure	61829717	Learn how to build connected mobile apps with Xamarin and Azure.	C#	40547	3	3	3
+app.refugee.info	theirc/app.refugee.info	55775659	Mobile app that is the companion to refugeeinfo.eu	JavaScript	182294	3	3	3
+com.mobilepearls.appsharer	mobilepearls/com.mobilepearls.appsharer	1000845	Android application for sharing links to installed applications.	Java	124	3	2	3
+develop-mobile-apps-with-csharp-and-azure	adrianhall/develop-mobile-apps-with-csharp-and-azure	62688846	The Book Contents - Develop Mobile Apps with C# and Azure	C#	11327	3	2	3
+Mobile-Application-Architecture	laanayabdrzak/Mobile-Application-Architecture	54237138	An overview  of mobile application architecture	null	186	3	0	3
+practice-buddy-mobile-app-2.0	jlooper/practice-buddy-mobile-app-2.0	61088049		TypeScript	9971	3	0	3
+CreditCardTransactionMonitorMobileApp	vakshorton/CreditCardTransactionMonitorMobileApp	58462953	​Mobile application designed to be used with the CreditCardTransactionMonitor demo. This mobile application demonstrates how the connected platform allows the customer to provide feedback as to whether the account was correctly disabled due to suspected fraud. If the suspected transaction is legitimate, then the customer is able to unlock the account with the push of a button.	Java	53	3	2	3
+rift-ruby	zachhowe/rift-ruby	7391012	Ruby client for Trion World's RIFT Mobile App API	Ruby	130	3	2	3
+imgur	parasj/imgur	3126946	Imgur Gallery Mobile App	PHP	1311	3	1	3
+f-board	socioboard/f-board	34378468	f-board is world's first open source multiple facebook account's management mobile app available for iOS and Android.	Java	25098	3	4	3
+PixyElks-SkyPixel-	MAVProxyUser/PixyElks-SkyPixel-	30156569	SkyPixel backend spoof / DJI Pilot Mobile App stress tester	Ruby	112768	3	2	3
+rutanetmobile	adriancuadros/rutanetmobile	700159	Mobile App para Rutanet.com	Ruby	1128	3	0	3
+UofOMobileWorkshop	gvjourdan/UofOMobileWorkshop	24350961	Code for the uOttawa Makerspace Workshop - Mobile App Development, Sept 22, 2014	Java	192	3	2	3
+mobile	locator-kn/mobile	37024985	hybrid mobile app for Locator	JavaScript	44056	3	0	3
+FantasyDataAPI	gridiron-guru/FantasyDataAPI	16971165	API for FantasyData, Real time fantasy football data feeds for your website or mobile app	PHP	1826	3	5	3
+app-reviews	muik/app-reviews	3862296	Mobile App Reviews Crawler	Ruby	99	3	0	3
+Sunshine-Deals	sorakatsuki/Sunshine-Deals	4388545	A open source groupon-like website to sell coupons and goods with mobile apps.	null	17916	3	3	3
+Intel-XDK-Photo-Gallery-App	HasTuts/Intel-XDK-Photo-Gallery-App	28183443	This is a sample Photo Gallery app. I used Intel XDK mobile app development tool to build this app.	JavaScript	3488	3	6	3
+MARA	iacobcl/MARA	15683303	Mobile Apps Review Analysis	Java	3424	3	0	3
+Mobile-Applications-ADT-Bundle	pozitr0n/Mobile-Applications-ADT-Bundle	50498912	This repository includes the the labs of the android-applications have written on Eclipse ADT Bundle.	Java	3160	3	0	3
+Programming-Mobile-Applications-for-Android-Handheld-Systems--Part-1--University-of-Maryland	UtkarshPathrabe/Programming-Mobile-Applications-for-Android-Handheld-Systems--Part-1--University-of-Maryland	41640608	Contains hints and solutions of some quizzes of the course.	Java	15020	3	2	3
+Mobile-Sakai	donnellyk/Mobile-Sakai	1213444	A bare bones mobile app for Sakai CLE	null	12732	3	1	3
+chutney	23/chutney	829299	An html5-based mobile app framework for WebKit.	JavaScript	143	3	1	3
+OAuth-Tutorial	feedhenry-training/OAuth-Tutorial	2254231	OAuth Tutorial for Mobile Apps with FeedHenry	null	192	3	1	3
+jdcongresapp	jonge-democraten/jdcongresapp	21439556	Mobile app voor het JD congres	JavaScript	6648	3	0	3
+bifrost	binarymax/bifrost	19347829	State and data transport manager for mobile apps	JavaScript	356	3	0	3
+Detour	H4113/Detour	34655273	Tourism GPS mobile App for Lyon	C++	14136	3	0	3
+Ocypode	jairobjunior/Ocypode	12385709	[DEPRECATED] Ocypode is a collection of libraries useful for Android developers, making developing mobile apps easier.	Java	5320	3	2	3
+hackathon2011	sparcedge/hackathon2011	2870522	Mobile apps from SPARC Hackathon: APPocalypse! 2011	JavaScript	44671	3	1	3
+CleanOrDirty-sinatra	technophobicgeek/CleanOrDirty-sinatra	1609305	The server for the CleanOrDirty mobile app	Ruby	111	3	1	3
+hackday-reactive-api	felixgborrego/hackday-reactive-api	18496259	Real time feed system for mobiles apps	Java	472	3	2	3
+AppResources	ATLASMobileMakers/AppResources	49393916	iOS and Android mobile app examples and resources	Swift	21819	3	0	3
+enjoy	jhonatanmt83/enjoy	11486338	Mobile app for restaurant using django and jquerymobile	JavaScript	488	3	0	3
+blinger	ShiningRay/blinger	36483664	hybrid mobile app client written in Ionic2	JavaScript	1760	3	0	3
+WCC-Mobile	WCC-Omega-Club/WCC-Mobile	54754885	Unofficial SUNY Westchester Community College Mobile App	Java	242373	3	0	3
+Siva-Siva-App	Himalayan-Academy/Siva-Siva-App	56110083	Code Repository for the Siva Siva Mobile App	HTML	16879	3	0	3
+jQMBR	marcopeg/jQMBR	10382293	jQueryMobile + BackboneJS + RequireJS | Boilerplate to startup mobile apps!	JavaScript	2728	3	0	3
+language-learner	a33kuo/language-learner	2632276	A commonsense mobile app for language learning	Python	29660	3	0	3
+TrainOse-Backend	phoxicle/TrainOse-Backend	1368574	Web services component (PHP) for TrainOse mobile app	PHP	134	3	1	3
+LFC	marchon/LFC	1471113	LFC's Mobile app built on Titanium	JavaScript	4646	3	0	3
+MobileContentAPI	Kevnz/MobileContentAPI	33093323	Api for content for mobile app	CSS	148	3	0	3
+lostAndFound-ionic	IndabaConsultores/lostAndFound-ionic	26582159	Ionic-based mobile app for lostAndFound	JavaScript	2388	3	2	3
+LoginRadius	guptadeepak/LoginRadius	2578958	LoginRadius is a Software As A Service (SAAS) platform that enables Customer Identity and Access Management on website(s) and mobile app(s).	null	138	3	4	3
+segue-meteor-package	zendylabs/segue-meteor-package	32428304	Native-looking page transitions for Meteor mobile apps.	JavaScript	9	3	1	3
+EliteScheduleApp	TateRathje/EliteScheduleApp	25567720	A cross-platform mobile app built using Ionic and Angular. Built throughout a Pluralsight class on the topic.	JavaScript	3208	3	4	3
+AppFramework	ruler501/AppFramework	23094170	A simple framework for mobile apps	C	24969	3	0	3
+Tutorial-AngularJS-HTML5	ThinkBuntu/Tutorial-AngularJS-HTML5	27604509	Tutorial sederhana AngularJS untuk mobile APP	JavaScript	844	3	2	3
+geatte	angeloh/geatte	1659286	geatte mobile app for shopper feedback	Java	21528	3	1	3
+FindTheBlind	deepans/FindTheBlind	1671941	A mobile app to assist eye doctors to spot blind children at their early stages of blindness  	Java	1514	3	2	3
+DIYgenomics_HTML5	lablogga/DIYgenomics_HTML5	888265	Unifed code base for the DIYgenomics mobile apps	null	48	3	0	3
+mdp_mobile_android_sdk	vasco-data-security/mdp_mobile_android_sdk	18290687	MYDIGIPASS.COM Mobile App Authentication SDK for Android	HTML	254	3	0	3
+StopWatch-and-CounterTimer	ahmer-yasin/StopWatch-and-CounterTimer	21736635	mobile app on ionic framwork with angular js	JavaScript	12181	3	1	3
+WordSearchGameTitaniumApp	dinamansour83/WordSearchGameTitaniumApp	48292956	Word Search Game Titanium Appcelerator Mobile App	Objective-C	27245	3	0	3
+IonicCustomShop	kristophercowley/IonicCustomShop	51237164	Mobile app for t-shirt design	JavaScript	46143	3	0	3
+mockshare	abutler3/mockshare	7919182	A pinterest clone built in Rails for people to share pictures of website/mobile app mockups	Ruby	220	3	2	3
+create-cross-platform-mobile-apps-with-xamarinforms	tutsplus/create-cross-platform-mobile-apps-with-xamarinforms	37077680		C#	324	3	4	3
+drupalcampwroclaw_2012_mobile	openbit/drupalcampwroclaw_2012_mobile	4163728	DrupalCamp Wroclaw 2012 mobile app for Android, Titanium Studio	null	1524	3	0	3
+pappy	colinyoung/pappy	3639927	Pappy makes making APIs for mobile apps really easy	Common Lisp	122	3	0	3
+mobilegeognome-titanium-app	thaeger/mobilegeognome-titanium-app	1313689	Mobile app for the Mobile Geognome Project written in Appcelerator Titanium 	JavaScript	1693	3	1	3
+SpaceCat	rrglomsk/SpaceCat	30559162	A mobile app game featuring a cat in space	C#	1013889	3	0	3
+pyback	geno6/pyback	22377383	PyBack is a Django based mobile app back-end platform.	Shell	620	3	0	3
+aaserver	scottwshaw/aaserver	820475	google app engine server for the agile australia mobile app	Python	112	3	0	3
+Ext.CTCT	webandtech/Ext.CTCT	1685354	Sencha Touch SDK for Constant Contact - Cross-platform mobile apps	JavaScript	100	3	0	3
+dgm4790-spring2014	thortek/dgm4790-spring2014	15916604	This is the repo for our mobile app class project in Spring semester 2014 in the Digital Media department at Utah Valley University	JavaScript	49557	3	2	3
+economy-common-good-mobile	sinnwerkstatt/economy-common-good-mobile	16436431	Mobile app for the Economy for the Common Good	Java	7648	3	1	3
+react-embedded-browser	rhysd/react-embedded-browser	42346663	Embedded browser like mobile apps for React and Electron	TypeScript	152	3	1	3
+J390	steven-king/J390	40456315	Mobile App Design and Dev for @UNCjSchool Class by @steven-king	null	158684	3	0	3
+JGBoilerplate-ionic-material	JoomGap/JGBoilerplate-ionic-material	53954950	A JoomGap starter project to create a hybrid mobile app for Joomla! CMS, powered by Cordova/PhoneGap, AngularJS, Ionic Framework and Ionic Material (Material Design by Zach Fitzgerald).	JavaScript	5413	3	4	3
+AngularSF	rajaraodv/AngularSF	9160088	A Boilerplate Salesforce + Phone Gap + AngularJS + Jquery Mobile app	JavaScript	11884	3	0	3
+vim-snippet-for-jquery-mobile	brooky-yen/vim-snippet-for-jquery-mobile	1662595	vim snippet for jQuery Mobile for easier mobile app development	null	100	3	0	3
+Codly-UI-Sync	drmas/Codly-UI-Sync	24342638	Sync your UI code with your Titanium mobile app	JavaScript	984	3	0	3
+app-developer-checklist	adriangordon1231/app-developer-checklist	39709985	A basic quality assurance checklist for mobile app developers	JavaScript	650	3	1	3
+Zeo-Data-Exporter	infomax/Zeo-Data-Exporter	3151415	Export and save / share raw data from the Zeo mobile app	Java	102	3	0	3
+IMKit-Documentation	FUNTEKco/IMKit-Documentation	43995983	An Instant Messaging and Chat API for Mobile Apps and Websites.	JavaScript	224	3	0	3
+koios	elieandraos/koios	24635401	Laravel web application to manage rest apis for mobile apps	PHP	40012	3	0	3
+generate-app	jimhunty/generate-app	21328917	Example application for 'Building Mobile Apps with Ionic' Net Magazine Article	JavaScript	2400	3	1	3
+sanihand	julzhk/sanihand	19189481	A Django back-end to an ibeacon-based mobile app. 	Python	264	3	0	3
+MinneKnowT	ssneeraj/MinneKnowT	2115093	Mobile app for Minnesota Driver's License Knowledge Test	Java	3034	3	1	3
+human_drumkit	hackanoon/human_drumkit	2127962	The Human Drumkit Mobile App - Technologies: JavaScript, Titanium, Objective-C	Objective-C	19952	3	0	3
+neq_server	NeqHealthcare/neq_server	2796553	Middleware for integration of the mobile app and the backend server	Java	1495	3	1	3
+MyWorld	CESARDELATORRE/MyWorld	54996848	Cross-Platform Mobile App connected to Microservices in Azure	C#	160551	3	0	3
+bbmobile	typpo/bbmobile	4318669	an html5 mobile app for a popular social site at dartmouth	JavaScript	6536	3	1	3
+Creating-Mobile-Apps-with-Xamarin.Forms-Book-Preview-2	honeyhead/Creating-Mobile-Apps-with-Xamarin.Forms-Book-Preview-2	33539226	This is a Korean translation of Creating Mobile Apps with Xamarin.Forms Book Preview 2 by Charles Petzold	null	185	3	1	3
+soundbone	futuredarrell/soundbone	3131852	An example of a mobile app built on Backbone.js that plays (set) SoundCloud tracks	JavaScript	236	3	0	3
+emergencymesh	andrewreedy/emergencymesh	20390898	Open source mobile app to disperse and cache emergency info over a mesh network	null	128	3	0	3
+GambiologiaMagazine	paulobarcelos/GambiologiaMagazine	3987317	Gambiologia's magazine mobile app. More info at http://www.gambiologia.net	null	5212	3	0	3
+JQMResponsive	Rockncoder/JQMResponsive	4586265	Example of supporting both phone and tablet from a single jQuery Mobile app.	JavaScript	351	3	0	3
+liken	luelue/liken	16973046	Liken is a social mobile app where you can meet likeminded people through the discovery of common topics of discussion. Post messages, images, videos, and questions, then see how others respond to you! Or, respond to what others have posted, and see if you match up!	Java	7905	3	3	3
+FriendFinder	JessicaYeh/FriendFinder	28352257	A mobile app that helps people meet up by using location services.	Java	2996	3	0	3
+soundcloud-open-in-app-app	eins78/soundcloud-open-in-app-app	15375519	bookmarklet to open a track from soundcloud.com in the mobile app (iOS and Android)	JavaScript	180	3	0	3
+woolworths	bencochrane1/woolworths	39725172	A new Woolworths mobile app using the Woolworths API built with Angular and Ionic	JavaScript	156	3	1	3
+mobilot	fhstp-mfg/mobilot	61717013	Mobilot is a web and mobile app for easily creating context-oriented content.	C++	23615	3	1	3
+famoushx	forafish/famoushx	20432189	Haxe/JS port of the famo.us framework for building mobile apps and desktop experiences. 	Haxe	1696	3	0	3
+admob	skounis/admob	15658741	This tutorial demonstrates how to integrate the AdMob service with your Titanium Mobile Application. Specifically, the demo project will show you how to create a simple mobile app and display AdMob ads there.	JavaScript	2395	3	2	3
+TapTab-as3-library	rkn14/TapTab-as3-library	16377733	Allows Adobe Flash / Air applications to connect to the TapTab controller mobile app.	ActionScript	448	3	0	3
+OpenBCI_AlphaWave	Alfahad/OpenBCI_AlphaWave	55923278	Measure your Alpha Wave using OpenBCI 32-bit board with a mobile App	C++	2510	3	1	3
+PesticideShoping	ruifeng2357/PesticideShoping	29418319	This is an Android app for can buy pesticide using mobile app	Java	4708	3	0	3
+Icon-Splash-Resize	dericeira/Icon-Splash-Resize	65913274	Automatic icon and splash screen files generator for mobile apps (iOS and Android)	JavaScript	1128	3	0	3
+Ionic2-electron-starter	eristoddle/Ionic2-electron-starter	63037877	Starter project to build cross platform desktop and mobile apps with Ionic 2 and Electron	JavaScript	1339	3	0	3
+HRT-OnTime	Code4HR/HRT-OnTime	3770483	Mobile App For Locating The Real Time Location Of Your HRT Bus	null	148	3	0	3
+TitaniumPirataCat	pirata-cat/TitaniumPirataCat	6250037	Mobile app for Android and iPhone about Pirates de Catalunya (PIRATA.CAT). from version 2.0 will replace iPhonePirataCat	JavaScript	2252	3	0	3
+dancedeets-react	DanceDeets/dancedeets-react	56122762	The rewritten DanceDeets mobile app (replacing the old android and ios apps), built on the React Native platform	JavaScript	3040	3	1	3
+c3-pro-server	C3-PRO/c3-pro-server	50910664	Highly reliable and scalable FHIR compliant web server, designed to cope with the traffic from mobile apps	Java	1937	3	0	3
+Re-Source	ToucheComm/Re-Source	5241187	a succinct checklist (with examples) of best practices for mobile app design using open source code	Java	1204	3	0	3
+bellabuilder.github.com	bellabuilder/bellabuilder.github.com	1562420	Bella Builder is a Web / Mobile app builder powered by Zend Framework, Dojo and Doctrine - developed at the University of Otago	null	213	3	0	3
+CRMBandNotifications	jlattimer/CRMBandNotifications	33833655	Send push notifications from Dynamics CRM to your Microsoft Band via Azure Mobile Services and a Xamarin mobile app	C#	6858	3	3	3
+jenkins-mobile-phonegap-native	sivvy/jenkins-mobile-phonegap-native	2739897	Mobile app to monitor jenkins instances and the latest status of individual jobs. PhoneGap + native toolbar	JavaScript	1098	3	1	3
+BuddyRide	theyonibomber/BuddyRide	4659742	An iOS app that is allows drivers and passengers to easily connect. Initially developed during AT&T Mobile App Hackathon in Israel.	Objective-C	1160	3	1	3
+membernet-mypage	CustardLabs/membernet-mypage	21453459	An example of using the MemberNet web service to create and host your own profile page / mobile app	JavaScript	144	3	0	3
+WhitakersWords	vishnumenon/WhitakersWords	6315383	A latin-english and english-latin dictionary written entirely in HTML/JS. For offline use, to be packaged as a mobile app	JavaScript	3456	3	1	3
+dcp-studio	psychobunny/dcp-studio	6910750	DCP Studio is a WYSIWYG editor that allows you to create mobile apps from the cloud	JavaScript	285	3	1	3
+Node-Express-Geo-Api	whitewhim2718/Node-Express-Geo-Api	4189112	A  node.js + express.js REST API in development to be used for the backend of a Mobile App	JavaScript	2344	3	0	3
+koala	rnglab/koala	21233526	Koala is a real minimal javascript framework for mobile apps.  Koala is simple and not includes any other framework.	JavaScript	5	3	0	3
+WebMobileAnimationUIPad	Hikaru-Ito/WebMobileAnimationUIPad	26898913	:thought_balloon: Realization of animation UI of the mobile app by the cutting-edge Web technology	JavaScript	4750	3	1	3
+BLE_Toolbox_Android	JUMA-IO/BLE_Toolbox_Android	49467615	This is a mobile APP  that demonstrates all-in-one BLE(Bluetooth Low Energy) examples made by JUMA.	Java	1090	3	1	3
+language-assistance	CityOfPhiladelphia/language-assistance	11742088	Provides information on the City of Philadelphia's language assistance services in the 5 most requested languages, as a widget on the Philly 311 Mobile App, itself translated into 16 languages.	Ruby	306	3	1	3
+lights	charleswolfe/lights	8125308	Lights is my take on Geoff Johnson's Raspberry Pi mains switching tutorial. I basically add a flashier UI and RESTful data using json for use later in a mobile app.	PHP	13700	3	0	3
+owncloud-gallery	wolfgang-s/owncloud-gallery	21892705	An native mobile app for iOS and Android based on robovm which connects to ownCloud 6 or 7 and displays thumbnails of your pictures.	Java	940	3	1	3
+MobileAnimals	williamsrz/MobileAnimals	52481868	This is a simple Xamarin.Android app for demo purposes, using Azure Mobile Apps Service as backend, with authenticantion, offline sync and push notification support.	C#	44	3	1	3
+Bandung-Point-of-Interest	alifanuraniputri/Bandung-Point-of-Interest	36573535	This is a hybrid ionic mobile apps. Show public places around Bandung, Indonesia which become a public interest. This is support my final project bachelor degree product	JavaScript	3540	3	0	3
+kort-reloaded	kort/kort-reloaded	53578926	New frontend implementation of the Kort Game as a native mobile app. >> NOTE: This project is still in a very experimental stage and current test version runs only on certain Android phones! <<	Objective-C	45826	3	1	3
+OneSignal-WindowsPhone-SDK	OneSignal/OneSignal-WindowsPhone-SDK	33574258	OneSignal is a free push notification service for mobile apps. This SDK makes it easy to integrate your Windows Phone app with OneSignal. https://onesignal.com	C#	326	3	1	3
+TradeLore	kusha-b-k/TradeLore	45453300	Tradelore is a Online varsity, Quantitative Finance, Fundamental Analysis, Technical Analysis of Capital Markets Focuses on Algorithmic Trading by using various Technologies and Tools, an mobile app	Java	97	3	0	3
+OneSignal-Marmalade-SDK	OneSignal/OneSignal-Marmalade-SDK	33624439	OneSignal is a free push notification service for mobile apps. This extension makes it easy to integrate your Marmalade app with OneSignal. https://onesignal.com	C++	8156	3	1	3
+ehlo.biz	plunchete/ehlo.biz	4569303	App created for the SF TechCrunch Disrupt Hackathon 2011. EHLO.biz is a mobile app created using jQuery Mobile, that allows people to know who's nearby and also shows their social handles. APIs used: Foursquare, Twitter, Qwerly.	Java	1220	3	0	3
+Branch-Android-Invite-SDK	BranchMetrics/Branch-Android-Invite-SDK	40612501	The purpose of the Branch Android Invite SDK is to provide an out-of-the-box functional 'invite feature' for apps consuming the Branch SDK that want to utilize a standard invite feature in their app. Branch helps mobile apps grow with deep links that power referral systems, sharing links and invites with full attribution and analytics. https://dev.branch.io/	Java	304	3	0	3
+Foodgasm	huhx0015/Foodgasm	40388552	Foodgasm | AT&T Mobile App Hackathon Bay Area: Foodgasm is an Android app that entices user's appeal to food and also helps promote business for local restaurants in the area that have food that is trending on social media. With Foodgasm if you can SEE it you can EAT it!	Java	20481	3	1	3
+AS3-wordpress-parser	myflashlab/AS3-wordpress-parser	4304198	using a wordpress api to read post data and show it in your mobile apps! of course it can be used in any flash project also, but I preferr using it in mobile and air projects because of the native html viewer which is not available in flash player!	ActionScript	2708	3	0	3
+Weather-Forecast-Component-for-iOS	verious-dev/Weather-Forecast-Component-for-iOS	3837959	This component is like a mini-app with all of the functionality that you'd expect from a standalone weather application. It is a quick way to add weather data to your mobile app.  This component is free (ad-supported).  You can try out this component for 30-days.  In order to use it in commercial apps, you'll have to go get a license key at:	Objective-C	5424	3	1	3
+mobile_application_development	wesreisz/mobile_application_development	12687202	sample code from class lectures	Java	10212	2	17	2
+invenio-mobile	inveniosoftware/invenio-mobile	12560877	Invenio Mobile App	JavaScript	1515	2	6	2
+dolphin-android	boonex/dolphin-android	8021993	Dolphin Mobile App For Android	Java	2229	2	9	2
+survey-mobile-app	TechoGT/survey-mobile-app	36259615	Survey mobile app	JavaScript	6572	2	2	2
+aucs-hybrid-dev	mchayapol/aucs-hybrid-dev	38601827	Hybrid Mobile App Development Code Repository, Assumption University of THAILAND	HTML	7196	2	22	2
+Mobile	LearnNavi/Mobile	3999667	Mobile Apps	Objective-C	104472	2	2	2
+cl-mobile-syl	wvu-ric/cl-mobile-syl	49215089	Syllabus for WVU CodeLab: Mobile App Development (JRL 493Z)	null	23	2	15	2
+LandPKS_Mobile_Application	LandPotential/LandPKS_Mobile_Application	45711041	Automate build for new Mobile application	JavaScript	46914	2	4	2
+azure-mobile-apps-net-files-server	Azure/azure-mobile-apps-net-files-server	48402285		C#	524	2	6	2
+mobile-app	Hackafe/mobile-app	31254531	Hackafe Mobile App	JavaScript	1600	2	0	2
+mobile_app	dwaynemac/mobile_app	559527	Simple helpers to respond to mobile devices	Ruby	100	2	0	2
+Mobile-App	EricBlake/Mobile-App	56125369		null	48747	2	0	2
+android	ganapatih/android	16868325	untuk development mobile app android	Java	3189	2	3	2
+patient-tracker	piim/patient-tracker	15285959	Mobile app for tracking patient-entered measures and activities	JavaScript	1407	2	7	2
+gitsnitch-app	joshjensen/gitsnitch-app	25229862	A mobile app for GitSnitch	JavaScript	10280	2	3	2
+mobileapp-udl	asicudl/mobileapp-udl	31255154	University of Lleida Mobile App	JavaScript	17180	2	3	2
+weather	edisonlz/weather	3365417	weather mobile app	JavaScript	717	2	2	2
+ionic101	ion-book/ionic101	31239960	Building your first Mobile App Step by Step	JavaScript	10840	2	7	2
+MAD	mattmomney/MAD	30539617	Mobile Apps Development domain	HTML	665	2	3	2
+BookApps	LearningMobile/BookApps	12898042	Source code for the book Learning Mobile Apps by Michael Eierman and Jakob Iversen	Java	5059	2	23	2
+mobile-app-ios	bigWebApps/mobile-app-ios	4519758	for testing ios only phonegap builds	JavaScript	3297	2	1	2
+Flashcard_mobile_app	zendey/Flashcard_mobile_app	35111161	A flashcards mobile app written in Corona SDK and Lua.  	Lua	5004	2	0	2
+Pvmnt-Mobile-App	feelmyears/Pvmnt-Mobile-App	28574890	Pvmnt Mobile App Development	Objective-C	14484	2	0	2
+illiconstat-mobile-app	Illiconstat/illiconstat-mobile-app	59431890		JavaScript	2384	2	0	2
+MobileAppTest	ningzhang-github/MobileAppTest	48345601	This repository included a set of mobile app test tools: Performance test tool for android app; Monkey test tool for android app; and a test framework based on Appnium.	Python	733	2	1	2
+meducation_mobile_app	iHiD/meducation_mobile_app	9100039	Meducation's Mobile App	JavaScript	4157	2	1	2
+MobileApp-Android	ups-tla/MobileApp-Android	2601665	Android specific code of the UPS mobile application	Java	248	2	0	2
+MobileApp-Shared	ups-tla/MobileApp-Shared	2601683	Shared components of the UPS mobile app	JavaScript	1425	2	1	2
+Android-Mobile-App	anildbest83/Android-Mobile-App	2051589		null	88	2	0	2
+Fontbonne-Mobile-App	jamesgall/Fontbonne-Mobile-App	26560144		null	0	2	0	2
+repairshopr-mobile-app	bmatusiak/repairshopr-mobile-app	39732440	repairshopr-mobile-app is a phonegap app that only uses the api for mobile devices	JavaScript	37712	2	0	2
+mobileAppTest	Atomsk1988/mobileAppTest	45991248	This is a test of angular+ionic+cordova just for checking mobile external api capabiities(GPS & compass)	JavaScript	0	2	0	2
+TFGAndroidMobileApp	alu0100697032/TFGAndroidMobileApp	53132303		Java	2208	2	0	2
+JesseMobileApp	sunnypatel/JesseMobileApp	26791296		JavaScript	56732	2	0	2
+OU-Mobile-App	ThinksInBits/OU-Mobile-App	4016949	An android app for students at the University of Oklahoma	Java	16716	2	2	2
+Roommates-mobile-app	fadamakis/Roommates-mobile-app	3963569	A mobile client for roommates.teiath.gr using phonegap	JavaScript	498	2	1	2
+ghtrains-mobile-app	temiyemi/ghtrains-mobile-app	4466243	The base HTML5, CSS, and JavaScript files for the concept mobile app developed for Ghana Trains Service as a school project	JavaScript	1100	2	0	2
+CFI-Mobile-App	The-WebOps-Club/CFI-Mobile-App	34998260	A mobile application for handling all activities related to Centre for Innovation(CFI), IIT Madras	null	108	2	0	2
+IIPS-Mobile-App	curioswati/IIPS-Mobile-App	37848829	Mobile app for IIPS	JavaScript	19202	2	0	2
+bluetooth-mobile-app	iot-works/bluetooth-mobile-app	38881612		JavaScript	3284	2	0	2
+UnityMobileApp	dinamansour83/UnityMobileApp	48290950	Unity Mobile App	C++	95385	2	0	2
+OFWorkshop_MobileApp	ofws/OFWorkshop_MobileApp	18192646		Objective-C++	780	2	1	2
+huggr	a3rosol/huggr	26636156	The best mobile app EVER!	JavaScript	27272	2	3	2
+BarcampPG	yinsee/BarcampPG	3796849	Barcamp Penang 2012 (mobile app with phonegap!)	C++	8628	2	3	2
+meteorReactIonic	balibou/meteorReactIonic	47284344	Meteor starter for mobile app with React / Ionic	JavaScript	438	2	4	2
+pianos-ios	Pianos/pianos-ios	29711270	mobile app	Objective-C	25692	2	1	2
+swallow	RnDChina/swallow	38486439	A Lightweight,Open Source PHP Framework For Mobile App	PHP	235	2	5	2
+ocMoblieApp	robertcao/ocMoblieApp	35313360	Mobile App	Java	1572	2	0	2
+PetTinder	dmeyer3691/PetTinder	24655824	Ohio State CSE 5236 Mobile Apps	Java	30347	2	3	2
+MobileApplication	MobileRDANutritionAppforIndianFood/MobileApplication	1079176	This project will provide the detailed source code and executable for Mobile Application	null	48	2	0	2
+generator-azure-mobile-apps	adrianhall/generator-azure-mobile-apps	47843678	A Yeoman generator for Azure App Service Mobile Apps	JavaScript	42	2	2	2
+cip-reporting-mobile-application	CIP-Reporting/cip-reporting-mobile-application	25169350	This is an Adobe Phonegap based mobile application which can query the API of a CIP Reporting server for a list of reports or forms which can be authored by the current user credentials.  The mobile application fetches all known form definitions from the CIP Reporting server and is capable of authoring reports offline. When a connection is available the reports which have been written will be submitted in the background with notifications.	JavaScript	13868	2	2	2
+MobileApps	NarayanHurix/MobileApps	20998419	POC for Mobile Apps	CSS	36768	2	1	2
+Programming-Mobile-Applications-for-Android-Handheld-Systems	brianwoo/Programming-Mobile-Applications-for-Android-Handheld-Systems	27393345	Programming Mobile Applications for Android Handheld Systems	Java	51892	2	3	2
+projectWingMobileApp	DenerosArmy/projectWingMobileApp	4221598	ProjectWingMobileApp 	Objective-C	1118	2	1	2
+RugB-MobileApp	jak4/RugB-MobileApp	12544803	RugB-Presentation 05.09.2013 - MobileApp Development with HTML/CSS/JS using RoR, Sinatra, Phonegap, Ripple, GruntJS and Coffeescript	JavaScript	8840	2	0	2
+Gamers.ba-Mobile-app	AmarKalabic/Gamers.ba-Mobile-app	25655750	Mobile application for gaming community	Java	296	2	1	2
+Mobile-App-WiFi	OnionIoT/Mobile-App-WiFi	36314064	PhoneGap/Cordova plugin to manipulate WiFi on Android	Java	100	2	0	2
+MuensterInside-MobileApp	TheRankZz/MuensterInside-MobileApp	55958164		Java	659	2	0	2
+HelpDeskMobileApp	YuriyM/HelpDeskMobileApp	1756010		JavaScript	3640	2	0	2
+Mobile-App-WiFi	OnionIoT/Mobile-App-WiFi	36314064	PhoneGap/Cordova plugin to manipulate WiFi on Android	Java	100	2	0	2
+MuensterInside-MobileApp	TheRankZz/MuensterInside-MobileApp	55958164		Java	659	2	0	2
+Mobile-App-CSCI300	weidnerj/Mobile-App-CSCI300	958496	IndyGo Bus Tracking	JavaScript	3860	2	0	2
+discrete-math-mobile-app	coderaven/discrete-math-mobile-app	5950747	A mobile java app created in Netbeans with J2ME platform. This app is used for solving common Discrete Math calculations.	Java	508	2	0	2
+MobileAppChallenge-Android	ApplETS/MobileAppChallenge-Android	3418809	Summit Tech Challenge	Java	224	2	0	2
+leankitkanban_mobile	darrencauthon/leankitkanban_mobile	4081419	Mobile app for Lean Kit Kanban.	Ruby	1007	2	2	2
+TouchGap	snej/TouchGap	7170961	Container for building HTML5 mobile apps with PhoneGap and TouchDB	Objective-C	15793	2	4	2
+menueplus	ppitdevelopment/menueplus	31764536	Menu+ mobile app	JavaScript	884	2	1	2
+backend-services-push-hybrid	telerik/backend-services-push-hybrid	11203013	A simple Cordova/PhoneGap-based mobile app that has the single purpose of receiving push notifications sent from Telerik Platform.	JavaScript	8781	2	11	2
+parkjam	jacekkopecky/parkjam	9940103	ParkJam mobile app	Java	2025	2	2	2
+boss-client	nikita-leonov/boss-client	31473040	LA Bureau of Street Services Mobile App	Swift	976	2	3	2
+mind50-client	hackasiv/mind50-client	40040750	Mind50 Mobile App	JavaScript	1753	2	1	2
+cern_mobile	uberspot/cern_mobile	10356061	Some useful functions for CERN mobile apps	Objective-C	962	2	2	2
+vi-websocket	vi-works/vi-websocket	28957575	A Websocket framework for mobile apps	JavaScript	319	2	2	2
+yarn-app	weaverluke/yarn-app	37649153	Yarn mobile app	JavaScript	8632	2	0	2
+herdict-mobile-reporter	berkmancenter/herdict-mobile-reporter	4717834	Herdict mobile app for reporting site outages	JavaScript	12667	2	2	2
+pepemon	z0lope0z/pepemon	6811479	pepemon mobile app	Java	1548	2	0	2
+OnCall	DeptVeteransAffairs/OnCall	37285807	OnCall Mobile App	null	124	2	0	2
+homage	janejanejane/homage	36273504	Another mobile app	JavaScript	2041	2	1	2
+little-screens	jblinder/little-screens	23295072	Designing and Developing Mobile Apps. [CUNY City College Topics in Web Programming (Art 49552)]	JavaScript	21362	2	5	2
+TexchangeApp	hashikuchi/TexchangeApp	20872931	Texchange mobile app	JavaScript	71936	2	1	2
+commcare-core	dimagi/commcare-core	20939782	Last-mile mobile app platform utilized across sectors, from healthcare to supply and logistics	Java	20430	2	6	2
+SIF	USC-NSL/SIF	22329469	Selective Instrumentation Framework for Mobile Apps	Java	8072	2	1	2
+tapin-backend	svetoslavp99/tapin-backend	28061233	mobile app backend	JavaScript	6024	2	0	2
+ExodusMlodych	QrchackOfficial/ExodusMlodych	12375740	Web-based mobile app for Android for	Java	24384	2	2	2
+DJ_Queue	lanrat/DJ_Queue	7188814	A mobile app to boss Steve around	PHP	172	2	2	2
+good	yasaricli/good	30430609	A photo sharing Mobile app built using meteor.	JavaScript	312	2	3	2
+MyCPTC	drewbritton/MyCPTC	58297127	CPTC mobile app	C#	3219	2	0	2
+export_icons	ksoichiro/export_icons	12841997	Inkscape Icon Export Script for Mobile Apps	Shell	256	2	2	2
+app	Solidalert/app	55876338	:iphone: Mobile App	TypeScript	1113	2	0	2
+FORCE-Mobile-Application	csalexwilliams/FORCE-Mobile-Application	13810966	This repository contains the source code for Deloitte's Mobile Application Design competition.	Objective-C	13588	2	0	2
+guide-mobile_app_dev_natif	DISIC/guide-mobile_app_dev_natif	51932103	Ce guide s'adresse aux développeurs d'applications mobiles qui souhaitent connaître les techniques à utiliser pour créer des applications accessibles avec les API fournies par les systèmes Android et iOS. Pour chaque environnement, l'accessibilité des widgets le plus courants a été testés avec les lecteurs d'écran.	null	31	2	1	2
+mobile-app-backend-router-controller-mongodb	MiamiCoder/mobile-app-backend-router-controller-mongodb	30170494	Express.js router for a mobile app backend.	JavaScript	1580	2	3	2
+truckBiddingHybridMobileApp	mahsin-islam/truckBiddingHybridMobileApp	37193568	Truck Bidding Application	JavaScript	8572	2	0	2
+Simple_Flashcard_Mobile_App_Corona_SDK	zendey/Simple_Flashcard_Mobile_App_Corona_SDK	35248814	A simple flashcards mobile app written in Corona SDK and Lua.	Lua	168	2	0	2
+Mobile-App-Store-Detect-and-Redirect	kitglen/Mobile-App-Store-Detect-and-Redirect	8742022	Quickly detect the user agent type and route the session over to the right app store, iTunes vs Google Play.  Has GA section already embedded for tracking, just add your GA to it. 	PHP	108	2	0	2
+U-Classifieds-Mobile-App-iOS	deroliver/U-Classifieds-Mobile-App-iOS	53704949	Mobile app for Mobile Application Development	Objective-C	23838	2	0	2
+Hybrid-Mobile-App-Development-2016	sarahsga/Hybrid-Mobile-App-Development-2016	59757619	null	JavaScript	27499	2	0	2
+PoLLand	frodre/PoLLand	3730248	CS407 Mobile Apps Assignment	Java	684	2	1	2
+MyMap	cdsap/MyMap	4949687	Barcelona Mobile Apps- MyMap	Java	165	2	1	2
+MyActionBarSherlock	cdsap/MyActionBarSherlock	4965214	Barcelona Mobile Apps- MyActionBarSherlock	Java	956	2	0	2
+vesel	AndrewJHart/vesel	18388511	HTML5 Mobile App Framework	CSS	49637	2	0	2
+ios-app-icon-generator	laptrinhcomvn/ios-app-icon-generator	35856152	Mac OS X app to generate multiple size for Mobile App Icon development	Objective-C	678	2	4	2
+kiwi_mobile	prawnsalad/kiwi_mobile	8672988	Kiwi IRC Mobile App	JavaScript	359	2	1	2
+FoOlSlide-mobile	moonlich/FoOlSlide-mobile	2048363	mobile app for FoOlSlide	JavaScript	832	2	0	2
+RunSignUp-Mobile	RunSignUp-Team/RunSignUp-Mobile	4131492	Mobile Apps for RunSignUp	Objective-C	9030	2	0	2
+myCamera	cdsap/myCamera	4950082	Barcelona Mobile Apps- MyCamera	null	168	2	0	2
+MyPosition	cdsap/MyPosition	4949837	Barcelona Mobile Apps- MyPosition	Java	168	2	0	2
+MyActionBar	cdsap/MyActionBar	4965178	Barcelona Mobile Apps- MyActionBar	Java	164	2	0	2
+xtuple-phonegap	xtuple/xtuple-phonegap	20411707	Necessary wrapping for use as a mobile app	CSS	238	2	2	2
+elcinema.test	bhefny/elcinema.test	3749788	testing elcinema mobile app	null	104	2	0	2
+SenchaTouch2-LocalStorageExample	RobK/SenchaTouch2-LocalStorageExample	6814139	A Sencha Touch 2.1 LocalStorage example. Shows how to use localstorage to provide a fallback / offline mode for mobile apps	JavaScript	3655	2	7	2
+CardmeleonMobile	tttthemanCorp/CardmeleonMobile	2541390	Mobile App for Cardmeleon	JavaScript	3378	2	1	2
+ippo	scuolacomicsfi/ippo	24157391	Creative portfolio Mobile App	JavaScript	2391	2	1	2
+angular-cordova-network-information	xelita/angular-cordova-network-information	19289050	Bring Apache Cordova Network Information API to AngularJS Mobile Apps...	JavaScript	220	2	1	2
+spectral-workbench-mobile	publiclab/spectral-workbench-mobile	13367107	PhoneGap-based mobile app version of SpectralWorkbench.org, focus on iOS	JavaScript	64	2	3	2
+dbc_api	sebabelmar/dbc_api	44363448	Hit this API to build your front-end or mobile app!	Ruby	188	2	3	2
+hacker-news-ionic	alexcheng1982/hacker-news-ionic	45177192	Hacker News mobile app built with Ionic framework and Firebase	JavaScript	3874	2	2	2
+FigLeafBettyApp	ccoglian/FigLeafBettyApp	2760213	FigLeafBetty mobile app source	JavaScript	1308	2	0	2
+status-mobile	ceefour/status-mobile	18178301	Status sample mobile app	CSS	404	2	1	2
+Rav-Kav	shirkan/Rav-Kav	25430384	Rav-Kav mobile app	JavaScript	25288	2	1	2
+ChiChiApp_Android	YangMann/ChiChiApp_Android	12022095	ChiChi mobile app for android (c) SJTU, 2013	Python	25870	2	2	2
+Mobile_application_SU13	AGNT/Mobile_application_SU13	11872057	Mobile Application project under Cay Horstmann	Logos	26400	2	2	2
+Sales-IO-JQuery-Mobile-Force.com-Mobile-App	thysmichels/Sales-IO-JQuery-Mobile-Force.com-Mobile-App	10554657	Sales IO Force.com JQuery Mobile Application	Apex	1448	2	1	2
+shovelapps-cms	gitter-badger/shovelapps-cms	30540775	Open Source Mobile app maker. The whole platform and extensions are developed using Node.JS (JavaScript) and Web Components. Hybrid mobile apps feel like native ones, but are easier to maintain and scale. You have full access to native functionality using generic JavaScript methods (Camera, SD Card, microphone, contacts, etc.).	CSS	1628	2	4	2
+todolistmobileapp	rjrodger/todolistmobileapp	3706595	Simple To Do List Mobile App	null	280	2	0	2
+Guess-Weather	mtopping/Guess-Weather	3692128	Mobile app for crowdsourcing weather	null	96	2	0	2
+noisebridge_app	plaeh/noisebridge_app	12305516	mobile app for the noisebridge hackerspace	JavaScript	540	2	0	2
+fasttap	hac/fasttap	3999786	Instant tap handler for mobile apps	JavaScript	100	2	0	2
+Tappats	aldobriano/Tappats	2063516	Tappats Android Mobile App Source Code	Java	6380	2	0	2
+aniplusplus	dittos/aniplusplus	43435606	Native Mobile App for Aniplus	JavaScript	216	2	1	2
+Engage	cswits/Engage	8052323	Mobile app to gauge audience interest	JavaScript	8464	2	0	2
+phonegap-app	piercebutler/phonegap-app	8015734	jQuery mobile app using HTML5, JSON calls to Wordpress, flicker and youtube, jQuery mobile, intergrating ios native maps	JavaScript	3044	2	4	2
+BubbleTree	bwestmoreland/BubbleTree	9419133	RecsHackDay Mobile App for recommendations.	Objective-C	580	2	0	2
+ehealthpractitioner	jaiishankar/ehealthpractitioner	4229973	web app saas project for medical practitioner for web app and mobile app	JavaScript	28201	2	2	2
+Fournote	kbudnar/Fournote	2910653	Social Mobile App using titanium	null	100	2	0	2
+arumbu-old	thamizha/arumbu-old	3153729	Tamil Baby Names Mobile App	JavaScript	2776	2	0	2
+mobilebackbone	philhaeusler/mobilebackbone	3456781	Building Mobile Apps with Backbone	JavaScript	227	2	1	2
+gr8conf-ionic	dmahapatro/gr8conf-ionic	25374331	Gr8Conf mobile app targeted for iOS	JavaScript	1904	2	0	2
+gtcalerts	hackforwesternmass/gtcalerts	36986260	Gardening the Community Alerts Mobile apps	Objective-C	10388	2	0	2
+phonegap-GPSTracker-android	ratulcse10/phonegap-GPSTracker-android	17208381	A Simple Mobile App to track the gps locations of Registered member and send the data to Remote Server	PHP	1381	2	4	2
+nail	zhuhua/nail	28027061	Nail make up mobile app	JavaScript	10556	2	0	2
+IonicPushAppsSample	domenjeric/IonicPushAppsSample	33789815	A sample mobile app build with Ionic to demonstrate how to register and receive push notifications with PushApps service on Android and iOS.	JavaScript	3116	2	4	2
+Postman	anamsimon/Postman	19249102	Mobile app on Push Notification	JavaScript	3468	2	0	2
+mifos-selfservice-app	gauravsaini03/mifos-selfservice-app	54142969	Mifos Self Service Meteorjs based Application with support of web and hybrid mobile app support.	JavaScript	52	2	3	2
+Outloud-iOS-MVP	OutloudTeam/Outloud-iOS-MVP	44022743	MVP for the iOS mobile app.	Swift	20312	2	0	2
+phonegap	pramodmittapalli/phonegap	1281565	Prototype phonegap + jquery mobile app	JavaScript	3025	2	0	2
+blobs	tsileo/blobs	47062603	Blobs mobile app (built with Flutter)	Dart	9	2	0	2
+ionic-wordpress	smartbiz/ionic-wordpress	56207268	Creating a Mobile App for your WordPress-based Business using Ionic Framework (HTML5, CSS3, Cordova).	JavaScript	3239	2	2	2
+intro-to-swift	teamneem/intro-to-swift	67559835	Swiftly Create a Mobile App	Swift	514	2	0	2
+phonegap-mobile-website-app	blamonet/phonegap-mobile-website-app	14939725	An easy example of how to wrap any mobile website into a mobile app with Phonegap/Cordova.	Objective-C	1740	2	4	2
+html5mobile	WaylandField/html5mobile	3814628	develop mobile app based on html5	JavaScript	1679	2	0	2
+dashdb_mobile	CDSLab/dashdb_mobile	44845762	 Sample of an Ionic Mobile App that leverages IBM's dashDB REST API in Bluemix	JavaScript	2132	2	2	2
+bugzilla-mobile	xianjimli/bugzilla-mobile	15761217	This project  is the bugzilla for mobile devices. You can run it as web app or mobile app(with phonegap build).	JavaScript	5748	2	4	2
+TJMobileApps.github.io	TJMobileApps/TJMobileApps.github.io	52470828	TJ Mobile Apps Club Website	HTML	0	2	1	2
+opennms-compass	OpenNMS/opennms-compass	33334266	The OpenNMS Compass Mobile App	JavaScript	23567	2	1	2
+deeplink-reference	SimonJThompson/deeplink-reference	61372993	A reference of mobile app deeplinks.	null	1	2	0	2
+Texty-Android	tylerjxzhang/Texty-Android	50227747	PennApps 2016 Android Mobile App	Java	110	2	0	2
+DulaneyGriffinFinal	kuangjustin/DulaneyGriffinFinal	53748205	Mobile app for school newspaper	Java	814	2	0	2
+fsTouch	jamesgpearce/fsTouch	1634232	The missing mobile app for FunctionSource	JavaScript	168	2	0	2

@@ -1,0 +1,1001 @@
+name	full_name	id	description	language	size	watchers	forks	stargazers_count
+godot	godotengine/godot	15634981	Godot Engine – Multi-platform 2D and 3D game engine	C++	151496	6573	1720	6573
+OpenRA	OpenRA/OpenRA	959908	Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.	C#	174697	3368	1098	3368
+AndEngine	nicolasgramlich/AndEngine	2828194	Free Android 2D OpenGL Game Engine	Java	24111	2819	1495	2819
+Serious-Engine	Croteam-official/Serious-Engine	53668878	An open source version of a game engine developed by Croteam for the classic Serious Sam games.	C++	94067	2306	279	2306
+Crafty	craftyjs/Crafty	1052675	JavaScript Game Engine	JavaScript	11844	2158	480	2158
+engine	playcanvas/engine	19696006	3D WebGL game engine with online toolset.	JavaScript	54181	2104	425	2104
+Starling-Framework	Gamua/Starling-Framework	2097941	The Cross Platform Game Engine	ActionScript	34099	2030	884	2030
+melonJS	melonjs/melonJS	1597789	a fresh & lightweight javascript game engine	CSS	64190	1672	381	1672
+piston	PistonDevelopers/piston	19102672	A modular game engine written in Rust	Rust	4689	1417	116	1417
+Urho3D	urho3d/Urho3D	13266601	Cross-platform 2D and 3D game engine	C++	728944	1323	415	1323
+BansheeEngine	BearishSun/BansheeEngine	21696509	Banshee Game Engine	C++	130161	1307	128	1307
+Quintus	cykod/Quintus	3896632	HTML5 Game Engine	JavaScript	2717	1240	426	1240
+Torque2D	GarageGames/Torque2D	8022693	MIT Licensed Open Source version of Torque 2D game engine from GarageGames	C++	135183	1129	1378	1129
+xenko	SiliconStudio/xenko	23534015	Xenko Game Engine	C#	54005	1074	297	1074
+AtomicGameEngine	AtomicGameEngine/AtomicGameEngine	29790707	The Atomic Game Engine: http://www.AtomicGameEngine.com	C	99294	973	184	973
+flixel	HaxeFlixel/flixel	2101031	Free, cross-platform 2D game engine powered by Haxe and OpenFL	Haxe	32269	907	224	907
+voxel-engine	maxogden/voxel-engine	7433588	3D HTML5 voxel game engine	JavaScript	3237	888	154	888
+freeablo	wheybags/freeablo	11261721	Modern reimplementation of the Diablo 1 game engine	C++	267632	798	82	798
+hematite	PistonDevelopers/hematite	21311275	A simple Minecraft written in Rust with the Piston game engine	Rust	8390	771	74	771
+BananaBread	kripken/BananaBread	3677506	BananaBread is a C++ 3D game engine that runs on the web using JavaScript+WebGL+HTML	C++	781092	756	144	756
+termloop	JoelOtter/termloop	36133658	Terminal-based game engine for Go, built on top of Termbox	Go	869	658	31	658
+gameQuery	onaluf/gameQuery	703011	a javascript game engine with jQuery	JavaScript	4062	604	182	604
+NoahGameFrame	ketoo/NoahGameFrame	19843809	A fast, scalable, distributed game server framework for C++, include actor library, network library,can be used as a  real time multiplayer game engine ( MMO RPG ), which support C#/Lua script/ Unity3d, and plan to support Cocos2dx, FlashAir client access.	C	1296434	573	187	573
+Sparrow-Framework	PrimaryFeather/Sparrow-Framework	1275916	The Open Source Game Engine for iOS	Objective-C	13672	570	186	570
+panda3d	panda3d/panda3d	13212165	Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU	C++	240006	536	187	536
+Citrus-Engine	DaVikingCode/Citrus-Engine	5315612	Modern AS3 Game Engine	ActionScript	454746	522	256	522
+akihabara	kesiev/akihabara	620862	A game engine for making classic arcade style games using Javascript and HTML5. We're starting moving on a re-organized repo here: https://github.com/akihabara	JavaScript	42081	520	56	520
+panda.js-engine	ekelokorpi/panda.js-engine	16146683	Panda Engine: 2D HTML5 game engine for mobile and desktop	JavaScript	47392	503	94	503
+UnitySteer	ricardojmendez/UnitySteer	244328	Steering, obstacle avoidance and path following behaviors for the Unity Game Engine	C#	1606	502	156	502
+Corange	orangeduck/Corange	1697403	Pure C Game Engine	C	204796	495	61	495
+helm	z0w0/helm	11231382	A functionally reactive game engine, with headgear to protect you from the headache of game development provided.	Haskell	602	477	61	477
+RealtimeMultiplayerNodeJs	onedayitwillmake/RealtimeMultiplayerNodeJs	1646714	Realtime Mutliplayer Game Engine using Node.js / websockets for HTML5 that uses a client-server approach in which the clients send only sampled input to the server	JavaScript	5056	445	89	445
+Nu	bryanedds/Nu	11965691	Repository hosting the open-source Nu Game Engine and related projects.	F#	793903	419	46	419
+solarus	christopho/solarus	3407135	Zelda-like 2D game engine	C++	78206	405	106	405
+Effect-Games	jhuckaby/Effect-Games	1549505	Classic DHTML JavaScript Game Engine and Web Based IDE	JavaScript	12263	388	96	388
+AlloyGameEngine	AlloyTeam/AlloyGameEngine	6005548	made game making super easy	JavaScript	3331	374	104	374
+qiciengine	qiciengine/qiciengine	47888260	A free JavaScript game engine library with a web-based comprehensive suite of toolset for making HTML5 games. http://www.qiciengine.com	null	382382	370	56	370
+KlayGE	gongminmin/KlayGE	32620049	KlayGE is a cross-platform open source game engine with plugin-based architecture.	C++	60244	366	94	366
+mage	magefree/mage	4158448	Magic Another Game Engine	Java	448782	362	240	362
+Spout	SpoutDev/Spout	1688262	Open source, multithreaded, voxel game engine and platform, written in Java.	Java	61058	360	127	360
+LumixEngine	nem0/LumixEngine	14590125	3D Game Engine	C++	532520	357	51	357
+nd2d	lrrrs/nd2d	1482998	A Flash Molehill (Stage3D) GPU accelerated 2D game engine	ActionScript	11971	345	68	345
+amethyst	amethyst/amethyst	48364554	Data-oriented game engine written in Rust	Rust	14725	334	28	334
+Dash	Circular-Studios/Dash	15827539	A free and open 3D game engine written in D.	D	36327	322	57	322
+HTML5GameEngines	dannagle/HTML5GameEngines	20664165	Source code from the book HTML5 Game Engines	Objective-C	40095	303	40	303
+PuzzleScript	increpare/PuzzleScript	13189252	Open Source HTML5 Puzzle Game Engine	JavaScript	9361	303	63	303
+MBTileParser	MosheBerman/MBTileParser	5283215	MBTileParser is a game engine written using pure UIKit in the days before SpriteKit.	Objective-C	23973	292	39	292
+engo	EngoEngine/engo	26521386	Engo is an open-source 2D game engine written in Go.	Go	9434	291	33	291
+Helium	HeliumProject/Helium	962121	C++ Frameworks and Game Engine	C++	104737	284	54	284
+luxe	underscorediscovery/luxe	10870200	A cross platform game engine written in haxe	Haxe	115390	282	62	282
+fifengine	fifengine/fifengine	8756342	FIFE is a multi-platform isometric game engine	C++	130994	272	44	272
+grid-sdk	Planimeter/grid-sdk	25402523	The Grid SDK - A 2D game engine built on LÖVE	Lua	30387	271	25	271
+Monocle-Engine	zaphire/Monocle-Engine	1479651	Open source game engine for lush 2D. Inspired by Aquaria, FlashPunk and Unity.	C	20365	253	41	253
+kivent	kivy/kivent	9707708	KivEnt is an entity-based game engine for Kivy	Python	58875	247	36	247
+GarageEngine	vova616/GarageEngine	5326767	Game engine written in Go (golang).	Go	416	239	19	239
+LGame	cping/LGame	6753822	This is free 2d game development framework(Java Game Engine), support JavaSE/Android/IOS/WP7/HTML5/PSM/Linux/MAC/Windows and Default support Ripple protocol	Java	452553	235	115	235
+chocolatier	alexkehayias/chocolatier	16061670	WIP ClojureScript game/engine using Pixi.js for rendering.	Clojure	6985	232	20	232
+UnityOSC	jorgegarcia/UnityOSC	1208953	Open Sound Control (OSC) C# classes interface for the Unity3d game engine	C#	1590	232	74	232
+gkEngine	gameknife/gkEngine	11399412	A cross-platform game engine with cutting-edge real-time rendering tech & fantastic speed.                                                  	C++	14953	228	84	228
+super-animation-samples	raymondlu/super-animation-samples	5959878	A New Animation Solution based on SWF for Cocos2d Game Engine	C++	334862	219	109	219
+SuperSpriteKit	JohnSundell/SuperSpriteKit	16465720	Extensions to Apple's SpriteKit game engine	Objective-C	1038	215	15	215
+RenderPipeline	tobspr/RenderPipeline	21068958	Physically Based Shading and Deferred Rendering for the Panda3D game engine	Python	425818	215	27	215
+crown	taylor001/crown	5321315	The flexible game engine.	C	150046	211	24	211
+bdx	GoranM/bdx	27062675	A cross-platform game engine for Blender 3D	Java	12406	190	34	190
+EntityJS	bendangelo/EntityJS	2253508	HTML5 entity-component game engine	JavaScript	2526	184	22	184
+aroma	leafo/aroma	333999	a game engine: lua, opengl es 2.0, native client	C	1494	184	16	184
+gamekit	gamekit-developers/gamekit	22812058	See http://gamekit.org or http://gamekit.googlecode.com A basic cross-platform 3D game engine around Lua, Bullet, .blend files, Ogre or Irrlicht.	C++	335246	184	55	184
+ige	Irrelon/ige	5040057	The Isogenic Game Engine	JavaScript	57400	181	59	181
+PyDark	SirFroweey/PyDark	26162682	PyDark is a 2D and Online Multiplayer video game engine written on-top of Python and PyGame.	Python	102	176	13	176
+Dagon	Senscape/Dagon	2646235	Dagon is a game engine especially tailored for adventure games and based on open technologies. Featuring a simple scripting language, blazing fast performance and high portability supporting Windows, Linux and Mac OS X, the project aims to become a reference of the genre.	C	417284	176	25	176
+GameFinal	woyaofacai/GameFinal	17025202	next-gen 3D game engine	C++	227519	174	48	174
+KoboldKit	KoboldKit/KoboldKit	12592611	Kobold Kit is the game engine built on and extending Apple's Sprite Kit Framework.	Objective-C	27063	171	31	171
+TheRenderEngine	bfattori/TheRenderEngine	1549324	This project is no longer maintained. The Render Engine is a cross-browser, open source game engine written entirely in JavaScript. Designed from the ground up to be extremely flexible, it boasts an extensive API and uses the newest features of today's modern browsers.	JavaScript	7473	171	34	171
+mtasa-blue	multitheftauto/mtasa-blue	32611596	Multi Theft Auto is an open-source game engine that adds full multiplayer network play functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found.	C++	665456	163	65	163
+dava.engine	dava/dava.engine	1968812	Game Engine	C	3886587	162	53	162
+ProceduralToolkit	Syomus/ProceduralToolkit	25112594	Collection of instruments for development of procedural generation systems in Unity game engine	C#	402638	162	23	162
+Advanced-Tiled-Loader	Kadoba/Advanced-Tiled-Loader	2229838	Imports Tiled maps into Lua for the LÖVE game engine. (NO LONGER IN DEVELOPMENT)	Lua	3596	161	25	161
+chem	andrewrk/chem	4723501	2d canvas-based rapid prototyping game engine	JavaScript	5682	161	4	161
+falltergeist	falltergeist/falltergeist	6838493	Opensource crossplatform Fallout 2™ game engine writen in C++ and SDL. Current version: 0.3.0	C++	6903	157	34	157
+scage	dunnololda/scage	3463640	game engine written in Scala	Scala	963	147	19	147
+Punity	martincohen/Punity	46677962	A tiny game engine in C.	C	830	145	8	145
+cyo	danielstern/cyo	13492683	100% HTML Game Engine	CSS	4213	144	12	144
+joy.js	endel/joy.js	7117833	A Joyful 2D HTML5 Game Engine.	JavaScript	4331	142	20	142
+LambdaHack	LambdaHack/LambdaHack	956452	Haskell game engine library for roguelike dungeon crawlers	Haskell	20664	134	18	134
+qfusion	Qfusion/qfusion	10675052	Source code for Quake 2-derived game engine	C	325222	133	43	133
+finalengine	kamibu/finalengine	2113933	A WebGL game engine	JavaScript	12689	131	8	131
+amulet	ianmaclarty/amulet	42996241	lua game engine	C++	37904	126	6	126
+gladius	gladiusjs/gladius	4449420	Client-side 3D game engine for the web	JavaScript	2604	126	15	126
+Citrus-Engine-Examples	DaVikingCode/Citrus-Engine-Examples	6405661	Examples for the Citrus Engine, AS3 Game Engine	ActionScript	78372	125	188	125
+frozen	iceddev/frozen	5753208	Frozen is an open-source HTML5 game engine delivering ease-of-use, rapid development through tooling and modularity.	JavaScript	6955	123	27	123
+tyranoscript	ShikemokuMK/tyranoscript	9273056	novel game engine for Browser, iOS, Android , etc 	JavaScript	21777	121	40	121
+WiEngine	stubma/WiEngine	6005211	C++ implemented, cocos2d like cross-platform game engine	C	38178	120	100	120
+3DEngineCpp	BennyQBD/3DEngineCpp	12337554	It's like the 3D Game Engine, except in C++	C	13235	118	41	118
+linotype	barelyknown/linotype	6421987	Letterpress game engine for Ruby	Ruby	2359	114	6	114
+KickJS	mortennobel/KickJS	2373919	A WebGL game engine for modern web-browsers.	JavaScript	19863	113	27	113
+spinel	cadwallion/spinel	6678258	A free and open source game engine using mruby and C/C++	C	780	113	3	113
+node-poker	mjhbell/node-poker	3198742	Texas Holdem game engine	JavaScript	219	111	55	111
+voxeliq	bonesoul/voxeliq	2844459	voxeliq is an open source block-based game engine implementation developed with C#	C#	77882	111	42	111
+ChilliSource	ChilliWorks/ChilliSource	24335898	An open source, cross-platform game engine designed for indie developers.	C++	227698	110	16	110
+IsoHill-Game-Engine	jadbox/IsoHill-Game-Engine	2700182	IsoHill is a new isometric engine for Flash Player 11 [molehill] built on top of the open 2D framework Starling. Features: Plugins - engine-wide modifications, Includes a TMX [CVS export] parser, Components - dynamic logic can be added and removed from IsoSprites, Virtually unlimited layers, Anti-aliasing of isometric tiles, deterministic framework, Mipmapping, and under BSD license	ActionScript	4723	109	26	109
+metoo	fztcjjl/metoo	36173956	A game engine based on skynet	C	7231	109	70	109
+TwoPointFive	phoboslab/TwoPointFive	22336861	3D View Plugin for the Impact HTML5 Game Engine	JavaScript	668	102	13	102
+megaglest-source	MegaGlest/megaglest-source	14698558	MegaGlest real-time strategy game engine (cross-platform, 3-d)	C++	51969	101	32	101
+bladecoder-adventure-engine	bladecoder/bladecoder-adventure-engine	18995295	Classic point and click adventure game engine and editor	Java	70296	98	16	98
+pulse	onmodulus/pulse	2463210	HTML5 & JavaScript Game Engine	JavaScript	171684	97	18	97
+piston-examples	PistonDevelopers/piston-examples	21298530	A collection of examples using the Piston game engine	Rust	2545	95	55	95
+gamemachine	gamemachine/gamemachine	3678385	Multiplayer game engine	Ruby	556613	94	23	94
+engine	azul3d/engine	52764959	Azul3D - A 3D game engine written in Go!	C	792	94	8	94
+DeltaEngine	DeltaEngine/DeltaEngine	6498746	Open Source Multiplatform Game Engine, C# OpenGL Version (custom wrapper) including the Editor	C#	4813	94	25	94
+Plasma	H-uru/Plasma	1579856	Cyan Worlds's Plasma game engine	C++	39083	92	36	92
+Griddy	nickbreslin/Griddy	892851	Grid library for the Unity game engine	C#	418	92	22	92
+yae	nondev/yae	25915873	Windows/Linux/Mac/Android/iOS/Ouya game engine for MoonScript, in MoonScript.	MoonScript	68593	91	5	91
+2D-Game-Engine	vanZeben/2D-Game-Engine	6567166	A 2D Game engine built with only native Java libraries. Part of a tutorial series @ http://vanZeben.ca/java/2d_game_dev	Java	261	89	72	89
+ra2	OpenRA/ra2	47920913	A Red Alert 2 mod for the OpenRA game engine	C#	6448	88	34	88
+trafficcone	j03m/trafficcone	3127980	html 5 2d + 2.5d (isometric) game engine	JavaScript	29578	88	12	88
+KinectSDK-Unity3D_Interface_Plugin	adevine1618/KinectSDK-Unity3D_Interface_Plugin	2244811	This is a wrapper that allows the user to access Microsoft's Kinect SDK v.1.7 data from inside the free Unity3D game engine. This is a workaround for the problem of Mono not supporting .NET 4.	C#	86942	88	37	88
+engine	StarEngine/engine	18967730	Crossplatform C++11 2D Game Engine for Desktop and Mobile games	C++	54252	87	36	87
+Firmament	martamius/Firmament	10805178	Firmament Game Engine	Haxe	19014	86	25	86
+artemis	gemserk/artemis	1465768	artemis framework (Components Based Game Engine) (Custom modifications in branch gemserk)	Java	417	86	26	86
+ProceduralMesh	mortennobel/ProceduralMesh	1103612	Simple procedural mesh generation for the Unity 3 game engine	C#	149	86	25	86
+Excalibur	excaliburjs/Excalibur	7457728	A simple HTML5 Canvas game engine written in TypeScript	TypeScript	47918	85	11	85
+Dusk-Engine	GymbylCoding/Dusk-Engine	7943978	Dusk is a fully-featured, open-source game engine for Corona SDK.	Lua	3894	83	34	83
+Laro	AlloyTeamDev/Laro	2655219	a game engine based on html5 canvas	JavaScript	23180	82	43	82
+rust-2048	coeuvre/rust-2048	19941072	A 2048 clone with Piston game engine	Rust	357	80	16	80
+VLS2D	reveriejake/VLS2D	29481805	VLS2D is a 2D light creation system for use with the Unity game engine!	C#	1562	79	20	79
+Clarity	Dissimulate/Clarity	14575927	A simple, customisable and scriptable platform game engine.	JavaScript	98	77	28	77
+craftyjstut	starmelt/craftyjstut	1805045	This is a Tutorial for the Crafty JavaScript Game Engine	JavaScript	2180	76	11	76
+darlingjs	darlingjs/darlingjs	9519190	Component & entity based javascript game engine. With dependency injections, and modular architecture.	JavaScript	3444	76	6	76
+spacepuppy-unity-framework	lordofduct/spacepuppy-unity-framework	34041012	A framework of reusable objects with the Unity game engine version 5.x.	C#	38684	75	19	75
+Genbeta-Dev-Engine	genbetadev/Genbeta-Dev-Engine	13901859	Desarrollo de un Game Engine básico sobre C++ y SFML 2.1	C++	1903	74	41	74
+Enclave-Phaser-Template	EnclaveGames/Enclave-Phaser-Template	48431764	Enclave Phaser Template - a mobile template for HTML5 games written using the Phaser game engine.	JavaScript	1416	74	26	74
+jgen	angrycoding/jgen	5882415	JavaScript Game Engine	JavaScript	7590	73	11	73
+GammaJS	Royce/GammaJS	1193087	GammaJS: A WebGL platformer game engine	JavaScript	4720	73	6	73
+diggy	richtaur/diggy	758127	DHTML Game Engine	JavaScript	316	71	12	71
+Nori	elmindreda/Nori	1997016	A simple game engine	C++	44629	71	6	71
+TD-Godot-Games	TutorialDoctor/TD-Godot-Games	43176521	A collection of games made with the Godot game engine	HTML	307106	71	20	71
+Unity-Beat-Detection	allanpichardo/Unity-Beat-Detection	30501529	Musical beat detection and audio spectrum analysis for use with the Unity game engine.	C#	9	71	19	71
+Cubby	MineScroll/Cubby	49010902	Voxel-based Game Engine for MineScroll (based on AlwayGeeky's Vox)	C++	74988	71	5	71
+ouzel	elnormous/ouzel	48319858	C++ 2D game engine for Windows, OS X, Linux, iOS, tvOS and Android	C++	15165	71	8	71
+Protogame	RedpointGames/Protogame	5695369	Protogame is a powerful cross-platform game engine for C#, built on top of MonoGame.	C#	22162	70	7	70
+Miners	Charged/Miners	1689237	An Game Engine and Minecraft Classic Client	D	3988	69	10	69
+pygamii	carlosmaniero/pygamii	47847892	ASCII Game Engine write in Python	Python	3670	69	3	69
+soya2d	MrSoya/soya2d	29660222	Soya2D is a web interactive animation(game) engine for modern web browsers	JavaScript	9566	68	19	68
+MiniMOBA	erickpassos/MiniMOBA	12907657	Mini MOBA complete project for the Unity 3D game engine	C#	32988	67	52	67
+anima-engine	anima-engine/anima-engine	50508100	The quirky game engine	Rust	123	66	3	66
+PixelSpriteGenerator-Unity	Shogan/PixelSpriteGenerator-Unity	48873183	A port of the PixelSpriteGenerator to C# for use with the Unity3D game engine	C#	25	66	8	66
+AtomicExamples	AtomicGameEngine/AtomicExamples	28552923	Examples for the Atomic Game Engine	JavaScript	115681	64	24	64
+Runtime	openaphid/Runtime	4126273	The core runtime of OpenAphid-Engine, a cross platform 2D game engine based on JavaScript and OpenGL ES.	C	76229	64	14	64
+quick2d-engine	dualface/quick2d-engine	57012549	quick2d - The 2D Game Engine based on cocos2d-x	C++	7326	63	15	63
+ga	kittykatattack/ga	21740919	The world's tiniest, cutest and funnest game engine	JavaScript	30598	63	9	63
+HGE2D	I3ck/HGE2D	50943151	2D game engine written in Haskell	Haskell	114	63	4	63
+play_phaser	playif/play_phaser	21606087	A Dart port for Phaser 2D game engine.	Dart	60899	62	15	62
+backbone-game-engine	martindrapeau/backbone-game-engine	18656295	HTML5 Game Engine using Backbone.	JavaScript	1618	61	22	61
+alephone	Aleph-One-Marathon/alephone	39701264	Aleph One is the open source continuation of Bungie’s Marathon 2 game engine.	C++	19005	61	12	61
+hydra	aduros/hydra	996577	An HTML5 game engine for the many faces of mobile WebKit.	JavaScript	10682	60	13	60
+hadoom	ocharles/hadoom	24198823	A little Doom-like 2.5 game engine	Haskell	6170	60	2	60
+marshmallow_h	gamaral/marshmallow_h	1540144	The only game engine that tastes better slightly burned!	C	9712	59	14	59
+TauEngine	ianterrell/TauEngine	2781564	2D game engine built on iOS 5's GLKit	Objective-C	155	59	7	59
+haxor-engine	haxorplatform/haxor-engine	21256983	Haxe free cross platform 3D Game Engine	Haxe	152804	59	6	59
+BobEngine	Bobbyloujo/BobEngine	24069121	A 2D game engine for Android	Java	27478	58	12	58
+ducttape-engine	ducttape/ducttape-engine	1749084	Ducttape Engine - A universal game engine	C++	45645	57	22	57
+free-game	fumieval/free-game	6517471	The free game engine	Haskell	26144	55	10	55
+JSGame	thomas-alrek/JSGame	57211530	JavaScript + Canvas 2D game engine	JavaScript	703	55	3	55
+Pixelizer	johanp/Pixelizer	3685387	A component based game engine for AS3. Master version is currently 0.4.3. Please note, the dev branch is currently under heavy development for 0.5 and should be considered unstable. There will be a few breaking changes.	ActionScript	574	55	12	55
+Pjs-2D-Game-Engine	Pomax/Pjs-2D-Game-Engine	3510800	Processing.js 2D Game Engine	JavaScript	21509	54	36	54
+dg	zho7611/dg	15996828	DalgiEngine - Sweet 3D Game Engine	C++	5849	54	18	54
+Roll-a-ball-FSharp	Thorium/Roll-a-ball-FSharp	29443854	Unity 3d game engine tutorial	F#	323	54	3	54
+impact-tween	nefD/impact-tween	1370462	Tweening plugin for the ImpactJS game engine	JavaScript	116	53	9	53
+Hatchit	thirddegree/Hatchit	48081064	An Open Source 3D Game Engine written in C++	CMake	11906	53	11	53
+SilenceEngine	sriharshachilakapati/SilenceEngine	27004894	A cross platform 2D / 3D Java Game Engine (Desktop / Html5 / Android)	Java	87021	53	18	53
+Dreamengine	Inateno/Dreamengine	11327740	A powerfull JS 2D Game Engine cross-compatible and easily extendable	JavaScript	15771	53	8	53
+dynadungeons	akien-mga/dynadungeons	35509227	Bomberman clone using the awesome open source Godot game engine	GDScript	5049	53	7	53
+game-engines	sourceful/game-engines	21884775	HTML5 Game Engines	null	140	52	4	52
+AsciiEngine	RandyGaul/AsciiEngine	4877964	Game engine written in C to create Ascii art games within the Windows console.	C	544	52	12	52
+FreeFT	nadult/FreeFT	7958800	Isometric action game engine	C++	2711	50	7	50
+ExampleEngine	ianterrell/ExampleEngine	2216284	An example 2d game engine built on GLKit	Objective-C	847	50	9	50
+nxengine-libretro	libretro/nxengine-libretro	2639398	Port of NxEngine to the libretro API. NXEngine is a Cave Story game engine clone 	C	7594	49	57	49
+oni	SamHellawell/oni	13576151	AS3 game engine used for http://www.oniworld.co.uk/	ActionScript	6505	49	6	49
+forsaken	ForsakenX/forsaken	7450429	Forsaken game engine	C	16757	48	9	48
+cpctelera	lronaldo/cpctelera	21516536	Astonishingly fast Amstrad CPC game engine for C developers	C	50425	46	14	46
+webvr	playcanvas/webvr	21908825	WebVR support for PlayCanvas WebGL Game Engine	JavaScript	269	45	9	45
+pomdog	mogemimi/pomdog	14086999	An open source game engine for C++14 :dog: :video_game:	C++	8706	45	4	45
+cubes	kpreid/cubes	2368303	Block-based WebGL game engine where the blocks are made out of blocks. Trying not to be yet another Minecraft clone.	JavaScript	3254	45	4	45
+CitruxEngine	alamboley/CitruxEngine	3860085	2D Haxe NME Game Engine	HaXe	15009	44	10	44
+TESUnity	ColeDeanShepherd/TESUnity	60037989	World viewers for Elder Scrolls games in the Unity game engine.	C#	987	44	5	44
+Flixel-Haxe	domrein/Flixel-Haxe	1004950	Port of Flixel game engine to haXe with a focus on iOS development	HaXe	346	44	4	44
+darkhammer	septag/darkhammer	17981117	darkHAMMER is a lightweight, open-source, multiplatform game engine. written in C (C99) language, supports python and C# bindings and lua scripts. Runs on windows and linux	C	6684	44	5	44
+impact-astar-for-entities	hurik/impact-astar-for-entities	3649150	This plugin for the Impact Game Engine and added pathfinding to the entities. It also has a basic path following function, a example for path drawing function and a debug panel for showing the path of all entities. 	JavaScript	404	44	10	44
+SimpleGameEngine	C0deH4cker/SimpleGameEngine	15983319	Simple C++ game engine influenced by XNA	C	474	43	12	43
+pure2d	gree/pure2d	19476099	Pure2D Native Android Game Engine	Java	42115	43	16	43
+PlainText	arendjr/PlainText	4215598	Text-based MUD game engine	JavaScript	15539	43	11	43
+impact-box2d	phoboslab/impact-box2d	1345693	Box2D Plugin for the Impact Game Engine	JavaScript	183	43	13	43
+dinodeck	dinodeck/dinodeck	57168857	A simple game engine with goals of rapid development and easy distribution.	C	24196	43	7	43
+EgretGameEngine	yicaoyimuys/EgretGameEngine	27056451	A game client engine in Egret	TypeScript	73816	42	36	42
+bacon	aholkner/bacon	11870549	Python 2D game engine	C	6912	42	4	42
+ND2Dx	NoRabbit/ND2Dx	17528331	2D GPU Accelerated Game Engine for Flash Stage3D	ActionScript	8760	42	10	42
+pixel.js	rastating/pixel.js	13048684	A simple and flexible HTML5 and JavaScript powered game engine.	JavaScript	2225	42	4	42
+motion-game	HipByte/motion-game	48756029	Cross-platform game engine for RubyMotion	C++	248472	41	12	41
+unity3d-extensions	jbruening/unity3d-extensions	7446860	extension and utility methods for the Unity game engine	C#	229	41	9	41
+MightyEngine	TheMightyFingers/MightyEngine	13249461	HTML5 cross platform game engine.	JavaScript	22596	40	26	40
+Flax-js	longyangxi/Flax-js	17653287	Game engine based on cocos2d html5 and Flash	JavaScript	1964	40	17	40
+Unity-TaskManager	krockot/Unity-TaskManager	1943851	An tiny, improved coroutine API for the Unity game engine.	C#	108	40	24	40
+impact-crater-core	impact-crater/impact-crater-core	14007039	NodeJS authoritative server for the Impact.js game engine. 	JavaScript	2147	40	4	40
+Blitwizard	JonasT/Blitwizard	3824608	UNMAINTAINED - Cross-platform game engine (Windows, Linux, Mac, Android) with physics, threaded texture loading, multiple backends (OpenGL, DirectX, ...) and modern streamed audio.	C	24735	40	10	40
+FLAG	flagamengine/FLAG	16493300	HTML5 Game Engine	JavaScript	474	39	11	39
+dreamengine	afflicto/dreamengine	8638517	html5 canvas game engine	JavaScript	8720	39	15	39
+TERRA-Engine	Relfos/TERRA-Engine	27311225	Cross platform game engine written in Object Pascal.	Pascal	71942	39	24	39
+FlappyBird	V-Play/FlappyBird	16705004	Source code of Flappy Bird version created with V-Play Game Engine	QML	2011	39	50	39
+impactConnect	cdreier/impactConnect	2972035	nodeJS plugin for impactjs game engine	JavaScript	108	39	10	39
+AGE	Another-Game-Engine/AGE	13702782	AGE - C++11 OpenGL4 Game Engine	C++	177285	39	4	39
+Clockwork.js	arcadiogarcia/Clockwork.js	33894631	A lightweight modular JavaScript game engine	JavaScript	7600	39	2	39
+cleven	afainer/cleven	44600528	Cleven is an experimental game engine with volume graphics written in Common Lisp.	Common Lisp	1524	38	2	38
+sathra-2d	mmoczkowski/sathra-2d	18381840	An open source 2D Game Engine for Android.	HTML	6010	38	0	38
+stratagus	Wargus/stratagus	46500717	The Stratagus strategy game engine	C++	379849	37	15	37
+Bitzz	tiagojsalmeida/Bitzz	3422901	Bitzz was built with HTML5 and Javascript using the open source game engine MelonJS and Scoreoid for HighScore.	JavaScript	12310	37	15	37
+FriceEngine	icela/FriceEngine	65617268	An easy, light, native game engine running on JVM	Kotlin	460	37	3	37
+hermes	rdlester/hermes	1379319	A game engine for rapid world prototyping in Processing/Java:	Java	8999	37	1	37
+ammo	BlackBulletIV/ammo	1679273	A simple, flexible organisational library for use with the LÖVE game engine.	Lua	139	37	0	37
+cetech	cyberegoorg/cetech	40583922	Super hyper ultra mega cool easy simple opensource game engine that makes the world a better place. (yes, it is only joke =P)	C#	242362	37	1	37
+LOVE-Adventure-Game-Engine	Jasoco/LOVE-Adventure-Game-Engine	809827	An unfinished adventure game engine in the style of Zelda and modern real-time battle RPG's. To be finished sometime in 2015. Just in time for flying cars, power laces and self-drying jackets. Built with the awesome Lua-powered LÖVE 2D game development tool.	Lua	26270	36	2	36
+fuji	TurkeyMan/fuji	4235428	Mount Fuji Game Engine	C	69877	36	6	36
+CCSpriteWithHue	alex314/CCSpriteWithHue	14105264	Hue rotation for sprites in cocos2d game engine	Objective-C	1536	36	17	36
+fluxus	nebogeo/fluxus	6088070	a cross platform 3D game engine for livecoding worlds into existence	C++	19540	36	5	36
+moon	polyfox/moon	11409007	2D game engine, with a mruby scripting system.	C++	10042	36	3	36
+love-imgui	slages/love-imgui	63331069	imgui module for the LÖVE game engine	C++	602	35	7	35
+wootook	wootook/wootook	1858716	Wootook is a web-based MMO strategy game engine able to manage several gameplays	PHP	12039	35	15	35
+gorc	jdmclark/gorc	10290074	Early-development Jedi Knight: Dark Forces 2 game engine recreation	C++	2885	35	3	35
+aether3d	bioglaze/aether3d	31967246	Aether3D Game Engine	C	3710	34	2	34
+swift-engine	thelukester92/swift-engine	20608959	An entity-component-system game engine built in the Swift programming language.	Swift	1700	34	6	34
+Director	boneheadmed/Director	1263585	A Director plugin to be used with the Impact javascript game engine.	JavaScript	106	34	6	34
+Yogurt3D	yogurt3d/Yogurt3D	2675755	Flash Game Engine that utilizes the power of Stage3D, the new hardware acceleration for Flash Player 11	ActionScript	8625	33	7	33
+j2objc-sample-reversi	tomball/j2objc-sample-reversi	18279466	A sample showing how to use a Reversi game engine in an iOS app using J2ObjC.	Java	102	33	11	33
+AnvilClient	AnvilOnline/AnvilClient	44775425	The main C++ module to take control and expand the running game engine.	null	85858	33	7	33
+StarJewel	Elanz/StarJewel	7294424	Match-3 RPG style iOS game engine	Objective-C	4671	32	17	32
+YABEE	09th/YABEE	14464304	Export models from the Blender to Panda3D game engine	Python	6287	32	9	32
+FabulaEngine	macbury/FabulaEngine	13380669	Simple 3d rpg game engine with world editor for android	Java	59392	32	14	32
+blackjack	ChrisZieba/blackjack	32962531	A small game engine for casino blackjack and a library for calculating hand probabilities.	JavaScript	204	32	12	32
+chunk-map	marcus-robinson/chunk-map	49310279	JavaScript implementation of a procedurally generated, chunked 2D tilemap using the Phaser game engine.	JavaScript	315	32	1	32
+tetragon	NothingInteractive/tetragon	7440730	Tetragon is an Open Source cross-platform game engine used to develop games and applications for the web, desktop and mobile devices. It is written purely in ActionScript 3 and comfortably allows to write source code once and deploy builds to several different target platforms. Unlike most other Flash-based game engines and frameworks that allow you to develop a specific type of game or that provide a subset API to support game development, Tetragon provides a complete foundation with that any type of game can be developed, incl. resource management, debugging facilities, multi-locale support, layered extendability, a game-oriented data structure, and a lot more.	ActionScript	166687	32	9	32
+orx	orx/orx	39714458	ORX: Portable Game Engine	C	52610	31	8	31
+Sigma	adam4813/Sigma	11834309	Sigma game engine for creating games on multiple platforms.	C++	78953	31	24	31
+c2d-engine	lycying/c2d-engine	17081871	Android/HTML5/desktop game engine base on libgdx	Java	5260	31	14	31
+PGE	222464/PGE	57993134	PGE: Parallel Game Engine	C++	48598	31	4	31
+sioncore	saltares/sioncore	17608008	Small game engine built on top of Libgdx and Ashley	Java	13596	31	8	31
+coffee2d	LanJian/coffee2d	5406911	A HTML5 2D game engine written in CoffeeScript	CoffeeScript	881	31	2	31
+moirai	frostney/moirai	31283069	:black_joker: React.js game engine. Exciting, experimental and unstable	JavaScript	112	31	2	31
+small3d	coding3d/small3d	25390728	A small, no fuss, cross-platform 3D game engine (C++, OpenGL, SDL) - runs on Win/Macos/Linux	C++	8521	31	4	31
+minisphere	fatcerberus/minisphere	29823614	A fast, lightweight implementation of the Sphere game engine, written from the ground up in C using Allegro for graphics and sound, Duktape for JavaScript, and dyad.c for networking.	C	99023	31	7	31
+coeus	titan-studio/coeus	22328284	Pure LuaJIT game engine with a focus on fast development and high quality games	C	6299	31	0	31
+fightly-game-engine	adngdb/fightly-game-engine	1341305	Fightly Web Game Engine - Strategic, turn-based game engine for the Open Web	JavaScript	14405	30	5	30
+bluegin	safetydank/bluegin	1224881	Android game engine	C++	2830	30	3	30
+bgui	Moguri/bgui	12258899	Python GUI library for the Blender Game Engine	Python	2472	30	11	30
+FXGameEngine	eppleton/FXGameEngine	7977170	A Game Engine based on the JavaFX Canvas API	Java	3980	30	10	30
+isodrive	indutny/isodrive	6928341	Isometric game engine	JavaScript	294	30	0	30
+voxel-party	aaasen/voxel-party	6908899	A voxel based MVC game engine for SCIENCE!	Java	33195	30	4	30
+passion	kikito/passion	622364	An object-oriented LÖVE game engine	Lua	702	30	1	30
+AnimatorAccess	kayy/AnimatorAccess	19741776	Code generator utility for Unity game engine. Creates a class for convenient access Animator states and parameters	C#	2438	30	8	30
+HTML5-Keen	JoeAnzalone/HTML5-Keen	6749828	The original Commander Keen game "Marooned on Mars" ported to HTML5! (With the help of the melonJS game engine)	JavaScript	6891	30	8	30
+npos3d	AdmiralPotato/npos3d	3008485	Vector 3D game engine written in Javascript and HTML5's 2D Canvas context 	HTML	18820	30	4	30
+Gibbo2D	Whitebeard86/Gibbo2D	14923910	All In One 2D Game Engine	C#	74799	29	9	29
+engine	rools/engine	12528048	Entity-component-system based 3D game engine	C++	212	29	13	29
+mini3d	mini3d/mini3d	561303	Minimalistic, cross platform, open source 3d game engine framework	C	961	29	5	29
+min	Aaron-SP/min	32068747	Repository for the Min() Game Engine	C	25076	29	1	29
+Grail	Droggelbecher/Grail	644461	2D Point-and-click adventure game engine based on SDL	C++	6758	29	4	29
+hxdefold	hxdefold/hxdefold	60483806	Haxe/Lua externs for Defold game engine	Haxe	364	29	2	29
+pyvida	dodgyville/pyvida	1019194	cross platform point and click adventure game engine	Python	8803	29	1	29
+simplecs	s-k/simplecs	9839406	Simplecs is a Component-Entity-System game engine used to write games in a modular fashion.	Clojure	152	29	2	29
+Bohge_Engine	bohge/Bohge_Engine	15937503	Game engine for cross-platform	C	108633	28	24	28
+AGE	po8rewq/AGE	4565651	Another Game Engine	Haxe	2259	28	3	28
+Nephilim	GrimshawA/Nephilim	9041594	C++ Game Engine	C++	14122	28	4	28
+grease	caseman/grease	1512072	The highly extensible game engine framework for Python	Python	1557	28	6	28
+canvace.js	canvace/canvace.js	7522106	canvace.js is the JavaScript game engine of the Canvace Platform.	JavaScript	1624	28	4	28
+MalletEngine	rforshaw/MalletEngine	10629548	A powerful entity-component game-engine and editor, based on a modular design. Available on Linux, Windows, Mac, Android, and iOS.	HTML	32902	28	2	28
+opensludge	opensludge/opensludge	18857176	SLUDGE Adventure Game Engine	C++	12659	27	9	27
+Rosewood	vonkow/Rosewood	323006	2d Javascript gaming engine	JavaScript	2445	27	4	27
+feedback	FeedBackDevs/feedback	15641649	FeedBack - Music & Rhythm Game Engine	D	3231	27	2	27
+triplea	triplea-game/triplea	39766308	TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.	Java	718055	27	20	27
+unecht	Extrawurst/unecht	30955821	Game Engine Framework for the D programming language	D	20073	27	3	27
+Overdrive	grandmaster789/Overdrive	18010980	Game engine, using C++11, Boost and openGL 4 technology	C++	4227	27	4	27
+LoveAStar	mkosler/LoveAStar	3175565	A* search, written in Lua, for use in the LOVE 2D game engine	Lua	152	27	5	27
+add_primitives	TheHX/add_primitives	31269211	A plugin for the Godot Game Engine, capable of generating simple meshes for your game	GDScript	529	27	3	27
+SmallGameEngine	eXpl0it3r/SmallGameEngine	5051337	A small game engine or better said a state machine.	C++	197	26	8	26
+lionengine	b3dgs/lionengine	11656984	Java 2D Game Engine	Java	64509	26	6	26
+castle-engine	castle-engine/castle-engine	30114388	Castle Game Engine code and examples	Pascal	256456	26	4	26
+gin	huandu/gin	1298362	gin - a simple & efficient HTML5 game engine	JavaScript	162	26	2	26
+Cocos2D-X	blackberry/Cocos2D-X	2567466	cocos2d-x is an open-source, C++ based, mobile 2D game engine.	C++	32542	26	5	26
+dungeoncrawler	steventroughtonsmith/dungeoncrawler	6378002	Simple Obj-C 2D top-down game engine (Pokemon-style)	Objective-C	387	26	2	26
+Ryno-Engine	Ceffa/Ryno-Engine	45530828	C++ Game Engine	C	512443	25	5	25
+GodotSteam	Mavhod/GodotSteam	46160848	Steam api for Godot game engine	Python	66	25	10	25
+hearthshroud	thomaseding/hearthshroud	32491390	Hearthstone game engine library	Haskell	490	25	3	25
+StormEngine2	motorsep/StormEngine2	56392990	Storm Engine 2 (modified RBDoom 3 BFG game engine)	C++	19495	25	9	25
+bowser-engine	bowserjs/bowser-engine	8843356	A WebGL game engine based on three.js.	JavaScript	908	25	2	25
+dojo	Tomcc/dojo	21649308	A simple, portable and somewhat powerful C++ game engine	C++	14044	25	3	25
+phaser-shim	amowu/phaser-shim	46268520	A shim to make Phaser HTML5 game engine from NPM work with Webpack, and build properly.	JavaScript	7	25	2	25
+sodium-2d-game-engine	the-real-blackh/sodium-2d-game-engine	14384452	A cross-platform Haskell/Sodium/OpenGL game engine	Haskell	1364	24	3	24
+playcraftengine	martinwells/playcraftengine	5238776	An HTML5 game engine	JavaScript	72008	24	8	24
+2d-engine	atraczyk/2d-engine	31786350	2D Game Engine C++ OpenGL	C++	7857	24	6	24
+jacos2d-x	nguyenduong/jacos2d-x	8474450	Jacos2d-x Cross platform game engine	C++	79087	24	12	24
+seal2d	tangyiyang/seal2d	51525887	A 2D game engine based on OpenGL, developed with Lua and C.	C	26682	24	10	24
+pyGrid	GordonZed/pyGrid	9044527	Grid based Game Engine for Python+Pygame	Python	54	24	4	24
+seal2d	tangyiyang/seal2d	51525887	A 2D game engine based on OpenGL, developed with Lua and C.	C	26682	24	10	24
+ignifuga	gabomdq/ignifuga	7673412	Ignifuga Game Engine	C++	40213	24	1	24
+flaxen	scriptorum/flaxen	15014478	Haxe game engine with entity component system	Haxe	2285	24	2	24
+Atlas.js	steelydylan/Atlas.js	9538259	simple game engine worked on canvas elements	JavaScript	7754	24	1	24
+voxelman	MrSmith33/voxelman	21798503	Plugin-based client-server voxel game engine written in D language	D	1176	24	1	24
+VixenEngine	MattGuerrette/VixenEngine	36013505	Open Source C++ Game Engine	HTML	110462	23	7	23
+Engine	Shervanator/Engine	18516055	A basic cross-platform 3D game engine	C	6516	23	10	23
+flickgame	increpare/flickgame	34676954	tiny game engine	HTML	359	23	2	23
+blender	UPBGE/blender	46817566	Uchronia Project Blender Game Engine fork of Blender Game Engine	C	314836	23	4	23
+until-it-dies	zkat/until-it-dies	203321	A batteries-included game engine.	Common Lisp	1238	23	2	23
+mario-game	arjanfrans/mario-game	22395360	:mushroom: Super Mario Bros 16-bit version clone. Written in Java and using the LibGdx game engine.	null	14009	23	18	23
+Begame	pepijndevos/Begame	1595414	A Clojure 2D game engine	Clojure	137	23	1	23
+gunship-rs	excaliburHisSheath/gunship-rs	33084181	An experimental game engine written in Rust.	C	1307	23	2	23
+silverscreen	mminer/silverscreen	932472	Editor tools for creating cinematics using the Unity game engine.	C#	239	23	2	23
+NFrame	ketoo/NFrame	43937157	A fast, scalable, distributed game server framework for C++, include actor library, network library,can be used as a  real time multiplayer game engine ( MMO RPG ) .	C#	6370	23	13	23
+love-repl	ioddly/love-repl	7460565	Magic-free in-game REPL for the Love game engine 	Lua	484	23	0	23
+GBA-Pokemon-Engine	Jambo51/GBA-Pokemon-Engine	20704094	Source code for my Open Source GBA Pokémon Game Engine	Assembly	38413	23	1	23
+LeopotamGroupLibraryUnity	Leopotam/LeopotamGroupLibraryUnity	51642989	Tools library for unity3d game engine. Analytics, animator graph helpers, serialization (json), localization, event routing (eventbus), embedded scripting, mobile gui, tweening, in-memory protection and other helpers (pure C#)	C#	1700	23	4	23
+FWGL	ziocroc/FWGL	23492254	Haskell game engine	Haskell	10066	22	2	22
+quick	dgsprb/quick	33334922	open multi-platform game engine	JavaScript	680	22	8	22
+squarepig	aeonofdiscord/squarepig	2803537	A simple HTML5 game engine	JavaScript	231	22	6	22
+ImpactJS-Plugins	dpweberza/ImpactJS-Plugins	5202372	A collection of plugins for the ImpactJS game engine.	JavaScript	291	22	9	22
+derp	svenstaro/derp	3889298	The derp game engine in D	D	6367	22	0	22
+scorm4unity	adlnet-archive/scorm4unity	3408143	The Unity-SCORM Integration Toolkit is a demonstration of how content developers can use a game engine to create SCORM-Conformant content.	C#	3139	22	14	22
+S2DEC	S2DGames/S2DEC	32354998	A 2D physics based entity component game engine	C++	36201	22	1	22
+jellyfish	nebogeo/jellyfish	16173857	Native game engine for Raspberry Pi/Android/OUYA and Linux with livecoding features	C	7276	22	1	22
+motion-toolkit	dtecta/motion-toolkit	32205092	The Motion Toolkit is a collection of C++ class templates providing basic types for applications involving 3D geometry, kinematics and dynamics of systems composed of rigid bodies. The toolkit contains sample code for "Game Engine Gems 3" - Chapter 10. "Rotational Joint Limits in Quaternion Space".	C++	504	22	3	22
+rgkit	RobotGame/rgkit	25054081	Game engine for Robot Game	Python	1259	21	16	21
+j2Ds	SkanerSoft/j2Ds	40759165	J2ds - is HTML5 Game Engine (All platforms)	JavaScript	956	21	10	21
+pymo	pymo/pymo	11822712	pymo, an AVG game engine for mobile devices	Python	266143	21	7	21
+piston_window	PistonDevelopers/piston_window	33863322	The official Piston convenience window wrapper for the Piston game engine	Rust	726	21	20	21
+BlendELF	jesterKing/BlendELF	747575	BlendELF is a 3d game engine for rapid prototyping and game & virtual reality creation.	C++	1652	21	14	21
+wyngine	laxa88/wyngine	43191589	Barebones 2D game engine for Kha	Haxe	319	21	3	21
+2016-Bomberman	EntelectChallenge/2016-Bomberman	55339065	This single repository includes the game engine, test harness and sample bots for the 2016 Entelect Challenge.	C#	1711	21	22	21
+voxel-engine-stackgl	voxel/voxel-engine-stackgl	33793081	3D HTML5 voxel game engine using stackgl	JavaScript	1123	21	3	21
+computer-game	danijar/computer-game	6746084	Data-oriented voxel game engine	C++	29358	21	1	21
+Kala	melon-not-found/Kala	54875143	Kala is a component based 2D game engine powered by Kha.	Haxe	725	21	2	21
+ofxGame	patriciogonzalezvivo/ofxGame	1987830	Group of handy classes for making Interactive 2D Games. With time and work it could be a decent game engine	C++	222	21	8	21
+kick	mortennobel/kick	19434888	Simple game engine for C++ 11 / OpenGL 3.x +	C++	16400	21	1	21
+fungen	haskell-game/fungen	24994497	A lightweight, cross-platform, OpenGL/GLUT-based 2D game engine in Haskell	Haskell	1909	21	2	21
+meta2d	tenjou/meta2d	20757321	Meta is free and fast open source HTML5 game engine for making cross platform games, supports Canvas and WebGL rendering and Dopple for native compilation.	JavaScript	3111	21	4	21
+dwarrowdelf	tomba/dwarrowdelf	2328281	Dwarrowdelf is a work-in-progress Nethack/Dwarf Fortress style game (and game engine)	C#	55775	21	1	21
+conquest-engine	theaigames/conquest-engine	16608246	The Conquest game engine	Java	326	20	14	20
+BeyondEngine	BeyondEngine/BeyondEngine	28270940	A cross platform game engine 	C++	186512	20	11	20
+Basic_Game_Engine	SergiuCraitoiu1/Basic_Game_Engine	32274498	Basic Game Engine	C	312	20	1	20
+jomohojs	jomoho/jomohojs	1584006	HTML5 Javascript Game Engine	JavaScript	407	20	5	20
+html5-isometric-game-tile-engine	mopics/html5-isometric-game-tile-engine	2542228	A html5/javascript isometric game engine	JavaScript	1065	20	7	20
+Komponent2D	Marc010/Komponent2D	20603460	a component based game engine	Haxe	932	20	2	20
+java_games	kennycason/java_games	7345160	Java 2D Game Engine - Building Zelda to test it (Also includes a MineSweeper Demo)	Java	14041	20	13	20
+flat2d	synthecypher/flat2d	7759788	a 2D Game Engine that uses Nape, Starling, and Signals	ActionScript	16226	20	4	20
+Jixel	JoshGalvin/Jixel	1335379	Jixel is a HTML5 JavaScript game engine which draws from Flixel for inspiration. 	JavaScript	9805	20	1	20
+Brute-Force-Game-Engine	wITTus/Brute-Force-Game-Engine	2672287	Open Source 3D Game Engine Written in C++	C++	14124	19	10	19
+D5Power	D5Power/D5Power	12797733	Game Engine based on AS3.	ActionScript	1211	19	19	19
+jfbuild	jonof/jfbuild	1178839	Port of the Build game engine	C	3743	19	5	19
+JiGS-PHP-RPG-engine	EMC23/JiGS-PHP-RPG-engine	4003055	The most advanced and complete Open Source Php Online RPG and Trading Game Engine	JavaScript	134143	19	14	19
+CommandoJS	commandojs/CommandoJS	5453915	C64 Commando remake in HTML5, implemented with CoffeeScript and MelonJS game engine	JavaScript	5395	19	12	19
+SuperPlay	cdoty/SuperPlay	17879790	Super Play - SNES inspired game engine	C++	63665	19	5	19
+qor	flipcoder/qor	15292870	3D OpenGL Game Engine (C++11 w/ Python scripting)	C++	1551	19	7	19
+lesser-panda	pixelpicosean/lesser-panda	39244999	Module based HTML5 game engine.	JavaScript	5992	19	1	19
+ocelot	geoffb/ocelot	40637475	Minimalist HTML5 2D game engine	JavaScript	230	19	0	19
+Hickory	asivitz/Hickory	22442574	  A practical game engine built in Haskell.	Haskell	39224	19	2	19
+lua-pong	adamwiggins/lua-pong	116168	Very simple example of a game engine written in C and game logic written in Lua.	C	81	19	3	19
+canvas-prime	ashblue/canvas-prime	2469859	A minimal OOP HTML5 game engine that uses extendable classes for its engine and objects without any libraries.	JavaScript	9666	19	4	19
+ImpactJS-Scene-Manager	samgreen/ImpactJS-Scene-Manager	2081758	This is a plugin for the ImpactJS game engine, design to help you more efficiently manage the various scenes within your game.	JavaScript	103	19	3	19
+impact-node	roman01la/impact-node	15500527	Node.js CLI for efficient game development with Impact HTML5 game engine	JavaScript	87	19	1	19
+UnityPSDLayoutTool	GlitchEnzo/UnityPSDLayoutTool	25337673	A tool used to import a Photoshop Documents (.psd files) into the Unity Game Engine. It can import each layer as separate textures, create Unity 4.3+ Sprites laid out in a scene, and generate an entire prefab with the layout.	C#	841	19	8	19
+cage	rlofc/cage	19604099	Cage (Ain't a Game Engine) - write 2D games using plain C	C	1112	19	2	19
+glfw-game-engine	danielunderwood/glfw-game-engine	25042511	Game engine using OpenGL	C++	11578	18	4	18
+Unity3D	huacyang/Unity3D	9794079	2D Shooting game in 3D game engine	JavaScript	232224	18	29	18
+GameCode4	kveratis/GameCode4	9408879	Game Engine Example Framework	null	40584	18	11	18
+pge	C-D-Lewis/pge	25715367	Simple looping game engine for Pebble	C	1085	18	8	18
+CrazyCream	titman/CrazyCream	16170562	CrazyCream use sparrow game engine.	null	4356	18	7	18
+Stratagus	drodin/Stratagus	1234841	A port of Stratagus real-time strategy gaming engine for Android.	C++	188580	18	8	18
+yggdrasil	alucard-dracula/yggdrasil	23277242	a cross platform c++ game engine (currently only the server part)	C++	96784	18	11	18
+turbine	PistonDevelopers/turbine	44633743	A 3D game engine with built-in editor	Rust	564	18	3	18
+BlenderGEResourceKit	mikepan/BlenderGEResourceKit	19087067	A collection of ready-to-use components for the Blender Game Engine	Python	226399	18	9	18
+Blender-Destructability-Editor	scorpion81/Blender-Destructability-Editor	2708800	Define how dynamic destruction of blender objects is handled by the game engine	Python	5767	18	4	18
+sphere	sphere-group/sphere	7567621	The free, open-source multi-platform game engine Sphere, on GitHub!	C++	2940	18	5	18
+PixelizerHX	Beeblerox/PixelizerHX	3863393	HaXe port of Pixelizer game engine	HaXe	1640	18	1	18
+run-on-coal	SDraw/run-on-coal	61806457	Simple and light-weight 3D game engine	C++	17827	18	1	18
+gamekit	Paratron/gamekit	12167559	Minimal, Promise/A based HTML5 canvas game engine	JavaScript	1966	18	1	18
+eve	r-lyeh/eve	17511663	:maple_leaf: ƎVE is a game engine where graphics are low priority. Written in C++11. 	C++	320340	18	1	18
+UnityIntelliSenseDocumentation	drostar/UnityIntelliSenseDocumentation	29755093	XML Documentation that enables Intellisense code hints for the Unity game engine libraries.	Batchfile	1034	18	0	18
+AVA	r-lyeh/AVA	47322041	A tiny 3D game engine in C++, with C and Lua interfaces. Written in 32 random d̶a̶y̶s̶ m̶o̶n̶t̶h̶s̶ years.	Lua	1453	18	1	18
+JavaFX-Game	Tareq-SiSalem/JavaFX-Game	28515148	JavaFx Game - Game Engine	Java	3276	17	9	17
+Phoenix3D_2.0	manyxu/Phoenix3D_2.0	4608292	open source 3d game engine	C++	39004	17	9	17
+OmniEngine.Net	Winterleaf/OmniEngine.Net	24850943	Official repository for the Omni T3D Game Engine	C#	214031	17	14	17
+librgs	ivansafrin/librgs	4115918	Retro game engine	C	426	17	1	17
+SplatJS	SplatJS/SplatJS	16365192	A 2d HTML5 Canvas game engine	JavaScript	477	17	5	17
+DareEngine	BennyQBD/DareEngine	23395495	thebennybox Game Engine for Ludum Dare	Java	11122	17	7	17
+gfx_graphics	PistonDevelopers/gfx_graphics	22761631	A Gfx 2D back-end for the Piston game engine	Rust	636	17	25	17
+Cosmosium	rSimulate/Cosmosium	18680853	:earth_americas: js game engine for space-based games	JavaScript	82577	17	8	17
+zgameeditor	VilleKrumlinde/zgameeditor	40349509	Minimalistic game engine and IDE	Pascal	35892	17	3	17
+sylphis3d	harkal/sylphis3d	12379148	The source code to the Sylphis3D game engine	Python	18456	17	2	17
+JFXGen	carldea/JFXGen	4107446	A simple JavaFX game engine.	Java	200	16	14	16
+parque	mrallen1/parque	20428913	Erlang trading game engine	Erlang	188	16	4	16
+Booty5	mrmop/Booty5	21524946	HTML5 JavaScript game engine that accompanies the Booty5 game editor	JavaScript	15668	16	13	16
+dmz	dmzgroup/dmz	89816	The DMZ Platform is a component bases game engine.	C++	9524	16	11	16
+pylash_engine	yuehaowang/pylash_engine	41961981	A game engine for python	Python	6889	16	2	16
+nimgame	Vladar4/nimgame	4530780	Simple 2D game engine for Nimrod language.	Nimrod	635	16	5	16
+enjine	robertkleffner/enjine	1843310	A basic JavaScript game engine for HTML5 compatible browsers.	JavaScript	285	16	5	16
+engine	whirlibulf/engine	9886753	An Entity-Component-System Javascript game engine	JavaScript	672	16	4	16
+ALPACA	QuinnStephens/ALPACA	2362946	Actionscript LDU Point-And-Click Adventure game engine	ActionScript	2531	16	4	16
+luxinia1	pixeljetstream/luxinia1	21788204	engine source code for the luxinia game engine	C	2073	16	4	16
+KGLT	Kazade/KGLT	2963310	A general purpose game engine. Under rapid development	C++	61735	16	5	16
+planetG.js	SK-Planet-WebTechTeam/planetG.js	25451307	This project contains the commercially-proven HTML5 game engine based on canvas and DOM/GPU for MOBILE devices (Android and iOS)	JavaScript	24489	16	10	16
+FunkEngine-Public	eddietree/FunkEngine-Public	15035148	Funky cross-platform game engine used by Funktronic Labs	C	30719	16	3	16
+verge3	Bananattack/verge3	672506	Verge 3 is a simple 2D game engine, which lets game makers rapidly develop games in Lua or VergeC.	C	75091	16	9	16
+demo-sparrow	jamonholmgren/demo-sparrow	7336963	Attempt at implementing the Sparrow game engine in RubyMotion	Ruby	320	16	2	16
+HTML5MapTiles	jaycrossler/HTML5MapTiles	1120812	A Map Tiling game engine that runs in HTML5 + JavaScript, optimized for mobile browsers	JavaScript	5081	16	4	16
+Samphire	tdavies/Samphire	3381125	2d game engine using ember	ActionScript	400	16	0	16
+uchicago-hvz	kz26/uchicago-hvz	13137628	Official repository for the University of Chicago Humans vs Zombies website and game engine	HTML	3038	16	4	16
+qiciengine-core	qiciengine/qiciengine-core	50761166	A free JavaScript game engine library for making HTML5 games.	JavaScript	32749	16	2	16
+Harry-Potter-Unity	StefanoFiumara/Harry-Potter-Unity	20752080	A rewrite of my forever-project in the Unity game engine, initially written in Flash Actionscript 3.0.	C#	64488	16	5	16
+flaw	quyse/flaw	24906879	FLAW is an experimental game engine in Haskell	C	4768	16	0	16
+bbGGPS	teamblubee/bbGGPS	33465753	This is a Google Play Game Services module for the Godot game engine, written by [blubee](http://blubee.me)	Java	128	16	4	16
+allegory	dradtke/allegory	20972997	An in-progress game engine based on go-allegro.	Go	1252	16	0	16
+xsystem35-nacl	kichikuou/xsystem35-nacl	36594181	Portable Native Client port of the xsystem35 game engine	C	1193	16	0	16
+love-texturepacker	abigpotostew/love-texturepacker	15892627	Custom export for TexturePacker for the LÖVE game engine.	Lua	204	16	1	16
+RUL_Unity	MStadlmeier/RUL_Unity	21434884	A C# library full of useful tools for randomization in games built with the Unity game engine	C#	740	16	1	16
+game-engine-detector	walzer/game-engine-detector	26798100	Automatically detect which game engine is an .apk or .ipa using.	Python	2147	15	13	15
+GrapesGameEngineWeb	LighterTeam/GrapesGameEngineWeb	13491231	GrapesGameEngineWeb	Go	11760	15	18	15
+cyborus-game-engine	CYBORUS/cyborus-game-engine	2662354	CYBORUS Game Engine	C	621	15	4	15
+Samphire-demos	tdavies/Samphire-demos	3381221	Samphire game engine examples	ActionScript	246	15	3	15
+CoreEngine3D	MegaJiXiang/CoreEngine3D	2912815	Cross-platform game engine using OpenGL, OpenAL, etc.	C	23243	15	4	15
+MMO-Framework	RamilGauss/MMO-Framework	15496543	MMO Framework, Game Engine Tornado, for example World of Tanks clone 	C++	81203	15	7	15
+featurea	dmitrykolesnikovich/featurea	64164001	Java 2D game engine for Android and iOS	Java	54169	15	3	15
+trial	Shirakumo/trial	54314855	Yet another Common Lisp game engine	Common Lisp	9305	15	0	15
+ghostie	orthecreedence/ghostie	6608629	A platformer/2D game engine in CL	Common Lisp	1343	15	1	15
+GTGameEngine	mackron/GTGameEngine	3828547	A simple game engine written in C++	C++	102231	15	0	15
+Flume2D	MattTuttle/Flume2D	2527873	A game engine made in Java using libgdx (Currently in alpha state, and probably will remain that way)	Java	6776	15	3	15
+libnpengine-new	FGRE/libnpengine-new	22442326	Free implementation of Nitroplus/5pb. Visual Novel game engine	C++	163	15	1	15
+grass_plugin_4_godot	marcosbitetti/grass_plugin_4_godot	45278748	A plugin to handle huge amount of grass, foliages and other vegetations for Godot Game Engine	GDScript	725	15	2	15
+Nexus	tversteeg/Nexus	6249009	Actionscript 3, GPU accelerated 2D game engine using Stage3D	ActionScript	581	15	1	15
+easel	aduros/easel	628895	A 2D scene graph and game engine for HTML5 (canvas) in haXe. Easel is intended to feel natural to Flash developers.	HaXe	744	15	0	15
+Engen	halogenica/Engen	20717816	Engen is an extremely small (~2000 line) open source C++ 3D game engine specifically designed for cross platform rapid prototyping. It is built on top of the Cinder creative coding framework (libcinder.org), and targets Windows, Mac OSX and iOS.	C++	11716	15	2	15
+game_service_system	limingfan2016/game_service_system	60439262	base lib, connect lib, db operator lib, develop frame, and game engine, game frame game service system! 从0开始开发 基础库（配置文件读写、日志、多线程、多进程、锁、对象引用计数、内存池、免锁消息队列、免锁数据缓冲区、进程信号、共享内存、定时器等等基础功能组件），网络库（socket、TCP、UDP、epoll机制、连接自动收发消息等等），数据库操作库（mysql，redis、memcache API 封装可直接调用），开发框架库（消息调度处理、自动连接管理、服务开发、游戏框架、服务间消息收发、消息通信等等），消息中间件服务（不同网络节点间自动传递收发消息）等多个功能组件、服务，最后完成一套完整的服务器引擎，基于该框架引擎可开发任意的网络服务。	C++	200	15	7	15
+Javascript-Game-Engine	explodecode/Javascript-Game-Engine	1151212	This is a copy of Jacob Seidelin's Ray Casting engine in Javascript, DOM and Canvas	JavaScript	163	14	3	14
+Game-Engine-Testbed	merlinblack/Game-Engine-Testbed	494712	Simple game engine for testing ideas and techniques.  Uses Ogre3d 1.7+, Lua 5.2 and LuaBridge 2.0	C	6402	14	2	14
+Wasabi	Hasan-Jawaheri/Wasabi	58489642	Wasabi Vulkan Game Engine	HTML	161626	14	6	14
+ViCE	aspidites/ViCE	3343146	Virtual Card Game Engine	Python	16955	14	5	14
+Excite-Bike3D	ManojkumarMuralidharan/Excite-Bike3D	4120349	A android based excite bike3D game developed using Unity3D game Engine	C#	431259	14	11	14
+Fluff.js	BonsaiDen/Fluff.js	1077733	2D Game Engine using OpenGL and V8.	C++	126	14	2	14
+monwarp	monteslu/monwarp	2412450	A simple game engine using HTML5, Javascript and dojo	JavaScript	303	14	3	14
+AudioSpectrumGDX	gtomee/AudioSpectrumGDX	5216231	An audio spectrum visualizer using libGDX game engine	Java	3295	14	5	14
+Saurobyte	Symphonym/Saurobyte	17995418	Saurobyte - 3D Game engine	C++	49184	14	1	14
+BatchEngine	vova616/BatchEngine	14570647	2D Game Engine in D.	D	2574	14	1	14
+spice	crockeo/spice	23037050	An FRP-based game engine written in Haskell.	Haskell	508	14	1	14
+evangel-playerio	prsolucoes/evangel-playerio	920213	Flash MMO game engine made with AS3, Flashpunk and PlayerIO	ActionScript	4113	14	0	14
+Xenon	OldTimes-Software/Xenon	14602233	Xenon is an open-source game engine based on FitzQuake, with heavy modifications that fix several existing bugs and introduce new features.	C++	150070	14	3	14
+LuPng	jansol/LuPng	28300105	A small PNG decoder/encoder lib extracted from my game engine, Lunacy.	C	263	14	1	14
+ColouredCardDraftingGameEngine	jdgordon/ColouredCardDraftingGameEngine	28772925	Python implementation of 7 wonders base game	Python	170	13	5	13
+turso3d	cadaver/turso3d	32465423	Experimental 3D / game engine	C++	3765	13	4	13
+opengl_graphics	PistonDevelopers/opengl_graphics	21222277	An OpenGL 2D back-end for the Piston game engine	Rust	709	13	31	13
+Ai-Game-Engine	sorakun/Ai-Game-Engine	25260425	愛 - Ai Game Engine	Lua	14112	13	1	13
+elation-engine	jbaicoianu/elation-engine	8278185	Elation Javascript Game Engine	JavaScript	5770	13	2	13
+axonengine	huangdonghai/axonengine	284181	a 3d game engine	C++	5428	13	3	13
+Iris-2D-Project	yuwenhuisama/Iris-2D-Project	21618798	A quick and high quality 2D game engine aimed at happily game creating.	C++	136647	13	5	13
+leadwerks-blender-exporter	alrusdi/leadwerks-blender-exporter	19266734	Exporter for geometry, materaials, textures, skeletal animations from Blender to Leadwerks game engine	Python	620	13	7	13
+EntityAsteroids	iainlobb/EntityAsteroids	6154602	Simple, open source entity-based game engine with example space shooter game	ActionScript	172	13	8	13
+noa	andyhall/noa	30635278	Experimental voxel game engine.	JavaScript	1229	13	1	13
+WickedEngine	turanszkij/WickedEngine	37770961	DirectX11-based game engine using deferred rendering, written in C++, featuring Lua scripting.	C++	6140	13	6	13
+odin	schell/odin	43987183	An ongoing zyghost.com series about writing a game/engine in Haskell  	Haskell	8304	13	3	13
+ezEngine	ezEngine/ezEngine	18179848	An open source game engine in early development	C++	14343	13	2	13
+beatfever	Sulunia/beatfever	56174680	An open-source reimplementation of the osu! "game engine" in Lua/Love2d	Lua	854	13	2	13
+rogue	mdlawson/rogue	4406009	Coffeescript game engine, currently in development	JavaScript	894	13	1	13
+rust-snake	bvssvni/rust-snake	18951152	Sea Snake Escape: A sea snake game in Rust using Piston game engine	Rust	3106	13	2	13
+purescript-sigment	ptol/purescript-sigment	56703472	A simple game-engine/ui library	PureScript	12	13	1	13
+BlenderCave	jgascon/BlenderCave	1975155	Blender Cave are some extensions to run Blender Game Engine in a multiscreen system (CAVE)	Python	70515	13	2	13
+libnpengine	FGRE/libnpengine	13629264	Free implementation of Nitroplus Visual Novel game engine	C++	2268	13	0	13
+dismae	Dischan/dismae	55736263	Game engine built on phaser.io and electron.	JavaScript	2780	13	2	13
+TexasHoldemGameEngine	NikolayIT/TexasHoldemGameEngine	44322096	Texas Hold 'em Poker Game Engine	C#	300	12	12	12
+sdl2_window	PistonDevelopers/sdl2_window	21223001	A SDL2 back-end for the Piston game engine	Rust	237	12	33	12
+NeoEditor	Sponk/NeoEditor	18988059	Neo Editor and game engine	C	238670	12	5	12
+flatredball-js	joelmartinez/flatredball-js	7121757	An HTML5/JavaScript Game Engine	JavaScript	4800	12	4	12
+game_engine.vim	rbtnn/game_engine.vim	22604347	This is Game Engine for Vim script.	VimL	31	12	1	12
+Magnetite	danhedron/Magnetite	1708010	An open source voxel game engine.	C++	3504	12	4	12
+Skybox	tparisi/Skybox	3611594	A Game Engine for WebGL/Three.js	JavaScript	58155	12	6	12
+reactor-v1	reisergames/reactor-v1	1038920	Reactor 3D Game Engine Repository	C#	32936	12	3	12
+minetest_next	BlockMen/minetest_next	18770036	An improved game for the Minetest game engine	Lua	4354	12	4	12
+Whisperwind	harr999y/Whisperwind	4048736	Game Engine + Gameplay + Game Develop Tools	C++	16620	12	4	12
+tge	eigenl/tge	22310647	Text Game Engine	C++	20524	12	0	12
+openfight	nonameentername/openfight	1857772	open source fighting game engine written in c++ using sdl.	C++	3637	12	6	12
+tusk	BlazingMammothGames/tusk	44205618	My personal game engine	Haxe	6106	12	0	12
+jake2	mbien/jake2	705963	Jake2 is a port of the Quake2 game engine to java.	Java	19460	12	4	12
+Ranger-Dart	wdevore/Ranger-Dart	24431912	Game engine written in Dart	Dart	7624	12	2	12
+godot_behavior_tree	quabug/godot_behavior_tree	27067334	behavior tree module for godot game engine	C++	459	12	2	12
+rpgtest	cdqwertz/rpgtest	48844953	rpgtest is a mmorpg for the minetest game engine! It is an voxel basd game. There are different skills, monsters...	Logos	1364	12	8	12
+Artemis-Engine	ArtemisEngine/Artemis-Engine	44479210	Artemis is a group dedicated to developing the Artemis Game Engine for C# 4.5+ and MonoGame.	C#	20429	12	4	12
+gameblocks.js	shazow/gameblocks.js	2206817	Game engine framework for JavaScript, used to make LineRage.	JavaScript	369	12	2	12
+Unity-Raytracer	BenjaminSchaaf/Unity-Raytracer	8967993	A Raytraced Renderer, programmed in Javascript for the Unity3d Game Engine. Additions are welcome	JavaScript	116	12	4	12
+Shkadov	jkolb/Shkadov	41226342	A multi-platform Swift game engine	Swift	336	12	0	12
+kge	kochol/kge	4322408	Kochol Game Engine(KGE) is going to be a complete game engine that has flexible design which uses Plugins, Components and .... You can create games for windows, linux ,web and android devices with this engine.	C	15062	12	5	12
+Plum	Bananattack/Plum	227905	A free 2D game engine with Lua scripting, designed with rapid prototyping in mind.	C	82001	12	2	12
+Cloister-Engine	Morgawr/Cloister-Engine	15004256	Fully concurrent and multithreaded game engine for Clojure/JVM	Clojure	912	12	0	12
+inception-engine	fasterthanlime/inception-engine	577849	flexible game engine in ooc, with an ingame console to adjust everything in realtime	ooc	29606	12	2	12
+finn-engine	darithorn/finn-engine	37750077	A 2D game engine written in C embedded with Lua	C	129	12	0	12
+ie3D	codeoneclick/ie3D	9913979	OSX / iOS 3d game engine based on OGL ES 2.0, OGL CP 3.2	C++	255811	12	0	12
+ArkGameFrame	ArkGame/ArkGameFrame	65961170	A fast, scalable, distributed game server framework for C++, include actor library, network library,can be used as a real time multiplayer game engine ( MMO RPG ), which support Lua script and Unity3d client. Plan to support UE4, Cocos2dx client.	C++	10698	12	4	12
+MagEngine	TongTungGiang/MagEngine	53050605	Mag Engine is a game engine which is primarily developed for Linux operating system. It is based on the OGRE3D graphic engine.	C++	20444	12	2	12
+Mezzanine	BlackToppStudios/Mezzanine	2908531	A game engine that supports high performance 3d graphics physics and sound	C++	1707997	12	1	12
+PixelStab-ASCII-Engine	bitnenfer/PixelStab-ASCII-Engine	13340925	This is not necessary a Game Engine, it's more of a transform-images-to-ascii-kind-of-tool.	JavaScript	252	12	1	12
+3D-Game-Engine-ThinMatrix	Ritsu95/3D-Game-Engine-ThinMatrix	30683125	3D OpenGL Tutorial from ThinMatrix	Java	83916	11	17	11
+cloudrealms-2	roncodes/cloudrealms-2	4090404	a web based mmorpg game engine	PHP	8770	11	13	11
+GameEngine	Bablawn3d5/GameEngine	48269186	Bablawn3d5 Engine	C++	464	11	0	11
+dabes_engine	hunterbridges/dabes_engine	7546154	An all new game engine!	C	27385	11	5	11
+lua	dmzgroup/lua	804154	Lua binding for DMZ Game Engine	C++	358	11	6	11
+WIP	wubugui/WIP	35766275	This is a little 2D game Engine.	C	4203	11	4	11
+APE	mkdxdx/APE	44175255	Another Particle Editor for LÖVE2D game engine	Lua	271	11	6	11
+Panther	Script47/Panther	9134886	A free game 'engine', with minimal modifications.	PHP	178	11	4	11
+fastbirdEngine	fastbird/fastbirdEngine	22362299	Open source game engine	C++	84191	11	2	11
+developer.playcanvas.com	playcanvas/developer.playcanvas.com	21828621	Developer resources website for PlayCanvas WebGL Game Engine	CSS	130955	11	9	11
+Maratis	dahnielson/Maratis	16486089	Development fork of Maratis editor and game engine	C	14052	11	7	11
+coconut	ryanwilliams/coconut	913933	A 2D game engine built on top of cocos2d-javascript	JavaScript	99	11	5	11
+libgdx-demos	teheria/libgdx-demos	1581115	demos for the libgdx Androuid game engine	Java	19678	11	2	11
+Web-Engine	DrRoach/Web-Engine	41459795	Online game engine	JavaScript	236	11	1	11
+admob-demo-game-phaser	floatinghotpot/admob-demo-game-phaser	37175193	Demo game for Cordova AdMob plugin, using phaser game engine	JavaScript	1363	11	4	11
+openSage	feliwir/openSage	37491094	An opensource implementation for the SAGE engine (Strategy Action Game Engine)	C	477	11	4	11
+Wurfel-Engine	odaymichael/Wurfel-Engine	13226205	An isometric game engine for games with a world made of blocks (like Minecraft). For RPGs, action, strategy, puzzle or adventure games.	Java	97612	11	11	11
+tetris-impact	cmaas/tetris-impact	14890379	A Tetris game that uses the Impact.js game engine written in JavaScript	JavaScript	348	11	4	11
+hl2parse	DHager/hl2parse	1452438	A library for parsing a variety of file-types associated with the Source game engine.	Java	519	11	4	11
+SeriousProton	daid/SeriousProton	20889322	C++ game engine coded on top of SFML from scratch. There will be dragons and undocumented stuff in here.	C	1018	11	9	11
+isoCan	AshKyd/isoCan	781422	Isometric canvas-based game engine.	JavaScript	3026	11	0	11
+grout	zeroshade/grout	21335979	2D Game Engine using Go and SFML	Go	508	11	0	11
+LoD	Tomius/LoD	11847088	A simple OpenGL 2.1 game engine, written in C++.	C++	114400	11	1	11
+RPG	Fekoz/RPG	51515642	JRPG / RPG browser online 2d game Engine / platform with a unique system . Have the creation of the character and account on JavaScript PHP ajax json MYSQL html set of tools for games	JavaScript	47737	11	10	11
+nextgame	nsf/nextgame	24413580	Work-in-progress "voxel" game or game engine.	C	468	11	0	11
+Gem	gmich/Gem	28392030	A cross-platform game engine with GUI and multiplayer support using Monogame, Farseer and Lidgren	C#	10920	11	2	11
+Kampf	benzap/Kampf	1658628	Flexible game engine written in C++, Scripting in Lua	C++	4468	11	0	11
+flockn	flockn/flockn	9177127	:video_game: Leightweight declarative game engine for JavaScript	JavaScript	1145	11	1	11
+BlenderRealtimeEngineAddon	Kupoman/BlenderRealtimeEngineAddon	21977174	An addon to allow external real time engines (e.g. game engines) to use Blender as an editor and allow for closer integration.	Python	85	11	3	11
+Fariy2D	gmmybu/Fariy2D	45467130	Simple 2D Game Engine powered by OpenGL and Lua	C	13000	11	1	11
+ember-theater	affinity-engine/ember-theater	37236191	A modular game engine build with Ember.js	JavaScript	17560	11	1	11
+Annwvyn	Ybalrid/Annwvyn	12203468	Annwvyn Engine is a simple game engine built upon free and open source technologies to easily create applications and games using the Oculus Rift Headset.	C++	168791	11	3	11
+hesperus2	sgolodetz/hesperus2	2330517	A fully-working 3D map editor (in Java) and level compilation toolchain (in C++), and a part-finished 3D game engine (in C++). Early development was done in the hesperus project and ported to CMake to form hesperus2.	C++	114917	11	4	11
+swen	aktowns/swen	48692956	Swift 2d game engine, using SDL for rendering and chipmunk for physics	Swift	179	11	1	11
+hs-helm-samples	agreif/hs-helm-samples	20575723	Example/test games written with the Haskell Helm reactive game engine	Haskell	21	11	0	11
+lv3proj	fgenesis/lv3proj	588584	**superseded by lv3proj_ng** Re-Implementation of "The Lost Vikings" (originally released by Silicon & Synapse for SNES/Amiga/Sega) from scratch, using SDL for multimedia and Falcon as embedded scripting language. Aims to be a feature-rich scriptable 2D game engine somewhere in future.	C++	6048	11	3	11
+Naxasius-Game-Engine	Casmo/Naxasius-Game-Engine	1171571	A CakePHP powered Game Engine to make a browser MMORPG.	PHP	12540	10	7	10
+incremental-game-engine-js	Aldo111/incremental-game-engine-js	28286552	A simple javascript/JQuery library to allow the quick creation, deployment, and expansion of incremental games.	JavaScript	1258	10	8	10
+TurboSphere	FlyingJester/TurboSphere	8960538	TurboSphere Game Engine	C++	56010	10	3	10
+flood	FloodProject/flood	4555061	Flood Game Engine & Runtime	C++	64921	10	6	10
+andengine	hexwave/andengine	1191951	Android 2D Game Engine	Java	5524	10	3	10
+Hydroxide	Poincare/Hydroxide	3417458	Awesome HTML5 game engine	JavaScript	165	10	3	10
+Plausible-Game-Engine	justosophy/Plausible-Game-Engine	51342867	A light-touch educational library for writing HTML5 canvas games in JavaScript	JavaScript	68	10	1	10
+Zelda_BlenderGame	Dynamique-Zak/Zelda_BlenderGame	49572402	A zelda fan made with Blender Game Engine	Python	27599	10	5	10
+gannicus	Advael/gannicus	3587307	Ground-Up Fighting Game Engine in C++	C++	52709	10	7	10
+jspkmnengine	fuz/jspkmnengine	4142699	Javascript PKMN Game Engine	JavaScript	13903	10	1	10
+dadren	dustinlacewell/dadren	49305168	A data-driven game engine for Nim	Nimrod	297	10	2	10
+StarEngine	GlenDC/StarEngine	12966802	Crossplatform C++11 2D Game Engine for Windows and Android games	C	55516	10	10	10
+gengine-old	gogoprog/gengine-old	17628049	Deprecated. A C++ game engine with Lua scripting that supports HTML5	C++	9023	10	5	10
+QuickPool	densylkin/QuickPool	44030460	Simple pooling toolkit for Unity game engine	C#	1575	10	4	10
+CloudBox	cloudhsu/CloudBox	5096433	Cross-platform game engine for iOS/Android/Win32	C	25507	10	4	10
+python-rpg-engine	fpietka/python-rpg-engine	4149264	A RPG game engine written in Python	Python	801	10	4	10
+rokkojs	formigone/rokkojs	6538595	A simple HTML5 game engine written in JavaScript using Google Closure tools	JavaScript	22924	10	5	10
+rainbow	tn0502/rainbow	20939716	Rainbow is a scriptable, cross-platform, 2D game engine written in modern C++. (Bitbucket mirror)	C	10115	10	5	10
+glue	spilgames/glue	14061002	Glue is a JavaScript game engine for making web games that run on desktop and touch devices.	JavaScript	12598	10	5	10
+inanity	quyse/inanity	11123774	Cross-platform C++ game engine.	C++	18584	10	1	10
+sometuke	hadashiA/sometuke	6984944	c++/OpenGL 2D game engine	C++	1960	10	0	10
+Gibbo2DEditor	akadjoker/Gibbo2DEditor	36567084	All In One 2D Game Engine 	C#	37971	10	1	10
+npm_crafty	mucaho/npm_crafty	9117844	Node module that adds networking capabilities to Crafty, a JavaScript game engine.	JavaScript	4832	10	2	10
+enoki	harto/enoki	7588064	Cross-platform Clojure/ClojureScript game engine POC	Clojure	1032	10	0	10
+love-lonelyatoms	jimmytheleaf/love-lonelyatoms	13939284	Game and Game Engine experiments using the Love2d framework	Lua	84788	10	1	10
+seagal	Tommislav/seagal	3529982	simple entity framework/game engine written in haxe	Haxe	488	10	0	10
+gamebase	quietfanatic/gamebase	284644	A Perl 6 based 2D game engine <outdated>	Parrot	235	10	1	10
+SparrowInMotion	siuying/SparrowInMotion	4279995	Demo to use Sparrow Framework - The Open Source Game Engine for iOS - in RubyMotion.	Ruby	1758	10	1	10
+rockbot	protoman/rockbot	41870881	An open-source, SDL based, game engine to replicate old style Rockman (aka Megaman) games, being as close as possible of Rockman 1-6, and an editor made with Qt, for custom graphics, weapons, bosses, enemies and level creation.	C++	58147	10	5	10
+ataxia	xenith-studios/ataxia	749739	A modern game engine written in Rust with embedded Lua scripting for game logic.	Python	634	10	1	10
+impact-steering-behaviors	hurik/impact-steering-behaviors	6807418	This plugin for the Impact Game Engine adds steering behaviors for entities.	JavaScript	221	10	1	10
+prototype	aktau/prototype	11703172	A toy game engine written in C for prototyping and goofing around.	C	8136	10	1	10
+PropellerEngine	LauriM/PropellerEngine	49952388	Open source version of the PropellerEngine. Cross platform C++ game-engine.	C++	22734	10	3	10
+pixelboost	pixelballoon/pixelboost	4067771	A (no longer in development) fully featured portable (iOS/Android/Ouya/OSX/emscripten, partial Windows support) game engine and set of tools	C++	8735	10	2	10
+panda3dstudio	Epihaius/panda3dstudio	48908029	A general-purpose scene editor for the Panda3D open-source game engine	Python	919	10	1	10
+Bezier-Pathways	boneheadmed/Bezier-Pathways	1412740	Contains a bezier pathway plugin for use with Impact Javascript Game Engine as well as a utility for creating the pathways.	JavaScript	196	10	0	10
+deep-game-engine	willwhitney/deep-game-engine	32772277	Learning a game engine by example.	Lua	11735	9	3	9
+SantaseGameEngine	NikolayIT/SantaseGameEngine	33185650	Santase game engine	C#	4691	9	7	9
+Game-Engine-Architecture	nikoladimitroff/Game-Engine-Architecture	48736641	A repo contaning the learning materials for the course 'Game Engine 	null	34233	9	2	9
+C3Engine	linghuye/C3Engine	3884082	C3 Game Engine	C++	24479	9	9	9
+wormwood	swat30/wormwood	131835	A text adventure game engine built in Java	Java	1518	9	6	9
+Schooner-3D	drmercer/Schooner-3D	2952090	A 3D game engine for Android	Java	836	9	4	9
+batterytech	puretekniq/batterytech	33570499	BatteryTech SDK and Game Engine	C++	14869	9	3	9
+head-on.js	powerc9000/head-on.js	4854735	The JavaScript game engine for velociraptors	JavaScript	566	9	4	9
+JimEngine	jp9000/JimEngine	5275890	Jim's Game Engine - NOTE: ancient.	C	8848	9	4	9
+Medusa	fjz13/Medusa	43352735	Cross mobile platform 2D&3D C++ game engine. 	C	209514	9	8	9
+pandam	pandcorps/pandam	32897760	Event-driven 2D game engine for Java/Android	Java	7153	9	6	9
+LikeMagic-GameEngine	dennisferron/LikeMagic-GameEngine	2098901	Game engine bindings for LikeMagic	C++	192359	9	1	9
+planet_wars-cpp	albertz/planet_wars-cpp	905649	Google AI challenge: Planet Wars game engine and co, C++ implementation	C++	272	9	5	9
+ethon	beagleknight/ethon	1122863	HTML5 Game Engine	JavaScript	2336	9	0	9
+Californium	Rohansi/Californium	6801776	Californium is a 2D game engine utilizing C# and SFML.NET.	C#	4761	9	4	9
+CarpMuffin	BetaToast/CarpMuffin	45993845	Game Engine written in Monogame and C#	C#	1798	9	2	9
+werewolf	hjwylde/werewolf	48516740	A game engine for running werewolf in a chat client	Haskell	1180	9	6	9
+HackSlashRPG-BZA	tccundari/HackSlashRPG-BZA	21387931	BurgZurgArcade Unity 3D Tutorial (Font http://www.burgzergarcade.com/hack-slash-rpg-unity3d-game-engine-tutorial)	C#	348196	9	11	9
+cerberus	tycho/cerberus	311591	A game engine by Uplink Laboratories and Ferrous Moon	C	1081	9	5	9
+AmidosEngine	amidos2006/AmidosEngine	25042751	FlashPunk inspired game engine base on Starling	ActionScript	2898	9	3	9
+debrisdodger	turbulenz/debrisdodger	10239828	A simple 2D/3D space-based object avoidance game written as a simple introduction to the Turbulenz HTML5 Game Engine.	JavaScript	4150	9	8	9
+Lucid	JoeyDeVries/Lucid	49721783	A 2D game w/ 3D lighting written on top of a small structured 2D game engine	C++	62065	9	5	9
+luahexed	hexahedronic/luahexed	49775582	Experimental LuaJIT Game Engine	Lua	450	9	0	9
+potion	jansedivy/potion	16488448	HTML5 canvas game engine	JavaScript	2345	9	1	9
+point-frag	bsegovia/point-frag	5122284	Experimentations with distributed tasks for a game engine	C++	19476	9	2	9
+blueshift-engine	kyle-emmerich/blueshift-engine	42741624	High performance C++ game engine in early development	C++	57096	9	2	9
+ChopEngine	Ohmnivore/ChopEngine	41661049	A Haxe cross-platform 3D game engine built on top of Snow	Haxe	9155	9	2	9
+Plasma	GehnShard/Plasma	3312903	Cyan Worlds's Plasma game engine	C++	24133	9	2	9
+emo-framework	team-emo/emo-framework	4096618	emo-framework is an open source 2D game engine for mobiles. Check out the official website for more details.	C	28432	9	4	9
+GameSketchLib	tangentstorm/GameSketchLib	2540399	A flixel-inspired game engine for Processing, plus Newbie Game Developer Lessons.	Java	1289	9	2	9
+baby-engine	city41/baby-engine	24280620	A teeny tiny game engine	JavaScript	224	9	0	9
+yapyg	rkibria/yapyg	19649351	Yet Another Python Game Engine	Python	8532	9	1	9
+openwar	andreas-jonsson/openwar	57234885	Alternative Warcraft: Orcs & Humans game engine.	Go	20195	9	1	9
+machinist	micahjohnston/machinist	388569	A game engine for JavaScript and Canvas games.	JavaScript	120	9	0	9
+dodgem	marco-ponds/dodgem	35683653	A Simple Multiplayer Game, built with Wage Game Engine.	JavaScript	4812	9	0	9
+Undertailor	Xemiru/Undertailor	49041698	A game engine thingy for my personal practice and for the enjoyment of dundertales fans.	Java	16533	9	2	9
+SINRGE2	Shy07/SINRGE2	8970620	SINRGE2 Is Not Ruby Game Engine 2	C++	35295	9	1	9
+D2DGame	WebFreak001/D2DGame	33326098	2D Game Engine for Ludum Dare written in D	D	3441	9	0	9
+Jumper-Examples	Yonaba/Jumper-Examples	6104001	Demos and examples of use for the pathfinding library Jumper with various Lua frameworks and game engines	null	889	9	3	9
+playground	Nelarius/playground	39584270	:rocket: My playground of C++ game engine ideas.	C++	2211	9	0	9
+Lua-RayCast3D	Rinnegatamante/Lua-RayCast3D	48809482	3D Game Engine using RayCasting algorithm for Lua Player Plus	Lua	800	9	0	9
+LibPd4UnityTools	Magicolo/LibPd4UnityTools	24457937	Set of tools to facilitate the communication between LibPd and the Unity game engine.	C#	8376	9	1	9
+Atlantis.js	demonixis/Atlantis.js	7682050	A game engine written in JavaScript with an API close to XNA/MonoGame	JavaScript	13605	9	0	9
+BrightEyes	Henne/BrightEyes	1622614	Game Engine rewrite of "Das schwarze Auge/Nordlandtrilogie" "Realms of Arkania" CRPG	null	372	9	0	9
+Grasshopper	axefrog/Grasshopper	35720612	Grasshopper is a code-first 3D game engine written entirely in C# and .Net.	C#	7327	9	1	9
+EmojiKit	le-doux/EmojiKit	56869525	Make games with emoji! (Mini-library adding EmojiOne emoji support to Luxe game engine)	Haxe	3629	9	0	9
+Fibula	drgomesp/Fibula	58383324	:video_game: A multi-platform 2D game engine built for game developers	C++	2569	9	0	9
+blender-smooth-slides	kiniou/blender-smooth-slides	367491	A set of scripts and templates to transform regular OpenDocument Presentation into sexy presentation with Blender Game Engine.	Python	7770	9	0	9
+Wonder.js	yyc-git/Wonder.js	32294285	3D Html5 Game Engine	JavaScript	95052	8	6	8
+GameEngine	shgli/GameEngine	14523872	pure c++ implemented a library for learning 3d graphic algorithm and game programming.	C++	868	8	2	8
+grit-engine	grit-engine/grit-engine	61582149	Grit Game Engine	C++	38819	8	4	8
+Drystal	kidanger/Drystal	22579518	Lua game engine	C	2805	8	2	8
+batma	renatopp/batma	2457526	Batma 2D Python Game Engine	Python	1495	8	6	8
+brave-rats	thatneat/brave-rats	23097961	Brave Rats game engine	Python	412	8	3	8
+zenilib	bazald/zenilib	4565238	Free Cross-Platform Game Engine	C	27206	8	5	8
+nfengine	nfprojects/nfengine	22732979	Game engine	C++	6718	8	0	8
+KabalaEngine	djkabala/KabalaEngine	638845	Game Engine built using OpenSG and OpenSGToolbox	C++	13182	8	6	8
+libge	dridri/libge	11238333	Fast and easy multiplatform game engine	C	2835	8	3	8
+3DGameEngineCpp_60	BennyQBD/3DGameEngineCpp_60	18524115	The C++ version of the 3D Game Engine, as of the end of the 3D Game Engine Tutorial	C	5179	8	6	8
+plunder	city41/plunder	11083420	An animation system for JavaScript game engines	JavaScript	805	8	4	8
+DeltaEngine.SharpDX	DeltaEngine/DeltaEngine.SharpDX	11204663	Open Source Multiplatform Game Engine, C# SharpDX Version including the Editor	C#	7564	8	8	8
+ymir	rramsden/ymir	5223470	Open source, cross platform, 3D RPG game engine.  	C++	330	8	3	8
+SumoVizUnity	danielbuechele/SumoVizUnity	21145086	Master thesis: Post-visualization of pedestrian simulation data using the Unity game-engine	C#	41704	8	7	8
+FimbulvetrEngine	Fimbulwinter/FimbulvetrEngine	5403795	XNA-inspired game engine built on top of OpenTK	C#	1558	8	5	8
+Spiced	ChaiScript/Spiced	28411719	A simple tile-based game engine backed by ChaiScript	C++	575	8	4	8
+Crafty-joystick	flywithmonkey/Crafty-joystick	3147865	Joystick component for crafty  - javascript game engine.	JavaScript	94	8	4	8
+Iceberg3D	matthewjberger/Iceberg3D	29669570	A cross-platform 3D game engine	C++	156714	8	2	8
+c2048	helgefmi/c2048	17665753	A wicked fast 2048 game engine with AI	C	122	8	4	8
+mehteor	remeh/mehteor	4994749	OpenGL Game engine	C	3516	8	0	8
+OpenGame.exe	avarisc/OpenGame.exe	39553789	A custom Ruby-powered game engine that supports RPG Maker games.	C#	5913	8	4	8
+OpenEngine	korslund/OpenEngine	756183	OpenEngine is a bunch of reusable game engine components gathered from the OpenMW project	C++	130	8	6	8
+n3d-gamecore	joates/n3d-gamecore	12086115	3D WebGL Multi-Player Game Engine (Node.js / Three.js / HTML5)	JavaScript	679	8	3	8
+Novus-Engine	LeifNode/Novus-Engine	29503674	A 3D game engine	C	22030	8	1	8
+knoopvszombies	mikeknoop/knoopvszombies	8892811	Public repository for the source code that runs the Knoop vs. Zombies HvZ Game Engine. View a running version of this engine at http://muzombies.org	PHP	6090	8	9	8
+psykick2d	MCluck90/psykick2d	8975903	An HTML5 game engine. Built as an entity-component framework.	JavaScript	1568	8	3	8
+BabyBox	VirtualMaestro/BabyBox	10123298	BabyBox Engine - component based game engine	ActionScript	4216	8	0	8
+Cadventure-txt	tech-no-crat/Cadventure-txt	3410622	Simple text adventure game engine	C	100	8	0	8
+bbAdmob	teamblubee/bbAdmob	32975554	This is a Google Play Services module for the Godot game engine, written by [blubee](http://blubee.me)	Java	167	8	7	8
+asciiD	MarcoWorms/asciiD	49982161	An HTML5 ASCII game engine built with love and ES6	JavaScript	34	8	2	8
+sbt-scage-plugin	mvallerie/sbt-scage-plugin	12658611	Simple SBT plugin designed to integrate Scage (Scala Game Engine)	Scala	463	8	2	8
+NeroEngine	nerososft/NeroEngine	59755052	a 2d game engine with opengl	C++	12726	8	0	8
+OPengine	TeamOPifex/OPengine	27466078	Cross Platform C/++ Video Game Engine	C	368770	8	1	8
+xna.geek.engine	impworks/xna.geek.engine	7482316	A 2D game engine for Windows Phone 7.	null	172	8	0	8
+BGEAssets	ccbytes/BGEAssets	60386655	Collection of assets for Blender Game Engine	null	6530	8	0	8
+TAGE	MagnusRunesson/TAGE	47079020	Tiny Arcade Game Engine (T.A.G.E)	C++	16893	8	1	8
+mamau_chartboost	beocat/mamau_chartboost	56542083	Chartboost for Godot Game Engine - Android & iOS	Java	13	8	1	8
+dr_ge	mackron/dr_ge	46201065	An ultra light-weight game engine written in C.	C	1761	8	1	8
+Flax	longyangxi/Flax	32390434	Html5 game engine withe flash base toolset	JavaScript	363	8	2	8
+PenjinTwo	pokeparadox/PenjinTwo	1817405	A Game Engine framework, written in C++ with intent to be portable.	C++	778	8	2	8
+bloodyhell	dawee/bloodyhell	5109650	A Game engine based on Box2D and PyGame	Python	1276	8	0	8
+Mage	marco-ponds/Mage	23678719	This is Mage, a 3D Game Engine, entirely written in Javascript, built on top of THREE.js and other marvellous works from marvellous people.	JavaScript	7647	8	3	8
+Jopnal	Jopnal/Jopnal	49629809	Simple component based 2D/3D game engine for Windows & Android	C++	685145	8	0	8
+BoxOutline	nefD/BoxOutline	1264970	Collision box rendering module for the Impact JS game engine.	null	82	8	0	8
+Warlocks	H3LLB0Y/Warlocks	3188759	Remake of Warlocks WC3 custom Map using Panda3D game engine	Python	22290	8	1	8
+coronal	alaingalvan/coronal	54208279	☀️ A WIP TypeScript ES2016 Game Engine inspired by React and Unity	TypeScript	19	8	0	8
+panda.js-sequencer	blaspix/panda.js-sequencer	17517876	Panda.js Sequencer is a plugin for Panda.js HTML5 game engine.	JavaScript	2604	8	0	8
+euclid	SirEelBiscuits/euclid	47413755	Game engine using a mix of old and new technology	C++	21672	8	0	8
+notes	sanctuary/notes	39505228	Notes related to the inner workings of the Diablo 1 game engine.	Shell	270	8	1	8
+Symbols	boneheadmed/Symbols	1542627	A way to approximate Ruby type symbols in the Impact game engine (http://impactjs.com/).	JavaScript	100	8	1	8
+Azure--Infinite-Skies	hubertgrzeskowiak/Azure--Infinite-Skies	669886	WARNING: This project is abandoned for unlimited time.     Azure: infinite skies is a realtime 3D flight simulation game containing parts from action and RPG genres. It's written in Python and based on Panda3d as game engine.	Python	20591	8	2	8
+ParticleEditor	V-Play/ParticleEditor	15937020	This is the source code of Particle Editor for Cocos2d and V-Play which is available for free in all stores - http://v-play.net/2013/01/v-play-particle-editor/. Particle Editor for Cocos2d and V-Play is an open source particle editor made with V-Play Game Engine available for free on http://v-play.net/. The application runs with V-Play on iOS, Android, BlackBerry, Symbian and on all desktop platforms.	QML	4949	8	5	8
+ubonsai	enlight/ubonsai	17464514	A simple C# behaviour tree library with a node based custom editor for the Unity game engine, all licensed under the MIT license.	C#	277	8	0	8
+GameEngine	ZuzuStudio/GameEngine	18257576	legendary physics and graphics engine write on D	D	3838	7	3	7
+BelotGameEngine	NikolayIT/BelotGameEngine	8382361	Belot card game engine	C#	1260	7	7	7
+text-game-engine	zhiqiao/text-game-engine	11182532	Text-based game engine in Python.	Python	173	7	2	7
+dmz	tongli/dmz	104635	Game Engine	C	3358	7	2	7
+GameEngine	ileben/GameEngine	911605	is what it is	C++	4880	7	0	7
+GameProject	ylmbtm/GameProject	20583321	A MMOG Game Engine	C	13196	7	4	7
+glium_graphics	PistonDevelopers/glium_graphics	30297582	A Glium 2D back-end for the Piston game engine	Rust	224	7	9	7
+Helios	jgh-/Helios	3003640	[C++] Game Engine Development	C++	21168	7	4	7
+mruby-game-engine-example	ruby-rcade/mruby-game-engine-example	14244027	An example of a basic game engine using mruby	C	178	7	1	7
+game_engine_elixir_phoenix	archdragon/game_engine_elixir_phoenix	61740019	Browser game engine written in Elixir and Phoenix	C	89617	7	0	7
+3d-adventure-game-engine	lowlevel86/3d-adventure-game-engine	38078746	A minimalistic super mario 64 like 3d game engine written in C.	C	827	7	1	7
+call	fumieval/call	24135741	Not an insufficient game engine	Haskell	5324	7	2	7
+UniEngine	mdziekon/UniEngine	11523605	OGame-like browser based Game Engine	PHP	10854	7	2	7
+Wolf.Engine	PooyaEimandar/Wolf.Engine	25995795	Wolf Game Engine	HTML	248595	7	1	7
+Darkmatter	mattrubin/Darkmatter	1199180	OpenGL-based game engine in ObjC	Objective-C	179	7	2	7
+Tower-Defense-Bagual	lvian/Tower-Defense-Bagual	3583591	Tower defense utilizando Unity3D game engine para fins didáticos	C#	53582	7	5	7
+FlaTWorld	Hachitus/FlaTWorld	49157990	2D strategy game engine for browsers	JavaScript	4307	7	3	7
+HTML5GameTutorial	cykod/HTML5GameTutorial	10008070	A 9-in-1 Game Tutorial for the Quintus HTML5 Game Engine	CSS	1471	7	6	7
+oolong	yellowstonemay/oolong	148449	iPhone game engine	C	10536	7	1	7
+Directus3D	PanosK92/Directus3D	61415047	Directus3D Game Engine	C++	28317	7	1	7
+tank	tank-dev/tank	10436458	A 2D C++ game engine taking inspiration from FlashPunk	C++	10087	7	3	7
+LOVC	d3n4/LOVC	25864048	OpenSource Isometric Game Engine Like a Habbo	JavaScript	4000	7	2	7
+federation	Aethaeryn/federation	2291583	A strategy game engine.	Python	844	7	0	7
+gestalt	MovingBlocks/gestalt	31587091	A family of libraries providing a variety of core capabilities for use by games and game engines.	Java	831	7	8	7
+Farkle	BangorDevelopers/Farkle	4364760	A game engine for the Farkle dice for manual play, automated play and an API for extensibility.	JavaScript	2008	7	6	7
+Platformy	Lafolie/Platformy	5506189	A platformer game engine.	Lua	664	7	1	7
+hybridJs	nilsroeder/hybridJs	1142697	javascript html5 game engine	JavaScript	16983	7	1	7
+pong-box2d	bestander/pong-box2d	7033175	Pong game engine for Node.js and Browsers	JavaScript	228	7	2	7
+ImpactJS.tmbundle	drhayes/ImpactJS.tmbundle	1769587	A TextMate bundle for the ImpactJS JavaScript game engine.	Python	416	7	2	7
+noa-testbed	andyhall/noa-testbed	30635581	Test world for voxel game engine.	JavaScript	1204	7	1	7
+jogex	Simsilica/jogex	27023465	Java library for handling Open Game Engine Exchange (ogex) files.	Java	392	7	2	7
+atomic	insxne/atomic	42692410	A tiny 2D game engine	JavaScript	8	7	0	7
+UrchinEngine	petitg1987/UrchinEngine	34339716	Game engine library: 3D, Physics, Sound, IA, Map Editor	C++	81805	7	3	7
+Module	AaronPerl/Module	28657831	The Module Game Engine, a game engine that focuses on modularity and interchangeability through the use of generic interfaces	C++	47549	7	2	7
+Phaser-game	cattsmall/Phaser-game	18254272	Templates & experiments with an HTML5 game engine.	JavaScript	2090	7	1	7
+UnityGridFramework	yasirkula/UnityGridFramework	31652266	Open source Grid Framework for creating grid-based levels easily in Unity3D game engine	C#	216	7	2	7
+BGERTPS	enjalot/BGERTPS	1043111	Blender modified to put the Real-Time Particle System library in the Game Engine	C	140309	7	2	7
+swarm-war	SeanHayes/swarm-war	2188837	A Facebook game engine written with Django.	Python	168	7	1	7
+primojs	robashton/primojs	7604327	The component-oriented 2D HTML5 Canvas game engine	JavaScript	264	7	0	7
+DromeEngine	joshb/DromeEngine	2358195	A 3D game engine that's written in C++ and uses OpenGL for graphics rendering.	C++	1048	7	2	7
+moonscript-love	leafo/moonscript-love	2214283	LÖVE game engine with baked in moonscript support	C	1728	7	0	7
+openzone	ducakar/openzone	150932	Simple cross-platform FPS/RTS game engine.	C++	12186	7	1	7
+GameStartr	FullScreenShenanigans/GameStartr	31838398	GameStartr is a TypeScript game engine used as a base for creating sprite-based 2D games, particularly retro remakes such as FullScreenPokemon.	TypeScript	545	7	2	7
+paunch	velovix/paunch	14508201	Paunch is a 2D game engine written in Go.	Go	744	7	0	7
+gauge	SaxonDouglass/gauge	3955560	A 2D Lua game engine built on top of Love2D.	Lua	79241	7	1	7
+jarsmith	chrisinajar/jarsmith	3685164	An OpenGL game engine written in node using the jQuery API.	JavaScript	424	7	0	7
+threedo	ajveach/threedo	29271606	A wrapper game engine for the three.js library	JavaScript	10204	7	1	7
+DeltaEngine.OpenTK	DeltaEngine/DeltaEngine.OpenTK	17439489	Open Source Multiplatform Game Engine, C# OpenTK Version including the Editor, for details see http://DeltaEngine.net	C#	42156	7	2	7
+ProtoGLGameEngine	AlexanderDzhoganov/ProtoGLGameEngine	2014825	An OpenGL-based deferred renderer and a simple game engine	null	160	7	0	7
+x2d	godexsoft/x2d	3958117	x2d - crossplatform 2d game engine written in modern c++	C++	17652	7	0	7
+Arduinity	uclagamelab/Arduinity	5592191	Need an Arudino to talk to Unity game engine? or Unity to speak with an Arduino? Arduinity is a flexible, lightweight set of Unity scripts and Arduino code.	C#	153	7	3	7
+RunJumpShoot	MichaelReiter/RunJumpShoot	51017150	A 2D platform/shooter game written in CoffeeScript with the Phaser game engine	CoffeeScript	1167	7	0	7
+Fundament	tejon/Fundament	38084490	Haskell game engine powered by SDL2 and Reflex FRP.	Haskell	152	7	0	7
+FreeRadical	grepwood/FreeRadical	17365733	FreeRadical is a free software game engine hoping to accurately immitate that of Fallout 2 and 1	C	3137	7	1	7
+EdgeGraph	famerij/EdgeGraph	49828846	Project for bachelor's thesis "Procedural City Generation Tool With Unity Game Engine" by Henri Viitanen	C#	77	7	0	7
+oscillator	boneheadmed/oscillator	1617464	A plugin for the Impact Javascript Game Engine (http://impactjs.com/) which allows for oscillation between two different time phases.	JavaScript	92	7	0	7
+SFPC	kenhilf/SFPC	24079645	A strategy RPG game engine for Windows PCs written in C++, inspired by the Shining series of games for the Genesis.	C++	17432	7	0	7
+ColdWarSubSim	Nsomnia/ColdWarSubSim	30624694	A indie game based on post-WWII submarine simulation. Basically Silent Hunter 6, since UbiSoft no longer supports it, and there are no modern cold war subsims. Blender is used for model work and Unreal Engine 4 is the game engine, code is mostly Blueprint and C++. DLC's and modding are confirmed features.	C#	1807988	7	4	7
+hook-any-text	MX-Futhark/hook-any-text	40430084	The goal of this project is to provide an alternative to well established text hookers, whose features are restrained to a certain number of game engines and emulators.	Java	9266	7	0	7
+checkers-js	polgfred/checkers-js	1551206	Checker Player in Pure HTML5+CSS3+ES5. No fancy build processes, just a rules engine, and a simple game engine written using Dojo Drag and Drop.	JavaScript	280	7	1	7
+FasterGameEngine	donnki/FasterGameEngine	37353848	Simple Game Architecture implemetation. 	Lua	690	6	5	6
+Element-Games-Engine	palodequeso/Element-Games-Engine	2532314	[DEPRECATED] Working on https://github.com/palodequeso/DeepSpaceEngine instead	Logos	241969	6	2	6
+fireball	colin3dmax/fireball	34349657	Fireball is a html5 game engine for the future.	HTML	2122	6	44	6
+game-engine	nefarioustim/game-engine	4234476	Basic 2D JavaScript and Canvas game engine.	JavaScript	308	6	0	6
+BeuthGE	qsecofr/BeuthGE	1745028	Beuth Game Engine	JavaScript	215	6	3	6
+legionJS	legionJS/legionJS	29218028	JavaScript 2D Game Engine with Multiplayer support	JavaScript	471	6	7	6
+WormyJs	MarcoWorms/WormyJs	42344650	Canvas game engine	JavaScript	22	6	2	6
+medusa	palestar/medusa	59434337	C++ Game Engine	C++	139330	6	3	6
+clover	crafn/clover	22621117	Game engine	C	6116	6	0	6
+lfant	loafofpiecrust/lfant	8059823	Cross-platform C++ OpenGL game engine	C++	204697	6	3	6
+darlingjs-examples	darlingjs/darlingjs-examples	9124322	Examples of usage of Game Engine Darlingjs	JavaScript	19807	6	3	6
+ngin	fo-fo/ngin	31403035	NES Game Engine	Assembly	382	6	0	6
+cocoseditor-java-goldship	makeapp/cocoseditor-java-goldship	23249450	cross platform cocos2d-java game engine demo named goldship to learn	Java	2756	6	8	6
+WrenchMG	SoundAxis/WrenchMG	28163445	2D game engine built on MonoGame	C#	524	6	2	6
+xybox	eirikb/xybox	4207766	Game engine for browser-based games	JavaScript	320	6	2	6
+Dungeon	abreen/Dungeon	9571897	The modern multiplayer text adventure game engine	Java	1739	6	4	6
+generator-crafty	sgmeyer/generator-crafty	13511348	Yoeman.js generator for Crafty.js game engine.	JavaScript	4066	6	3	6
+SnowfeetEngine	Zylann/SnowfeetEngine	26117634	C++ game engine	C	7429	6	0	6
+phantom-light	jorisdormans/phantom-light	3762820	A light version of the component based game engine Phantom	ActionScript	754	6	5	6
+imm_engine	endrollex/imm_engine	34700114	immature engine, a small 3D game engine with poor features	C++	1341	6	8	6
+Agar.io-Unity	WillchillDev/Agar.io-Unity	40393134	A port of the web game Agar.io into the Unity game engine.	C#	86436	6	6	6
+ahi	geoffb/ahi	44330799	HTML5 canvas game engine	JavaScript	26	6	0	6
+YEngine2D	yyc-git/YEngine2D	26397330	2D HTML5 Game Engine	JavaScript	11075	6	1	6
+gdx-entity	stickyd/gdx-entity	10292403	Entity/component-based game engine built on top of libgdx	Java	13903	6	3	6
+NNEngine	kciter/NNEngine	16797021	NHN NEXT Game Engine	C++	2475	6	0	6
+Kaya	imdreamrunner/Kaya	9145951	An HTML5 Game Engine.	JavaScript	2262	6	0	6
+Ludus	StrangeZak/Ludus	61752779	A handmade game engine. 	C	1061	6	1	6
+Godot-games	Qwertie-/Godot-games	22308473	Some games made with the godot game engine	GDScript	467	6	2	6
+tiledgameengine	elvariongh/tiledgameengine	31017854	Tiled Game Engine working code	JavaScript	4160	6	1	6
+Fiber2D	s1ddok/Fiber2D	64130937	(WIP) Swift 2D Game Engine	Objective-C	504	6	0	6
+OryxEngine	RileyA/OryxEngine	1377055	An open source game engine.	C++	636	6	2	6
+WurfelEngineSDK	BSVogler/WurfelEngineSDK	36551934	An isometric game engine for games with an open world made of blocks or voxels.	Java	42027	6	5	6
+questgame	danigm/questgame	4157108	python pygame quest game engine	Python	778	6	1	6
+EngineOfLies	engineerOfLies/EngineOfLies	4681735	a 2D game engine with 3D graphics.  Written in C, compiled to a library	C	5523	6	6	6
+godot-exchange	jcs224/godot-exchange	31699156	An asset-sharing community website for the Godot game engine.	HTML	1924	6	2	6
+gamework	Kadoba/gamework	4655928	Gamework is used to control process flow in the LÖVE2d game engine	Lua	162	6	2	6
+rpeg	SodaCookie/rpeg	35856318	Rogue-like game engine for Python, Pygame	Python	72503	6	0	6
+APB2D	dparnane/APB2D	711714	(ABANDONED) A WIP 2D game engine in C++/SDL targeting Maemo 5 platform	C++	232	6	2	6
+Jikpoze	BlueBearGaming/Jikpoze	18147035	Dart game engine based on StageXL	JavaScript	7996	6	0	6
+coffee-cards	jazzychad/coffee-cards	3003658	Card game engine written in coffee-script	CoffeeScript	92	6	0	6
+go-whiskey	momchil-atanasov/go-whiskey	27186274	A game engine written in Go	Go	568	6	0	6
+AtomicPlayground	shaddockh/AtomicPlayground	38787686	Various experiments with the Atomic Game Engine	JavaScript	6052	6	1	6
+Camira	kimar/Camira	48021145	An iOS text adventure game engine, inspired by Lifeline and co.	Swift	229	6	2	6
+MilkShake-old	lucas-jones/MilkShake-old	3848721	XNA Game Engine - Node based, Lua Scripting, Farseer Physics, Krypton Lighting	C#	5130	6	2	6
+Diggler	ElementW/Diggler	48914029	A game engine for cube games	C	1625	6	0	6
+myou-engine	myou-engine/myou-engine	50506001	Myou is a game engine for web, it features an editor based on Blender	JavaScript	78327	6	2	6
+Dogwood	gnleece/Dogwood	13022410	An OpenGL game engine in C++	C	3159	6	1	6
+ShiVa-Proof-Of-Concept	error454/ShiVa-Proof-Of-Concept	4532059	Various small proof of concept projects for the ShiVa game engine	C	22298	6	3	6
+EoAEngine	erikhazzard/EoAEngine	580670	End of Ages Browser Game Engine	JavaScript	1824	6	1	6
+VideahEngine	VideahGams/VideahEngine	30030679	Personal game engine written in Lua	Lua	16865	6	0	6
+dieselisation	jdhuntington/dieselisation	188173	An 18xx game engine in Rails	Ruby	7964	6	0	6
+engine-alpha	engine-alpha/engine-alpha	12642858	Eine anfängerorientierte 2D-Game-Engine in deutscher Sprache. Ihr Hauptzweck ist es, Begeisterung für Programmierung und Informatik durch schnelle, sichtbare und starke Erfolge zu entwickeln.	Java	10655	6	4	6
+BBModule	VirtualMaestro/BBModule	10381821	Modular system. Used in game engine	ActionScript	252	6	0	6
+EncoXD	Naronco/EncoXD	27400007	EncoX game engine written in D	D	19826	6	0	6
+arcadia	scotchfield/arcadia	20768890	An open web-based game engine	PHP	1248	6	0	6
+X3D-68k	catastropher/X3D-68k	31213231	A 3D portal-rendering game engine for the TI68k graphing calculators (TI92+/TI89/Voyage 200)	C	7529	6	1	6
+WaterSplash	laverneth/WaterSplash	37221795	Water splash node 2D for Godot game engine	C++	184	6	0	6
+FostomEngine	NCrashed/FostomEngine	8667749	Voxel based game engine written in D2 programming language.	D	7644	6	0	6
+cobra	montreal91/cobra	19510892	My implementation of classic game using Panda3D game engine	Python	676	6	0	6
+phantom	ludomotion/phantom	6111248	Entity Component based Game Engine for XNA 4.0 (or FNA/MonoGame)	C#	3583	6	1	6
+Kin-Engine	awoitte/Kin-Engine	51623181	Javascript Based Game Engine and Level Editor (Super Pre-Alpha)	JavaScript	80027	6	1	6
+TeazelEngine	unpause/TeazelEngine	62336698	A c++ game engine in honor of the glorious Teazel	C++	88336	6	0	6
+sfml-platformer	dag10/sfml-platformer	10928319	A functional but incomplete SFML-based multiplayer platformer game/engine.	C++	9588	6	0	6
+GDXPunk	bfollington/GDXPunk	10189199	A Game Engine built on libGDX and inspired by Flashpunk	Java	112	6	0	6
+GDXPunk	bfollington/GDXPunk	10189199	A Game Engine built on libGDX and inspired by Flashpunk	Java	112	6	0	6
+spacegameengine	freundlich/spacegameengine	1226768	An easy to use game engine written in C++	C++	64207	6	0	6
+Gut	bitwes/Gut	66168625	Godot Unit Test.  Unit testing tool for Godot Game Engine.  	GDScript	165	6	1	6
+dynosprite	richard42/dynosprite	26670324	Sophisticated video game engine for Tandy Color Computer 3	Assembly	333	6	2	6
+gofission	tedsta/gofission	12769261	A flexible game engine written in Go and based on the entity component system model.	Go	380	6	0	6
+tileset_plugin	puppetmaster-/tileset_plugin	64787253	A plugin for the Godot Game Engine, to help creating/changing tileset scene.	GDScript	63	6	0	6
+NALCG	Meelo/NALCG	550047	Not Another Lousy Chess Game. Highly tested game engine (thanks to TDD), and awesome GUI (thanks to OGRE).	C++	25044	6	0	6
+HotfixEngine	JacobDeming/HotfixEngine	61948210	A JavaScript game engine which allows players to manipulate game data as two AI battle each other.	TypeScript	27374	6	2	6
+grace	BlackBulletIV/grace	1228861	An object-oriented framework for the LÖVE game engine. No longer being worked. See README for details.	Lua	864	6	0	6
+The-Elysian-Engine	ElysianStudios/The-Elysian-Engine	28520405	A 3D game engine with a OpenGL back-end, built around a scalable architecture and performant rendering	Java	9336	6	0	6
+impact-line-of-sight	hurik/impact-line-of-sight	6555150	This plugin for the Impact Game Engine adds line of sight to the collition map, which also can take entities in his calculations!	JavaScript	192	6	0	6
+Teabag	karljacques/Teabag	23244062	So far this is a generic game engine built with Ogre3D, Bullet Physics, SDL and Raknet. It is built around a component system and uses messaging between components. I aim to build a first person shooter with it that draws inspiration from Halo/Call of Duty/Rainbox Six	C++	8007	6	1	6
+zmagic	boneheadmed/zmagic	2484943	A plugin for the Impact javascript game engine (http://impactjs.com/). This plugin extends ig.Game and ig.Entity with functions to directly manipulate the z index. 	JavaScript	89	6	1	6
+DirectX-game-engine	ksideris/DirectX-game-engine	13787363	This is a simple and accessible direct2d game engine for windows 8.1 built for UCLA's CS188 class	C++	83662	5	7	5
+faeris	faeris/faeris	6099418	3d game engine 	C	7235	5	10	5
+ead	e-ucm/ead	14775640	Mokap Platform and ead game engine	Java	222215	5	9	5
+game-engine	fmezas/game-engine	1255608	Game Engine is a clojure implementation of the engine described in the book Killer Game Programming in Java.	Clojure	148	5	1	5
+game-engine	gsingh93/game-engine	38077481	A "toy" game engine written in Rust	Rust	6465	5	0	5
+GameEngine	Drakken-Engine/GameEngine	58575923	Game Engine based on Metal API for iOS, tvOS and OSX	Swift	490	5	1	5
+GameEngine	akoaysigod/GameEngine	49349768	a simple 2D game engine in Metal	Swift	711	5	1	5
+unity-kickstarter-vis	neight-allen/unity-kickstarter-vis	11220854	Visualizing kickstarter using the Unity 3D video game engine	C#	50688	5	11	5
+DT3	smellslikedonkey/DT3	53667897	DT3 Game Engine	C	26590	5	2	5
+ISOMETRIC-HTML5-DIABLO-GAME-ENGINE	xarcis/ISOMETRIC-HTML5-DIABLO-GAME-ENGINE	15023231	HTML% ISOMETRIC Game Engine 	null	22444	5	1	5
+Fluxware-Game-Engine	worldsproject/Fluxware-Game-Engine	915116	The Fluxware Game Engine	Java	96839	5	1	5
+lambda-game-engine	matlux/lambda-game-engine	24035476		Clojure	211	5	1	5
+tiny-game-engine	BasFaggingerAuer/tiny-game-engine	6428407	A small OpenGL game engine.	C++	26319	5	1	5
+BF-Game-Engine	robodylan/BF-Game-Engine	35511398	A Game Engine for Brainf*ck	C#	3290	5	1	5
+game-engine-studies	jlongster/game-engine-studies	6051576	Implementing various game engines in javascript	JavaScript	256	5	0	5
+Generic-Game-Engine	adrigm/Generic-Game-Engine	2449540	Engine generico para juegos 2D	C++	5718	5	1	5
+RaptorGameEngine	ProjectRaptor/RaptorGameEngine	30468630	(DEPRECATED) Game engine allows you to create own MMORPG	null	4834	5	1	5
+as3-platform-game-engine	raohmaru/as3-platform-game-engine	10492194	A simple platform game engine in AS3	ActionScript	380	5	0	5
+HTML5GameEngine	seanyoncraic/HTML5GameEngine	30298219	A simple game engine to use for workshops on HTML5 game development to students from junior high to high school levels.	JavaScript	20902	5	1	5
+TyranEngine	Piot/TyranEngine	4204982	Game Engine	C	2547	5	1	5
+FlappyBird-Quintus	ninemind/FlappyBird-Quintus	17849732	A FlappyBird remake using the Quintus HTML5 gaming engine.	JavaScript	432	5	7	5
+LiteEngine2D	maritim/LiteEngine2D	56192306	Lite 2D Game Engine	C	14194	5	5	5
+crafty-component-progressbar	mucaho/crafty-component-progressbar	8939782	A progress bar component for the CraftyJS HTML5 game engine	JavaScript	28	5	5	5
+CoG2Web3D	felixgers/CoG2Web3D	1820482	Beuth Game Engine	JavaScript	10107	5	1	5
+apsis	wilkie/apsis	3038052	Barebones game engine.	C	16420	5	0	5
+gear	andyreimann/gear	17493522	GEAR Game Engine	C++	161288	5	0	5
+unityusb	dilshan/unityusb	11069408	Custom hardware interface demo for Unity3D game engine	C#	14120	5	4	5
+QuestForAdventure-jEngine	acm-team/QuestForAdventure-jEngine	895278	A Java implementation of the QuestForAdventure text adventure game engine.	Java	103	5	3	5
+cards-against-humanity	evhub/cards-against-humanity	21063429	An extensible cards against humanity game engine.	Python	810	5	2	5
+PointJS	SkanerSoft/PointJS	56900155	HTML5 Game Engine	null	126	5	0	5
+LoomTMX	southpawfishel/LoomTMX	11520526	TMX Parser for Loom Game Engine	LiveScript	665	5	2	5
+perenquen	Nazariglez/perenquen	28099868	HTML5 Game Engine	JavaScript	12060	5	0	5
+matabstrix	meoweg/matabstrix	45370049	3D game engine for web :video_game:	C++	12983	5	2	5
+Voxello2	jmimu/Voxello2	3590561	Voxel-based game engine	C	672	5	0	5
+Zeplin	zumpiez/Zeplin	225499	2d game engine in XNA	C#	896	5	1	5
+ruser	lengshuiyulangcn/ruser	27258375	a ruby novel game engine	Ruby	444	5	1	5
+hate	boj/hate	1817280	Hate - Ruby OpenGL Game Engine	Ruby	126	5	0	5
+euphoria	madeso/euphoria	10412681	data driven game engine	C++	12352	5	0	5
+panda3d-tutorial	fireclawthefox/panda3d-tutorial	44134119	A Tutorial about game creation with the Panda3D game engine	Python	49674	5	2	5
+Synapse	MartinoBR/Synapse	9107315	Parallel Game Engine for java	Java	341	5	1	5
+untech-editor	undisbeliever/untech-editor	57875211	UnTech Game Engine Editor	C++	832	5	1	5
+spurge.js	sfoster/spurge.js	2100500	HTML5 2d Game Engine	JavaScript	19880	5	0	5
+CardGame1	SoapyD/CardGame1	15660947	Corona Game Engine Code	Lua	25316	5	0	5
+engine	baines/engine	5275034	SDL2 + Modern OpenGL game engine	C	2691	5	0	5
+sykosomatic-legacy	zkat/sykosomatic-legacy	35495	text-based online game engine	Common Lisp	810	5	1	5
+SUD	James-Firth/SUD	2550966	Single-User Dungeon, a text-based game engine written in Java	Java	400	5	1	5
+gosu-texture-packer	spajus/gosu-texture-packer	20930421	TexturePacker support for Gosu game engine	Ruby	6128	5	1	5
+mist	delfigamer/mist	45023443	2D game engine inspired by Unreal	C	41915	5	0	5
+Impact-ScaledAlphaHitmask	HeikoR/Impact-ScaledAlphaHitmask	4447295	Hitmask plugin for the ImpactJS game engine	JavaScript	156	5	0	5
+scge	Queatz/scge	1206428	A simple C++ / Python game engine.	C++	661	5	0	5
+min2	Aaron-SP/min2	37162682	Repository for the min() game engine.	C++	2280	5	0	5
+quickgraph4unity	davidgutierrezpalma/quickgraph4unity	21853277	A port of the QuickGraph library to make it work on Unity game engine.	C#	3448	5	4	5
+dirty2d	DoctorB/dirty2d	44960793	Experimental 2D game engine for Kha	Haxe	292	5	0	5
+Flakor	sainthsu/Flakor	17051930	a 2D/3D Game Engine in C++	C	20246	5	1	5
+breeze	BreezeEngine/breeze	52541014	Game engine for competitive multiplayer games	D	1095	5	0	5
+darkcore-c	joseph-montanez/darkcore-c	1799677	2D Game Engine using SDL and OpenGL	C	117	5	1	5
+Luawar	habeascorpse/Luawar	4394437	Game Engine Project Written in 2009	C++	24452	5	0	5
+fathom	sarenji/fathom	2406565	easy-to-use js/coffeescript game engine	CoffeeScript	356	5	0	5
+Phaser-Project-Template-Javascript	funzeye/Phaser-Project-Template-Javascript	28199878	Basic Project Template for The Phaser HTML Game Engine using JavaScript in Visual Studio 2015	JavaScript	30907	5	3	5
+convergame-engine	convergame/convergame-engine	40451794	The Convergame engine is a HTML5 game engine combining web concepts with game development. 	JavaScript	698	5	2	5
+vegan2d	Elleo/vegan2d	20625230	Editor for the Bacon2D game engine	C++	1171	5	0	5
+Blur	BlurEngine/Blur	48878311	Minecraft Game Engine written in Java & Kotlin	Java	383	5	1	5
+ecs	joshforisha/ecs	55724162	Elixir Entity-Component System game engine	Elixir	28	5	0	5
+polar	polar-engine/polar	21123978	Polar Game Engine is a modern, safe game engine written in Haskell.	Haskell	244	5	1	5
+pulse-snake	onmodulus/pulse-snake	4502132	Classic game of Snake built with the Pulse gaming engine.	null	123	5	1	5
+cardboard	Julian/cardboard	2146130	Cardboard is a Magic: The Gathering game engine written in Python.	Python	9536	5	0	5
+isometric_engine	theDazzler/isometric_engine	4102550	Isometric cube game engine. Terrain is procedurally generated	Java	3197	5	1	5
+vamos	geckojsc/vamos	8584840	Component-based 2D game engine written in ooc/sdl2	ooc	365	5	1	5
+ctf_pvp_engine	rubenwardy/ctf_pvp_engine	12162490	A highly modular framework for the Minetest game engine	Lua	2312	5	1	5
+filu	ghthor/filu	17130881	Game engine[s] designed around immutable events and stream processing	Go	6008	5	0	5
+Cobalt-Calibur-2	tlhunter/Cobalt-Calibur-2	3433644	DEFUNCT: PHP/MySQL AJAX Game Engine from 2006	PHP	1200	5	1	5
+WhackAPotato	johnbatty/WhackAPotato	9447834	Loom game engine demo tailored for use with MaKey MaKey	LiveScript	1346	5	2	5
+Procedural-Level-Engine-for-Unity	vicero/Procedural-Level-Engine-for-Unity	3479053	A procedural level generator for the Unity game engine	null	14215	5	0	5
+RPG-Game	Ryuske/RPG-Game	2125364	An RPG made using the Sphere game engine	JavaScript	10484	5	1	5
+deegame	tstieff/deegame	39442872	Game engine template made using D and DGame	D	144	5	1	5
+LL3D	litianqi/LL3D	51923173	A Mini C++/DirectX11 3D Game Engine (Study Project).	C++	72276	5	1	5
+3DEngine	mikhtonyuk/3DEngine	7368120	Fresh take on game engine architecture with modular and extendable core	C++	2371	5	1	5
+suika2	ktabata/suika2	62710838	A Cross-platform Game Engine for Visual Novels	C	73383	5	0	5
+Spectrum	alex-sherman/Spectrum	35848096	A game engine built on Monogame in C#	C#	358	5	0	5
+HarmonyEngine	OvertureGames/HarmonyEngine	24575305	The best 2D cross-platform game engine in C++ (WIP)	C	41024	5	0	5
+kona	andrewberls/kona	5050729	An HTML5 game engine in Coffeescript, for CoffeeScript.	CoffeeScript	26655	5	0	5
+titans	jroyalty/titans	3752557	Open source game engine based on Puppygames' Revenge of the Titans	Java	1536	5	1	5
+icicle	skorezore/icicle	41881835	Pretty much the coolest game engine that doesn't work.	C++	5212	5	0	5
+SimpleBlitter	AdamAtomic/SimpleBlitter	6447687	a very, very, very rudimentary Flash game engine - one page, commented.	ActionScript	97	5	1	5
+aetheria	komoku/aetheria	32210813	Aetheria Game Engine - Migrated from code.google.com/p/aetheria	Java	18962	5	0	5
+SaNi	Babelz/SaNi	36521771	Powerful, user friendly and simple 2D game engine	C++	25275	5	0	5
+Ignatus	tylerc/Ignatus	1602368	A simple, easy to use C++ game engine.	C++	392	5	1	5
+FWD	walski/FWD	196598	A framework on top of Gosu, the ruby gaming engine.	Ruby	88	5	0	5
+BSDL	SheridanR/BSDL	9024100	BSDL is an advanced 3D raycasting game engine written in C	C	3588	5	0	5
+evangel-red5	prsolucoes/evangel-red5	944052	Flash MMO game engine made with AS3, Flashpunk and Red5	ActionScript	8518	5	0	5
+Lollipop	S-V/Lollipop	43964835	My second attempt at a game engine (Lollipop 3D) (2012)	C++	8156	5	0	5
+phinspector	robotron2084/phinspector	60922034	Prefab Hierarchy Inspector for the Unity3D game engine.	C#	38	5	0	5
+opticfoo	faruk/opticfoo	9104272	This is a program about VJing in 3d inside a game engine.	Python	12269	5	1	5
+Trios2D	enjoythelive1/Trios2D	25046398	It is a simple, lightweight HTML5 game engine for the web working over canvas	JavaScript	219	5	1	5
+IntelliMediaCore	IntelliMedia/IntelliMediaCore	50138912	Collection of C# design patterns (MVVM, Repository, Promise, Singleton) and utility classes. The class library is intended to be used in conjunction with Unity 3D game engine projects or Mono-based servers and tools.	C#	1270	5	3	5
+termite	septag/termite	50516026	Lightweight, modular and multiplatform, multiplayer game engine. Without any dependency to renderer and sound system	C++	11582	5	0	5
+snow	nilium/snow	10511461	Snow, a game engine written in C++11 using OpenGL for rendering.	C	2104	5	0	5
+LynxJS	Cosrnos/LynxJS	12528900	A lightweight HTML5 Game engine with WebGL rendering and default Canvas2D Fallback - 	JavaScript	888	5	1	5
+OtherEngine.Core	OtherEngine/OtherEngine.Core	28542491	Core of a very early in-development super-modular ECS game engine	C#	436	5	0	5
+Genesis-Engine	andrewpham/Genesis-Engine	39921173	3D game engine focused on advanced lighting models, physics and particle systems	C++	567291	5	0	5
+pudding3d	growingdever/pudding3d	10377660	Pudding3d is my first cross-platform game engine. This engine's purpose is learning graphics. :)	C++	168	5	0	5
+sonic-engine	jamesj999/sonic-engine	7645949	A Java recreation of the original sonic the hedgehog game engine from the megadrive	Java	8620	5	0	5
+Plethora	Jontte/Plethora	1417478	Plethora is an isometric game engine written in Javascript released under the three-clause BSD.	JavaScript	1599	5	0	5
+AndEngine.net	jamesburton/AndEngine.net	1478307	A port of the AndEngine 2D Game Engine from Java to MonoDroid (C#)	Java	2620	5	1	5
+MojoJojo	ryedin/MojoJojo	394466	An HTML5 Canvas tag based game engine for Palm's WebOS platform	JavaScript	209	5	1	5
+MitchEngine	wobbier/MitchEngine	35710842	The 2D game engine so good it has my name in it.	C++	1226	5	1	5
+fbmake	tdzl2003/fbmake	7441019	Luajit-based build tool. Used by Seed Game Engine & Grit Server Framework.	Lua	224	5	1	5
+tine	robertpage/tine	38631542	A choose your own adventure game engine in the style of Lifeline.	CSS	300	5	1	5
+tempt	iitc/tempt	46529417	Lightweight physics/game engine for collisions and motion in 2d and 3d.	Java	99	5	0	5
+pyngine	aleroddepaz/pyngine	6815714	Minimalist component-based game engine, written in Python, and using the modules OpenGL and Pygame	Python	512	5	0	5
+yeti	origamicomet/yeti	11037488	:snowman: A general-purpose data-driven game engine with tools. Attribution based licensing.	C++	5911	5	0	5
+Dorkbots-Iso	dorkbot/Dorkbots-Iso	14285247	Dorkbots Iso is an isometric game engine based on the gamedev tuts+ tutorial by Juwal Bose	ActionScript	1258	5	3	5
+godot-wrapper	nsrosenqvist/godot-wrapper	28574854	A BASH script that automatically installs the Godot game engine, with system integration and version management, on Ubuntu.	Shell	244	5	0	5
+Connect-Arduino-Due-IMU-to-Unity3D-Over-WIFI-Directly	Quatical/Connect-Arduino-Due-IMU-to-Unity3D-Over-WIFI-Directly	36719197	How to obtain Euler angles from a AltiIMU-10 v4 inside the Unity3D game engine on any platform that has a WIFI connection or access to a wireless router using a TCP stream socket IO connection with no web server.	Arduino	2569	5	4	5
+blenderOSC	sergeLabo/blenderOSC	21489770	Send and receive OSC message in Blender Game Engine with python 3.4,  easily, with examples.	Python	444	5	1	5
+Telekinesis-JS	PixelsCommander/Telekinesis-JS	10888131	JavaScript multiplayer game engine. Using Node.JS for server and any graphic library for client-side.	JavaScript	6012	5	0	5
+YOSS	boneheadmed/YOSS	1299243	Retro Space Shooter in HTML5 and created with the Impact Javascript Game Engine. Try it at http://yoss.tapjs.com/	JavaScript	174	5	1	5
+4kg	andrewrabon/4kg	1650325	(No longer under active development.) An HTML5-based retro platformer based on the Akihabara game engine.	JavaScript	7753	5	2	5
+Bang	sephirot47/Bang	50937721	Bang 3D Game Engine and Editor. Made with C++, OpenGL, and QT for the editor window stuff.	C++	589959	5	0	5
+Titanium-Reindeer	Rybadour/Titanium-Reindeer	2956975	A novel attempt at creating a game engine for the web. Currently targets the canvas tag of HTML 5 for rendering. Written in Haxe and compiles to Javascript. This is not the final product by any means, I'm still working out the kinks!	Haxe	1514	5	2	5
+web-boards	rzymek/web-boards	11843405	Game engine for playing online adaptations of board wargames. Is inspired by VASSAL, but allows play diractly via browser (on desktop or smartphone).	JavaScript	89624	5	0	5
+LusionEngine	ordovician/LusionEngine	185215	Lua 2D Game Engine. Used for making classic 2D games in Lua. Engine itself is written in C++ but has a Lua API for game logic.	C++	651	5	0	5
+ConwayLife3D	psfblair/ConwayLife3D	37627232	A version of John Horton Conway's Game of Life extended to three dimensions, using the Unity game engine with scripts written in F#.	F#	712	5	0	5
+coincidental	parnham/coincidental	793133	A C# wrapper for db4o that provides concurrent-read/single-write access to objects for use in a web-based game engine. It provides automatic transparent persistence without requiring post-build manipulation.	C#	145	5	0	5
+Play-Game-Services-Android-Module-for-Godot	ranmaru90/Play-Game-Services-Android-Module-for-Godot	60445292	Works with Godot's 2.0 / 2.1 BRANCHES ONLY. Features leaderboards and achievements. This is an Android module for the Godot game engine to enable Google Play Services in Android builds.	Java	26	5	0	5
+soft-voxels	johnnyscott/soft-voxels	2305796	Attempt at robust OpenGl ES 2.0 game engine prototype for refactor for Android and iPhone/iPad game development. Runs in webGl enabled browser (chrome, safari, firefox but firefox sucks like everybody knows when it comes to performance)	JavaScript	1876	5	0	5
+Orion-Game-Engine	jcsnider/Orion-Game-Engine	29765508	Simple 2D ORPG game engine written in VB.Net.	Visual Basic	6204	4	13	4
+quantum-python-game-engine	thephoeron/quantum-python-game-engine	13715159	A straightforward object-oriented interactive fiction game engine to demonstrate quantum algorithms for agent-based AI pathfinding and heuristics, powered by D-Wave's Python Pack.	Python	144	4	15	4
+LuaGameEngine	koolhazz/LuaGameEngine	18833923	GameServer Engine by lua	C++	3721	4	3	4
+Lehirti-Game-Engine	Lehirti/Lehirti-Game-Engine	3610872	A simple game/interactive story engine (text and images) written in Java	Java	18455	4	4	4
+OpenGL4.5-GameEngine	ReDEnergy/OpenGL4.5-GameEngine	32180410	3D Game Engine	C++	142206	4	3	4
+hexengine	shawndeprey/hexengine	9615746	HTML5 Game Engine	JavaScript	57577	4	4	4
+game_engine	tmahmood/game_engine	77108	A game engine for fun and learning	C	1332	4	1	4
+HTML5-Game-Engines	AtomizerSoftware/HTML5-Game-Engines	4490790	Evaluation and demos of Crafty, melonJS, IMPACT game engines.	JavaScript	12329	4	4	4
+Wrench.2014	SoundAxis/Wrench.2014	23268754	C++ OpenGL game engine.	C	16162	4	3	4
+engine	mafiagameir/engine	42793615	mafia(werewolf) game engine	Java	153	4	3	4
+Purity2D	vheuken/Purity2D	10145493	A 2D game engine	C	28215	4	3	4
+harsh	XProger/harsh	11260080	Harsh Game Engine	C	1638	4	3	4
+Platino-Projects	Sighillrob/Platino-Projects	13423814	Projects built using the Platino Game Engine.	JavaScript	7105	4	7	4
+Kanity	Chikuwabu/Kanity	56342587	Simple game engine.	D	1402	4	2	4
+carre.js	padenot/carre.js	3660179	Tiled-base game engine.	JavaScript	48380	4	3	4
+engine	Critical-Hit/engine	19882109	Modular C++ game engine	C++	12962	4	4	4
+CardGameEngine	kevlarut/CardGameEngine	29765022	A card game engine using Angular.	JavaScript	344	4	0	4
+unnamed-game-engine	jgworks/unnamed-game-engine	1679	UGE is a python text-based, rouge-like, game engine using OpenGL.	Python	92	4	0	4
+Basic-Game-Engine	in2gpu/Basic-Game-Engine	32274185	Basic Game Engine	C	300	4	1	4
+SignleGameEngine	DumoeDss/SignleGameEngine	62684970	基于DirectX9与Qt 的游戏引擎	C++	20227	4	0	4
+aurora-game-engine	glatigny/aurora-game-engine	8054588	The game engine developed by Jean-Matthieu COULON and Jerome GLATIGNY for "Aurora Studio"	C	14636	4	1	4
+HTML-Game-Engine	v42/HTML-Game-Engine	2330934	HTML Game Engine	JavaScript	1337	4	0	4
+krig-game-engine	srobbibaro/krig-game-engine	17970219	Krig Game Engine	C++	4818	4	0	4
+AnyTableGameEngine	blamarche/AnyTableGameEngine	2937705		PHP	2031	4	0	4
+pap	viticm/pap	14420734	open code game engine	C++	100750	4	1	4
+GT	Triangle345/GT	9739081	Go Graphics/Game engine	Go	2619	4	2	4
+sandvox	zeux/sandvox	18916507	Experimental voxel-based game engine	C++	1464	4	2	4
+orpgl	mebyz/orpgl	1228954	nodejs webgl multiplayer game engine	JavaScript	64095	4	2	4
+neon2d	neon2d/neon2d	53003578	a simple c# game engine	C#	1158	4	2	4
+altertum	v3n/altertum	41336589	Data-Driven Game Engine	C++	4290	4	2	4
+pgui	DCubix/pgui	38053012	Blender Game Engine GUI System	Python	126	4	2	4
+simpleGame	twopiharris/simpleGame	9396623	Basic Game Engine for JavaScript	JavaScript	179	4	2	4
+lycan	GreenPix/lycan	51667571	Game engine	Rust	128	4	2	4
+wagic	gbraad/wagic	4011253	A Multi-platform Card game Engine	C++	134841	4	3	4
+FlatRedBall	vchelaru/FlatRedBall	49612213	Repository for the FlatRedBall Game Engine	C#	133542	4	3	4
+F.core	tyt2y3/F.core	4461807	A programming library for building HTML5 game engines.	JavaScript	727	4	4	4
+zerk	kristophjunge/zerk	9137603	JavaScript Game Engine	JavaScript	3066	4	1	4
+kgmEngine	nocs13/kgmEngine	2061189	karakal game engine	C	33364	4	0	4
+Gaza-2D-Game-Engine	joelverhagen/Gaza-2D-Game-Engine	1519417	A 2D game engine written in C++ for use with SFML. I am coding the card game Set along side the engine development.The code is currently in very early stages.	C++	340	4	0	4
+iris	dev-random-games/iris	11185703	2D game engine	Java	2506	4	0	4
+MCS-Engine	nupamore/MCS-Engine	53035934	Mini html5 Canvas Sprite game Engine	JavaScript	7	4	2	4
+Spadengine	Toopala/Spadengine	49644872	Student 3d OpenGL game engine project	C++	183075	4	4	4
+Vajra	VajraFramework/Vajra	13383969	Vajra -- cross platform game engine / framework	C++	81170	4	2	4
+Orion	sargentsurg/Orion	30726419	WebGL Game Engine	JavaScript	5183	4	0	4
+Merkurius	akohen/Merkurius	7162482	Merkurius Game Engine	Java	36725	4	0	4
+2048	mamachanko/2048	17801475	"2048" Python game engine	Python	304	4	1	4
+Joge	MoncefYabi/Joge	15210538	Java OpenGL Game Engine	Java	4080	4	0	4
+Space-Shooter-Android	JTronLabs/Space-Shooter-Android	37564088	Deprecated arcade shooter with custom Android game engine.	Java	322327	4	2	4
+AndiEngine	andiCR/AndiEngine	8757112	Basic Android Game Engine	Java	2596	4	0	4
+Ragnarok	Racoonacoon/Ragnarok	5681034	Game Engine for PyGame	Python	217	4	1	4
+incarnadine	DanielCollins/incarnadine	1310806	A 3D game engine	Rust	31618	4	0	4
+lovejs	mteam/lovejs	3755942	JavaScript 2D game engine	JavaScript	908	4	0	4
+research	ProjectDreamland/research	50466936	Research on the game engine/decompiled game code 	C	7839	4	2	4
+Agnostik-Engine	Basez/Agnostik-Engine	38234601	Cross-platform Game Engine	C	132210	4	0	4
+BulletUnity3D	sanglin307/BulletUnity3D	7888776	Use Bullet physics engine in Unity3D game engine 	C#	1528	4	2	4
+multiplay	christianblunden/multiplay	13546210	A skeleton multiplayer game engine to demonstrate clojurescript, web-sockets and core.async	JavaScript	311	4	4	4
+wamt.js	greenlaw110/wamt.js	1999080	HTML5 2D Game Engine	JavaScript	407	4	0	4
+wayfarer	adrianpike/wayfarer	539184	Wayfarer Javascript Game Engine	JavaScript	164	4	0	4
+piston-falling-sand-prototype	anmej/piston-falling-sand-prototype	38112878	Falling Sand game prototype, using Piston game engine	Rust	61	4	2	4
+luxengine	lukesalisbury/luxengine	14421648	Flexible 2D Game Engine	C++	15817	4	0	4
+rust-gravity-worm-ii	alexchandel/rust-gravity-worm-ii	25287745	A Gravity Worm clone written in Rust, using the Piston game engine.	Rust	233	4	4	4

@@ -1,0 +1,1001 @@
+name	full_name	id	description	language	size	watchers	forks	stargazers_count
+babel	babel/babel	24560307	:tropical_fish: Babel is a compiler for writing next generation JavaScript.	JavaScript	20462	17571	1354	17571
+TypeScript	Microsoft/TypeScript	20929025	TypeScript is a superset of JavaScript that compiles to clean JavaScript output.	TypeScript	567908	14775	1998	14775
+emscripten	kripken/emscripten	1357796	Emscripten: An LLVM-to-JavaScript Compiler	C	172695	10634	1327	10634
+marked	chjj/marked	2096579	A markdown parser and compiler. Built for speed.	HTML	1758	10430	1486	10430
+coreclr	dotnet/coreclr	30092893	This repo contains the .NET Core runtime, called CoreCLR, and the base library, called mscorlib. It includes the garbage collector, JIT compiler, base .NET data types and many low-level classes.	C#	119974	6902	1645	6902
+traceur-compiler	google/traceur-compiler	9060347	Traceur is a JavaScript.next-to-JavaScript-of-today compiler	JavaScript	27486	6818	451	6818
+clojurescript	clojure/clojurescript	2080922	Clojure to JS compiler	Clojure	13541	6358	564	6358
+roslyn	dotnet/roslyn	29078997	The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs.	C#	334384	6206	1483	6206
+the-super-tiny-compiler	thejameskyle/the-super-tiny-compiler	53639099	:snowman: Possibly the smallest compiler ever	JavaScript	72	5779	342	5779
+hogan.js	twitter/hogan.js	3029324	A compiler for the Mustache templating language	JavaScript	1175	4590	382	4590
+gopherjs	gopherjs/gopherjs	12418999	A compiler from Go to JavaScript for running Go code in a browser	Go	3884	4220	184	4220
+opal	opal/opal	184366	Ruby to JavaScript compiler	Ruby	16871	3331	241	3331
+libsass	sass/libsass	3319769	A C/C++ implementation of a Sass compiler	C++	17059	3251	350	3251
+elm-compiler	elm-lang/elm-compiler	4072305	Compiler for the Elm programming language. Elm aims to make web development more pleasant. Elm is a type inferred, functional reactive language that compiles to HTML, CSS, and JavaScript.	Haskell	9704	3180	259	3180
+Batsh	BYVoid/Batsh	12537898	A language that compiles to Bash and Windows Batch	OCaml	598	3170	154	3170
+sql.js	kripken/sql.js	3556910	SQLite compiled to JavaScript through Emscripten	JavaScript	49680	3088	345	3088
+Nim	nim-lang/Nim	842037	Nim (formerly known as "Nimrod") is a compiled, garbage-collected systems programming language which has an excellent productivity/performance ratio. Nim's design focuses on efficiency, expressiveness, elegance (in the order of priority).	Nimrod	355358	3078	422	3078
+purescript	purescript/purescript	13206906	A small strongly typed language that compiles to Javascript	Haskell	10595	2818	230	2818
+closure-compiler	google/closure-compiler	18845024	A JavaScript checker and optimizer.	Java	122714	2616	552	2616
+scala-js	scala-js/scala-js	8272315	Scala.js, the Scala to JavaScript compiler	Scala	15785	2558	231	2558
+ruby-build	rbenv/ruby-build	2142701	Compile and install Ruby	Shell	2349	2524	508	2524
+8cc	rui314/8cc	3568543	A Small C Compiler	C	1654	2349	236	2349
+Tesseract-OCR-iOS	gali8/Tesseract-OCR-iOS	9769041	Tesseract OCR iOS is a Framework for iOS7+, compiled also for armv7s and arm64.	C	496629	2341	558	2341
+movfuscator	xoreaxeaxeax/movfuscator	37501621	The single instruction C compiler	C	11932	2205	137	2205
+lessphp	leafo/lessphp	256408	LESS compiler written in PHP	PHP	2645	2155	489	2155
+js2coffee	js2coffee/js2coffee	1841833	Compile JavaScript to CoffeeScript	CoffeeScript	2551	1982	204	1982
+numba	numba/numba	3659275	NumPy aware dynamic Python compiler using LLVM	Python	35079	1943	209	1943
+CoffeeScriptRedux	michaelficarra/CoffeeScriptRedux	4529935	:sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility	CoffeeScript	3933	1874	117	1874
+MacRuby	MacRuby/MacRuby	977244	MacRuby is an implementation of Ruby 1.9 directly on top of Mac OS X core technologies such as the Objective-C runtime and garbage collector, the LLVM compiler infrastructure and the Foundation and ICU frameworks.	Ruby	61455	1857	198	1857
+firmware	raspberrypi/firmware	3565909	This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.	C	5847244	1851	733	1851
+cython	cython/cython	1099265	A Python to C compiler	Python	54507	1815	439	1815
+LiveScript	gkz/LiveScript	3322086	LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds many features to assist in functional style programming, it also has many improvements for object oriented and imperative programming. 	LiveScript	23142	1779	142	1779
+gox	mitchellh/gox	14460330	A dead simple, no frills Go cross compile tool	Go	112	1752	113	1752
+gcc-explorer	mattgodbolt/gcc-explorer	4414698	Run GCC (and other compilers) interactively from your web browser and experiment with its generated code	JavaScript	2320	1685	279	1685
+zephir	phalcon/zephir	11478636	Zephir is a compiled high level language aimed to the creation of C-extensions for PHP	C	17658	1647	288	1647
+legacy-cc	mortdeus/legacy-cc	8502433	The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr. 	C	185	1547	197	1547
+Prepros	Subash/Prepros	9672786	Compile almost any preprocessing language with live browser refresh.	JavaScript	12530	1500	159	1500
+bucklescript	bloomberg/bucklescript	49159983	A backend for the OCaml compiler which emits JavaScript.	OCaml	44054	1445	80	1445
+cli	dotnet/cli	43568107	This repo contains the .NET Core command-line (CLI) tools, used for building .NET Core apps and libraries through your development flow (compiling, NuGet package management, running, testing, ...).	C#	119469	1423	357	1423
+write-you-a-haskell	sdiehl/write-you-a-haskell	28814210	Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)	Haskell	1118	1376	106	1376
+c	ryanmjacobs/c	31526549	Compile and execute C "scripts" in one go!	Shell	185	1375	108	1375
+ghcjs	ghcjs/ghcjs	849182	Haskell to JavaScript compiler, based on GHC	Haskell	5253	1370	104	1370
+error-prone	google/error-prone	23206290	Catch common Java mistakes as compile-time errors	Java	53741	1369	137	1369
+hakyll	jaspervdj/hakyll	392759	A static website compiler library in Haskell	Haskell	18891	1354	240	1354
+bish	tdenniston/bish	31857909	Bish is a language that compiles to Bash. It's designed to give shell scripting a more comfortable and modern feel.	C++	309	1336	36	1336
+fsharp	fsharp/fsharp	1162709	The Open Edition of the F# compiler, core library and tools	F#	153757	1334	259	1334
+goxc	laher/goxc	8134918	a build tool for Go, with a focus on cross-compiling, packaging and deployment	Go	775	1332	66	1332
+gopher-lua	yuin/gopher-lua	30828052	GopherLua: VM and compiler for Lua in Go	Go	418	1331	107	1331
+moonscript	leafo/moonscript	1786885	:crescent_moon: A language that compiles to Lua	Lua	3221	1325	112	1325
+dmd	dlang/dmd	1257070	dmd D Programming Language compiler	D	88920	1279	371	1279
+dragon-book-exercise-answers	fool2fish/dragon-book-exercise-answers	7474917	Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。	HTML	1593	1247	482	1247
+dotty	lampepfl/dotty	7035651	Research platform for new language concepts and compiler technologies for Scala.	Scala	27683	1221	157	1221
+JSIL	sq/JSIL	1594220	CIL to Javascript Compiler	C#	123257	1198	225	1198
+red	red/red	1449773	Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!	Red	18813	1146	161	1146
+The-cost-of-transpiling-es2015-in-2016	samccone/The-cost-of-transpiling-es2015-in-2016	50404623	Investigating the overhead cost of compiled es2015	JavaScript	5850	1127	25	1127
+OpenSSL-for-iPhone	x2on/OpenSSL-for-iPhone	502238	A script for compiling OpenSSL for iOS Devices (iPhone, iPad, iPod Touch, AppleTV)	Shell	7395	1120	375	1120
+haste-compiler	valderman/haste-compiler	3272927	A GHC-based Haskell to JavaScript compiler.	Haskell	4725	1118	99	1118
+fay	faylang/fay	5134592	A proper subset of Haskell that compiles to JavaScript	Haskell	2772	1109	83	1109
+llilc	dotnet/llilc	30043131	This repo contains LLILC, an LLVM based compiler for .NET Core. It includes a set of cross-platform .NET code generation tools that enables compilation of MSIL byte code to LLVM supported platforms.	C++	10127	1094	105	1094
+rootbeer1	pcpratts/rootbeer1	5384073	Rootbeer GPU Compiler - Java GPU Programming	Java	127682	1037	118	1037
+pypyjs	pypyjs/pypyjs	15023050	PyPy compiled to JavaScript	JavaScript	181185	1024	55	1024
+turbo-sprockets-rails3	ndbroadbent/turbo-sprockets-rails3	5995904	Speeds up your Rails 3 assets:precompile by only recompiling changed files, and only compiling once to generate all assets	Ruby	563	1006	77	1006
+playground	jas/playground	20509785	Create your own interactive Swift playgrounds with embedded documentation compiled from Markdown	JavaScript	495	997	46	997
+Arduino-Makefile	sudar/Arduino-Makefile	3570431	Makefile for Arduino sketches. It defines the workflows for compiling code, flashing it to Arduino and even communicating through Serial.	Makefile	1967	988	275	988
+ocaml	ocaml/ocaml	6786166	The core OCaml system: compilers, runtime system, base libraries	OCaml	248509	927	281	927
+grunt-sass	sindresorhus/grunt-sass	4641160	Compile Sass to CSS	JavaScript	228	917	173	917
+closure-compiler-js	google/closure-compiler-js	63377929	Package for the JS version of closure-compiler for use via npm	JavaScript	39	912	19	912
+PlacesToPostYourStartup	mmccaff/PlacesToPostYourStartup	16894772	Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"	null	48	912	118	912
+luafun	rtsisyk/luafun	14534744	Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.	Lua	493	900	44	900
+rebar	rebar/rebar	6393199	Deprecated Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases. We encourage you to move to https://github.com/erlang/rebar3.	Erlang	3996	897	284	897
+texlive.js	manuels/texlive.js	7656304	Compiling LaTeX (TeX live) in your browser	TeX	304278	881	69	881
+jitwatch	AdoptOpenJDK/jitwatch	13217369	Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface.	Java	4996	870	141	870
+binaryen	WebAssembly/binaryen	45208608	Compiler infrastructure and toolchain library for WebAssembly, in C++	Assembly	34257	858	75	858
+scssphp	leafo/scssphp	5225555	SCSS compiler written in PHP	PHP	2320	854	173	854
+glsl-optimizer	aras-p/glsl-optimizer	805175	GLSL optimizer based on Mesa's GLSL compiler. Used in Unity for mobile shader optimization.	C++	246087	840	253	840
+visualfsharp	Microsoft/visualfsharp	29048891	The Visual F# compiler and tools	F#	238590	832	206	832
+swift-compiler-crashes	practicalswift/swift-compiler-crashes	23238061	A collection of test cases crashing the Swift compiler.	Swift	41865	791	83	791
+SimpLESS	Paratron/SimpLESS	2535404	A simple LESS compiler for Windows and mac	JavaScript	1818	787	109	787
+grunt-contrib-sass	gruntjs/grunt-contrib-sass	5845768	Compile Sass to CSS.	JavaScript	274	771	135	771
+enclave	eanplatter/enclave	53015094	A simpler way to compile React applications http://enclave.js.org	JavaScript	157	770	30	770
+llgo	go-llvm/llgo	2715490	LLVM-based compiler for Go	Go	4193	762	62	762
+filtrex	joewalnes/filtrex	19755450	A simple, safe, JavaScript Filter Expression compiler for end-users	JavaScript	467	740	37	740
+Mu	raycmorgan/Mu	488856	A Node.js Mustache template engine (and compiler)	JavaScript	188	733	86	733
+roy	puffnfresh/roy	2846200	Small functional language that compiles to JavaScript.	JavaScript	1389	731	61	731
+CompassApp	KKBOX/CompassApp	1210220	Compass.app helps designers compile stylesheets easily without resorting to command line interface	Ruby	242637	722	83	722
+Rusthon	rusthon/Rusthon	26970604	multi-lang transpiler, compiler frontend.	Python	9308	688	40	688
+grunt-contrib-less	gruntjs/grunt-contrib-less	5676089	Compile LESS files to CSS.	JavaScript	548	682	181	682
+quill	getquill/quill	39411044	Compile-time Language Integrated Queries for Scala	Scala	5747	670	87	670
+wcc	endrazine/wcc	65269564	The Witchcraft Compiler Collection	C	7515	660	33	660
+sails-docs	balderdashy/sails-docs	10827035	This is the source markdown files for the official Sails.js documentation, which get compiled, squeezed, and stretched into HTML when we deploy the Sails website.	JavaScript	5924	657	532	657
+ohm	cdglabs/ohm	36021747	A library and language for building parsers, interpreters, compilers, etc.	JavaScript	20935	654	35	654
+ispc	ispc/ispc	1931356	Intel SPMD Program Compiler	C++	35788	632	99	632
+emojicode	emojicode/emojicode	48860275	The holy source for the Compiler and Real-Time Engine	C++	2516	629	52	629
+grunt-contrib-compass	gruntjs/grunt-contrib-compass	5845869	Compile Compass to CSS.	JavaScript	257	629	138	629
+mincer	nodeca/mincer	4079740	Sprockets inspired web assets compiler for Node.JS	JavaScript	1917	613	66	613
+es6ify	thlorenz/es6ify	8927771	browserify >=v2 transform to compile JavaScript.next (ES6) to JavaScript.current (ES5) on the fly.	JavaScript	1945	604	36	604
+ffmpeg-android-java	WritingMinds/ffmpeg-android-java	23913470	Android java library for FFmpeg binary compiled using https://github.com/writingminds/ffmpeg-android	Java	90083	597	235	597
+js2js	eleks/js2js	14253971	js2js is a revolutionary open-source compiler from Javascript to Javascript	JavaScript	3371	596	51	596
+timl	tpope/timl	14607753	Clojure like language which compiles down to VimL	VimL	1572	586	18	586
+scriptsharp	nikhilk/scriptsharp	1604131	Script# Project - a C# to JavaScript compiler, to power your HTML5 and Node.js web development.	C#	13798	583	169	583
+r3	c9s/r3	19679590	libr3 is a high-performance path dispatching library. It compiles your route paths into a prefix tree (trie). By using the constructed prefix trie in the start-up time, you may dispatch your routes with efficiency	C	1487	580	48	580
+Cosmos	CosmosOS/Cosmos	27551693	Cosmos is an operating system "construction kit", built from the ground up around the IL2CPU compiler in C# and our home-brewed language called X#.	C#	171687	568	176	568
+rhine-ml	artagnon/rhine-ml	22042992	an OCaml compiler for an untyped lisp	OCaml	2147	565	21	565
+Netjs	praeclarum/Netjs	18150376	.NET to TypeScript and JavaScript compiler	C#	2986	556	67	556
+Transcrypt	JdeH/Transcrypt	47918643	Lean and mean Python to JavaScript compiler with multiple inheritance, sourcemaps and selective operator overloading.	Python	75609	543	32	543
+enclose	igorklopov/enclose	29072583	Compile your Node.js project into an executable	JavaScript	609	542	27	542
+ark	ark-lang/ark	27454562	A compiled systems programming language written in Go using the LLVM framework	Go	18266	533	42	533
+lcc	drh/lcc	957049	The lcc retargetable ANSI C compiler	C	3120	526	143	526
+pyScss	Kronuz/pyScss	1326634	pyScss, a Scss compiler for Python	CSS	3652	526	124	526
+react-jade	pugjs/react-jade	19896256	Compile Jade to React JavaScript	JavaScript	582	524	33	524
+Fable	fable-compiler/Fable	49417923	F# to JavaScript Compiler	F#	25358	502	67	502
+ldc	ldc-developers/ldc	2174666	The LLVM-based D compiler.	D	29935	491	103	491
+TypeScript	zhongsp/TypeScript	32672955	TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  http://www.typescriptlang.org	TypeScript	1325	491	153	491
+StyleCopAnalyzers	DotNetAnalyzers/StyleCopAnalyzers	26768275	An implementation of StyleCop rules using the .NET Compiler Platform	C#	12370	485	111	485
+ufora	ufora/ufora	45048822	Compiled, automatically parallel Python for data science	Python	24257	476	19	476
+rebar3	erlang/rebar3	26610130	Erlang build tool that makes it easy to compile and test Erlang applications and releases.	Erlang	9360	473	160	473
+ember-electron	felixrieseberg/ember-electron	42188335	:zap: Build, test, compile and package desktop apps with Ember Cli (1.x & 2.x)  and Electron	JavaScript	651	459	36	459
+Open-Source-FPGA-Bitcoin-Miner	progranism/Open-Source-FPGA-Bitcoin-Miner	1774473	A completely open source implementation of a Bitcoin Miner for Altera and Xilinx FPGAs. This project hopes to promote the free and open development of FPGA based mining solutions and secure the future of the Bitcoin project as a whole. A binary release is currently available for the Terasic DE2-115 Development Board, and there are compile-able projects for numerous boards.	VHDL	9382	458	240	458
+rubyflux	headius/rubyflux	5836309	A Ruby static compiler.	Ruby	685	452	23	452
+policy	paulp/policy	23715311	a fork of the scala compiler	Scala	48231	450	12	450
+gulp-typescript	ivogabe/gulp-typescript	19606628	A TypeScript compiler for gulp with incremental compilation support.	JavaScript	1382	450	99	450
+gulp-ruby-sass	sindresorhus/gulp-ruby-sass	15768911	Compile Sass to CSS with Ruby Sass	JavaScript	310	450	88	450
+ffmpeg-android	WritingMinds/ffmpeg-android	20399893	FFmpeg for Android compiled with x264, libass, fontconfig, freetype, fribidi and lame (Supports Android 4.1+)	Shell	27376	446	181	446
+opam	ocaml/opam	3473767	OPAM is a source-based package manager for OCaml. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.	OCaml	32130	444	148	444
+Ollie	pardom/Ollie	19122427	Compile-time active record ORM for Android	Java	1091	441	36	441
+FunScript	ZachBray/FunScript	6663589	F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider	F#	63696	436	102	436
+staticfiles	bouk/staticfiles	65221780	staticfiles compiles a directory of files into an embeddable .go file	Go	136	431	7	431
+lua.js	mherkender/lua.js	2764395	An ECMAscript framework to compile and run Lua code, allowing Lua to run in a browser or in Flash	JavaScript	1446	425	50	425
+earl-grey	breuleux/earl-grey	17534383	Programming language compiling to JavaScript	JavaScript	7931	418	7	418
+corert	dotnet/corert	42552143	This repo contains CoreRT, a .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying .NET Native compiler toolchain.	C#	19551	410	123	410
+protostuff	protostuff/protostuff	16058167	Java serialization library, proto compiler, code generator	Java	6066	405	93	405
+rake-compiler	rake-compiler/rake-compiler	71019	Provide a standard and simplified way to build and package Ruby C and Java extensions using Rake as glue.	Ruby	522	404	76	404
+luajit	LuaDist/luajit	953366	LuaJIT is JIT compiler for the Lua language.	C	10992	393	79	393
+echojs	toshok/echojs	4307930	an ahead of time compiler and runtime for ES6	JavaScript	8377	393	17	393
+cupertinojs	jerrymarino/cupertinojs	23245656	Cupertino.js - Compile Javascript to Cocoa	C++	787	389	10	389
+stunserver	jselbie/stunserver	2189307	New version 1.2.  This is the source code to STUNTMAN - an open source STUN server and client code by john selbie.  Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489. The stun server code is part of a larger personal project involving P2P file sharing and NAT traversal. Version 1.2 compiles on Linux, MacOS, BSD, and Solaris. Additional features are in development.	C++	448	379	128	379
+PropertyChanged	Fody/PropertyChanged	4933570	Injects INotifyPropertyChanged code into properties at compile time	C#	3759	375	71	375
+DataScienceSpCourseNotes	sux13/DataScienceSpCourseNotes	31872332	Compiled Notes for all 9 courses in the Coursera Data Science Specialization	HTML	142925	374	1946	374
+go-fast	kovetskiy/go-fast	65213702	Compile Go programs 7x faster	Shell	3	372	11	372
+Shem	xixixao/Shem	42375617	The compiler of the programming language Shem	CoffeeScript	1659	371	6	371
+roole	curvedmark/roole	8069971	A language that compiles to CSS	JavaScript	2033	368	28	368
+hope	cosmo-ethz/hope	24632286	HOPE: A Python Just-In-Time compiler for astrophysical computations	Python	410	363	24	363
+my_toy_compiler	lsegal/my_toy_compiler	311121	My Toy Compiler. Read about how I did it at the homepage URL	C++	60	358	117	358
+c6	c9s/c6	34741977	Compile SASS Faster ! C6 is a SASS-compatible compiler	CMake	966	358	19	358
+less.js-windows	duncansmart/less.js-windows	1493563	A way to run the LESS.js compiler in windows	Batchfile	2380	348	86	348
+Protobuf-PHP	drslump/Protobuf-PHP	1504718	PHP implementation of Google's Protocol Buffers with a protoc plugin compiler	PHP	514	347	139	347
+rust-cross	japaric/rust-cross	50153389	Everything you need to know about cross compiling Rust programs!	Shell	46	341	17	341
+teavm	konsoletyper/teavm	13045763	Compiler of Java bytecode to JavaScript	Java	11164	340	51	340
+grunt-contrib-coffee	gruntjs/grunt-contrib-coffee	5723011	Compile CoffeeScript files to JavaScript.	JavaScript	400	336	115	336
+js-nacl	tonyg/js-nacl	9122611	Pure-Javascript High-level API to Emscripten-compiled libsodium routines.	JavaScript	4267	336	32	336
+blogofile	EnigmaCurry/blogofile	141238	A static website compiler and blog engine written in Python.	Python	1802	335	92	335
+gulp-pug	jamen/gulp-pug	11210841	Gulp plugin for compiling Pug templates	JavaScript	91	333	56	333
+prawnto	prior/prawnto	38454	a featureful rails plugin leveraging the new kickass prawn library to produce compiled pdf views	Ruby	2115	329	90	329
+fann.js	louisstow/fann.js	39675948	FANN compiled through Emscripten	JavaScript	281	326	19	326
+clash-compiler	clash-lang/clash-compiler	11172497	CAES Language for Synchronous Hardware	Haskell	3534	323	34	323
+OnActivityResult	vanniktech/OnActivityResult	47873486	OnActivityResult annotation compiler for Android	Java	355	321	27	321
+libssh2-for-iOS	x2on/libssh2-for-iOS	1317693	A script for compiling libssh2 for iOS Devices (iPhone, iPad, iPod Touch). The example app can connect to an server with SSH and execute commands.	Objective-C	6098	321	103	321
+cuttle	oakmac/cuttle	24976780	User Interface for the ClojureScript Compiler	JavaScript	3487	316	7	316
+templatizer	HenrikJoreteg/templatizer	5576702	Simple solution for compiling jade templates into vanilla JS functions for blazin' fast client-side use.	JavaScript	338	312	40	312
+Dex65536	mmin18/Dex65536	17537369	Solve the issue with dalvik compiler limitation on 65536 methods (Unable to execute dex: method ID not in [0, 0xffff]: 65536)	Java	3001	310	102	310
+cc65	cc65/cc65	8932489	cc65 - a freeware C compiler for 6502 based systems —	C	516723	307	85	307
+grunt-contrib-pug	gruntjs/grunt-contrib-pug	5723015	Compile Pug templates.	JavaScript	220	307	74	307
+eero	eerolanguage/eero	3058948	Eero was a fully binary- and header-compatible dialect of Objective-C, implemented with a modified version of the Apple-sponsored LLVM/clang open-source compiler. It featured a streamlined syntax, Python-like indentation, and other features that improve readability and code safety. It was inspired by languages such as Smalltalk, Python, and Ruby.	Objective-C	6495	305	10	305
+common-shaders	libretro/common-shaders	3286864	Collection of commonly used Cg shaders. These shaders are usable by either HLSL and/or Cg runtime compilers. The cg2glsl script will translate most of these into GLSL shaders.	C	56193	305	79	305
+sibilant	jbr/sibilant	757109	Just another compile-to-js lang	JavaScript	5145	304	40	304
+gorillascript	ckknight/gorillascript	7911999	GorillaScript is a compile-to-JavaScript language designed to empower the user while attempting to prevent some common errors.	JavaScript	15347	304	24	304
+jscl	jscl-project/jscl	7440652	A Lisp-to-Javascript compiler bootstrapped from Common Lisp	Common Lisp	3517	303	64	303
+Crunch	matthew-dean/Crunch	2769475	The LESS-to-CSS editor and compiler. Crunch 2 is now available!	JavaScript	41061	302	63	302
+pipe2py	ggaughan/pipe2py	553348	A project to compile Yahoo! Pipes into Python (see it hosted on Google App Engine: http://pipes-engine.appspot.com)	HTML	1534	302	49	302
+golang-builder	CenturyLinkLabs/golang-builder	29882058	Containerized build environment for compiling an executable Golang package and packaging it in a light-weight Docker container.	Shell	42	299	40	299
+node-blade	bminer/node-blade	4221306	Blade - HTML Template Compiler, inspired by Jade & Haml	JavaScript	957	297	24	297
+rock	ooc-lang/rock	221032	:ocean: self-hosted ooc compiler that generates c99	ooc	17970	295	38	295
+clojurem	joshaber/clojurem	5174736	Clojure to Objective-C compiler	Clojure	1349	291	8	291
+compilebox	remoteinterview/compilebox	20961577	Compile and run user-submitted code in a docker based sandbox.	JavaScript	373	288	86	288
+amacc	jserv/amacc	50844155	Small C Compiler generating ELF executable for ARM architecture	C	129	286	71	286
+twirl	playframework/twirl	13022358	The Play Scala Template Compiler	Scala	497	285	60	285
+RapydScript	atsepkov/RapydScript	9739352	RapydScript to JavaScript compiler	JavaScript	3035	284	29	284
+ogv.js	brion/ogv.js	13348747	JavaScript media player using Ogg/Vorbis/Theora/Opus/WebM libs compiled with Emscripten	JavaScript	15158	283	35	283
+llvm.js	kripken/llvm.js	7299464	LLVM compiled to JavaScript using Emscripten	JavaScript	16517	282	19	282
+SaltarelleCompiler	Saltarelle/SaltarelleCompiler	3802570	C# to JavaScript compiler	C#	144822	281	63	281
+empythoned	replit/empythoned	2131587	CPython compiled to JS using emscripten	Python	38822	280	45	280
+GDC	D-Programming-GDC/GDC	3759178	GNU D Compiler	D	90757	276	48	276
+electron-compile	electron/electron-compile	35356641	Electron supporting package to compile JS and CSS in Electron applications	JavaScript	2372	276	23	276
+js_of_ocaml	ocsigen/js_of_ocaml	11749064	Compiler from OCaml to Javascript.	OCaml	57724	271	70	271
+scala-maven-plugin	davidB/scala-maven-plugin	21099	The scala-maven-plugin (previously maven-scala-plugin) is used for compiling/testing/running/documenting scala code in maven.	Java	4022	269	81	269
+compilify	jrusbatch/compilify	3896471	A web-based compiler for C# and VB.NET, powered by the Roslyn Project.	C#	2262	268	49	268
+libsass-python	dahlia/libsass-python	5433677	A straightforward binding of libsass for Python.  Compile Sass/SCSS in Python with no Ruby stack at all!	Python	6946	268	21	268
+llvmlite	numba/llvmlite	22725061	A lightweight LLVM python binding for writing JIT compilers	Python	1321	267	63	267
+swieros	rswier/swieros	25276703	A tiny hand crafted CPU emulator, C compiler, and Operating System	C	324	266	52	266
+HLSLCrossCompiler	James-Jones/HLSLCrossCompiler	4166789		C++	5817	265	59	265
+pyv8-binaries	emmetio/pyv8-binaries	6492027	Archive of pre-compiled PyV8 binaries	null	69154	265	110	265
+ghcvm	rahulmutt/ghcvm	55689010	A Haskell to JVM compiler that supports GHC Haskell.	Haskell	4338	264	11	264
+icecream	icecc/icecream	6349186	Distributed compiler with a central scheduler to share build load	C++	4621	263	88	263
+kind-projector	non/kind-projector	3533170	Compiler plugin for making type lambdas (type projections) easier to write	Scala	141	263	19	263
+less.js-middleware	emberfeather/less.js-middleware	3811969	Connect Middleware for LESS.js compiling	JavaScript	217	263	84	263
+tagua-vm	tagua-vm/tagua-vm	51442464	Tagua VM is an experimental PHP Virtual Machine that guarantees safety and quality by removing large classes of vulnerabilities thanks to the Rust language and the LLVM Compiler Infrastructure.	Rust	3523	263	13	263
+jsx-requirejs-plugin	philix/jsx-requirejs-plugin	15615323	A RequireJS plugin for loading and compiling (with r.js) JavaScript files containing JSX.	JavaScript	2774	263	40	263
+ravi	dibyendumajumdar/ravi	28688657	Ravi Programming Language is a derivative of Lua 5.3 with limited optional static typing and LLVM and libgccjit based JIT compilers 	C	5122	263	18	263
+ScalaPB	trueaccord/ScalaPB	24701619	Protocol buffer compiler for Scala.	Scala	1358	262	39	262
+better-enums	aantron/better-enums	35449048	Compile-time enum to string, iteration, in a single header file.	C++	572	260	26	260
+continuation	BYVoid/continuation	5847024	A compiler for JavaScript asynchronous Continuation-Passing Style transformation	JavaScript	342	258	35	258
+luajit-lang-toolkit	franko/luajit-lang-toolkit	16670536	A Lua bytecode compiler written in Lua itself for didactic purposes or for new language implementations	Lua	444	258	27	258
+SmallerC	alexfru/SmallerC	6812127	Simple C compiler	C	7058	257	39	257
+zinc	typesafehub/zinc	4619741	sbt's scala incremental compiler	Scala	540	257	43	257
+imagemagick_lib_iphone	marforic/imagemagick_lib_iphone	509899	Scripts and instructions to compile ImageMagick as a static library to use in any iOS project	C	45105	255	53	255
+LinqOptimizer	nessos/LinqOptimizer	11924508	An automatic query optimizer-compiler for Sequential and Parallel LINQ.	F#	2223	251	22	251
+Bundler	ServiceStack/Bundler	3355567	Compile & Minify Less/Sass/Stylus/Css/JS/CoffeeScript/LiveScript files. Integrates with MVC and ServiceStack	JavaScript	23544	251	65	251
+cc	andrewchambers/cc	21020367	Cross platform C preprocessor and compiler.	Go	853	248	13	248
+irhydra	mraleph/irhydra	16740381	Tool for displaying IR used by V8 and Dart VM optimizing compilers	JavaScript	3696	246	18	246
+node-minify	srod/node-minify	1837248	Light NodeJS module that compress javascript and css files with Yui Compressor / Google Closure Compiler / UglifyJS / Clean-css / CSSO / Sqwish	JavaScript	46600	245	31	245
+FiltrES.js	abehaskins/FiltrES.js	27794312	A simple, safe, ElasticSearch Query compiler	JavaScript	298	243	6	243
+karma-ng-html2js-preprocessor	karma-runner/karma-ng-html2js-preprocessor	7996482	A Karma plugin. Compile AngularJS 1.x and 2.x templates to JavaScript on the fly.	CoffeeScript	113	243	112	243
+crenshaw-go	dcw303/crenshaw-go	57942875	A Go implementation of Jack Crenshaw's Let's Build a Compiler tutorial series	Go	32	242	17	242
+TheFatRat	Screetsec/TheFatRat	64060314	An easy tool to generate backdoor with msfvenom (a part from metasploit framework). This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection	C	1528	242	75	242
+paraphrase	JakeWharton/paraphrase	16273548	An experimental Gradle plugin which generates compile-safe format string builders.	Java	444	241	16	241
+ilwasm	WebAssembly/ilwasm	41707170	CIL to WebAssembly compiler	C#	353	240	11	240
+SharpLang	xen2/SharpLang	20264525	Compiles .NET/C# to native code using LLVM framework. No longer active, consider migrating to https://github.com/dotnet/corert	C#	70010	238	34	238
+angular-2-beta-boilerplate	mschwarzmueller/angular-2-beta-boilerplate	49139869	A basic boilerplate to start an Angular 2 (Beta) App. Includes Gulpfile to compile Typescript and SCSS.	JavaScript	41	234	218	234
+Perlito	fglock/Perlito	393344	Perl 5 and Perl 6 compilers	Perl	43410	231	24	231
+Phalanger	DEVSENSE/Phalanger	4378509	Introducing full-featured PHP runtime & compiler for .NET/Mono frameworks. Phalanger is modern open-source implementation of PHP, compatible with the vast array of existing PHP code. In addition Phalanger gives PHP-application developers lot of new possibilities; like improving the performance, allowing to use modern environments or  taking advantage of seamless .NET integration.	C#	70215	231	70	231
+ThemeEngine	alexzielenski/ThemeEngine	22747490	OS X App to edit compiled .car files	Objective-C	2968	230	32	230
+grunt-traceur	aaronfrost/grunt-traceur	8301541	This is a grunt task for adding a grunt task to compiler ES6 JS into ES3 JS using Traceur Compiler	JavaScript	203	228	36	228
+data-police-shootings	washingtonpost/data-police-shootings	38310038	The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty in 2015 and 2016.	null	1136	228	61	228
+opendylan	dylan-lang/opendylan	1441721	Open Dylan compiler and IDE	Dylan	88174	227	50	227
+CompCert	AbsInt/CompCert	24187206	The CompCert C verified compiler	Coq	14916	227	33	227
+VBF	Ninputer/VBF	1445683	A flexible and extensible front-end library of a programming language compiler. 	C#	911	227	93	227
+django-css	dziegler/django-css	244406	django-css is a fork of django_compressor that makes it easy to use CSS compilers with your Django projects. CSS compilers extend CSS syntax to include more powerful features such as variables and nested blocks, and pretty much rock all around.	Python	265	226	29	226
+asn1c	vlm/asn1c	989603	The ASN.1 Compiler	C	15429	225	107	225
+coffeescript-php	alxlit/coffeescript-php	1756463	Dead! A port of the CoffeeScript compiler to PHP.	PHP	703	225	26	225
+snowscript	runekaagaard/snowscript	3965305	A language that compiles to PHP	PHP	1795	223	19	223
+Afterthought	vc3/Afterthought	1583434	An open source .NET compile-time code amender.	C#	11073	223	49	223
+Azexo-Composer-WYSIWYG	azexo/Azexo-Composer-WYSIWYG	24288315	jQuery drag and drop HTML builder, compile Bootstrap based HTML and JS initialization code for third party JS libraries	JavaScript	6442	222	86	222
+parakeet	iskandr/parakeet	5889813	Runtime compiler for numerical Python 	Python	11234	219	13	219
+Scalaxy	nativelibs4java/Scalaxy	3960084	Compiler plugin goodies for Scala (continuation of non-OpenCL part of ScalaCL)	Scala	15067	216	6	216
+wp-less	roborourke/wp-less	2946986	Provides a LESS compiler compatible with wp_enqueue_style() for rapid CSS development in themes and plugins.	PHP	448	215	60	215
+riml	luke-gru/riml	3959528	Riml is a subset of VimL with some nice added features. It compiles to plain VimL.	Ruby	2158	215	5	215
+inc	namin/inc	2984078	an incremental approach to compiler construction	Scheme	1007	213	31	213
+nanopass-framework	akeep/nanopass-framework	7204733	The new nanopass framework; an embedded DSL for writing compilers in Scheme	Scheme	27347	213	38	213
+hermetic	alehander42/hermetic	29101908	a python-like language with hindley-milner-like type system, which is compiled to c	Python	55	213	7	213
+ffmpeg-windows-build-helpers	rdp/ffmpeg-windows-build-helpers	5235734	Helper script for cross compiling some media tools for windows, like customizable ffmpeg.exe (with or without fdk_aac), and other bonuses like mplayer, vlc, mp4box, mxf, etc.	C++	2099	212	96	212
+CoffeeScript-Compiler-for-Windows	alisey/CoffeeScript-Compiler-for-Windows	974306	Standalone executable that compiles *.coffee to *.js. Options are compatible with the original coffee command.	JavaScript	1756	211	26	211
+ScalaBuff	SandroGrzicic/ScalaBuff	1803888	the scala protocol buffers (protobuf) compiler	Scala	1608	210	71	210
+gulp-svg-sprites	shakyShane/gulp-svg-sprites	17764655	Create SVG sprites or compile to <symbols>	JavaScript	275	210	30	210
+kivy-ios	kivy/kivy-ios	2884603	Toolchain for compiling Python / Kivy / other libraries for iOS	Python	85175	208	90	208
+xgo	karalabe/xgo	22697833	Go CGO cross compiler	Shell	468	206	28	206
+css-modules-require-hook	css-modules/css-modules-require-hook	38828181	A require hook to compile CSS Modules in runtime	JavaScript	164	206	12	206
+Horrible.js	TShadwell/Horrible.js	4463186	A Javascript compiler that does horrible things to javascript.	null	211	204	16	204
+babyc	Wilfred/babyc	21290874	A toy C compiler	C	1231	202	61	202
+tsify	TypeStrong/tsify	20317364	Browserify plugin for compiling TypeScript	JavaScript	835	202	54	202
+linter	HairyFotr/linter	8969984	Static Analysis Compiler Plugin for Scala	Scala	2027	201	23	201
+awesome-rubies	planetruby/awesome-rubies	34689223	A collection of awesome Rubies (compilers, interpreters, virtual machines, parsers, doc generators, version managers, etc.) 	null	19	200	13	200
+canopy	jcoglan/canopy	607353	A parser compiler for Java, JavaScript, Python, Ruby	JavaScript	858	199	11	199
+metasm	jjyg/metasm	1017361	This is the main repository for metasm, a free assembler / disassembler / compiler written in ruby	Ruby	18958	198	50	198
+stalin	barak/stalin	597082	stalin brutally optimizing Scheme compiler, with Debianization patches	C	35621	198	9	198
+clojure-maven-plugin	talios/clojure-maven-plugin	119018	Apache Maven Mojo for compiling clojure scripts to class files	Java	834	198	69	198
+Grunt-Boilerplate	Integralist/Grunt-Boilerplate	7589303	This is a project set-up using Grunt to take case of some standard tasks such as: compiling AMD based modules using RequireJS, watching/compiling Sass into CSS, watching/linting JS code and some other things such as running unit tests	JavaScript	36078	196	29	196
+closure-compiler	documentcloud/closure-compiler	376833	A Ruby Wrapper for the Google Closure Compiler	Ruby	71763	194	40	194
+quickstart	spotify/quickstart	21179790	A CommonJS module resolver, loader and compiler for node.js and browsers.	JavaScript	86	194	10	194
+sublime-less2css	timdouglas/sublime-less2css	5233440	Sublime Text 2 Plugin to compile less files to css on save	Python	143	194	67	194
+goupx	pwaller/goupx	5728942	Fix golang compiled binaries on x86_64 so that they can be packed with UPX	Go	15	194	10	194
+ikiwiki	joeyh/ikiwiki	32207	a wiki compiler	Perl	36505	193	59	193
+excel_to_code	tamc/excel_to_code	3104837	Converts some excel spreadsheets (.xlsx, not .xls) into C. This allows the excel spreadsheets to be run programatically, without excel, anywhere that compiles basic dependency free C code. This can be handy to allow excel to be used as the calculating engine behind websites.	Ruby	14362	193	14	193
+rperl	wbraswell/rperl	7436032	RPerl Compiler	Perl	42090	192	24	192
+writing-a-compiler-in-ruby	vidarh/writing-a-compiler-in-ruby	119308	Code from my series on writing a Ruby compiler in Ruby	Ruby	972	192	16	192
+mini-c	Fedjmike/mini-c	36145590	Dr Strangehack, or: how to write a self-hosting C compiler in 10 hours	C	100	191	18	191
+grunt-closure-compiler	gmarty/grunt-closure-compiler	4482572	A Grunt task for Closure Compiler	JavaScript	309	187	48	187
+rust-on-raspberry-pi	Ogeon/rust-on-raspberry-pi	32486935	Instructions for how to cross compile Rust projects for the Raspberry Pi	Shell	24	187	16	187
+grunt-contrib-stylus	gruntjs/grunt-contrib-stylus	5722454	Compile Stylus files to CSS.	JavaScript	375	186	74	186
+hello-cljsc	swannodette/hello-cljsc	15924424	Hello ClojureScript Compiler	Clojure	315	185	20	185
+blaze_compiler	firebase/blaze_compiler	19282220	blaze_compiler	TypeScript	1874	185	22	185
+jclasslib	ingokegel/jclasslib	2788710	jclasslib bytecode viewer is a tool that visualizes all aspects of compiled Java class files and the contained bytecode.	Kotlin	9034	185	78	185
+bolt	firebase/bolt	40162386	Bolt Compiler (Firebase Security and Modeling)	TypeScript	4431	184	29	184
+pharen	Scriptor/pharen	450606	Lisp to PHP Compiler	PHP	1529	182	28	182
+roslyn	mono/roslyn	18541379	Roslyn Compiler - Tracks Mono Patches	C#	204408	181	41	181
+pyflakes	kevinw/pyflakes	65099	a faster smurfier pyflakes fork using _ast instead of compiler	Python	219	181	59	181
+wa-toolkit-ios	WindowsAzure-Toolkits/wa-toolkit-ios	1712954	windows azure toolkit for ios - library (source and compiled)	Objective-C	2551	181	26	181
+gsp	gsp-lang/gsp	43249657	The gsp compiler.	Go	1268	180	4	180
+the-super-tiny-compiler	hazbo/the-super-tiny-compiler	56237170	Like The Super Tiny Compiler, but in Go	Go	21	180	12	180
+gulp-traceur	sindresorhus/gulp-traceur	15361133	Traceur is a JavaScript.next to JavaScript-of-today compiler	JavaScript	66	178	41	178
+idea-sbt-plugin	orfjackal/idea-sbt-plugin	666662	IntelliJ IDEA plugin for integration with SBT (Simple Build Tool) in order to compile Scala projects easily and quickly.	Java	2230	177	24	177
+ClangVSx	ishani/ClangVSx	1868319	Add-in that allows easy use of Clang compiler from inside Visual Studio 2013, replacing the MSVC compiler when building C++ projects.	C#	661	175	30	175
+AutoLocalPrivilegeEscalation	ngalongc/AutoLocalPrivilegeEscalation	54310382	An automated script that download potential exploit for linux kernel from exploitdb, and compile them automatically	Python	9	175	57	175
+rujit	imasahiro/rujit	23899907	RuJIT: a trace based just in time compile for CRuby	Ruby	93862	175	5	175
+whalesong	dyoo/whalesong	1197730	Whalesong: Racket to JavaScript compiler	Racket	11287	174	22	174
+ghc-android	neurocyte/ghc-android	8014510	Build scripts for building ghc cross compilers targeting Android	Shell	48	173	30	173
+lesscss-java	marceloverdijk/lesscss-java	3710690	LESS CSS Compiler for Java	JavaScript	1532	172	73	172
+tools	swift-cc/tools	23590147	Various tools used to compile Swift and Objective-C++ for Android	Python	393	172	17	172
+FFmpeg-iOS	chrisballinger/FFmpeg-iOS	12769083	FFmpeg static libraries compiled for iOS	Ruby	41	171	79	171
+ropc	pakt/ropc	5807719	A Turing complete ROP compiler	C	12414	170	19	170
+rust-phf	sfackler/rust-phf	15992970	Compile time static maps for Rust	Rust	2392	170	36	170
+libsodium.js	jedisct1/libsodium.js	29293352	libsodium compiled to pure JavaScript, with convenient wrappers	JavaScript	29356	170	32	170
+ccache	ccache/ccache	461102	ccache - a fast compiler cache	C	4425	169	79	169
+Unity3D.IncrementalCompiler	SaladLab/Unity3D.IncrementalCompiler	48937979	Unity3D Incremental C# Compiler using Roslyn	C#	12980	169	9	169
+mug	tcr/mug	1067793	A self-hosted JavaScript compiler for the JVM. Written in CoffeeScript.	Clojure	46266	169	5	169
+CompileDaemon	githubnemo/CompileDaemon	5816240	Very simple compile daemon for Go	Go	49	169	27	169
+llvm	avr-llvm/llvm	23371948	AVR backend for the LLVM compiler library	C++	448818	168	19	168
+brackets-sass	jasonsanjose/brackets-sass	18767524	Enable Live Preview and compile SASS files within Brackets	JavaScript	32684	168	27	168
+SolidPython	SolidCode/SolidPython	1377446	A python frontend for solid modelling that compiles to OpenSCAD	Python	478	166	42	166
+grunt-react	ericclemmons/grunt-react	10928342	[DEPRECATED] Grunt task for compiling Facebook React's .jsx templates into .js	JavaScript	1215	165	45	165
+ofxiOSBoost	danoli3/ofxiOSBoost	6346817	iOS Boost Library 1.60.0 (arm64, armv7, i386, x86_64) Pre-compiled and Build Script (libc++ and libstdc++) - Boost iOS	C++	365636	165	53	165
+shen	synrc/shen	11539925	Erlang JavaScript Compiler	JavaScript	408	164	12	164
+go-repl	vito/go-repl	404142	A Go REPL. Builds up a source .go file over time, compiles it for output.	Go	190	163	22	163
+kramed	GitbookIO/kramed	22446549	A markdown (kramdown compatible) parser and compiler. Built for speed. (Fork of marked)	HTML	566	161	33	161
+jsck	pandastrike/jsck	13079552	JSON Schema Compiled checK	CoffeeScript	1325	161	16	161
+WebCompiler	madskristensen/WebCompiler	37036714	Visual Studio extension for compiling LESS and Sass files	C#	7828	159	53	159
+ceylon-compiler	ceylon/ceylon-compiler	1287859	DEPRECATED	Java	67543	159	44	159
+c2compiler	c2lang/c2compiler	7580238	the c2 programming language	C++	3578	159	14	159
+rejit	coreperf/rejit	11848646	fast SIMD-able JIT regular expression compiler	C++	1514	156	6	156
+freepascal	graemeg/freepascal	247909	Free Pascal Compiler - an open source Object Pascal compiler. This is an unofficial mirror of the FPC SubVersion repository and is for convenience use only. It is synced every 15 minutes. For submitting patches or bug reports, go to http://bugs.freepascal.org	Pascal	201472	156	64	156
+AOP-in-Objective-C	moszinet/AOP-in-Objective-C	1235785	An NSProxy based library for easily enabling AOP like functionality in Objective-C. ******* This is an old library; please help this library by submitting pull requests. Will merge only if it compiles without error.	Objective-C	298	156	49	156
+smop	victorlei/smop	10871114	Small Matlab to Python compiler (Please open an issue if you are using this program)	Python	1708	155	59	155
+clang-ctags	drothlis/clang-ctags	5136197	Generate tag file for C++ source code, using the clang C++ compiler's parsing libraries	Shell	275	155	18	155
+yscheme	yinwang0/yscheme	19650238	a compiler from Scheme into X64	Scheme	166	153	151	153
+cheerp-clang	leaningtech/cheerp-clang	13962748	clang compiler including cheerp support	C++	100813	153	15	153
+jscomp	tmikov/jscomp	36981674	Ahead of time JavaScript compiler	C	5465	153	5	153
+virtualization-lms-core	TiarkRompf/virtualization-lms-core	849923	A Framework for Runtime Code Generation and Compiled DSLs	Scala	8947	153	67	153
+nRF51822-Arduino	RedBearLab/nRF51822-Arduino	23685624	Add support for Arduino IDE to allow compiling nRF51822 firmware.	C	7986	153	62	153
+meteor-typescript-compiler	meteor-typescript/meteor-typescript-compiler	11442810	Typescript compiler for Meteor.js	JavaScript	510	152	22	152
+spack	LLNL/spack	15730865	A flexible package manager designed to support multiple versions, configurations, platforms, and compilers.	Python	18736	152	134	152
+pure4j	pure4j/pure4j	41108770	Compile-Time Purity and Immutability Semantics For The Java Language	Java	6734	152	4	152
+compressJS.sh	dfsq/compressJS.sh	2399561	Build several javascript files into the one build file previously compressing them with Google Closure Compiler.	Shell	141	151	41	151
+gradle-errorprone-plugin	tbroyer/gradle-errorprone-plugin	13370144	Gradle plugin to use the error-prone compiler for Java	Java	262	151	5	151
+jade-react	duncanbeevers/jade-react	16246629	Compile Jade templates to React.DOM expressions	CoffeeScript	296	151	11	151
+ichbins	darius/ichbins	758885	A tiny self-hosting Lisp-to-C compiler	C	44	150	13	150
+scapegoat	sksamuel/scapegoat	14594941	Scala compiler plugin for static code analysis	Scala	1059	150	25	150
+recc	RobertElderSoftware/recc	28613742	A collection of compiler, emulator and microkernel tools.	C	1371	150	10	150
+compilers-targeting-c	dbohdan/compilers-targeting-c	49368478	A list of compilers that can generate C code	null	27	149	14	149
+hogan_assets	leshill/hogan_assets	3047538	Compiles your mustache templates with hogan.js on sprockets and the Rails asset pipeline.	Ruby	264	149	31	149
+vicare	marcomaggi/vicare	642259	A native compiler for Scheme compliant with R6RS	Scheme	247945	148	24	148
+rustw	nrc/rustw	54919602	A web frontend for the Rust compiler	Rust	753	148	9	148
+asciidoctor.js	asciidoctor/asciidoctor.js	10153040	A JavaScript port of Asciidoctor produced by Opal, a Ruby to JavaScript source-to-source compiler.	JavaScript	18987	146	33	146
+php-peg	hafriedlander/php-peg	482795	PEG (parsing expression grammar) compiler for PHP	PHP	343	144	40	144
+Qtzweb	daeken/Qtzweb	7401172	Quartz Composer to JS/WebGL compiler	JavaScript	513	144	14	144
+sklearn-compiledtrees	ajtulloch/sklearn-compiledtrees	17885881	Compiled Decision Trees for scikit-learn	Python	103	144	21	144
+Fructose	charliesome/Fructose	1281093	A Ruby-like language that compiles to PHP	PHP	6991	144	6	144
+niecza	sorear/niecza	748725	A Perl 6 compiler targetting the CLR with an experimental focus on optimizations.	C#	18260	142	15	142
+django-libsass	torchbox/django-libsass	17447212	A django-compressor filter to compile SASS files using libsass	Python	26	142	19	142
+ClosureCompiler.js	dcodeIO/ClosureCompiler.js	8619611	Closure Compiler for node.js - the all-round carefree package.	JavaScript	97468	140	25	140
+blip	bjpop/blip	9052092	A bytecode compiler for Python 3	Haskell	1033	140	5	140
+Haanga	crodas/Haanga	769953	Template compiler for PHP, Django-style (as much as possible). Pretty efficent by avoiding to have anything at run-time.	PHP	1733	140	27	140
+go-staticcheck	dominikh/go-staticcheck	55308508	Staticcheck is a tool for statically checking the inputs to certain functions, such as regexp.Compile	Go	56	140	2	140
+dev_compiler	dart-lang/dev_compiler	26764547	Experimental Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.	JavaScript	30755	139	27	139
+js	akapav/js	567308	JavaScript compiler for Common Lisp	Common Lisp	469	139	20	139
+JsMinifier	cgutierrez/JsMinifier	3178934	Sublime Text plugin for javascript minification using Google Closure compiler	Python	128	139	21	139
+ffmpegc	lvjian700/ffmpegc	6823067	Compile ffmpeg for iOS, support armv7s , armvs7 & i386 simulator	Shell	6103	139	94	139
+ruby-ejs	sstephenson/ruby-ejs	1762906	EJS (Embedded JavaScript) template compiler for Ruby	Ruby	119	138	42	138
+oscrypto	wbond/oscrypto	36823752	Compiler-free Python crypto library backed by the OS, supporting CPython and PyPy	Python	904	138	13	138
+django-static-precompiler	andreyfedoseev/django-static-precompiler	13348441	Django Static Precompiler provides template tags and filters to compile CoffeeScript, LiveScript, SASS / SCSS, LESS, Stylus, Babel and Handlebars. It works with both inline code and external files.	Python	371	138	36	138
+nvc	nickg/nvc	2715244	VHDL compiler and simulator	C	10438	137	19	137
+SDC	SDC-Developers/SDC	693617	The Stupid D Compiler	D	14541	137	43	137
+cljs-bootstrap	swannodette/cljs-bootstrap	37529215	ClojureScript compiling ClojureScript	Clojure	604	137	15	137
+typed-actors	knutwalker/typed-actors	41612926	compile-time typechecked akka actors	Scala	1174	137	5	137
+ultra-tiny-compiler	elfet/ultra-tiny-compiler	55230149	Ultra Tiny Compiler	CoffeeScript	6	136	10	136
+scala-clippy	softwaremill/scala-clippy	48295798	Good advice for Scala compiler errors	Scala	247	136	6	136
+MassiveUnit	massiveinteractive/MassiveUnit	1172675	munit is a cross-platform unit testing framework for Haxe. Utilises metadata markup for test cases and includes tools for generating, compiling and running test cases from the command line.	Haxe	2325	136	44	136
+python-for-iphone	cobbal/python-for-iphone	908687	Build script for compiling python into a static library that can be used with the official SDK	Shell	222	136	20	136
+ajhc	ajhc/ajhc	8476973	A fork of jhc. And also a Haskell compiler.	Haskell	17062	135	23	135
+jack-compiler	Xiang1993/jack-compiler	36232116	jack语言编译器	C++	12067	134	43	134
+FSharp.Compiler.Service	fsharp/FSharp.Compiler.Service	13227260	The F# compiler as a component. For editors. For analyzers. For love. You know you want it.	F#	151836	133	80	133
+js2coffee.py	rstacruz/js2coffee.py	1463402	JS to CoffeeScript compiler. [DEPRECATED]	Python	124	133	5	133
+tesseract-ios-lib	ldiqual/tesseract-ios-lib	5926840	Tesseract and Leptonica libraries compiled for iOS.	C++	6542	133	37	133
+mlworks	Ravenbrook/mlworks	9699558	MLWorks is a Standard ML compiler and development environment.	Standard ML	31631	132	12	132
+scheme-to-c	akeep/scheme-to-c	14435776	A small nanopass compiler from a subset of Scheme to C.  (Developed for Clojure Conj 2013)	Scheme	196	131	17	131
+js-scrypt	tonyg/js-scrypt	9132271	Emscripten-compiled Javascript version of scrypt, a high-quality password-based key derivation function.	JavaScript	1347	131	21	131
+smokescreen	cesmoak/smokescreen	684961	A Flash player written in JavaScript. Now with more bugs! This version is a major rework of what was demoed last year. It is better in many ways, but also less complete in many ways. It also uses Canvas to render instead of SVG. The main difference, though, is that after making a mess building the first player, this codebase is actually maintainable. Currently cleaning up: tools to help dissect SWFs, and the AS2 -> JS compiler.	JavaScript	1013	131	6	131
+nghellostyle	zemirco/nghellostyle	19796570	AngularJS seed for Google Closure Compiler	JavaScript	609	130	25	130
+deadsimple-less-watch-compiler	jonycheung/deadsimple-less-watch-compiler	5892161	A nodejs script that allows you to watch a folder for changes and compile the less css files into another folder.	JavaScript	35	128	49	128
+peachpie	iolevel/peachpie	51158201	Peachpie - The PHP Compiler and Runtime for .NET	C#	51721	128	12	128
+shedskin	shedskin/shedskin	754170	Shed Skin is a Python to C++ compiler. Read the introduction below to learn about the restrictions.	C++	33562	128	28	128
+boomlet	busterc/boomlet	14511045	Bookmarklet compiler encloses, encodes, minifies your Javascript file and opens an HTML page with your new bookmarklet for immediate use.	JavaScript	80	128	3	128
+ofSketch	olab-io/ofSketch	13141904	A tool for quickly writing, compiling and running simple openFrameworks applications.	JavaScript	7106	128	10	128
+less4j	SomMeri/less4j	4661516	Less language is an extension of css and less4j compiles it into regular css. Less adds several dynamic features into css: variables, expressions, nested rules, and so on. Less was designed to be compatible with css and any correct css file is also correct less file.	Java	4654	127	40	127
+boot-cljs	adzerk-oss/boot-cljs	25374738	Boot task to compile ClojureScript programs.	Clojure	301	126	27	126
+CastOff	soba1104/CastOff	2084332	CastOff is a compiler for Ruby1.9.3. Command line tool cast_off is available after installation. See 'cast_off --help' for more information. 	Ruby	3098	126	2	126
+oxcart	arrdem/oxcart	20027298	[ABANDONED] An optimizing Clojure compiler	Clojure	869	125	2	125
+arduino-builder	arduino/arduino-builder	30358412	A command line tool for compiling Arduino sketches	Go	1374	125	36	125
+pytci	cheery/pytci	44389194	Python Compiler Infrastructure	Python	17	124	8	124
+nap	craigspaeth/nap	2321930	Compile, manage, & package stylesheets, javascripts, and javascript templates for node.js	CoffeeScript	2559	124	32	124
+turbopascal	lkesteloot/turbopascal	13640503	Web-based Turbo Pascal compiler.	JavaScript	162	123	21	123
+ceylon	ceylon/ceylon	46155527	The Ceylon compiler, language module, and command line tools	Java	115856	123	34	123
+evilml	akabe/evilml	40643230	A compiler from ML to C++ template language	JavaScript	1650	123	6	123
+maud	lfairy/maud	28127585	:pencil: Compile-time HTML templates for Rust	Rust	821	123	11	123
+LiteScript	luciotato/LiteScript	12522935	Compile-to-js and compile-to-c language, highly readable, keep it simple philosophy  	JavaScript	8243	123	6	123
+Website-Launch-Checklist-for-Web-Designers	tutsplus/Website-Launch-Checklist-for-Web-Designers	8601875	At FHOKE we’ve been through it all, from perfect launches to ones that have turned into complete nightmares! Through our experiences we’ve compiled a list, in no particular order, of a process we go through before we launch our sites. http://webdesign.tutsplus.com/articles/workflow/a-web-designers-site-launch-checklist-including-portable-formats/ ‎	null	179	123	39	123
+typescript-compile	niutech/typescript-compile	6068525	Automatically compile TypeScript to JavaScript on the fly	JavaScript	1501	122	34	122
+IL2JS	Reactive-Extensions/IL2JS	6460370	IL to JavaScript Compiler	C#	17118	121	17	121
+graal-core	graalvm/graal-core	51001011	Graal Compiler & Truffle Partial evaluator.	Java	34845	120	33	120
+rhine	artagnon/rhine	33313806	a C++ compiler middle-end for a typed ruby, using an LLVM backend	C++	1540	120	6	120
+atom-latex	thomasjo/atom-latex	17474966	Compile LaTeX documents from within Atom.	JavaScript	714	120	32	120
+accord	jescalan/accord	14939500	a unified interface for compiled languages and templates in javascript	CoffeeScript	702	120	24	120
+cordova-loader	andrewreedy/cordova-loader	21342532	[Deprecated] Cordova asset compiler and loader (phonegap). Works with Meteor, Express, Connect	JavaScript	1795	119	14	119
+rop_compiler	jeffball55/rop_compiler	53923774	An open source, multi-architecture ROP compiler written in python	Python	6262	118	22	118
+jooc-legacy	fasterthanlime/jooc-legacy	229820	:crocodile: The historical, initial implementation of an ooc compiler in Java	Java	45873	118	4	118
+snowball	snowballstem/snowball	8372403	Snowball compiler and stemming algorithms	C	1338	117	45	117
+idris-mode	idris-hackers/idris-mode	6729615	Idris syntax highlighting, compiler-supported editing, interactive REPL and more things for Emacs.	Emacs Lisp	927	117	34	117
+dogo	liudng/dogo	26855821	Monitoring changes in the source file and automatically compile and run (restart).	Go	3220	117	16	117
+JsonPullParser	vvakame/JsonPullParser	1118699	compiler time JSON-POJO Mapper for Java	Java	7139	116	17	116
+trill	harlanhaskins/trill	66735738	A simple, type safe, compiled language inspired by (and written in) Swift	Swift	388	116	2	116
+sql4pandas	keeganmccallum/sql4pandas	20035546	Efficient SQL bindings for the pandas data analysis library implemented entirely in python. Compile and execute sql queries directly on pandas data frames without copying to an external database.	Python	427	116	4	116
+Vacietis	vsedach/Vacietis	1059768	C to Common Lisp compiler	Common Lisp	667	115	18	115
+jisp	Mitranim/jisp	21154070	Lisp-style language that compiles to JavaScript	JavaScript	1661	115	9	115
+SugarCpp	curimit/SugarCpp	9536678	SugarCpp is a language which can compile to C++11.	C#	9618	115	5	115
+SPIRV-LLVM	KhronosGroup/SPIRV-LLVM	45472771	LLVM framework with SPIR-V support. It's intended to contain LLVM <-> SPIR-V converter and serve as a foundation for LLVM-based front-end compilers targeting SPIR-V.	C++	261432	115	34	115
+X11RDP-o-Matic	scarygliders/X11RDP-o-Matic	7456525	Currently for Debian-based distributions only, X11rdp-o-Matic automaticallydownloads, compiles, installs, and configures the X11rdp back-end X server , and the latest version of xrdp. RDPsesman is a menu driven utility for system administrators to configure local system users's RDP desktop environments. Will automatically install packages if necessary.	Shell	304	115	45	115
+grunt-contrib-jst	gruntjs/grunt-contrib-jst	5753559	Compile underscore templates to JST file.	JavaScript	157	114	47	114
+rcc	rcorcs/rcc	22624437	rcor C compiler (under development)	C++	1386	113	7	113
+castl	PaulBernier/castl	23633710	JavaScript to Lua compiler with runtime library.	JavaScript	870	113	5	113
+rascal	usethesource/rascal	5153143	The implementation of the Rascal meta-programming language (including interpreter, type checker, parser generator, compiler and JVM based run-time system)	Java	1057650	112	31	112
+idris-erlang	lenary/idris-erlang	26605686	Erlang Backend for Idris Compiler	Erlang	502	111	6	111
+new-bpf-tools	bl0ckeduser/new-bpf-tools	7246088	subset-of-C compiler targeting 32-bit x86	C	1018	111	9	111
+acyclic	lihaoyi/acyclic	16881820	Acyclic is a Scala compiler plugin to let you prohibit circular dependencies between files	Scala	361	111	5	111
+xproj	qfish/xproj	17104993	A shell script can batch adding compile flags like `-fno-objc-arc`or `-fobjc-arc` for all the files under the same dir by processing the project file.	Shell	259	111	31	111
+pkgconf	pkgconf/pkgconf	4180110	package compiler and linker metadata toolkit	C	885	110	24	110
+edgelisp	manuel/edgelisp	63127	A Lisp->JavaScript compiler	JavaScript	858	110	4	110
+clientside-haml-js	uglyog/clientside-haml-js	1927904	Haml compiler for client side javascript view templates	JavaScript	1279	110	10	110
+webchurch	probmods/webchurch	11485067	A Church to Javascript compiler	JavaScript	1533	109	13	109
+google_closure_compiler	mkelly12/google_closure_compiler	366970	Ruby on Rails plugin for shrinking JavaScript assets using the Google Closure Compiler	Python	3766	109	7	109
+rgo	yberreby/rgo	56426722	[WIP] A Go compiler, written in Rust.	Go	363	108	7	108
+vim-arduino	tclem/vim-arduino	2468436	Compile and Deploy Arduino sketches in Vim	VimL	5514	108	15	108
+gulp-ng-html2js	marklagendijk/gulp-ng-html2js	15631510	Gulp plugin for compiling the HTML files of your Angular app to Javascript.	JavaScript	47	108	17	108
+rose-edg3	rose-compiler/rose-edg3	3036283	Deprecated. Use rose-compiler/rose repository.	C++	355543	107	41	107
+PlastronJS	rhysbrettbowen/PlastronJS	3933141	MVC framework for Closure Library and Closure Compiler	JavaScript	10336	107	12	107
+fbc	freebasic/fbc	2458946	FreeBASIC is a completely free, open-source, multi-platform BASIC compiler, with syntax similar to MS-QuickBASIC, that adds new features such as pointers, unsigned data types, inline assembly, object orientation, and many others.	Visual Basic	50877	107	32	107
+SingleCompile	xuhdev/SingleCompile	3000761	A Vim plugin making it more convenient to compile or run a single source file.	VimL	724	107	18	107
+emscripted-ruby	replit/emscripted-ruby	2374693	Ruby 1.8.7 compiled to JavaScript	JavaScript	10329	106	11	106
+build-raspbian-image	andrius/build-raspbian-image	9570184	Build (and cross-compile) your own image for Raspberry Pi	Shell	200	106	64	106
+gulp-webpack-react-bootstrap-sass-template	glebm/gulp-webpack-react-bootstrap-sass-template	22775275	Web App Client Template: React. Sass, Coffee, JSX. Bootstrap for Sass. Compiled with Gulp and Webpack.	CoffeeScript	2846	106	29	106
+android-ndk-profiler	richq/android-ndk-profiler	7471494	A library you can compile into your Android NDK code to generate gprof-compatible profile information.	C	383	106	42	106
+intellij-java2smali	ollide/intellij-java2smali	16156708	A plugin for IntelliJ IDEA & Android Studio to easily compile Java & Kotlin files to smali.	Kotlin	7210	106	30	106
+tinyexpr	codeplea/tinyexpr	50113629	tiny recursive descent expression parser, compiler, and evaluation engine for math expressions	C	109	105	6	105
+wclang	tpoechtrager/wclang	12624943	Cross compile source code easily for Windows with clang on Linux/Unix	C++	219	105	15	105
+pycel	dgorissen/pycel	2605241	A library for compiling excel spreadsheets to python code & visualizing them as a graph	Python	301	105	34	105
+ACLLib	wengkai/ACLLib	8618010	ACLLib is a bunch of C functions covers Win32API and provides simpler API to beginners for programming Windows GUI applications. It compiles with MinGW and MS Visual Studio Express	C	1895	105	120	105
+Ahk2Exe	fincs/Ahk2Exe	2136168	Official AutoHotkey script compiler - written itself in AutoHotkey	AutoHotkey	175	104	28	104
+CobolScript	ajlopez/CobolScript	7284002	COBOL language compiler to JavaScript, work in progress	JavaScript	1072	104	8	104
+gphoto2-updater	gonzalo/gphoto2-updater	7683587	Gphoto2 compiler and installer script. This script was initially created for Raspbian and Raspberry Pi  but it is also tested for Ubuntu and Debian Jessie & Wheezy.	Shell	44	104	35	104
+sbt-protobuf	sbt/sbt-protobuf	1980781	sbt 0.13 plugin for compiling protobuf files	Scala	151	104	23	104
+llvm	bos/llvm	1772671	Haskell bindings to the LLVM compiler infrastructure project.  	Haskell	1765	103	38	103
+moc-ng	woboq/moc-ng	10079359	A reimplementation of Qt's moc using libclang. Contains both a drop-in remplacement,  and a plugin for the clang compiler.	C++	239	103	10	103
+skew	evanw/skew	27831481	A web-first, cross-platform programming language with an optimizing compiler	JavaScript	5984	103	4	103
+lesscpy	lesscpy/lesscpy	3291035	Python LESS compiler	Python	965	102	40	102
+scaladotnet	magarciaEPFL/scaladotnet	3144849	Scala SDK (compiler and standard library) for .NET	Scala	2776	102	7	102
+nodeNES	gutomaia/nodeNES	4496286	A 6502 Nintendo 8 bit compiler written in Javascript	JavaScript	853	102	13	102
+less-css-mode	purcell/less-css-mode	2268746	Emacs mode for LESS CSS (lesscss.org), with support for compile-on-save	Emacs Lisp	72	102	17	102
+LuvvieScript	hypernumbers/LuvvieScript	12141834	Luvvie Script. An Erlang dialect that compiles to Javascript for Actor-style DOM scripting	Erlang	1800	102	15	102
+linux-ios-toolchain	waneck/linux-ios-toolchain	17956613	Compile ios programs on linux (fork of http://code.google.com/p/ios-toolchain-based-on-clang-for-linux/ )	C	14383	102	17	102
+kcov	SimonKagstrom/kcov	856461	Code coverage tool for compiled programs, Python and Bash which uses debugging information to collect and report data without special compilation options	C++	8070	102	26	102
+cppcomponents	jbandela/cppcomponents	11266332	Allows you to write binary components in C++11 that can be used across different compilers and standard libraries	C++	3435	102	12	102
+llvm	Microsoft/llvm	29704274	Fork of the LLVM Compiler Infrastructure	C++	776207	101	44	101
+orderly.js	zaach/orderly.js	449041	An Orderly compiler in JavaScript	JavaScript	185	101	15	101
+XSD-to-PHP	moyarada/XSD-to-PHP	826751	Legko XML: compile XSD schema to PHP, XML marshalling/unmashalling	PHP	1268	101	35	101
+gears	gears/gears	2849430	Compiles and concatenates JavaScript and CSS assets. Inspired by Ruby's Sprockets.	Python	810	101	16	101
+gdev	shinpei0208/gdev	2743512	First-Class GPU Resource Management: Device Drivers, Runtimes, and CUDA Compilers for Nouveau.	C	153494	101	20	101
+tools	dlang/tools	1262864	Ancillary tools for the D programming language compiler	D	857	100	99	100
+node-cross-compiler	felixge/node-cross-compiler	6145646	Simplified cross compiling for node.js using vagrant.	Shell	140	100	23	100
+LLVMPascalCompiler	FrozenGene/LLVMPascalCompiler	22813354	This is the source code of My LLVM Pascal Compiler Tutorial	C++	69	99	32	99
+angular-bind-html-compile	incuna/angular-bind-html-compile	17635126	Directive that calls $compile on trusted HTML, allowing directives in an API response.	JavaScript	25	99	30	99
+hsandbox	niemeyer/hsandbox	917028	Hacking Sandbox: Multi-language interactive edit [> compile] > run hacking and experimenting tool.	Python	345	99	21	99
+xcodelegacy	devernay/xcodelegacy	13420314	Legacy components for XCode 4/5/6/7 (deprecated compilers and Mac OS X SDKs)	Shell	116	99	18	99
+mpv-build	mpv-player/mpv-build	6201147	Helper scripts to compile mpv on Linux	Shell	301	98	23	98
+lambda-packages	Miserlou/lambda-packages	53264500	Various popular python libraries, pre-compiled to be compatible with AWS Lambda	Shell	56458	98	16	98
+clcache	frerich/clcache	1190383	A compiler cache for MSVC, much like ccache for gcc	Python	757	97	35	97
+clike	combinatorylogic/clike	23763486	A simple C-like language compiler with an extensible syntax and typed macros support	Perl	517	97	3	97
+WP-SCSS	ConnectThink/WP-SCSS	13501562	Wordpress Plugin that compiles sass using scssphp	PHP	149	97	32	97
+bcftools	samtools/bcftools	11368595	This is the official development repository for BCFtools. To compile, the develop branch of htslib is needed: git clone --branch=develop git://github.com/samtools/htslib.git htslib	C	10868	97	64	97
+LiScript	viclib/LiScript	8896276	Fully-featured, blazingly-fast language that compiles to beautiful, hand-made-like JavaScript. Implemented in less than 100 lines.	JavaScript	185	97	8	97
+WhileyCompiler	Whiley/WhileyCompiler	1100771	The Whiley Compiler (WyC)	Java	46239	96	18	96
+rust-musl-builder	emk/rust-musl-builder	56430295	Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries	Shell	17	96	8	96
+Try-Handlebars.js	jblotus/Try-Handlebars.js	1769418	In Browser Handlebars.js compiler for quick testing	HTML	9833	95	34	95
+build-libcurl-windows	blackrosezy/build-libcurl-windows	10297772	Batch script to download and build libcurl (using Visual Studio compiler)	HTML	1865	95	32	95
+risotto	mamaar/risotto	34954032	Risotto compiles JSX using Golang	Go	3690	95	4	95
+compiler-rt	llvm-mirror/compiler-rt	3287453	Mirror of official compiler-rt git repository located at http://llvm.org/git/compiler-rt.  Updated every five minutes.	C	32995	94	153	94
+Java-Runtime-Compiler	OpenHFT/Java-Runtime-Compiler	13050340	Java Runtime Compiler	Java	139	94	52	94
+media-autobuild_suite	jb-alvarado/media-autobuild_suite	13179939	This Windows Batchscript is for setup a compiler environment for building ffmpeg and other media tools under Windows.	Shell	6128	94	25	94
+python-cmake-buildsystem	python-cmake-buildsystem/python-cmake-buildsystem	1304677	A cmake buildsystem for compiling Python	CMake	1025	94	48	94
+phantomjs-linux-armv6l	aeberhardo/phantomjs-linux-armv6l	8138932	PhantomJS compiled on a Raspberry PI (Raspbian "wheezy").	null	23533	94	18	94
+phosphorus	nathan/phosphorus	14090955	JavaScript compiler for Scratch projects.	JavaScript	5660	93	51	93
+shadow-build	thheller/shadow-build	15189865	ClojureScript compile&build library	Clojure	780	93	13	93
+brew	jakewins/brew	1410597	Maven plugin for compiling coffeescript, haml-js and aggregating AMD-based js projects.	JavaScript	723	93	20	93
+crate	copiousfreetime/crate	72697	(No longer in development) Tool for building and packaging standalone statically compiled ruby appliations	Ruby	653	93	14	93
+qmlc	qmlc/qmlc	22053374	Qml Compiler	C++	1151	92	19	92
+irken-compiler	samrushing/irken-compiler	1768985	Irken is a statically typed variant of Scheme.  Or a lisp-like variant of ML.	C	8998	92	5	92
+hastyscribe	h3rald/hastyscribe	12995383	Self-contained markdown compiler generating self-contained HTML documents	CSS	6356	92	6	92
+js.rs	TomBebbington/js.rs	18477355	An experimental Javascript parser and just-in-time compiler written in Rust	Rust	5284	92	6	92
+android-ffmpeg	mconf/android-ffmpeg	1756871	Android project used to compile the FFmpeg source code with Android NDK	Shell	125	92	68	92
+DotNetZip.Semverd	haf/DotNetZip.Semverd	2277110	A fork of the DotNetZip project without signing with a solution that compiles cleanly. This project aims to follow semver to avoid versioning conflicts.  DotNetZip is a FAST, FREE class library and toolset for manipulating zip files. Use VB, C# or any .NET language to easily create, extract, or update zip files.	C#	6923	92	47	92
+IrcDotNet	IrcDotNet/IrcDotNet	455524	IRC.NET is a complete IRC (Internet Relay Chat) client library for the .NET Framework 4.0 and Silverlight 4.0. It aims to provide a complete and efficient implementation of the protocol as described in RFCs 1459 and 2812, as well as de-facto modern features of the protocol.  The .NET Framework version of the library is also intended to compile and run under Mono 2.6 and later. Note: this branches hosted here are clones of the official branches hosted on Launchpad.	C#	3130	92	44	92
+css-select	fb55/css-select	3411063	a CSS selector compiler/engine	JavaScript	317	91	18	91
+las3r	aemoncannon/las3r	52587	A lisp compiler for the AVM2.	ActionScript	9356	91	6	91
+pokemon-reverse-engineering-tools	pret/pokemon-reverse-engineering-tools	11867626	Tools for compiling and disassembling Pokémon Red and Pokémon Crystal	Python	2815	91	21	91
+grunt-compile-handlebars	patrickkettner/grunt-compile-handlebars	6162676	grunt plugin to compile static html from a handlebars plugin	JavaScript	229	91	27	91
+VSMonoTouch	follesoe/VSMonoTouch	1751055	Visual Studio 2010 extension to load and compile MonoTouch projects	C#	199	90	22	90
+crisp-compiler	talw/crisp-compiler	30664425	A compiler for Crisp (Lisp/Scheme-inspired language) in Haskell, with an LLVM backend	Haskell	95	89	3	89
+shc	neurobin/shc	33220655	Shell script compiler	Shell	975	88	32	88
+shaderdsl	adobe-webplatform/shaderdsl	13072275	A compiler from a subset of JavaScript to GLSL.	JavaScript	256	88	13	88
+sass-maven-plugin	Jasig/sass-maven-plugin	4182849	Maven Plugin to Compile SASS files into CSS	Java	573	88	82	88
+shakespeare	yesodweb/shakespeare	572298	Haml-like template files that are compile-time checked	Haskell	1531	88	53	88
+wp-less	oncletom/wp-less	3234631	WordPress plugin which seemlessly compiles, caches and rebuilds your LESS stylesheets.	PHP	333	88	42	88
+XposedTools	rovo89/XposedTools	33479725	These tools can be used to compile and package the Xposed framework.	Perl	3107	88	49	88
+Let-s-build-a-compiler	vtudose/Let-s-build-a-compiler	2384858	A C version of the Let's Build a Compiler, by Jack Crenshaw 	C	322	87	24	87
+ti_coffee_plugin	billdawson/ti_coffee_plugin	1622773	(ABANDONED) A build-time CoffeeScript compiler plugin for Titanium build scripts	Python	2146	87	16	87
+vm.js	tarruda/vm.js	12270967	Javascript bytecode compiler and VM implemented in pure coffeescript	CoffeeScript	479	87	11	87
+homebrew-gnuradio	metacollin/homebrew-gnuradio	22553116	Latest dev build using OS X Yosemite 10.10's built in compiler, clang and llvm.  Builds without issue or patches, complete with working GUI and docs if desired.	Ruby	299	87	40	87
+ansible-go	jlund/ansible-go	15426362	Ansible role that installs Go (http://golang.org/). The latest stable release that has been compiled for x86 64-bit Linux systems is installed by default, and different platforms and versions are supported by modifying the role variables.	Shell	26	87	37	87
+requirejs-react-jsx	podio/requirejs-react-jsx	22870828	A RequireJS plugin for loading jsx in development and compiling (with r.js). Supports bundling and 1:1 source maps in development and production.	JavaScript	260	87	16	87
+flatcc	dvidelabs/flatcc	45867575	FlatBuffers Compiler and Library in C for C	C	976	86	15	86
+book	genomicsclass/book	18811364	Compiled and pretty version of labs	null	60811	86	94	86
+mysql-build	kamipo/mysql-build	2940469	Compile and install MySQL	Shell	93	86	16	86
+pdbex	wbenny/pdbex	48516744	pdbex is a utility for reconstructing structures and unions from the PDB into compilable C headers	C++	107	86	7	86
+ctti	Manu343726/ctti	40215693	Compile Time Type Information for C++	C++	35	85	4	85
+whack	mwilliamson/whack	6360503	Compile and run relocatable Linux programs	Python	1716	85	1	85
+Compiler	hoaproject/Compiler	5538817	The Hoa\Compiler library.	PHP	716	84	21	84
+lesscss-python	metalshark/lesscss-python	1125541	lessCSS Python Compiler	Python	261	84	20	84
+naegleria	igorw/naegleria	25552529	A brainfuck compiler written in PHP. Also, a brain-eating amoeba.	PHP	207	84	11	84
+lets-build-a-compiler	cmr/lets-build-a-compiler	14795414	null	Rust	191	84	4	84
+react-jsx	bigpipe/react-jsx	31301496	Compile transform your JSX templates into a template engine that works client AND server side	JavaScript	23	84	5	84
+swallow	lexchou/swallow	26099030	Swift compiler	C++	4580	83	14	83
+CinC	Bronsa/CinC	10735200	[MOVED] Clojure compiler in Clojure	Clojure	2847	83	5	83
+markdown	vtalbot/markdown	7176414	Markdown compiler for Laravel 4 and 5	PHP	251	83	22	83
+AngelScript-JIT-Compiler	BlindMindStudios/AngelScript-JIT-Compiler	2730420	A Just-In-Time compiler for the AngelScript language on x86 processors.	C++	195	83	20	83
+latex-online	aslushnikov/latex-online	4188244	Online latex compiler. You give it a link, it gives you PDF	Python	145	83	19	83
+p4factory	p4lang/p4factory	30051293	Compile P4 and run the P4 behavioral simulator	C	3053	83	64	83
+PyHAML	mikeboers/PyHAML	757836	Pythonic implementation of HAML, cross compiling to Mako template syntax.	Python	550	83	7	83
+vim-config	rafi/vim-config	15637960	Lean mean (Neo)Vim machine. Use with Neovim v0.1.5 or Vim v7.4+ compiled with +lua +python	VimL	1131	83	14	83
+UniLinq	RyotaMurohoshi/UniLinq	28253923	[Obsolete]Class library for LINQ to Objects on Unity GameEngine without Exceptions related AOT compile.	C#	265	83	13	83
+router	bephp/router	43166745	A barebones router for PHP. Automatic get variable based on handler function parameter list. Suport to compile router callback handlers into plain array source code.	PHP	192	83	25	83
+gulp-closure-compiler	steida/gulp-closure-compiler	18312685	Gulp plugin for Google Closure Compiler	JavaScript	61	82	34	82
+no-sane-compiler	jfbastien/no-sane-compiler	58282056	No sane compiler would optimize atomics: the presentation	CSS	2291	82	4	82
+lancet	TiarkRompf/lancet	7470469	surgical precision JIT compilers	Scala	4819	82	10	82
+elegant-weapons	eholk/elegant-weapons	2697561	An R6RS framework for creating compilers that target C.	Scheme	385	82	10	82
+mingw-builds	niXman/mingw-builds	4587962	Scripts for building the dual-target(32 & 64 bit) MinGW-W64 compilers for 32 and 64 bit Windows	Shell	4784	82	29	82
+awib	matslina/awib	14028685	a brainfuck compiler written in brainfuck	Brainfuck	177	81	2	81
+sublime-coffee-compile	surjikal/sublime-coffee-compile	4868311	Preview compiled CoffeeScript in your editor!	Python	380	81	20	81
+EcomDev_LayoutCompiler	EcomDev/EcomDev_LayoutCompiler	31786265	Layout Compiler for Magento	PHP	201	80	15	80
+cyclone	justinethier/cyclone	31150535	:cyclone: The Cyclone Scheme compiler: Cheney on the M.T.A with native threads.	Scheme	4764	80	2	80
+echoe	evan/echoe	25013	A Rubygems packaging tool that provides Rake tasks for documentation, extension compiling, testing, and deployment	Ruby	495	80	16	80
+php-sass	panique/php-sass	23504856	Compiles SASS to CSS automatically with pure PHP. No ruby used. One line of code. Currently uses latest SCSS 3.2 syntax, imports and mixins. Compass can also be used.	PHP	196	80	14	80
+cbc	aamine/cbc	9150058	Cb (C flat) compiler.  Cb is simplified C.	Java	1078	79	24	79
+apltail	melsman/apltail	25490058	APL Compiler targeting a typed array intermediate language	Standard ML	563	79	5	79
+STM32F4-Discovery-Firmware	nabilt/STM32F4-Discovery-Firmware	2685166	Modified STM32F4 Discovery Demo Firmware from ST compile with arm-none-eabi-gcc	C	10884	79	82	79
+django-coffeescript	andreyfedoseev/django-coffeescript	1885574	Django template tags to compile CoffeeScript	Python	164	79	25	79
+gcc-rs	alexcrichton/gcc-rs	26039547	Rust library for build scripts to compile C/C++ code into a Rust library	Rust	808	79	49	79
+chameleon	malthe/chameleon	1390870	Chameleon Template Compiler	Python	2015	78	47	78
+FSCL.Compiler	FSCL/FSCL.Compiler	7937738	FSharp OpenCL Compiler	F#	27034	78	10	78
+s2js	alvaroc1/s2js	817308	Scala to Javascript compiler	Scala	992	78	4	78
+grunt-contrib-yuidoc	gruntjs/grunt-contrib-yuidoc	5722322	Compile YUIDoc Documentation.	JavaScript	82	78	21	78
+sass-java	darrinholst/sass-java	1711412	A Sass compiling filter for Java web apps	Java	187	78	27	78
+mac-dev-env	pbougie/mac-dev-env	2799636	Guide for compiling a Web Development Environment on OS X.	CSS	671	78	22	78
+autoprovider	workarounds/autoprovider	43882808	Content provider generator for android using compile time annotation processing	Java	177	78	11	78
+babel-plugin-transform-define	FormidableLabs/babel-plugin-transform-define	54291452	Compile time code replacement for babel similar to Webpack's DefinePlugin	JavaScript	43	77	5	77
+android-ndk-swig-example	sureshjoshi/android-ndk-swig-example	31898831	This project is a full example of using Android Studio (1.0+), Gradle (1.0+), NDK, and SWIG to automatically compile and setup C++ libraries and Java wrappers in Android Studio.	C++	130	77	21	77
+Python-CoffeeScript	doloopwhile/Python-CoffeeScript	3062406	A bridge to the JS CoffeeScript compiler.	Python	616	76	17	76
+locic	scrossuk/locic	27149680	Compiler and tools for the Loci programming language.	C++	13036	76	5	76
+intellij-lessc-plugin	acdvorak/intellij-lessc-plugin	4527127	LESS CSS compiler plugin for the JetBrains IntelliJ platform (IntelliJ IDEA 11+, PhpStorm 5+, WebStorm 5+, RubyMine 4.5+)	JavaScript	22613	76	23	76
+scalan	scalan/scalan	23384554	Generic framework for development of domain-specific compilers in Scala	Scala	20453	76	18	76
+grunt-jade	phated/grunt-jade	4376764	(No Longer Supported) Grunt.js plugin to compile jade templates to JavaScript functions (normal or AMD) or plain HTML	JavaScript	1990	76	25	76
+Coedit	BBasile/Coedit	47413114	IDE for the D programming language, its compilers, tools and libraries	Pascal	37115	76	4	76
+geeks-pdf	dufferzafar/geeks-pdf	45192807	PDF versions of Geeks for Geeks articles. Compiled into book form.	Python	227	76	5	76
+PDF-Voyeur	below/PDF-Voyeur	777376	An Apple Sample Project to demonstrate reading PDF Metadata with CoreGraphcis. I have update the project to compile in the 10.6 SDK	Objective-C	129	76	6	76
+mc	oridb/mc	16144976	Myrddin Compiler	C	4441	75	9	75
+browser-solidity	chriseth/browser-solidity	39510585	Solidity compiler to be run inside a browser	JavaScript	88886	75	35	75
+asn1scc	ttsiodras/asn1scc	10936997	ASN1SCC: An open source ASN.1 compiler for embedded systems	C	7057	75	18	75
+AssetsMinify	acarbone/AssetsMinify	8205901	WordPress plugin to minify JS and CSS assets and compile sass/less stylesheets.	PHP	1091	75	15	75
+compiletime	jasononeil/compiletime	7317079	Simple Haxe Macro Helpers that let you do or get things at compile-time.	Haxe	187	74	7	74
+unassert	twada/unassert	36333911	Encourage reliable programming by writing assertions in production code, and compiling them away from release	JavaScript	47	74	3	74
+YaneuraOu	yaneurao/YaneuraOu	49797892	shogi engine(AI player), stronger than Bonanza6 , educational and tiny code(about 2500 lines) , USI compliant engine , capable of being compiled by VC++2015	C++	26084	74	21	74
+roadsend-php	weyrick/roadsend-php	3192842	Original Roadsend PHP compiler/implementation	Scheme	3774	73	29	73
+ddc	DDCSF/ddc	5932153	The Disciplined Disciple Compiler	Haskell	48780	73	12	73
+webpack-closure-compiler	roman01la/webpack-closure-compiler	39008453	Google Closure Compiler plugin for Webpack	JavaScript	34300	73	6	73
+coffeeify	substack/coffeeify	8535804	browserify v2 plugin to compile coffee-script automatically	JavaScript	177	73	53	73
+patch-AuthenticAMD	jimenezrick/patch-AuthenticAMD	1730842	Utility to patch binaries generated by the Intel C++ Compiler to get the maximum performance on AMD CPUs	C	216	73	2	73
+revisit	MoritzStefaner/revisit	648410	revisit is a real-time visualization of the latest twitter messages (tweets) around a specific topic. Use it create your own twitter wall at a conference or an ambient display at your company or whatever other idea you come up with. In contrast to other twitterwalls, it provides a sense of the temporal dynamics in the twitter stream, and emphasizes the conversational threads established by retweets and @replies. You will need Flash CS4 to compile the sources.	ActionScript	2135	73	12	73
+eXpand	expand/eXpand	369627	This is a development fork so there may be times that the source code cannot even compile. But nightly builds are available for this fork that can provide the latest compilable version at our downloads page (see url bellow)	C#	121710	72	80	72
+ub-canaries	regehr/ub-canaries	33684641	collection of C/C++ programs that try to get compilers to exploit undefined behavior	C	54	72	10	72
+csxs	creativemarket/csxs	9351495	A build tool for Adobe® Creative Suite® extensions. Create, compile, debug, package, & deploy to S3 with ease!	JavaScript	3230	72	12	72
+laravel-sass	panique/laravel-sass	16761415	Automatic SASS-to-CSS compiling for Laravel 4 (and any other framework too), config-free, in pure PHP, works with latest SASS 3.2 .scss syntax, imports and mixins	PHP	452	72	31	72
+mlkit	melsman/mlkit	20017252	Standard ML Compiler and Toolkit	Standard ML	37145	71	9	71
+likely	biometrics/likely	8326515	A compiler intermediate representation for image recognition and heterogeneous computing.	LLVM	6969	71	7	71
+markit	lepture/markit	14884582	A markdown parser and compiler with custom rendering. Forked from marked.	JavaScript	179	71	2	71
+rust-webplatform	tcr/rust-webplatform	42339190	Rust library for Emscripten-compiled JS apps.	JavaScript	515	71	3	71
+syntax-parser	hanickadot/syntax-parser	61965362	Compile time LL1 parser in C++ templates.	C++	75	71	0	71
+compiler	evansneath/compiler	7552018	A single-pass, recursive decent LL(1) compiler written by hand for a made-up language.	Python	442	70	14	70
+ohmu	google/ohmu	19086133	Compiler intermediate language for static analysis.	C++	2182	70	11	70
+Woo	arctanx0/Woo	48914094	a simple compiler written in c++	C++	31	70	16	70
+toccata	jduey/toccata	27415375	A Clojure dialect that compiles to native executable using the Clang compiler	C	15379	70	3	70
+dcpu-lisp	jlongster/dcpu-lisp	4089724	A Lisp-like language that compiles to DCPU-16 assembly code	JavaScript	2569	70	6	70
+php-compiler	ircmaxell/php-compiler	39860637	A compiler. For PHP	PHP	190	69	3	69
+jader	zohararad/jader	5518949	Client and Server side Jade template compiler for Rails	Ruby	108	69	10	69
+cloud-gox	jpillora/cloud-gox	30223876	A Go (golang) Cross-Compiler in the cloud	Go	2998	69	5	69
+pypy	tycho/pypy	570198	PyPy is both an implementation of the Python programming language, and an extensive compiler framework for dynamic language implementations.	Python	179408	69	68	69
+musl-cross	GregorR/musl-cross	4933338	A small suite of scripts and patches for building musl libc cross compilers.	Shell	310	69	31	69
+libfirm	MatzeB/libfirm	182333	graph based intermediate representation and backend for optimising compilers	C	45298	69	9	69
+vue-component-compiler	vuejs/vue-component-compiler	24738920	Compile a single file Vue component into a CommonJS module.	JavaScript	309	68	13	68
+ruby-eco	sstephenson/ruby-eco	1847848	Ruby Eco Compiler	Ruby	118	68	5	68
+lithium	nathell/lithium	2598513	Clojure-based x86 assembler and toy Lisp compiler	Clojure	187	68	3	68
+CloverGrower	STLVNUB/CloverGrower	7578130	Compile Tool For Clover UEFI/bios OS X Booter	Shell	1453	68	76	68
+android-sqlite-generator	Trikke/android-sqlite-generator	14027635	A Compiler which generates helper-classes and structures from describing json schemes. Less hassle, less boilerplate code that needs to be written and easier to maintain.	Java	451	68	10	68
+jtransc	jtransc/jtransc	51313992	JVM AOT compiler created in Kotlin, with initial focus on Kotlin and games generating Javascript and Haxe and thus targeting JS, Flash, PHP, C++, Android, iOS, Tizen, Windows, Linux and macOS among others	Java	10323	68	4	68
+StackExchange.Precompilation	StackExchange/StackExchange.Precompilation	35821274	Roslyn based csc.exe and aspnet_compiler.exe replacement with metaprogramming hooks for ASP.NET MVC projects from the pre-DNX era	C#	1713	68	8	68
+vim-compiler-go	rjohnsondev/vim-compiler-go	6854010	Vim compiler plugin for Go (golang)	VimL	21	67	17	67
+amigaos-cross-toolchain	cahirwpz/amigaos-cross-toolchain	3436657	AmigaOS cross compiler for Linux / MacOSX / Windows	C	1861	67	17	67
+pawn	Zeex/pawn	3222079	Pawn compiler 3.2.3664 with bug fixes (aka Pawn 3.10)	C	2594	67	14	67
+pascal-in-python	alcides/pascal-in-python	312027	Pascal compiler implemented in python using Lex, Yacc and LLVM	Python	188	67	12	67
+MateVM	MateVM/MateVM	5838573	A Java JIT compiler written in Haskell	Java	360	67	1	67
+lein-garden	noprompt/lein-garden	13457421	Leiningen plugin for compiling Garden stylesheets.	Clojure	62	67	14	67
+tsh	creaktive/tsh	1748685	Tiny SHell - An open-source UNIX backdoor (by Christophe Devine; I just made it compile on iPhone)	C	117	67	34	67
+nanopass-framework-scheme	nanopass/nanopass-framework-scheme	48553863	The new nanopass framework; an embedded DSL for writing compilers in Scheme	Scheme	27348	67	5	67
+flexmojos	velo/flexmojos	3694329	A collection of maven goals to allow maven to compile, optimize, and test Flex SWF, Flex SWC, Air SWF, Air SWC and Air package	Java	21264	67	77	67
+duster.js	dmix/duster.js	2978041	Dust.js template auto-compiler (watches directory for changes)	JavaScript	2929	66	27	66
+krafix	KTXSoftware/krafix	24399117	SPIR-V based GLSL cross-compiler	C	3277	66	12	66
+ffi_gen	neelance/ffi_gen	3556352	A generator for Ruby FFI bindings, directly from header files via LLVM's Clang compiler	C	3968	66	13	66
+luxor	thi-ng/luxor	16990488	Clojure based LXS scene graph compiler, generator & mesh exporter for Luxrender	Shell	828	66	3	66
+assemble-less	assemble/assemble-less	8470606	Grunt task for compiling LESS to CSS. This task does for less what Assemble does for HTML, making it much easier to modularize and reduce repetition in stylesheets.	JavaScript	1648	66	18	66
+layout	randrew/layout	60119352	Library for calculating 2D UI layouts using stacking boxes. Compiles as C99 or C++. Two files.	C	45	66	3	66
+colony-compiler	tessel/colony-compiler	14322764	[UNMAINTAINED] "Compiles" JS to Lua to run on Colony.	JavaScript	4784	65	11	65
+bfc	Wilfred/bfc	34221508	An industrial-grade brainfuck compiler	Rust	2615	65	3	65
+inertia	honza/inertia	10021056	A Lisp to Javascript compiler	JavaScript	59	65	3	65
+ocaml_llvm	iskandr/ocaml_llvm	3516155	Toy compiler for OCaml Meetup	OCaml	128	65	3	65
+cc	cznic/cc	53042822	Package CC is a C99 compiler front end.	Go	638	65	5	65
+graphviz.js	bpartridge/graphviz.js	4097313	Graphviz layout engine running in the browser using the Emscripten cross-compiler	JavaScript	1739	65	9	65
+osx-pl2303	berg/osx-pl2303	529279	MOVED: A very unofficial fork of the Prolific PL2303 driver hosted at http://osx-pl2303.sourceforge.net/, compiled for modern versions of Mac OS X, including Snow Leopard.  Patches very welcome, particularly those that add vendor/device IDs.  Prebuilt PKG (just as good as a DMG!) available for download, works on Snow Leopard (Mac OS X 10.6) 32-bit and 64-bit kernels.	C++	170	65	26	65
+hadrian	snowleopard/hadrian	28409516	Hadrian: a new build system for the Glasgow Haskell Compiler	Haskell	2235	64	17	64
+xchain	Tatsh/xchain	2318231	A cross compiler toolchain targeting OS X/Darwin.	C	69029	64	17	64
+opam-ios	fxfactorial/opam-ios	50095462	OCaml cross-compiler for iOS	null	1663	64	1	64
+lemon-php	wez/lemon-php	1017701	A PHP parser generator, based on the lemon parser generator tool. lemon-php requires a C compiler to build, and this will generate pure-PHP parsers.	C	395	64	11	64
+play2-typescript	mumoshu/play2-typescript	6079510	TypeScript assets handling for Play 2.0. Compiles .ts files under the /assets dir along with the project.	Scala	329	64	19	64
+cljs-terra	ohpauleez/cljs-terra	16923855	A Terra-backed ClojureScript compiler	Clojure	256	63	2	63
+avrgirl-arduino	noopkat/avrgirl-arduino	37959073	:girl: :pager: A NodeJS library for flashing compiled sketch files to Arduino microcontroller boards.	JavaScript	579	63	19	63
+SIPHON-SIP-Client-that-actually-compiles	radif/SIPHON-SIP-Client-that-actually-compiles	4019703	SIPHON SIP VOIP Client that actually compiles and runs on ios5 non-jailbroken phones. Works on the device and simulator! (GPL). Here is the original repository: http://code.google.com/p/siphon/	C	25498	63	40	63
+linux-surfacepro3	matthewwardrop/linux-surfacepro3	33105916	Arch Linux package to compile the Linux kernel with patches designed to improve user experience on the Surface Pro 3.	Shell	245	63	11	63
+react-boilerplate	mbrio/react-boilerplate	31851021	A set of boilerplates for use compiling static applications consisting of ES6 source using Babel and Webpack. The various branches of React Boilerplate correspond with different versions of React and various Flux libraries.	null	442	63	7	63
+gulp-swig	colynb/gulp-swig	13939379	Swig template compiler for Gulp	JavaScript	40	62	20	62
+PythonCompilerWorkbench	pgbovine/PythonCompilerWorkbench	14973906	Live coding environment to develop intuition about how Python source code compiles to ASTs and bytecodes	JavaScript	2179	62	14	62
+docker-build-ghc-android	sseefried/docker-build-ghc-android	26993735	A Dockerfile to build a GHC 7.8.3 ARM cross compiler for Android development	Shell	186	62	10	62
+PyV8-OS-X	brokenseal/PyV8-OS-X	4014512	Compiled PyV8 for Mac OS X	Python	3142	62	10	62
+gut	unbalancedparentheses/gut	21337789	ALPHA :scroll: gut retrieves templates and compile them to scaffold projects and create standalone files	Go	6923	62	7	62
+node-elm-compiler	rtfeldman/node-elm-compiler	32271778	A Node.js interface to the Elm compiler binaries.	JavaScript	111	61	15	61
+docker-raspberry-pi-cross-compiler	sdt/docker-raspberry-pi-cross-compiler	26910329	Raspberry Pi cross-compiler and sysroot in a Docker container.	Shell	57	61	17	61
+Kit	bdkjones/Kit	8827950	The Kit Compiler, as implemented in CodeKit	Objective-C	107	61	4	61
+more	army8735/more	10377135	a css pre-compiler&agressive compressor	JavaScript	2497	61	4	61
+bitsy-swift	apbendi/bitsy-swift	62432610	A small compiler, written in Swift, compiling the Bitsy language	Swift	59	61	2	61
+sprockets-derailleur	steel/sprockets-derailleur	7427641	Speed up Manifest::Compile by forking processes	Ruby	25	61	33	61
+piplin	dgrnbrg/piplin	3175866	Compile Clojure to FPGAs	Clojure	1643	61	8	61
+OpenWrt-RT5350	Squonk42/OpenWrt-RT5350	7593887	Patches to compile OpenWrt Linux on Ralink RT5350-based routers	null	168	61	30	61
+guard-coffeescript	netzpirat/guard-coffeescript	1025813	Guard::CoffeeScript compiles or validates your CoffeeScripts automatically when files are modified.	Ruby	490	61	34	61
+Channel-Data	objectivehtml/Channel-Data	2522321	A helper class that compiles all the necessary models to easily gather ExpressionEngine channel data. The main benefit of this library is its ability to be dropped into any existing add-on and retrieve channel data extremely easily without having to load all the models. Another added advantage is the ability to consistently retrieve data throughout all your add-ons.	PHP	427	61	9	61
+jw-community	jogetworkflow/jw-community	1982458	Mirror of the Joget Workflow v3, v4 and v5 SVN repository. Joget Workflow is a platform to easily build enterprise Web apps for cloud and mobile. Build full-fledged apps, e.g. CRM, HR, Healthcare, etc. Drag and drop forms, lists, and UI elements. Add workflows to automate processes. Extend via plugins. Apps are mobile optimized and cloud ready. Download ready made apps from the Joget Marketplace. The compiled binaries are available for download at http://www.joget.org/download	Java	17462	61	40	61
+Compiler	shiyanhui/Compiler	6295326	Compiler for C language with python	Python	187	60	27	60
+SharpKit	SharpKit/SharpKit	14582190	C# to JavaScript Compiler	C#	22602	60	29	60
+puppet-catalog-test	invadersmustdie/puppet-catalog-test	7852205	Tests all your puppet catalogs for compiler errors	Ruby	81	60	25	60
+rubi	embedded2015/rubi	44351941	Ruby-like high-performance script programming language with JIT compiler	C	127	60	42	60
+django-static-compiler	dcramer/django-static-compiler	7902313		Python	410	60	7	60
+laravel-db-blade-compiler	Flynsarmy/laravel-db-blade-compiler	15489481	Render Blade templates from Eloquent Model Fields	PHP	18	60	18	60
+WootzJs	kswoll/WootzJs	15784871	C# to Javascript Compiler implemented via Roslyn	C#	145794	60	10	60
+cradle	alephnullplex/cradle	467158	Let's Build a Compiler (in Haskell)	Haskell	2698	60	7	60
+cardinal	cardinal/cardinal	147911	Cardinal - Ruby compiler for Parrot	Perl	2023	60	5	60
+Wintellect.Analyzers	Wintellect/Wintellect.Analyzers	26662936	.NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes written by Wintellect	C#	329	60	12	60
+j2js-compiler	decatur/j2js-compiler	2507558	A Java Bytecode to JavaScript Cross-Compiler.	Java	726	60	2	60
+tcc	LuaDist/tcc	953499	Small but fast C compiler.  Supports ANSI C, most of the new ISO C99 standard, and many GNUC extensions, including inline assembly.	C	930	60	17	60
+typenum	paholg/typenum	43174289	Compile time numbers in Rust.	Rust	1805	60	2	60
+GwtMobile-PhoneGap	dennisjzh/GwtMobile-PhoneGap	1144026	gwtmobile-phonegap is a GWT wrapper of the PhoneGap Javascript library. PhoneGap is a cross-platform development framework that provides core mobile device features to web-based mobile apps. GWT by Google is a new way of developing web applications -- write apps in Java then compile into javascript. gwtmobile-phonegap enables a GWT mobile application to use PhoneGap functions.	Java	601	60	17	60
+tcc	chaoslawful/tcc	743404	track of Tiny C Compiler	C	554	59	31	59
+antha	antha-lang/antha	27073429	The Antha Cross-Compiler	Go	116535	59	9	59
+bf_interpreter_jit_compiler	nickdesaulniers/bf_interpreter_jit_compiler	9740617	Teach myself about interpreters, JITs, and compilers using the Brainfuck language as the toy language	C	314	59	5	59
+temple	dymk/temple	10095096	Compile Time Embedded Template Parser/Generator for D	D	200	59	11	59
+dot42	dot42/dot42	16943751	Compiler tools	C#	96753	58	20	58
+bf.sed	stedolan/bf.sed	2436529	A brainfuck compiler, written in sed	null	96	58	1	58
+clsi-sharelatex	sharelatex/clsi-sharelatex	16775434	A web api for compiling LaTeX documents in the cloud	C	1575	58	32	58
+lightblue-0.4	0-1-0/lightblue-0.4	5928918	LightBlue python module that compiles successful on OS X 10.8 (Mountain Lion)	Python	488	58	67	58
+coldruby	whitequark/coldruby	1314650	ColdRuby is a compiler of Ruby 1.9 MRI bytecode, and a runtime written in JavaScript to aid in execution of Ruby code. It also includes a C++ executable using very fast V8 scripting engine and native extensions for regular expressions, fibers and more.	JavaScript	577	58	2	58
+elixir.nvim	awetzel/elixir.nvim	48070898	Vim Completion/Doc/Eval for Elixir (nvim), compile https://github.com/awetzel/neovim-elixir and https://github.com/awetzel/nvim-rplugin	VimL	8101	58	1	58
+hackIDE	sahildua2305/hackIDE	49087234	hackIDE is an online code editor, compiler and interpreter based on Django, powered by HackerEarth API! Go, hack it!	JavaScript	2083	57	28	57
+php-extensions-mamp	skmedia/php-extensions-mamp	5889467	compiled so extension files	null	912	57	15	57
+grunt-slim	matsumos/grunt-slim	8341987	Compile Slim to HTML.	JavaScript	292	57	9	57
+github-latex-ci	sharelatex/github-latex-ci	23311980	An automated LaTeX build service for compiling continuous compiling of github repositories	CoffeeScript	74	57	9	57
+opencvjs	blittle/opencvjs	14933325	OpenCV Modules Compiled to JS through Emscripten	JavaScript	8140	57	12	57
+exploit-exercises-arm	rotlogix/exploit-exercises-arm	33453967	I have taken all of the challenges from Protostar - https://exploit-exercises.com/protostar/- and compiled them for the ARM architecture.  	C	26	57	23	57
+blogc	blogc/blogc	33968989	A blog compiler.	C	577	56	5	56
+rubycpu	eviltrout/rubycpu	3950578	An assembler compiler and bytecode virtual machine implemented in ruby for a made up CPU.	Ruby	129	56	1	56
+PESecurity	NetSPI/PESecurity	20697603	PowerShell module to check if a Windows binary (EXE/DLL) has been compiled with ASLR, DEP, SafeSEH, StrongNaming, and Authenticode.	PowerShell	50	56	23	56
+sprockets-commoner	Shopify/sprockets-commoner	51015245	Use Babel in Sprockets to compile JavaScript modules for the browser	Ruby	213	56	4	56
+css-output	mdo/css-output	39397721	Comparing the differences in compiled CSS when using different Sass/Less methods to build reusable components.	CSS	200	56	2	56
+proguard-please	chalup/proguard-please	22950180	A Gradle plugin for Android application projects that ensures ProGuard will be configured properly for all compile dependencies.	Groovy	212	56	4	56
+gendarme	spouliot/gendarme	1145248	Gendarme is a extensible rule-based tool to find problems in .NET applications and libraries. Gendarme inspects programs and libraries that contain code in ECMA CIL format (Mono and .NET) and looks for common problems with the code, problems that compiler do not typically check or have not historically checked.	null	96	56	0	56
+cmd-go-js	gophergala2016/cmd-go-js	50221331	cmd-go-js is a "branch" of cmd/go that supports compiling to JavaScript.	Go	340	56	0	56
+StringBladeCompiler	TerrePorter/StringBladeCompiler	16675065	Render Blade templates from string	PHP	86	55	18	55
+react-closure-compiler	mihaip/react-closure-compiler	32557614	Tooling to teach Closure Compiler about React	JavaScript	14928	55	8	55
+node.js-closure-compiler-externs	dcodeIO/node.js-closure-compiler-externs	8595033	node.js externs for use with Closure Compiler.	JavaScript	395	55	16	55
+nlvm	arnetheduck/nlvm	49955741	LLVM-based compiler for the Nim language	Nimrod	337	55	5	55
+statec	mmower/statec	3325195	Objective-C/Cocoa based State Machine Compiler	Objective-C	267	55	4	55
+bitsyspec	apbendi/bitsyspec	61959277	Bitsy: The best language to implement when writing your first compiler or interpreter	Swift	31	55	4	55
+fan	bobzhang/fan	6178759	Compile-time metaprogramming for OCaml	OCaml	46416	55	4	55
+handlebars-react	stevenvachon/handlebars-react	28943904	Compile Handlebars templates to React (Node.js)	JavaScript	31	55	4	55
+ecst	SuperV1234/ecst	57969328	[WIP] Experimental C++14 multithreaded compile-time entity-component-system library.	C++	748	55	3	55
+jinja-assets-compressor	jaysonsantos/jinja-assets-compressor	8414615	A Jinja extension (compatible with Flask and other frameworks) to compile and/or compress your assets.	Python	118	55	8	55
+gem-compiler	luislavena/gem-compiler	4243142	A RubyGems plugin that generates binary gems	Ruby	128	54	12	54
+Hiro	philiplaureano/Hiro	628779	 An ultra-lightweight, inversion of control container compiler framework	C#	6605	54	6	54
+rubyjs	superchris/rubyjs	21066	compiles ruby to javascript	JavaScript	6149	54	5	54
+guard-rails-assets	dnagir/guard-rails-assets	1911078	Automatically compile Rails 3.1 assets whenever files are modified	Ruby	170	54	22	54
+haskell-scratch	fpco/haskell-scratch	33915714	Base Docker image which includes minimal shared libraries for GHC-compiled executables	Makefile	1945	54	18	54
+jstify	zertosh/jstify	16938761	Browserify transform for pre-compiled Underscore and Lo-Dash templates (with HTML minification)	JavaScript	53	54	13	54
+telegram-tl	ex3ndr/telegram-tl	13871176	TL Compiler for Telegram project	Kotlin	2790	53	24	53
+sunroof-compiler	ku-fpg/sunroof-compiler	5919519	Monadic Javascript Compiler	Haskell	1187	53	4	53
+unholy	devyn/unholy	93425	a ruby-to-pyc compiler - _why mirror	Python	472	53	37	53
+c-capnproto	jmckaskill/c-capnproto	12792461	C library/compiler for the Cap'n Proto serialization/RPC protocol	C++	1547	53	25	53
+pcf	jozefg/pcf	32296098	A small compiler for PCF	Haskell	217	53	2	53
+sbt-quickfix	dscleaver/sbt-quickfix	8082476	SBT plugin that routes compiler and test errors into a quickfix file	Scala	52	53	23	53
+pyxc-pj	andrewschaaf/pyxc-pj	1033194	A Python to JavaScript compiler, similar in spirit to CoffeeScript	Python	124	53	6	53
+hcc	RadeonOpenCompute/hcc	54489277	HCC is an Open Source, Optimizing C++ Compiler for Heterogeneous Compute currently for the ROCm GPU Computing Platform	C++	18445	53	20	53
+b2d	blend2d/b2d	16447163	2d Vector Graphics Engine Powered by JIT Compiler for C++	null	0	53	0	53
+dimensioned	paholg/dimensioned	26913539	Compile-time type checking for arbitrary unit systems.	Rust	7184	53	6	53
+spoon	nondev/spoon	42721525	:ramen: Spoon is a programming language that runs blazingly fast, compiles to native code and works everywhere.	Ruby	4869	53	9	53
+macro-compat	milessabin/macro-compat	41888078	macro-compat is a small library which allows you to compile macros with Scala 2.10.x which are written to the Scala 2.11/2 macro API.	Scala	237	53	19	53
+compiler	codebendercc/compiler	4378473	The codebender compiler backend.	PHP	1394	52	22	52
+linter	jorgeortiz85/linter	3681779	A linting compiler plugin	Scala	155	52	35	52
+react-externs	steida/react-externs	19629251	Closure Compiler externs for Facebook React.js	JavaScript	67	52	16	52
+dyna	nwf/dyna	6360814	Dyna2 compiler and REPL	Haskell	2586	52	7	52
+moby-scheme	dyoo/moby-scheme	159744	The Moby Scheme Compiler for Smartphones	Scheme	32971	52	8	52
+ropc-llvm	programa-stic/ropc-llvm	13112562	 ropc-llvm is a PoC of a Turing complete ROP compiler  with support for a subset of LLVM IR. It is an extension of ropc.	C	6324	52	14	52
+javascript-externs-generator	jmmk/javascript-externs-generator	37986346	Generate externs for use with Google Closure Compiler	Clojure	1123	52	2	52
+pwt.jinja2js	mkerrin/pwt.jinja2js	1393798	Compiles Jinja2 templates to JavaScript	JavaScript	180	52	7	52
+Blueberry	gosukiwi/Blueberry	8938258	A beautiful programming language with clean syntax which compiles to PHP	JavaScript	1402	52	11	52
+watch-less	jgreene/watch-less	2382048	A command line tool to watch a directory tree for changes to .less files and output compiled .css files.	JavaScript	152	52	16	52
+stog	zoggy/stog	2296224	XML documents and web site compiler.	OCaml	31085	51	8	51
+clessc	BramvdKroef/clessc	2425232	A C++ implementation of the LESS CSS Compiler	C++	764	51	10	51
+QPULib	mn416/QPULib	55894578	A language and compiler for the Raspberry Pi GPU	C++	763	51	4	51
+scala-escape	TiarkRompf/scala-escape	33974069	A compiler plug-in to control object lifetimes in Scala	Coq	178	51	2	51
+thc-hydra-windows	maaaaz/thc-hydra-windows	23040344	The great THC-HYDRA tool compiled for Windows	null	7244	51	18	51
+tiff.js	seikichi/tiff.js	13362252	tiff.js is a port of LibTIFF by compiling the LibTIFF C code with Emscripten.	JavaScript	36112	51	26	51
+rotten	rntz/rotten	30509409	Demo of Ken Thompson's Reflections on Trusting Trust as a tiny lisp compiler	Python	560	51	1	51
+coffeescript-windows	duncansmart/coffeescript-windows	1913025	A shim that allows CoffeeScript to be compiled using Windows Script Host	CoffeeScript	249	51	11	51
+greasemonkey-compiler	arantius/greasemonkey-compiler	3103365	A tool to turn a Greasemonkey user script into a Firefox (XPI) extension.	PHP	147	50	28	50
+orange	macournoyer/orange	66150	Yummy & juicy compiler	Ruby	87	50	2	50
+caterwaul	spencertipping/caterwaul	935046	A Javascript-to-Javascript compiler	Perl	29607	50	3	50
+pseudo-python	alehander42/pseudo-python	53290260	 :horse: a restricted python to javascript / c# / go / ruby / :horse: compiler	Python	116	50	3	50
+zee.js	kripken/zee.js	3615134	zlib compiled to JavaScript using Emscripten	JavaScript	497	50	7	50
+avro-scala-macro-annotations	julianpeeters/avro-scala-macro-annotations	18131125	Compile-time tools for working with Avros in Scala	Scala	1651	50	13	50
+luajit-bpf	vavrusa/luajit-bpf	59396203	Run LuaJIT inside kernel. Well, almost. LuaJIT to BPF compiler.	Lua	107	50	1	50
+docker-timemachine	odarriba/docker-timemachine	30504049	A docker container that compiles the lastest Netatalk to run a Time Machine server.	Shell	18	50	19	50
+tcalc	abudnik/tcalc	16919298	C++ compile-time Prolog interpreter	C++	240	50	0	50
+ps2toolchain	ps2dev/ps2toolchain	891983	The PS2 toolchain scripts automatically build and install compilers and binutils that can be used to create homebrew software for the PS2 console.	Shell	967	50	22	50
+babel-plugin-graphql	ooflorent/babel-plugin-graphql	34455103	Babel plugin that compile GraphQL tagged template strings	JavaScript	215	50	1	50
+redsun	jonathanbranam/redsun	58683	Red Sun - Ruby to Flash compiler and framework	ActionScript	933	49	4	49
+Range-V3-VS2015	Microsoft/Range-V3-VS2015	66311905	A fork of the popular range-v3 C++ library with support for the Visual Studio 2015 Update 3 VC++ compiler.	C++	5679	49	6	49
+es6-class	esnext/es6-class	18219594	ES6 classes compiled to ES5.	JavaScript	448	49	11	49
+gulp-tsc	kotas/gulp-tsc	16460298	gulp.js plugin for compiling TypeScript files	JavaScript	781	49	36	49
+karma-coffee-preprocessor	karma-runner/karma-coffee-preprocessor	8105453	A Karma plugin. Compile coffee script on the fly.	JavaScript	39	49	30	49
+soundtouch	rspeyer/soundtouch	17746318	SoundTouch library compiled for iOS http://www.surina.net/soundtouch/index.html	C++	199	49	16	49
+angular	bclinkinbeard/angular	13901843	AngularJS compiled with jsdom and provided as a CommonJS module. Intended for testing AngularJS code without depending on a browser.	JavaScript	3956	49	21	49
+grunt-codekit	fatso83/grunt-codekit	17077414	A grunt plugin to compile kit files using the CodeKit Language	JavaScript	362	49	5	49
+hackerearth.vim	HackerEarth/hackerearth.vim	8585282	HackerEarth Vim plugin to compile and run code from the comfort of your favorite editor.	VimL	192	49	12	49
+remark-man	wooorm/remark-man	37619711	Compile Markdown to man pages (roff) with remark	JavaScript	451	49	1	49
+voc	vishaps/voc	33709922	vishap oberon compiler	Modula-2	24543	48	9	48
+gofrontend	golang/gofrontend	28939900	Go compiler frontend (gccgo)	Go	108043	48	24	48
+closure-compiler-npm	ChadKillingsworth/closure-compiler-npm	46283752	Package for managing and documenting closure-compiler for use via npm	JavaScript	20023	48	14	48
+InMemoryJavaCompiler	trung/InMemoryJavaCompiler	31716516	Samples with utility classes to compile java source code in memory	Java	47	48	17	48
+ocl	mdipierro/ocl	7054505	Python to C99/OpenCL/JS compiler	Python	505	48	10	48
+es6draft	anba/es6draft	7840523	ECMAScript 2015 (ECMA-262 6th Edition) compiler and runtime	Java	14563	48	6	48
+grunt-cptpl	hanan198501/grunt-cptpl	17769653	Compiled template files into JavaScript files	JavaScript	26	48	13	48
+hplayground	agocorona/hplayground	20611993	Translate your console applications to run in the web browser and have reactive, window-oriented and spreadsheet effects for free. Widget combinators running in the browser with the Haste compiler	HTML	1772	48	8	48
+lzma.js	kripken/lzma.js	3684701	An LZMA implementation in JavaScript, compiled from lzip	C++	295	48	5	48
+Userspace-Arduino	prpplague/Userspace-Arduino	11333071	Provide a Linux Userspace environment for compiling Arduino style wiring/process sketches to run under Linux	C++	1823	48	17	48
+bake	bakeware/bake	44202218	Configure, compile and share systems, toolchains and linux firmware.	Elixir	8125	48	6	48
+ralph	turbolent/ralph	972028	Ralph is a Lisp-1 dialect that compiles to JavaScript	JavaScript	2581	48	2	48
+gosafe	zond/gosafe	4683535	A Go tool to safely compile Go programs by only allowing importing whitelisted packages.	Go	228	48	7	48
+crossbuild	multiarch/crossbuild	47969891	:earth_africa: multiarch cross compiling environments	Shell	25807	47	7	47
+minstache	visionmedia/minstache	5680381	Mini mustache compiling to stand-alone functions	JavaScript	230	47	12	47
+gulp-jekyll	dannygarcia/gulp-jekyll	16042443	Compile Jekyll sites with Gulp.	null	166	47	5	47
+django-sass-processor	jrief/django-sass-processor	29991779	SASS processor to compile SCSS files into *.css, while rendering, or offline.	Python	109	47	20	47
+CCMakefile4iOS	webfrogs/CCMakefile4iOS	13110923	makefile for iOS project to compile and package the xcode project automatically.	null	177	47	24	47
+air	ChartBoost/air	15061010	Source for the Adobe AIR native extension for the Chartboost SDK with compile scripts.	ActionScript	96259	47	19	47
+babel-plugin-asm-js	RReverser/babel-plugin-asm-js	38929711	Compile JavaScript + Flow into asm.js (WIP)	JavaScript	180	47	3	47
+arduino-library-files	codebendercc/arduino-library-files	4552180	arduino files for use both by the compiler and the main symfony project	C++	1079	46	205	46
+qc--	nrnrnr/qc--	16182020	Quick C-- compiler (no longer maintained)	OCaml	15280	46	9	46
+CodeRefractor	ciplogic/CodeRefractor	11200640	MSIL/CIL to Native C++ Compiler	C#	90196	46	8	46
+compiler-hacking	ocamllabs/compiler-hacking	11740422	Wiki for compiler hacking sessions	null	1716	46	2	46
+frontcompiler	MadRabbit/frontcompiler	43667	JavaScript/CSS/HTML sources compiler	Ruby	457	46	2	46
+ghc-proposals	ghc-proposals/ghc-proposals	62967877	Proposed compiler and language changes for GHC and GHC/Haskell	null	60	46	10	46
+nirum	spoqa/nirum	58439095	 IDL compiler and RPC/distributed object framework for microservices	Haskell	272	46	5	46
+purescript-in-purescript	purescript/purescript-in-purescript	17495448	PureScript compiler written in PureScript (On hold / inactive)	PureScript	1502	46	3	46
+ImmDoc.NET	marek-stoj/ImmDoc.NET	1623383	ImmDoc .NET is a command-line utility for generating HTML documentation from a set of .NET assemblies and XML files created by the compiler. It's developed in C#.	C#	1367	46	9	46
+pianobar-windows-binaries	thedmd/pianobar-windows-binaries	2789601	Compiled binaries of pianobar for Windows	null	4008	46	7	46
+axmlprinter	rednaga/axmlprinter	29165503	Library for parsing and printing compiled Android manifest files	Java	200	46	18	46
+moonlisp	leafo/moonlisp	3235647	a Lisp that compiles to Lua	C	111	46	6	46
+dvm	jacob-carlborg/dvm	3272778	A tool to install and manage D compilers	D	830	46	10	46
+livehaxe	fponticelli/livehaxe	8868536	Automatic compiler for Haxe and other tools. Monitors the files in a project and regen the output whenever it detects a change.	Haxe	202	46	4	46
+cperl	perl11/cperl	41865023	 a perl5 with classes, types, compilable, company friendly	Perl	254236	46	4	46
+gcc-python-plugin	davidmalcolm/gcc-python-plugin	3765324	GCC plugin that embeds CPython inside the compiler	Python	6342	45	20	45
+ragel-js	djwmarks/ragel-js	976730	JavaScript code generation for Ragel state machine compiler	C++	661	45	10	45
+build-djgpp	andrewwutw/build-djgpp	16310974	Build DJGPP cross compiler and binutils on Windows (MinGW/Cygwin), Mac OSX and Linux	Shell	90	45	6	45
+es6-arrow-function	esnext/es6-arrow-function	14512453	Shorthand arrow functions compiled to ES5.	JavaScript	422	45	10	45
+lib6502-jit	ZornsLemma/lib6502-jit	21212098	JIT compiler for 6502 machine code, built on lib6502 and LLVM	C	260	45	1	45
+sbt-typescript	ArpNetworking/sbt-typescript	22625099	A plugin for SBT that uses sbt-web to compile typescript resources.	Scala	469	45	25	45
+ruby-ometa	aquasync/ruby-ometa	16889	Library for parsing and compiling OMeta grammars to ruby	Ruby	108	45	7	45
+Hadoop-2.7.1-Windows-64-binaries	karthikj1/Hadoop-2.7.1-Windows-64-binaries	40329373	Pre-compiled, unofficial Win64 Binaries for Hadoop 2.7.1	null	216	45	8	45
+wordpress-haml-sass	zachfeldman/wordpress-haml-sass	10943539	Easy WordPress theme development in HAML, PHP, & SASS with closure compiled JavaScript	PHP	5987	45	6	45
+js_module_transpiler	wycats/js_module_transpiler	6832969	JS Module Transpiler is an experimental compiler that allows you to write your JavaScript using a subset of the current ES6 module syntax, and compile it into AMD modules (and soon, CommonJS modules)	Ruby	136	45	2	45
+yomikomu	ko1/yomikomu	47859965	Dump compiled iseq by binary (kakidasu) and load binary (yomidasu)	Ruby	16	45	3	45
+unassertify	twada/unassertify	36302650	Browserify transform to encourage reliable programming by writing assertions in production code, and compiling them away from release.	JavaScript	35	45	1	45
+broccoli-sass	joliss/broccoli-sass	16732668	Sass compiler for Broccoli, using libsass	JavaScript	438	44	91	44
+singult	lynaghk/singult	4450959	JavaScript Hiccup compiler	CoffeeScript	202	44	10	44
+HNC	nponeccop/HNC	2534352	HN Compiler	Haskell	1688	44	1	44
+opam-rumprun	mato/opam-rumprun	35819626	OCaml 4.02 cross compiler for the rumprun unikernel stack	Shell	90	44	6	44
+guard-less	guard/guard-less	1222169	Guard::Less automatically compiles less (like lessc --watch)	Ruby	251	44	32	44
+CMake-Toolchain-Collection	seichter/CMake-Toolchain-Collection	2889989	A collection of CMake cross compile toolchains mostly needed for development on mobile devices.	null	160	44	12	44
+typescript-simple	teppeis/typescript-simple	29389666	Simple API to compile TypeScript code string to JavaScript. That's all!	JavaScript	141	44	8	44
+clientjade	jgallen23/clientjade	3639546	command line tool to compile your jade templates into client side templates for use in the browser	JavaScript	235	44	21	44
+resume	divad12/resume	965497	Yaml resume compiled into multiple formats (such as LaTeX, HTML (TODO), etc.)	TeX	457	44	4	44
+linux-kernel-utilities	mtompkins/linux-kernel-utilities	44992921	:construction_worker: Utilities to compile and / or update linux kernels for Debian and derivatives (e.g. Ubuntu, LinuxMint, etc. )	Shell	259	44	5	44
+CxxProf	monsdar/CxxProf	17641169	CxxProf is a manual instrumented Profiling library for C++. It's goal is to provide easy integration into existing projects with just as little overhead as possible. It should be easy to remove the profiling mechanism during compile and runtime from the code.	C++	24312	44	7	44
+kll	kiibohd/kll	23587004	KLL Compiler	Python	180	43	41	43
+connect-compiler	dsc/connect-compiler	2956592	Development middleware to dynamically recompile derived files at serve-time.	JavaScript	410	43	15	43
+wake-compiler	MichaelRFairhurst/wake-compiler	13249947	C++ compiler for the programming language Wake: a fast, expressive, typesafe language built with testability from the ground up.	C++	2981	43	8	43
+SwiftSharp	praeclarum/SwiftSharp	20605400	Swift compiler for .NET	HTML	1036	43	7	43
+More	kevin-montrose/More	2848132	A CSS Compiler	C#	1830	43	3	43
+compiler-warnings	Barro/compiler-warnings	36190173	A list of compiler warning flags for different GCC and clang versions	Python	199	43	3	43
+tsproject	ToddThomson/tsproject	33001420	Typescript project compiler and modular typescript bundle optimizer for gulp (Ts Vinyl Adapter).	TypeScript	670	43	8	43
+Ziria	dimitriv/Ziria	20149959	A domain-specific-language and compiler for low-level bitstream processing.	C	40158	43	9	43
+yapsi	masak/yapsi	590826	A Perl 6 compiler-and-runtime written in Perl 6	Perl6	410	43	7	43
+auto-compile	tarsius/auto-compile	128904	Automatically compile Emacs Lisp libraries	Emacs Lisp	179	43	8	43
+pipes2js	neyric/pipes2js	6407406	Compile Yahoo! Pipes to Javascript (Node.js)	JavaScript	863	43	9	43
+DCPUB	Blecki/DCPUB	3945833	C-like language compiled to DCPU assembly	C#	3283	43	4	43
+tower	shaoshing/tower	8070031	Hot compile for web app in golang	Go	3625	43	4	43
+libopencv_24	Nolaan/libopencv_24	21704404	Compiled OpenCV 2.4 Libraries for Raspberry Pi	Groff	30782	43	13	43
+AppSalesGraph	maxklein/AppSalesGraph	484154	Graph App Store Sales. Download pre-compiled binaries at website.	Python	1152	43	5	43
+ofxOpenVJ	benMcChesney/ofxOpenVJ	7994869	This project was a collaboration to make realtime visuals "scenes" that could be compiled together to create a performance or accompany a performance.	C++	77710	43	4	43
+prose	aaron-lebo/prose	35902049	a simple language inspired by Io and Ioke that compiles to Clojure and ClojureScript	Clojure	339	43	1	43
+smlsharp	smlsharp/smlsharp	5652516	SML# compiler	Standard ML	128135	42	13	42
+gmqcc	graphitemaster/gmqcc	3970753	An Improved Quake C Compiler	C++	9769	42	11	42
+maven-protoc-plugin	dtrott/maven-protoc-plugin	387153	Maven Protocol Buffers (protoc) Plugin that calls the protocol buffers compiler.	Java	883	42	59	42
+meteor-marked	chuangbo/meteor-marked	5995769	Wrapper of marked - A markdown parser and compiler. Built for speed.	JavaScript	34	42	18	42
+vm	proglangclass/vm	2513896	Stack based Virtual Machine and JIT compiler built during the Programming Language Masterclass	C	199	42	16	42
+dil	azizk/dil	82455	DIL is a hand-written compiler for the D programming language.	D	7632	42	7	42
+fcc	FeepingCreature/fcc	2338201	fcc is the compiler for Neat, my D-lite language.	D	11705	42	3	42
+kX-Audio-driver-binaries	kxproject/kX-Audio-driver-binaries	15497295	pre-compiled driver builds (official)	null	161234	42	12	42
+android-curl	hiteshsondhi88/android-curl	22951703	Curl compiled with OpenSSL for Android (Supports Android L)	Shell	197	42	15	42
+metascript	metascript/metascript	9888622	A language that compiles to Javascript	JavaScript	1914	42	5	42
+linux-csgo-external	thisgamesux/linux-csgo-external	28731694	Linux x86 cheat/hack for x86 and x64 linux systems (compiled + tested on Xubuntu)	C++	171	42	35	42
+lnmp	licess/lnmp	1134457	Auto compile and install LNMP/LNMPA/LAMP on CentOS/RadHat/Fedora Debian/Ubuntu/Raspbian Linux. Easy install,upgrade and use.	Shell	5964	42	23	42
+tsunami-udp	sebsto/tsunami-udp	15535383	Fork of Tsunami UDP File Transfer Server and Client w/fix to compile on OS X Mavericks	C	770	42	16	42
+kgio	wsylvest/kgio	1042543	Patch to get to compile on 10.5.6 OSX	Ruby	200	42	4	42
+sbt-scrooge	twitter/sbt-scrooge	2245177	An SBT plugin that adds a mixin for doing Thrift code auto-generation during your compile phase	Scala	10560	42	18	42
+Apollo	lsxiao/Apollo	65222991	RxBus Compile-time(编译时RxBus)🚀	Java	928	42	2	42
+ScrivenerToLaTeX	tibra/ScrivenerToLaTeX	3575942	A Scrivener 2.2 document that uses MMD 3 and BibDesk to compile into an academic thesis PDF via LaTeX.	null	229	42	8	42
+nulan	Pauan/nulan	4819882	Purely functional statically typed Lisp which compiles to JavaScript	JavaScript	1385	42	1	42
+CompilerDesign	lawrancej/CompilerDesign	4335816	An open educational resource for Compiler Design	Shell	9143	41	39	41
+phc	pbiggar/phc	2450161	A compiler for PHP	C++	22092	41	20	41
+ocaml-android	vouillon/ocaml-android	7524000	Ocaml cross-compiler for Android	C	262	41	4	41
+greasemonkey-multi-script-compiler	ginatrapani/greasemonkey-multi-script-compiler	173884	Compiles multiple Greasemonkey user scripts into a standalone Firefox extension, based heavily on Anthony Lieuallen's (single) script compiler.	JavaScript	1035	41	6	41
+LuaInLua	leegao/LuaInLua	47896975	A self-hosting compiler for the Lua language.	Lua	613	41	3	41
+fixme	tysonjh/fixme	18840790	Date based compiler warnings & errors for FIXMEs	Scala	432	41	1	41
+pyli	hausdorff/pyli	10938745	A Python 3 compiler that anyone can understand.	Haskell	305	41	2	41
+Sizzle	anthonyu/Sizzle	1053141	A compiler and runtime for Google's Sawzall language, optimized for Hadoop	Java	15431	41	4	41
+chlorine	chlorinejs/chlorine	6120120	Main library for Chlorine compiler (a subset of Clojure to javascript)	Clojure	1695	41	4	41
+Vala_CMake	jakobwesthoff/Vala_CMake	438403	CMake macros to compile and manage Vala projects	null	179	41	16	41
+es6-templates	esnext/es6-templates	18804570	ES6 template strings compiled to ES5.	JavaScript	17	41	5	41
+lein-skummet	alexander-yakushev/lein-skummet	22931379	Leiningen plugin for lean-compiling Clojure projects	Clojure	271	41	4	41
+dockerfile-qemu-arm-chroot	dweinstein/dockerfile-qemu-arm-chroot	23325433	qemu-arm-static in a docker container to run apps compiled for ARM on x86	Shell	170	41	10	41
+sbt-musical	tototoshi/sbt-musical	10689919	NO MUSIC, NO BUILD. Enjoy your compile time.	Scala	152	41	3	41
+gulp-markdown-to-json	sparkartgroup/gulp-markdown-to-json	21721421	Parse Markdown and YAML → compile Markdown to HTML → wrap it all up in JSON	JavaScript	50	41	11	41
+chicken-scheme	alaricsp/chicken-scheme	267219	CHICKEN is a compiler for the Scheme programming language. CHICKEN produces portable, efficient C, supports almost all of the current Scheme language standard, R5RS and includes many enhancements and extensions. CHICKEN runs on MacOS X, Windows, and many Unix flavours.	Scheme	39442	41	2	41
+seed	EpiphanyMachine/seed	11620038	A seed project that runs on a node, compiles coffee-script and stylus, and includes angular, bootstrap, d3, express, grunt, and karma.	JavaScript	4244	41	16	41
+LLVM-Windows-Binaries	CRogers/LLVM-Windows-Binaries	11513352	A repo of built Windows binaries and instructions on how to compile a shared library on Windows	C#	37444	41	6	41
+Rllvm	duncantl/Rllvm	3893906	R interface to LLVM C++ API to be able to create compiled code from within R	R	236375	41	9	41
+CompilerKit	lawrancej/CompilerKit	4371640	Compiler construction library in C.	C	1258	40	37	40
+jsc	amwjx/jsc	7068514	javascript seajs compiler	JavaScript	735	40	23	40
+sass-compiler	vaadin/sass-compiler	17838375	A Java Sass compiler implementation	CSS	8430	40	15	40
+ocamlcc	ocaml-bytes/ocamlcc	5166786	OCaml bytecode to C compiler	C	13801	40	6	40
+parser	gss/parser	10397961	Constraint Cascading Style Sheets compiler	CoffeeScript	1603	40	5	40
+mini-c	tgjones/mini-c	7665156	F# implementation of a Mini-C compiler targeting MSIL	F#	2624	40	11	40
+bookmarklet	mrcoles/bookmarklet	9615327	A server-side bookmarklet compiler with greasemonkey userscript-like metadata options	JavaScript	14	40	10	40
+CIL2Java	zebraxxl/CIL2Java	27767534	From .NET/Mono to Java compiler	C#	2317	40	2	40
+bulbul	ahmedaliadeel/bulbul	36991083	Fat-free Python3 to Javascript/ES6 compiler attempt.	Python	404	40	2	40
+KontikiJS	renaun/KontikiJS	11439642	An ActionScript 3 Library used to generate Flash API JavaScript code through the Randori compiler 	ActionScript	479	40	8	40
+Asm86	carlosrafaelgn/Asm86	8455864	A JavaScript assembly x86 compiler + emulator for educational purposes	JavaScript	37	40	3	40
+AMR-for-iOS7	ondev/AMR-for-iOS7	15489106	Compile opencore amr for iOS7.	C	3000	40	13	40
+rustfind	dobkeratops/rustfind	11585527	rust html source code browser generator, rust source code navigator, possible component for IDE ?  Example output - see rust compiler source & std libs:-	Rust	3642	40	7	40
+dopple	tenjou/dopple	20590035	Dopple is compiler that generates C++ source code from JavaScript code.	JavaScript	1613	40	2	40
+dynamic_compile	jkvor/dynamic_compile	184011	compile and load erlang modules from string input	Erlang	141	40	13	40
+datscript	datproject/datscript	24518405	A compile-to-JSON data pipeline scripting language	JavaScript	136	40	7	40
+pocketcpp	dacap/pocketcpp	32348559	Compile C++14 snippets with Notepad++ and MinGW/gcc 5.2.0	Shell	9	40	12	40
+dropincc.java	pfmiles/dropincc.java	3727490	A small and easy to use parser generator. Specify your grammar in pure java and compile dynamically. Especially suitable for DSL creation in java.	Java	1466	40	14	40
+libminizinc	MiniZinc/libminizinc	29562582	The MiniZinc compiler	C++	10375	39	16	39
+c-compiler	eudisd/c-compiler	1839972	A C Compiler.  Executables runs on a stack based VM.	C	1889	39	16	39
+jsonix-schema-compiler	highsource/jsonix-schema-compiler	23280787	Compiles XML Schemas into XML<->JSON mappings for Jsonix.	Java	842	39	8	39
+QuotationCompiler	eiriktsarpalis/QuotationCompiler	26363596	Quotation Compilation library that uses FSharp.Compiler.Service	F#	21652	39	5	39
+pyjs	anandology/pyjs	1378836	Python to Javascript compiler	Python	723	39	4	39
+go-mips32	gomini/go-mips32	43116287	Golang1.4.2 based gc compiler ported to MIPS32/LE. Hello OpenWRT~	Go	60388	39	14	39
+crosstool-arm-osx	asymptotik/crosstool-arm-osx	7863700	Scripts to install crosstool-ng and generate a cross compiler on osx for targeting arm-unknown-linux-gnueabi. More specifically, I use it as a script to create a develpment cross compiler on osx to compile code for the Raspberry Pi.	Shell	144	39	24	39
+mrustc	thepowersgang/mrustc	27268808	Alternative rust compiler (re-implementation)	C++	2514	39	2	39
+grunt-angular-gettext	rubenv/grunt-angular-gettext	11738762	Tasks for extracting/compiling angular-gettext strings.	JavaScript	119	39	66	39
+nodeapidoc	sunshine1988/nodeapidoc	4271450	The newest nodejs documents compiled from nodejs's git repository!!	JavaScript	24358	39	56	39
+as3-to-typescript	fdecampredon/as3-to-typescript	19336465	compile ActionScript3 codebase to TypeScript	JavaScript	412	39	6	39
+notes	connermcd/notes	9642396	Shell script for compiling pdf/html notes with pandoc.	Shell	4	39	9	39
+groovy-sandbox	kohsuke/groovy-sandbox	4170110	Compile-time transformer to run Groovy code in a restrictive sandbox 	Groovy	1197	39	15	39
+metajs	dogada/metajs	12193497	Write on Lisp. Compile to Javascript. Use anywhere.	JavaScript	776	39	3	39
+Generate_Kernel_Uboot_Project_forIDE	tonyho/Generate_Kernel_Uboot_Project_forIDE	38573394	Generate filelist and slickedit for the compiled source file and depend header file for Linux Kernel and U-boot	Shell	23217	39	21	39
+unified	wooorm/unified	39996248	☔ Text processing umbrella: Parse / Transform / Compile	JavaScript	142	39	2	39
+emoruby	searls/emoruby	26974214	A little emoji language that compiles down to Ruby. "It's just ruby."	Ruby	321	39	5	39
+reddit2Kindle	Antrikshy/reddit2Kindle	23819620	Compiles text posts from your favorite story-based subreddits for easy reading on Kindle devices and apps	Python	544	39	4	39
+scala-json	MediaMath/scala-json	31541932	Compile-time JSON marshaling and abstraction for Scala and Scala.js	Scala	1201	39	2	39
+sbt-javacv	bytedeco/sbt-javacv	54311222	Start using OpenCV in your JVM project in just 1 line, no separate compiling, installing OpenCV, or fussing with your system required	Scala	33	39	6	39
+clumatra	JulesGosnell/clumatra	17573506	Experiments with Clojure / Sumatra / Graal and, ultimately, Clojure compiled onto GPGPU...	Clojure	1392	39	1	39
+mono-basic	mono/mono-basic	791292	Visual Basic Compiler and Runtime	Visual Basic	26968	38	23	38
+compiletest-rs	laumann/compiletest-rs	32581605	An extraction of the compiletest utility from the Rust compiler	Rust	137	38	9	38
+slua	Neopallium/slua	609408	Static lua compiler - Compile Lua code into C code.	C	640	38	4	38
+pixellang	rogcg/pixellang	3415483	A Lisp based programming language and its compiler	Java	534	38	3	38
+fcore	hkuplg/fcore	31162219	Research middleware compiler from System F-based languages to Java with the Imperative Functional Object encoding	Haskell	8046	38	11	38
+jemalloc-win32	shines77/jemalloc-win32	9102444	jemalloc — general purpose memory allocation functions, can be compiled on the windows.	C	752	38	19	38
+faust2webaudio	TheAlphaNerd/faust2webaudio	9884415	Compile from the Faust programming language to Web Audio	JavaScript	5322	38	4	38
+go-mimikatz	vyrus001/go-mimikatz	44733035	A wrapper around a pre-compiled version of the Mimikatz executable for the purpose of anti-virus evasion.	Go	7	38	15	38
+bash-fix	tjluoma/bash-fix	24464073	Download and compile a new version of bash to replace vulnerable one	Shell	313	38	5	38
+compiled	bahmutov/compiled	49757705	Compiles the ES* bundle to your NodeJS version on install	JavaScript	49	38	2	38
+CompilerBackdoor	bojieli/CompilerBackdoor	26356996	Course project to insert a backdoor into an open source compiler (Ken Thompson’s Reflections on Trusting Trust)	Assembly	1820	37	16	37
+perl-compiler	rurban/perl-compiler	2624014	B::C - Moved over from googlecode	Perl	159094	37	15	37
+node-compiler	sonnylazuardi/node-compiler	15562300	the online compiler api that compile c++ language	JavaScript	2158	37	10	37
+llvm-qbasic	microcai/llvm-qbasic	6726251	llvm based QBASIC Compiler	C++	1460	37	7	37
+local-implicits	mpilquist/local-implicits	33381246	Scala compiler plugin which provides syntax for working with locally declared implicit values	Scala	218	37	3	37
+wren	darius/wren	42234	Language with a bytecode compiler that can run on computers with only a few kB of RAM.	C	120	37	3	37
+FFmpeg-iOS-build-script	dmcrodrigues/FFmpeg-iOS-build-script	5728298	Compile FFmpeg to use on iOS development	Shell	112	37	6	37
+Vitamio-with-librtmp	mekya/Vitamio-with-librtmp	26944376	Vitamio player(Android) compiled with librtmp It is compatible with red5	Java	5540	37	16	37
+can-compile	canjs/can-compile	6916333	Compile CanJS Mustache and EJS views for lightning fast production apps	JavaScript	630	37	17	37
+ultimate-resources-android-devs	wahibhaq/ultimate-resources-android-devs	53340687	Compiled & Curated List of Resources for Android Developers	null	74	37	9	37
+rubyscript2exe	ryanbooker/rubyscript2exe	227496	Compile ruby applications into a single executable for for easy deployment	Ruby	487	37	5	37
+ctpg	youxkei/ctpg	2041242	Compile-Time Parser Generator in D programming language.	D	1167	37	2	37
+bluemonday-js	mdp/bluemonday-js	45588220	The bluemonday sanitizer compiled to JavaScript	JavaScript	164	37	1	37
+vfl-compiler	gss/vfl-compiler	10464548	Visual Format Language compiler	CoffeeScript	699	36	7	36
+secure-handlebars	yahoo/secure-handlebars	30554349	Handlebars Context Pre-compiler	JavaScript	3352	36	9	36
+gulp-livescript	tomchentw/gulp-livescript	15629375	LiveScript compiler as gulp plugin	LiveScript	130	36	18	36
+flypy	flypy/flypy	11613670	flypy - A runtime compiler for Python	Python	6213	36	7	36
+elixir_make	elixir-lang/elixir_make	58818949	A Make compiler for Mix	Elixir	29	36	6	36
+compiler-crashes	regehr/compiler-crashes	61471007	60 artisanal compiler crashes	C++	10608	36	2	36
+libspatialite-ios	gstf/libspatialite-ios	8269500	libspatialite compiled for iOS	Makefile	175	36	24	36
+mwsc	bulldog2011/mwsc	8618172	WSDL to IOS Objective-C and Android Java Compiler based on JAX-WS Wsimport	Java	401	36	8	36
+coffeescript-maven-plugin	iron9light/coffeescript-maven-plugin	2268425	A Maven plugin for compiling coffeescript into javascript.	Java	410	36	10	36
+peg-bootstrap	kragen/peg-bootstrap	80414	A PEG that compiles itself.	JavaScript	211	36	4	36
+laravel-elixir-jade	CREEATION/laravel-elixir-jade	26131366	Simple Laravel Elixir wrapper to compile Jade Templates to Blade/PHP.	JavaScript	21	36	11	36
+sbt-youtube	ocadaruma/sbt-youtube	62185253	No more compile time boredom!	Scala	9	36	0	36
+emacs-xcode	senny/emacs-xcode	333916	A set of tools to make OS-X and iPhone development with emacs pleasant. It simplifies writing objective-c applications and provides utilities to compile and lunch the project.	Emacs Lisp	105	36	13	36
+zephir	zephir-lang/zephir	18233906	Zephir is a compiled high level language aimed to the creation of C-extensions for PHP  http://zephir-lang.com/ | Repo sync from @phalcon 0 min per hour	PHP	12222	36	6	36
+Tiger	whps/Tiger	24370487	Compiler For Tiger-Lang	null	631	35	12	35
+fcc	Fedjmike/fcc	7021455	Fedjmike's C Compiler	C	2175	35	5	35
+Constantine	rizsotto/Constantine	3892499	A plugin for Clang compiler	C++	337	35	8	35
+runway-compiler	salesforce/runway-compiler	57459334	Parses and executes Runway models of distributed systems	JavaScript	479	35	3	35
+zinc	sbt/zinc	40210247	Scala incremental compiler library, originally part of sbt	Scala	10310	35	13	35
+cclash	inorton/cclash	13726347	ccache / clcache inspired compiler cache for cl.exe	C#	1390	35	10	35
+sacy	pilif/sacy	308176	Smarty Asset Compiler (warning: all branches but master are subject to force pushes)	PHP	515	35	11	35
+beluga	mycoboco/beluga	24526159	a standard C compiler (with a preprocessor)	C	3500	35	5	35
+PapyrusDotNet	zerratar/PapyrusDotNet	16284358	PapyrusDotNet - A .NET Papyrus Compiler for Fallout 4 and Skyrim	C#	26685	35	2	35
+js2cs	jsilverMDX/js2cs	1090013	A JavaScript to CoffeeScript compiler in JS	JavaScript	466	35	2	35
+MethodDecorator	Fody/MethodDecorator	4217012	Compile time decorator pattern via IL rewriting	C#	1746	35	43	35
+el-compilador	tromey/el-compilador	28470447	An SSA-based compiler for Emacs Lisp	Emacs Lisp	236	35	1	35
+l1c	j-baker/l1c	25397005	l1c is a simple formally verified compiler for a while language	Standard ML	1133	35	1	35
+cross-utils	bmaia/cross-utils	40450793	Cross compiling Utils (ARMEB, ARMEL, MIPS, MIPSEL)	null	26818	35	5	35
+bibtex.js	brianmingus/bibtex.js	7846353	bibtex compiled to javascript using emscripten	JavaScript	3246	35	2	35
+gettext-parser	smhg/gettext-parser	11481087	Parse and compile gettext po and mo files, nothing more, nothing less	JavaScript	131	35	13	35
+360	spitbol/360	38705251	SPITBOL 360 is an implementation of the SNOBOL4 programming language for use on IBM 360 compatible computers. SPITBOL 360 was the first true compiler for SNOBOL4 and is an incredibly clever work of assembly language.	Assembly	6516	35	3	35
+muforth	nimblemachines/muforth	4303	A simple, indirect-threaded Forth, written in C; for target compiling; runs on Linux, BSD, OSX, and Cygwin	Forth	5482	35	8	35
+RaptorDB-Document	mgholam/RaptorDB-Document	26573806	NoSql, JSON based, Document store database with compiled .net map functions and automatic hybrid bitmap indexing and LINQ query filters (now with standalone Server mode, Backup and Active Restore, Transactions, Server side queries, MonoDroid support, HQ-Branch Replication)	C#	1149	35	14	35
+FBRemoteNibLoader	baytelman/FBRemoteNibLoader	20640230	iOS library that allows to fetch remote .xib compiled and compresed files, and to load UIViewControllers from fetched .xibs	Objective-C	291	35	2	35
+improve	tomahawkins/improve	819796	An imperative programming language in Haskell for high assurance embedded applications.  ImProve programs are verified with model checking.  ImProve compiles to C and Simulink.	Haskell	1573	35	1	35
+slug-compiler	heroku/slug-compiler	7965505	Turns source+buildpack into a slug.	Ruby	256	34	10	34
+node-closure	tim-smart/node-closure	678578	Binding to Google Closure Compiler	CoffeeScript	40674	34	13	34
+typescript4j	martypitt/typescript4j	7661480	Typescript compiler for Java	JavaScript	1204	34	6	34
+coffee-script-project-template	fortes/coffee-script-project-template	3491158	Build system for CoffeeScript projects compiled with Google's Closure Compiler	Python	20320	34	19	34
+rake-compiler-dev-box	tjschuck/rake-compiler-dev-box	11205455	A virtual machine for using rake-compiler	Shell	65	34	14	34
+tiny-lisp	daynin/tiny-lisp	55492529	Lisp to JS compiler	JavaScript	104	34	3	34
+csources	nim-lang/csources	11538162	The pre-generated C sources of the Nim compiler which aid in bootstrapping.	C	38578	34	20	34
+ytljit	miura1729/ytljit	451028	Native Code Generator for Ruby compiler	Ruby	1204	34	5	34
+kibit-mode	aredington/kibit-mode	4371754	Exec Kibit as a compiler against your Clojure code in Emacs	Clojure	192	34	7	34
+nanopass	nobutaka/nanopass	325414	A nanopass scheme compiler in scheme for x86.	Scheme	241	34	7	34
+jade-react-compiler	mikepb/jade-react-compiler	18988492	Compile Jade to React JavaScript	JavaScript	4136	34	2	34
+dev86	lkundrak/dev86	685881	C compiler, assembler and linker environment for the production of 8086 executables	C	1701	34	12	34
+luajit-tcc	Playermet/luajit-tcc	30123992	Tiny C Compiler 0.9.26 binding for LuaJIT	Lua	7	34	2	34
+ucm	onqtam/ucm	37800164	cmake macros that help with: compiler/linker flags, collecting sources, PCHs, Unity builds and other stuff	CMake	171	34	5	34
+arc2c	sacado/arc2c	6617	Arc Lisp to C compiler	Arc	184	34	1	34
+gnusto	curiousdannii/gnusto	160951	Gnusto is a JIT compiler and virtual machine for the Z-Machine, originally written by Thomas Thurman	JavaScript	1403	34	7	34
+jet	brettwooldridge/jet	20429289	Swift-to-JVM bytecode compiler.	ANTLR	204	34	1	34
+go-libsass	wellington/go-libsass	34211333	Go wrapper for libsass, the only Sass 3.3 compiler for Go	C++	3840	34	3	34
+ocamlllvm	colinbenner/ocamlllvm	2819945	A variant of OCaml's native code compiler ocamlopt using LLVM in the back-end for optimization and code generation.  Warning: Binaries produced by this compiler are in no way compatible with binaries produced by ocamlopt.	OCaml	1280	34	6	34
+moonjs	siravan/moonjs	14085782	A port of the Apollo Guidance Computer (AGC) simulator to javascript using the Emscripten compiler	C	332	34	3	34
+overflower	llogiq/overflower	59425137	A Rust compiler plugin and support library to annotate overflow behavior	Rust	40	34	2	34
+jade-browser	weepy/jade-browser	1482091	compile jade for the browser	JavaScript	374	34	5	34
+roblox-web-apis	matthewdean/roblox-web-apis	14993809	User-compiled list of ROBLOX web APIs	JavaScript	190	34	11	34
+gulp-angular-gettext	gabegorelick/gulp-angular-gettext	17179275	Gulp plugin for extracting/compiling angular-gettext strings.  http://angular-gettext.rocketeer.be/	JavaScript	34	34	14	34
+HackerQueue	frankcash/HackerQueue	20134354	Your favorite tech sites compiled down to topics you find interesting.	JavaScript	207	34	8	34
+tilt-jade	therabidbanana/tilt-jade	2345707	Compiles jade templates into anonymous functions for use as Rails clientside templates	Ruby	160	34	7	34
+grunt-pug-i18n	AdesisNetlife/grunt-pug-i18n	15053727	Compile Pug/Jade templates with internationalization support based on JS/JSON/YAML files using Grunt	CoffeeScript	72	34	17	34
+liquor	evilmartians/liquor	851135	Liquor is a safe sandboxing compiling template language for Ruby	Ruby	1010	34	4	34
+image_optim_bin	mooktakim/image_optim_bin	9911376	Statically compiled bins to make image_optim work on Heroku or Linux x86_64	Ruby	2517	34	8	34
+traceur-runner	domenic/traceur-runner	28107516	Runs JavaScript.next code in Node by compiling it with Traceur on the fly, seamlessly	JavaScript	236	34	2	34
+toyide	pavelfatin/toyide	2625706	Modern IDE plus custom programming languages with interpreters and compilers	Scala	520	34	1	34
+BFTK	Hullu2000/BFTK	40432777	Program to compile Brainfuk to a working i686 kernel.	C	128	34	1	34
+Ferop	TIHan/Ferop	18269992	Ferop is a .NET library that allows inline C/C++ to compile and run on Windows/Linux/OSX. (beta, not production ready)	C	22022	34	2	34
+necpp	tmolteno/necpp	3803099	NEC2++ is a C++ rewrite of the Numerical Electromagnetics Code (NEC-2) with many new features like automatic error detection when you specify the structure incorrectly and much faster execution. Nec2++ can analyse radiating as well as scattering properties of structures. The simulation engine in Nec2++ is compiled into a library for easy integration into automatic antenna design systems or GUI tools. Examples are included for using Nec2++ from C/C++, Ruby and Python.	C++	2755	34	16	34
+swift-compiler-rt	apple/swift-compiler-rt	50524437		C	11414	33	18	33
+brainfuck	windoze/brainfuck	5739264	Brianfuck compiler and JIT runner	C++	131	33	10	33
+rebar3_elixir_compile	barrel-db/rebar3_elixir_compile	64661226	Elixir rebar3 compiler plugin	Erlang	1235	33	3	33
+rust-netbeans	drrb/rust-netbeans	11660359	NetBeans Rust plugin with embedded native Rust compiler	Java	1317	33	9	33
+koona	charles-l/koona	20930570	A really simple compiler written in Ruby	Ruby	348	33	6	33

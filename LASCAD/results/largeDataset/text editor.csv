@@ -1,0 +1,1001 @@
+name	full_name	id	description	language	size	watchers	forks	stargazers_count
+atom	atom/atom	3228505	The hackable text editor	CoffeeScript	406913	30685	5242	30685
+lime	limetext/lime	6064342	Open source API-compatible alternative to the text editor Sublime Text	null	4365	12686	1076	12686
+textmate	textmate/textmate	5344375	TextMate is a graphical text editor for OS X 10.8+	Objective-C++	61242	10990	1725	10990
+quill	quilljs/quill	5239185	Your powerful, rich text editor	JavaScript	14877	10497	567	10497
+draft-js	facebook/draft-js	52113921	A React framework for building text editors.	JavaScript	3876	7453	539	7453
+trix	basecamp/trix	11829145	A rich text editor for everyday writing	CoffeeScript	3650	7146	278	7146
+wysihtml5	xing/wysihtml5	1922703	Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.	JavaScript	6355	6568	1092	6568
+macvim	b4winckler/macvim	692798	Vim - the text editor - for Mac OS X	C	78126	5350	465	5350
+micro	zyedidia/micro	53632140	A modern and intuitive terminal-based text editor	Go	3081	4142	139	4142
+vim-colors-solarized	altercation/vim-colors-solarized	1381275	precision colorscheme for the vim text editor	VimL	772	4099	1264	4099
+Squire	neilj/Squire	2669200	HTML5 rich text editor. Try the demo integration at	JavaScript	3282	3462	233	3462
+scribe	guardian/scribe	14298729	A rich text editor framework for the web platform	JavaScript	6521	3441	244	3441
+textAngular	fraywing/textAngular	13429048	A radically powerful Text-Editor/Wysiwyg editor for Angular.js! Create multiple editor instances, two-way-bind HTML content, watch editors for changes and more!	JavaScript	4406	3430	886	3430
+slap	slap-editor/slap	18981255	Sublime-like terminal-based text editor	JavaScript	1645	3141	120	3141
+wysihtml	Voog/wysihtml	12459565	Open source rich text editor for the modern web	JavaScript	13135	3052	278	3052
+cleartext-mac	mortenjust/cleartext-mac	46653709	A text editor that only allows the top 1,000 most common words in English	Swift	2280	3021	121	3021
+kilo	antirez/kilo	62994219	A text editor in less than 1000 LOC with syntax highlight and search.	C	20	2808	292	2808
+hallo	bergie/hallo	1707621	Simple rich text editor (contentEditable) for jQuery UI	JavaScript	4229	2434	363	2434
+slate	ianstormtaylor/slate	61412022	A completely customizable framework for building rich text editors.	JavaScript	24137	2424	90	2424
+PlainTasks	aziz/PlainTasks	4038657	An opinionated todo-list plugin for Sublime Text editor (version 2 and 3)	Python	791	2420	226	2420
+firepad	firebase/firepad	9037027	Collaborative Text Editor Powered by Firebase	JavaScript	6190	2277	484	2277
+vis	martanne/vis	26677418	a vim like text editor	C	3994	2229	98	2229
+macvim	macvim-dev/macvim	5641441	Vim - the text editor - for Mac OS X	C	84930	2141	306	2141
+ZSSRichTextEditor	nnhubbard/ZSSRichTextEditor	16393248	A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view	Objective-C	1086	1915	275	1915
+jquery-notebook	raphaelcruzeiro/jquery-notebook	16031396	A modern, simple and elegant WYSIWYG rich text editor.	JavaScript	351	1679	210	1679
+CotEditor	coteditor/CotEditor	9243402	Lightweight Plain-Text Editor for macOS	Swift	55902	1658	166	1658
+scriptcs	scriptcs/scriptcs	8473240	Write C# apps with a text editor, nuget and the power of Roslyn!	C#	18316	1631	307	1631
+Knife	mthli/Knife	47661740	Knife is a rich text editor component for writing documents in Android.	Java	1151	1225	140	1225
+tmTheme-Editor	aziz/tmTheme-Editor	6466760	Color scheme editor for SublimeText, Textmate and a bunch of other text editors	HTML	6184	1182	257	1182
+sublime-enhanced	shagabutdinov/sublime-enhanced	24747281	Set of plugins for beloved sublime text editor	HTML	66	1135	31	1135
+gmate	gmate/gmate	586391	Set of plugins and improvements to make Gedit a powerfull programmer text editor	Python	2110	1048	153	1048
+popline	kenshin54/popline	10449816	Popline is an HTML5 Rich-Text-Editor Toolbar	JavaScript	393	1034	151	1034
+iota	gchp/iota	24936564	A terminal-based text editor written in Rust	Rust	1223	890	47	890
+massren	laurent22/massren	16522792	massren - easily rename multiple files using your text editor	Go	1025	786	16	786
+edhita	tnantoka/edhita	824672	Fully open source text editor for iOS written in Swift.	Swift	19374	748	204	748
+wysiwyg-editor	froala/wysiwyg-editor	16466496	A beautifuly designed jQuery WYSIWYG Rich Text Editor based on HTML5.	HTML	56283	743	142	743
+iOS-Rich-Text-Editor	aryaxt/iOS-Rich-Text-Editor	9880061	A Rich Text Editor for iOS	Objective-C	1820	725	134	725
+ritzy	ritzyed/ritzy	37325153	Collaborative web-based rich text editor	JavaScript	1541	698	32	698
+Caret	thomaswilburn/Caret	12290154	A sublime text editor for Chrome OS	JavaScript	7577	679	118	679
+vico	vicoapp/vico	4947406	Mac Programmers Text Editor	Objective-C	37205	668	98	668
+android-animate-RichEditor	xmuSistone/android-animate-RichEditor	44215821	android rich text editor which enables users to insert/delete bitmaps and text into edit-view with animations.	Java	2903	595	128	595
+notepad2-mod	XhmikosR/notepad2-mod	5568579	LOOKING FOR DEVELOPERS - Notepad2-mod, a Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting	C++	26009	557	124	557
+e	etexteditor/e	165269	e text editor	C++	18226	499	83	499
+Vim	applidium/Vim	3217324	Port of the Vim text editor to the iOS	C	99727	483	96	483
+WordPress-Editor-iOS	wordpress-mobile/WordPress-Editor-iOS	19703913	A reusable iOS rich text editor component.	Objective-C	8491	480	103	480
+suplemon	richrd/suplemon	28249896	:lemon: Console (CLI) text editor with multi cursor support. Suplemon replicates Sublime Text like functionality in the terminal. Try it out, give feedback, fork it!	Python	698	460	21	460
+atom-keyboard-shortcuts	nwinkler/atom-keyboard-shortcuts	22341767	A list of keyboard shortcuts for the Atom text editor	null	24	454	92	454
+icarus-android	mr5/icarus-android	56924966	The best rich text editor for android platform, which includes more completely features. 安卓富文本编辑器	JavaScript	1192	452	72	452
+wakatime	wakatime/wakatime	11215061	Command line interface used by all WakaTime text editor plugins.	Python	3421	419	31	419
+django-wysiwyg	pydanny-archive/django-wysiwyg	282399	 A Django application for making Django textareas rich text editors. Certainly as a template tag and possibly as a form widget.	HTML	165	415	47	415
+sublimetext_indentxml	alek-sys/sublimetext_indentxml	2487802	Plugin for Sublime Text editor for reindenting XML and JSON files	Python	80	370	121	370
+godit	nsf/godit	5102794	A very religious text editor	Go	523	369	53	369
+raven	robotlolita/raven	14879660	Raven is a minimal, distraction-free text editor with good typography.	JavaScript	9229	369	15	369
+bootstrap-wysiwyg	steveathon/bootstrap-wysiwyg	19204005	Tiny bootstrap-compatible WYSIWYG rich text editor	HTML	812	357	1499	357
+FastColoredTextBox	PavelTorgashov/FastColoredTextBox	8203189	Fast Colored TextBox for Syntax Highlighting. The text editor component for .NET.	C#	12452	353	170	353
+ymacs	mishoo/ymacs	1056999	Ymacs is an^W the most Emacs-like code/text editor for the Web	JavaScript	2293	328	53	328
+AvalonEdit	icsharpcode/AvalonEdit	18650309	The WPF-based text editor component used in SharpDevelop	C#	4508	324	135	324
+guiflow	hirokidaichi/guiflow	53048682	a text editor for ui flow 	JavaScript	134888	324	27	324
+SourceKittenDaemon	terhechte/SourceKittenDaemon	46151567	Swift Auto Completions for any Text Editor	Swift	3651	321	18	321
+lavalamp	jasonlong/lavalamp	17348444	A text editor theme that visually differentiates languages.	VimL	132	316	7	316
+rim	mathall/rim	30017427	Aspiring vim-like text editor	Rust	411	313	16	313
+Barliman	webyrd/Barliman	59238492	Prototype smart text editor	Scheme	15912	299	5	299
+RSyntaxTextArea	bobbylight/RSyntaxTextArea	11966919	A syntax highlighting, code folding text editor for Java Swing applications.	Java	10228	299	109	299
+vim-recipes	runpaint/vim-recipes	187180	A cookbook for the Vim text editor.	JavaScript	6734	265	23	265
+DTRichTextEditor	Cocoanetics/DTRichTextEditor	37856139	A rich-text editor for iOS	Objective-C	4645	263	34	263
+Fraise	jfmoy/Fraise	570754	Fraise is a lightweight but powerful text editor for Mac OS X.	Objective-C	5022	263	41	263
+GhostText	GhostText/GhostText	17492418	👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).	TypeScript	1433	263	24	263
+Aporia	nim-lang/Aporia	621775	IDE/Advanced text editor mainly focusing on support for the Nim programming language.	Nimrod	22576	258	38	258
+wysiwyg-rails	froala/wysiwyg-rails	16522799	Ruby gem for Froala jQuery WYSIWYG HTML Rich Text Editor.	JavaScript	1918	256	45	256
+Emacs-Elisp-Programming	caiorss/Emacs-Elisp-Programming	38110992	Tutorial about programming Elisp and Emacs text editor customization.	HTML	9039	256	29	256
+text-app	GoogleChrome/text-app	6579550	A text editor for ChromeOS and Chrome	JavaScript	6120	245	96	245
+MavensMate	joeferraro/MavensMate	8763586	MavensMate is a collection of open source projects that aims to make building Salesforce applications accessible to developers who prefer to build applications using their local machine in text editors like Sublime Text, Atom, and Visual Studio Code.	HTML	43273	229	72	229
+ScintillaNET	jacobslusser/ScintillaNET	30391471	A Windows Forms control, wrapper, and bindings for the Scintilla text editor.	C#	40742	225	68	225
+toy-chest-theme	JacksonGariety/toy-chest-theme	9743878	A color scheme for your text editor that makes coding fun.	JavaScript	10471	214	28	214
+angular-froala	froala/angular-froala	23120633	Angular.js bindings for Froala WYSIWYG HTML Rich Text Editor.	JavaScript	130	212	71	212
+toothpaste	imcatnoone/toothpaste	50728984	Toothpaste is a custom theme for your text editor with flavorful colors	VimL	4863	207	25	207
+angular-trix	sachinchoolur/angular-trix	47696333	A rich WYSIWYG text editor directive for angularjs.	JavaScript	185	205	25	205
+vim-lion	tommcdo/vim-lion	8821889	A simple alignment operator for Vim text editor	VimL	31	203	6	203
+graphene	rdallasgray/graphene	5704726	A set of defaults for Emacs, for refugees from GUI text editors.	Emacs Lisp	1293	203	15	203
+kix-standalone	benjamn/kix-standalone	801545	A standalone version of Google's new rich text editor, Kix	JavaScript	872	201	39	201
+slim_text	tylerlong/slim_text	9841546	Slim Text Editor	CoffeeScript	17760	195	49	195
+dredit	googledrive/dredit	8688208	[DEPRECATED] DrEdit, a Google Drive SDK sample text editor app.	JavaScript	41234	193	277	193
+Specials-Board	jbergantine/Specials-Board	245721	A light-on dark .seestyle theme for the Panic Coda 1.x text editor.	null	2253	183	10	183
+Android-RTEditor	1gravity/Android-RTEditor	36704211	The Android RTEditor is a rich text editor component for Android that can be used as a drop in for EditText	Java	5662	175	37	175
+swiboe	swiboe/swiboe	40109271	The text editor for the next 25 years.	Rust	32590	174	14	174
+wysihat-engine	80beans/wysihat-engine	320914	A Rails engine to help integrate the 37signals WysiHat rich text editor to your application.	JavaScript	1274	174	17	174
+medium-draft	brijeshb42/medium-draft	56425325	A medium like Rich Text Editor built on draft-js with a focus on keyboard shortcuts.	JavaScript	163	172	18	172
+active_admin_editor	ejholmes/active_admin_editor	4133393	Rich text editor for Active Admin using wysihtml5.	Ruby	1014	169	122	169
+920-Text-Editor-old	jecelyin/920-Text-Editor-old	5536417	new project	Java	3547	168	85	168
+atomic-emacs	avendael/atomic-emacs	17261578	An atomic implementation of emacs keybindings for the Atom text editor.	CoffeeScript	308	166	47	166
+surface	substance/surface	4694047	A building block for web-based text editors	JavaScript	2252	166	16	166
+vim-ide	xmementoit/vim-ide	11815767	Convert your VIM text editor into powerful IDE	VimL	85295	155	27	155
+rails_tiny_mce	sandipransing/rails_tiny_mce	316258	A Tiny MCE Rich text Editor for rails using jquery, paperclip with image and media upload support	Ruby	1133	148	18	148
+dex	tihirvon/dex	1086316	Dextrous text editor	C	4446	143	13	143
+de	driusan/de	58956476	A Programmer's Text Editor	Go	257	139	5	139
+atom-replacement-icon	edwardloveall/atom-replacement-icon	17319512	Replacement icon for the Atom text editor	Shell	1872	139	7	139
+shim	swong15/shim	17840606	A vim inspired text editor	JavaScript	99301	136	11	136
+codemirror-ui	jagthedrummer/codemirror-ui	1319511	A simple UI for the CodeMirror text editor.	JavaScript	2763	135	39	135
+notex-v2.0	hsk81/notex-v2.0	5179138	A text editor for reStructuredText, Markdown, LaTex and more!	CSS	4421	133	19	133
+freshereditor	mquan/freshereditor	1817818	fresherEditor is a jQuery rich text editor built using contentEditable attribute	JavaScript	193	132	35	132
+PoorEdit	SpongeBobSun/PoorEdit	47194844	Android Rich Text Editor Widget	Java	985	131	30	131
+RKRichTextView	ren6/RKRichTextView	10246463	Rich Text Editor for iOS	Objective-C	385	130	15	130
+comparisons	iDoRecall/comparisons	36582958	Comparisons of various solutions considered while building iDoRecall: rich text editors, error logging services, cross-browser testing services etc.	null	8	124	12	124
+vim-lua-ftplugin	xolox/vim-lua-ftplugin	1893742	Lua file type plug-in for the Vim text editor	VimL	782	123	22	123
+MavensMate-Atom	joeferraro/MavensMate-Atom	18139487	MavensMate plugin for building Salesforce.com/Force.com/Salesforce1 applications inside GitHub's Atom text editor	CoffeeScript	28035	123	32	123
+php-drupal.tmbundle	psynaptic/php-drupal.tmbundle	399603	Drupal bundle for TextMate text editor	PHP	991	120	30	120
+qute-html5	fbreuer/qute-html5	1870025	Qute Text Editor - built with web technologies	JavaScript	37581	118	6	118
+rst2pdf	rst2pdf/rst2pdf	32087385	Use a text editor.  Make a PDF.	Python	7758	116	37	116
+droplet	droplet-editor/droplet	15754563	Block language reenvisioned as a text editor	JavaScript	31112	112	50	112
+diakonos	Pistos/diakonos	18272	Diakonos is a Linux console text editor for the masses.	Ruby	3270	112	10	112
+pydoc.vim	fs111/pydoc.vim	706122	pydoc integration for the best text editor on earth	VimL	42	107	26	107
+XCoverage	dropbox/XCoverage	32405999	Xcode Plugin that displays coverage data in the text editor	Objective-C	989	107	8	107
+megadraft	globocom/megadraft	54509932	 Megadraft is a Rich Text editor built on top of Facebook's draft.js featuring a nice default base of components and extensibility	JavaScript	17750	106	22	106
+enki	hlamer/enki	946503	A text editor for programmers	Python	23804	101	20	101
+kaa	kaaedit/kaa	10718189	kaa - console text editor	Python	1886	95	9	95
+Typewriter	davidmerfield/Typewriter	15192621	A text editor for first drafts.	JavaScript	32901	95	4	95
+textile-editor-helper	ryanfelton/textile-editor-helper	54402	a clone of the latest release of textile_editor_helper with improvments	Ruby	254	93	22	93
+django-froala-editor	froala/django-froala-editor	21104814	Package to integrate Froala WYSIWYG HTML rich text editor with Django.	JavaScript	3008	90	19	90
+PeepOpen	topfunky/PeepOpen	1206524	Desktop application for switching between files in text editors	Ruby	18618	87	14	87
+react-text-editor	andrewcoelho/react-text-editor	53353853	React rich text editor built using Draft.js. Similar to Facebook Notes editor. http://andrewcoelho.com/react-text-editor/	JavaScript	123	86	17	86
+CSS3.sugar	minimalweb/CSS3.sugar	955448	CSS3 Sugar for Espresso Text Editor	null	863	86	7	86
+angular-meditor	ghinda/angular-meditor	14308647	Simple floating text editor for Angular, inspired by Medium.	JavaScript	6855	83	27	83
+kattappa	brijeshb42/kattappa	40481542	A block based rich text editor.	JavaScript	1077	82	4	82
+kilua	skx/kilua	63314903	A minimal text-editor with lua scripting.	C++	792	82	4	82
+ruby.sugar	ELLIOTTCABLE/ruby.sugar	70820	‹ᴜɴᴍᴀɪɴᴛᴀɪɴᴇᴅ› A Ruby sugar for MacRabbit's Espresso text editor	Ruby	80	80	12	80
+griffin.editor	jgauffin/griffin.editor	3514048	jQuery text editor supporting markdown	JavaScript	838	78	4	78
+Handy.sugar	onecrayon/Handy.sugar	2405492	A handy collection of actions for keeping your fingers on your keyboard in the Espresso text editor for Mac	JavaScript	47	76	4	76
+Writer-Tutorial	goldsborough/Writer-Tutorial	23565580	PyQt text editor tutorial repository	Python	616	74	44	74
+WordPress-Editor-Android	wordpress-mobile/WordPress-Editor-Android	30292255	A reusable Android rich text editor component.	Java	3493	74	21	74
+Codeita	heavy-cloud/Codeita	2240829	Web-based text editor and file management.	JavaScript	1115	74	31	74
+php-debug	gwomacks/php-debug	34487796	Atom Text Editor package for PHP debugging	CoffeeScript	277	73	19	73
+P2MSTextView	ptwoms/P2MSTextView	14865234	Rich Text Editor for IOS	Objective-C	509	72	12	72
+Ted	xgouchet/Ted	3569844	Ted is a text editor for Android, written in java	Java	1267	72	46	72
+HTML5.sugar	minimalweb/HTML5.sugar	936007	Adds HTML5 autocompletion to Espresso Text Editor	null	627	72	5	72
+split-diff	mupchrch/split-diff	41949379	Side-by-side file compare for the Atom text editor.	CoffeeScript	6674	72	12	72
+sam	deadpixi/sam	40034721	An updated version of the sam text editor.	C	894	71	7	71
+web-quickeditor	googledrive/web-quickeditor	31785718	A sample text editor for the web browsers illustrating how to open and save files with the Google Drive API	JavaScript	348	70	38	70
+rover-editor	kasparsd/rover-editor	5982023	Rover is a web based text editor with support for Markdown syntax highlighting and Dropbox storage	JavaScript	7720	70	7	70
+Mediawiker	tosher/Mediawiker	6582157	Mediawiker is a plugin for Sublime Text editor that adds possibility to use it as Wiki Editor on Mediawiki based sites like Wikipedia and many other.	Python	1971	70	22	70
+yugen	JacksonGariety/yugen	9861473	A collaborative text editor for minimalists.	JavaScript	120	68	12	68
+line-control	suyati/line-control	17055755	A Light Weight HTML5 Text Editor designed as  a JQuery Plugin	JavaScript	587	67	54	67
+e	the8thbit/e	11002066	the minimalistest text editor	C	23	66	2	66
+MarkdownX	Ryeeeeee/MarkdownX	38496690	Markdown text editor for Android	null	15249	64	7	64
+angular-editor	wanming/angular-editor	19276721	angular rich text editor with simditor(tower.im)	JavaScript	266	63	19	63
+sky	evanw/sky	52170929	A text editor written in the Skew programming language	Objective-C++	534	63	0	63
+tea-for-espresso	onecrayon/tea-for-espresso	135128	An Espresso Sugar containing Textmate-style Text Editor Actions	Python	3249	62	3	62
+scratch	dkandalov/scratch	913306	IntelliJ plugin to quickly open temporary text editor	Java	2160	62	4	62
+yui_editor	larsklevan/yui_editor	39506	Integrate the Yahoo Rich Text Editor (http://developer.yahoo.com/yui/editor/) into a Rails application.	Ruby	281	60	9	60
+EncryptPad	evpo/EncryptPad	52200408	Minimalist secure text editor and binary encryptor that implements RFC 4880 Open PGP format: symmetrically encrypted, compressed and integrity protected. The editor can protect files with passwords, key files or both.	C++	7485	60	9	60
+ngQuill	KillerCodeMonkey/ngQuill	26112684	Angular Directive for Quill rich text editor	JavaScript	101	58	38	58
+casto	hikarock/casto	16981599	:zap: Live coding in browse, using text editor.	JavaScript	6747	58	2	58
+Jota-Text-Editor-old	jiro-aqua/Jota-Text-Editor-old	1091258	Text editor for Android	Java	1694	57	27	57
+react-markdown	leozdgao/react-markdown	36725212	text editor for markdown in react (不再维护)	JavaScript	411	56	16	56
+rubyblue	jlong/rubyblue	341744	A collection of themes for different text editors that mimic the colors used in the code samples on ruby-lang.org	VimL	111	55	24	55
+geany-on-rails	dejw/geany-on-rails	954771	Ruby on Rails bundle for Geany text editor.	null	141	54	18	54
+Pandoc-Mac-OS-X-Services	mb21/Pandoc-Mac-OS-X-Services	11561394	Invoke pandoc from any text editor with the opened file as input	null	1525	54	4	54
+canvas-text-editor	grassator/canvas-text-editor	3280878	Simple text editor using html5 canvas	JavaScript	189	53	17	53
+docs-old	quilljs/docs-old	51192094	Homepage of Quill - The rich text editor with an API	CSS	2183	53	24	53
+meteor-froala	froala/meteor-froala	27219865	A beautiful jQuery WYSIWYG HTML text editor. The editor is free for non-commercial projects. For commercial applications you have to purchase a license from 	JavaScript	1109	52	14	52
+angular-typewrite	antoniocapelo/angular-typewrite	17118398	AngularJS directive that simulates the effect of typing on a text editor	ApacheConf	122	51	17	51
+regex.sugar	ELLIOTTCABLE/regex.sugar	79292	‹ᴜɴᴍᴀɪɴᴛᴀɪɴᴇᴅ› A Regular Expression sugar for MacRabbit's Espresso text editor.	CSS	28	51	5	51
+textlint	DamienCassou/textlint	2315467	[DEPRECATED] Allows to integrate TextLint (http://scg.unibe.ch/research/textlint) within various text editors	Emacs Lisp	33582	51	5	51
+CodeFriends	code-friends/CodeFriends	28152187	Code Friends is a collaborative programming environment with real-time concurrent editing, and text/video chat. Collaborate with others remotely and see your changes sync instantly. Think of it as Google Docs for your sublime text editor.	JavaScript	9864	50	27	50
+snucode	werg/snucode	3333649	A realtime collaborative text editor with syntax highlighting using websockets via the Socketstream (Node.js) library	JavaScript	325	50	1	50
+draft-js-editor	AlastairTaft/draft-js-editor	52714003	A rich text editor built using draft js	JavaScript	111	49	2	49
+HighlightTextEditor	evilbinary/HighlightTextEditor	42951715	An android HighlightTextEditor	C++	6984	48	19	48
+Haxe-Studio	misterpah/Haxe-Studio	18398444	Text editor specially made for Haxe Programming Language. written in JS	JavaScript	11744	48	5	48
+xo	scopatz/xo	17615971	exofrills text editor	Python	124	47	9	47
+js-textmode-editor	sixteencolors/js-textmode-editor	2186991	A javascript and canvas based editor for drawing textmode based artwork (ansi, ascii, bin, xbin, adf, idf, tundra, avatar, pcboard) 	JavaScript	1140	45	6	45
+920-text-editor-v2	jecelyin/920-text-editor-v2	56496110	920 Text Editor is a Free, Open Source and no Ad software for android	Java	14260	44	10	44
+T	eaburns/T	27244055	The T text editor.	Go	973	44	3	44
+ionic-atom	RokkinCat/ionic-atom	23137113	Preview your ionic apps in the atom text editor	CoffeeScript	246	44	9	44
+punymce	spocke/punymce	286301	PunyMCE is a lightweight rich text editor written in javascript. It's designed to be used for things like comments and forums. 	JavaScript	3509	44	10	44
+react-native-wordpress-editor	wix/react-native-wordpress-editor	60773470	React Native Wrapper for WordPress Rich Text Editor	Objective-C	156	43	5	43
+redactor-plugins	johnsardine/redactor-plugins	6162639	Collection of plugins developed  for Redactor, a WYSIWYG rich-text editor made by @imperavi.	JavaScript	127	42	15	42
+Hale	martincohen/Hale	44075645	Prototype turning into a text editor.	C++	1644	42	1	42
+dit	hishamhm/dit	15683906	A console text editor for Unix systems that you already know how to use	C	1101	42	3	42
+fairyfloss	sailorhg/fairyfloss	58701302	fairy floss text editor theme	CSS	447	41	13	41
+rich-text-editor	goinstant/rich-text-editor	19614026	This repo will no longer be updated. GoInstant will be discontinued as of August 31, 2014. Read our blog for more details.	JavaScript	1231	40	6	40
+vulcan	zesterer/vulcan	31142532	[FUNCTIONAL] A minimalistic text editor designed for both ordinary use and software development	Vala	475	40	2	40
+mecha-cms	mecha-cms/mecha-cms	19169655	Mecha is a file-based CMS. It does not require any database. Almost all files are stored as plain text files which grouped into folders, which you can even edit it manually through a plain text editor application.	PHP	4121	40	10	40
+juffed	Mezomish/juffed	3302027	JuffEd text editor	C++	9427	39	15	39
+Textor	lutzroeder/Textor	1332934	Text Editor with syntax highlighting using HTML5 canvas.	JavaScript	6291	39	14	39
+tepe	diki/tepe	14471555	TePe - Open source, browser-based text editor	JavaScript	2907	39	3	39
+ScalaEdit	kjellwinblad/ScalaEdit	1341338	A text editor for Scala programmers	Scala	47364	39	1	39
+python.sugar	mthjones/python.sugar	184405	A Sugar for the Espresso text-editor for development with Python	Python	107	39	1	39
+code_autocomplete	JacquesLucke/code_autocomplete	27330859	Auto Completion in Blenders text editor.	Python	515	37	6	37
+pluma	mate-desktop/pluma	2729606	A powerful text editor for MATE	C	11604	36	15	36
+wysihtml5n	zohararad/wysihtml5n	4832443	wysihtml5 powered rich-text editor with drag & drop image editing	JavaScript	503	36	6	36
+py-infinote	jvanveen/py-infinote	1183975	py-infinote is a python port of JInfinote, offering a collaborative text-editing protocol(adOPTed) which can be used to write multi-user collaborative text editors.	Python	447	36	8	36
+wcteditor	garann/wcteditor	1148766	a simple text editor	JavaScript	242	35	3	35
+Second-Climacs	robert-strandh/Second-Climacs	14065555	Version 2 of the Climacs text editor.	Common Lisp	318	35	10	35
+atom-portable	garethflowers/atom-portable	41300465	Portable version of the Atom text editor, for Windows	HTML	608	34	6	34
+evernote-editor	hpoydar/evernote-editor	8209105	Simple command line creation and editing of Evernote notes with Markdown and your favorite text editor	Ruby	287	34	5	34
+laravel-editor	Vinelab/laravel-editor	28859032	Markdown Text Editor (WYSIWYG) with social network embeds support and a nifty json output	PHP	388	34	5	34
+wed	rgburke/wed	51696246	wed is a terminal text editor with key bindings commonly used in Windows based editors	C	1315	33	0	33
+notex-v1.0	hsk81/notex-v1.0	3376757	An online text editor for reStructuredText	Python	4412	32	3	32
+ped	sloria/ped	42016292	:mans_shoe: Quickly open Python modules in your text editor	Python	30	32	2	32
+MMD-Edit	fletcher/MMD-Edit	1995542	Syntax-highlighting text editor for MultiMarkdown, based on work by Ali Rantakari	Objective-C	591	32	3	32
+RichTextEditor	SquaredTiki/RichTextEditor	7276412	A Rich Text Editor for iOS built using a UIWebView with a content-editable div	Objective-C	140	31	8	31
+Sublime-JSLint	eduardolundgren/Sublime-JSLint	2140612	Sublime Text Editor 2 JSLint Support	JavaScript	108	31	4	31
+slimtext.org	tylerlong/slimtext.org	8433487	Slim Text is a slim text editor which runs inside Chrome	CSS	29532	31	8	31
+easy-write	adeekshith/easy-write	55324523	A web based text editor that encourages to write using only the top English words 	HTML	157	31	5	31
+TipTyper	brunophilipe/TipTyper	29109811	Simple plain-text editor for OS X with multiple useful features.	Objective-C	3126	31	0	31
+gray-matter	philipbelesky/gray-matter	2713206	A colour scheme for Sublime Text that takes design cues from popular minimalist Markdown text editors. Unlike many other colour schemes it properly highlights the basic Markdown syntax.	null	144	31	4	31
+dotvim	airblade/dotvim	1054018	How I configure the one true text editor.	VimL	378	30	2	30
+vim-pyref	xolox/vim-pyref	681257	A plug-in for the Vim text editor that provides context-sensitive documentation for Python source code.	VimL	1030	30	3	30
+django-wysihtml5	danirus/django-wysihtml5	6585661	Simple Django app that provides a Wysihtml5 rich text editor textarea widget.	Python	496	29	18	29
+CudaText	Alexey-T/CudaText	42943612	Cross-platform text editor, Lazarus	Python	12292	28	12	28
+atom-svn	andischerer/atom-svn	36823512	SVN integration for atom text editor	CoffeeScript	61	28	10	28
+quill-rails	the-robear/quill-rails	19993554	Rails 3/4 Asset Pipeline Loading for Quill.js Rich Text Editor	JavaScript	490	28	16	28
+webkit-editor	rsms/webkit-editor	844034	Experimental text editor which runs in the browser	JavaScript	463	28	6	28
+WP-Alchemy-Holy-Grail-Theme	helgatheviking/WP-Alchemy-Holy-Grail-Theme	3665800	A child theme of Twenty Fourteen that is meant to show repeatable, sortable, WYSIWYG (tinyMCE-enabled) text editors complete with media buttons for your WP Alchemy metaboxes. 	PHP	181	28	6	28
+gollum_editor	samknight/gollum_editor	3636429	Gollum wiki text editor	JavaScript	254	27	3	27
+KMSFroalaEditorBundle	froala/KMSFroalaEditorBundle	26242654	Symfony bundle for Froala WYSIWYG HTML Rich Text Editor.	HTML	2635	27	14	27
+cryptote	bingmann/cryptote	6987751	CryptoTE - Text Editor with Transparent Cryptography	C++	7426	27	4	27
+wcheck-mode	tlikonen/wcheck-mode	1928361	General-purpose text-checker interface for Emacs text editor	Emacs Lisp	305	27	2	27
+xgherkin	sebastianbenz/xgherkin	2014263	A text editor for Cucumber's feature language gherkin build with Xtext.	Java	2989	27	1	27
+CHRichTextEditor	cathandnya/CHRichTextEditor	4297963	Rich text editor on iOS.	Objective-C	233	26	4	26
+SynWrite	Alexey-T/SynWrite	9482749	SynWrite text editor	Pascal	22850	26	7	26
+sublime-installer	waldyr/sublime-installer	5420431	A Sublime Text Editor Installer made in shell script for the 2.0.1 version	Shell	128	26	237	26
+planet.emacsen.org	hober/planet.emacsen.org	350843	Planet Emacsen: People living with the extensible, self-documenting text editor.	CSS	139	26	33	26
+wysihtml5-rails	NARKOZ/wysihtml5-rails	4491646	A wysiwyg text editor for use in the Rails asset pipeline	Ruby	192	26	7	26
+simple-edit	mlabod/simple-edit	2017827	simple html5 text editor with contenteditable="true" and execCommand	JavaScript	102	26	2	26
+jQuery-TE	fattihkoca/jQuery-TE	4067498	jQuery Text Editor Plugin	null	426	25	28	25
+MySignaturePlugin	eladyarkoni/MySignaturePlugin	5793085	Very lightweight plugin for sublime text editor	Python	254	25	11	25
+symbol-gen	weskinner/symbol-gen	17272096	Generate tags file for a project in the atom text editor	CoffeeScript	411	25	16	25
+9ne	robrohan/9ne	1293838	An online emacs like text editor	JavaScript	153	25	7	25
+deadcode	jcd/deadcode	32267223	The Deadcode text editor	D	8982	25	2	25
+tea-for-coda	onecrayon/tea-for-coda	135133	Coda plugin with useful HTML Text Editor Actions, written in Python	Python	200	25	10	25
+yaml.sugar	grzegorzkazulak/yaml.sugar	167129	A YAML sugar for Espresso text editor	null	77	25	3	25
+vim-voom.github.com	vim-voom/vim-voom.github.com	1521559	Website about VOoM, an outliner plugin for text editor Vim.	null	1749	25	3	25
+ScriptableTextEditor	bignerdranch/ScriptableTextEditor	579520	A simple Cocoa text editor that demonstrates creating a plugin system in Python.	Objective-C	196	24	9	24
+Qute	fbreuer/Qute	1688893	Qute Text Editor	Java	13534	24	8	24
+nekobito	gaaamii/nekobito	25303996	A Markdown text editor which enables you to write more comfortably	JavaScript	990	24	2	24
+editor	biakaveron/editor	307995	A simple library for working with various WYSIWYGs and other Text Editors. Current version already has drivers for CKeditor (FCKEditor v3.0), Tiny_MCE and MarkItUp.	PHP	252	24	7	24
+WPF-RichText-Editor	AfterbuyAxel/WPF-RichText-Editor	9297934	WPF RichText Editor Control with conversion from and to HTML (XAML)	C#	3232	23	11	23
+cross-browser-rich-text-editor	rothkj1022/cross-browser-rich-text-editor	8758421	The original cross-browser rich text editor, released the same day as Firebird 0.6.1 (Firefox) became available, the first non-IE browser to implement designMode() capability.	JavaScript	223	23	23	23
+textile-editor	guillaumebort/textile-editor	480390	An HTML5 textile editor	JavaScript	117	23	4	23
+OneFileCMS	rocktronica/OneFileCMS	3150928	A CMS (err, text editor and file manager) all in one file.	PHP	590	23	52	23
+moorte	siteroller/moorte	169390	Mootools Wysiwyg/NAWTE Rich Text Editor - small, extensible!	JavaScript	3427	23	7	23
+ember-froala	froala/ember-froala	41298354	Ember component for Froala WYSIWYG HTML Rich Text Editor.	JavaScript	499	23	13	23
+vimrc	jalcine/vimrc	7555963	:seat: Options for my preferred text editor.	VimL	1965	23	4	23
+django-trix	istrategylabs/django-trix	44617706	Basecamp's Trix rich text editor widget for Django	CSS	98	23	6	23
+fervor	jangler/fervor	37223048	Graphical cross-platform text editor	Go	420	23	0	23
+atom-seeing-is-believing	JoshCheek/atom-seeing-is-believing	20606405	Seeing is Believing integration for the Atom text editor.	CoffeeScript	60	23	4	23
+koeeoadi	seanirby/koeeoadi	53951482	A Clojurescript web app for creating text editor themes. Built with Om Next.	Clojure	674	23	1	23
+lovetext	felipefs/lovetext	30623288	Love Text is a simple, lightweight and extensible text editor.	C	356	23	1	23
+bedazzle	capablemonkey/bedazzle	32971306	A faux rich text editor for Twitter via ascii -> unicode transforms	JavaScript	1678	23	1	23
+atom-text-editor-repository	alanfranz/atom-text-editor-repository	41699828	Instructions for using a repository with official RPMs and DEBs for the Atom Text Editor	null	11	22	2	22
+epiceditor-for-wordpress	sebnitu/epiceditor-for-wordpress	5136971	EpicEditor for WordPress enables a Markdown text editor to be used along side WordPress' default text editor.	JavaScript	260	22	0	22
+SublimePaneNavigation	borist/SublimePaneNavigation	10072196	Increased keyboard functionality for navigation between tabs and split panes in Sublime Text editor	Python	174	22	4	22
+atom-hg	victor-torres/atom-hg	54078016	Mercurial support for Atom text editor. Works on Linux, Mac OS X and Windows.	CoffeeScript	35	22	3	22
+JCEditor	cristian-henrique/JCEditor	47045009	Text editor created in Java	Java	82297	21	3	21
+frozen	FelipeMartinin/frozen	15554378	Frozen - A text editor theme	CSS	99070	21	2	21
+wysihtml-rails	Voog/wysihtml-rails	15079864	Wysihtml text editor for Rails assets pipeline.	Ruby	2762	21	1	21
+Lavendeux	rscarson/Lavendeux	51856807	Lavendeux inlines calculating, programming and testing utilities into your favourite text editor.	C	54877	21	1	21
+TextareaServer	epeli/TextareaServer	1334800	Server for opening external text editors from Chrome	CoffeeScript	208	20	3	20
+android-quickeditor	googledrive/android-quickeditor	13748659	A text editor to open and modify text files based on Querying samples for Google Drive Android API	Java	4542	20	18	20
+radiant-textile_editor-extension	jgarber/radiant-textile_editor-extension	56148	Adds a toolbar to make editing pages and snippets written in Textile easier.	JavaScript	151	19	11	19
+EditBone	bonecode/EditBone	32215538	Text Editor for Windows	Pascal	20741	19	4	19
+sublime-drupal	phase2/sublime-drupal	4810787	Sets up Sublime Text editor for Drupal development	Shell	113	19	23	19
+mp-5.x	angelortega/mp-5.x	2040298	Minimum Profit Text Editor	C	2011	19	3	19
+codemirror.dart	google/codemirror.dart	25178558	A Dart wrapper around the CodeMirror text editor.	Dart	2164	18	17	18
+graphviz-preview	jumpkick/graphviz-preview	21486121	GraphViz preview package for Atom text editor	CoffeeScript	898	18	7	18
+geany-dark-scheme	dflock/geany-dark-scheme	32106440	Dark syntax theme for the Geany text editor.	Rebol	296	18	14	18
+codeigniter-utilities	RoverWire/codeigniter-utilities	3742552	CodeIgniter utilities and library snippets for Sublime Text Editor	null	113	18	13	18
+Carto-sublime	yohanboniface/Carto-sublime	10904120	Carto syntax highlighter and autocompletion for Sublime Text editor	Python	173	18	3	18
+rad	fromheten/rad	35444993	🚲 Programmers environment & hackers text editor 🚲	Clojure	172	18	0	18
+cloudfall	antimatter15/cloudfall	4924508	A simple text editor that syncs to dropbox	JavaScript	827	18	2	18
+editor-background	camel-chased/editor-background	34992929	Background image/animation for atom text editor	CoffeeScript	16013	18	2	18
+quantum-shell	sedabull/quantum-shell	29901476	An experimental terminal emulator for the Atom text editor	CoffeeScript	2483	18	1	18
+lua.vim	vim-scripts/lua.vim	1944710	Lua file type plug-in for the Vim text editor	VimL	310	18	1	18
+Django-Template	jbergantine/Django-Template	519830	Django Template syntax mode for the Panic Coda 1.x and SubEthaEdit text editors	Perl	154	18	0	18
+smultron	vijaykiran/smultron	381107	Smultron Text Editor for Mac OS X	Objective-C	7058	17	3	17
+atom-react-native-autocomplete	TOP-Chao/atom-react-native-autocomplete	49546003	React-Native autocompletion for Atom text editor! 	JavaScript	823	17	3	17
+sublime-useful-ruby-snippets	accessd/sublime-useful-ruby-snippets	5705826	Ruby snippets for Sublime Text Editor http://www.sublimetext.com/	null	113	17	3	17
+editxt	editxt/editxt	837783	EditXT - a programmer's text editor for Mac OS X	Python	4630	17	4	17
+iated	docwhat/iated	767890	It's All Text! Editor Daemon	Ruby	1652	17	1	17
+Android-WYSIWYG-Editor	irshuLx/Android-WYSIWYG-Editor	57431867	:pager: A text editor written in Android using native components in the content tree. Integrate easily to work with web based WYSIWYG's.	Java	17456	17	6	17
+FastSharp	mmanela/FastSharp	2045885	FastSharp is a text editor which lets you quickly compile and run C#, F# and Visual Basic code without opening up Visual Studio.	C#	448	17	7	17
+HAML.sugar	fullsailor/HAML.sugar	375527	A Sugar plugin to support the HAML language in the Espresso text editor.	null	103	17	0	17
+meghanada-server	mopemope/meghanada-server	67041316	A Java IDE Server for your editor. Java IDE-like features to your favourite text editor.	Java	1044	17	1	17
+CCRichTextEditor	ddrccw/CCRichTextEditor	8700302	利用UIWebView实现富文本编辑。尝试obj-c与javascript交互。 使用AudioSession实现录音及播放。  	Objective-C	13331	16	4	16
+Chromeless-Standalone-Text-Editor-with-Ace	taboca/Chromeless-Standalone-Text-Editor-with-Ace	1568963		JavaScript	570	16	5	16
+ArteJS	vistaprint/ArteJS	13994851	A powerful, extensible, flexible, cross-browser rich text editor	JavaScript	5073	16	14	16
+woot	kroky/woot	26130838	Collaborative rich text editor	CoffeeScript	23	16	3	16
+atom-devdocs	masnun/atom-devdocs	17549656	Devdocs documentation browser for Atom text editor	JavaScript	8	16	5	16
+l3afpad	stevenhoneyman/l3afpad	2964312	Simple text editor forked from Leafpad, supports GTK+ 3.x	C	1014	16	10	16
+crdt-edit	jasongilman/crdt-edit	20665967	Experimental collaborative text editor built on CRDTs	Clojure	426	16	2	16
+monokaffee	mthjones/monokaffee	184328	A theme for the Espresso text editor based off of Monokai for Textmate	null	70	16	6	16
+atom-linter-less	josa42/atom-linter-less	23833077	Linter plug in for Less in the Atom text editor	JavaScript	58	16	2	16
+SublimeTextPreview	iafan/SublimeTextPreview	5469129	Map local files to URLs and preview them in browser (Sublime Text editor plugin)	Python	104	16	3	16
+V	DJMcMayhem/V	53098206	A golfing language inspired by everybody's favorite text editor, vim.	VimL	3489	16	2	16
+stratus	stratuseditor/stratus	3401569	a web based programmer's text editor	CoffeeScript	483	16	0	16
+DriveCode	willscott/DriveCode	6946591	Chrome Text editor linked to Google Drive	JavaScript	361	16	0	16
+HTE	plotnikoff/HTE	767510	Pure HTML/JS rich text editor, without ContentEditable or desgnMode	JavaScript	536	16	1	16
+JRichTextEditor	hdijkema/JRichTextEditor	9631628	A rich text editor for Swing - uses structured XML as format	Java	6399	15	12	15
+MRichTextEditor	Anchakor/MRichTextEditor	12760766	A Qt QTextEdit wrapper implementing a basic rich-text editor.	C++	236	15	9	15
+markdown-text-editor	tovic/markdown-text-editor	18029115	As mentioned in the title above.	JavaScript	291	15	6	15
+spree_editor	divineforest/spree_editor	1173833	Rich text editor for Spree with Image and File uploading in-place	Ruby	107	15	172	15
+mousepad	codebrainz/mousepad	2503795	A simple text editor for Xfce.	C	3176	15	2	15
+ios-quickeditor	googledrive/ios-quickeditor	31783413	A sample text editor for iOS illustrating how to open and save files with the Google Drive API 	Objective-C	448	15	16	15
+Milotic	vicky002/Milotic	49626686	Color Full Theme for All Text Editors! 	null	822	15	2	15
+rushmate	schlu/rushmate	42194	Creates a bridge between rush ruby shell + ssh and textmate your favorite text editor	Ruby	248	15	0	15
+textile_editor_helper	katgironpe/textile_editor_helper	3142334	Textile Editor Helper gem for Rails	Ruby	428	14	9	14
+DTRichTextEditorDemo	odrobnik/DTRichTextEditorDemo	5454502	Demo for DTRichTextEditor.framework	Objective-C	1483	14	5	14
+TextEditorDemo	lfb-cd/TextEditorDemo	36128195	swift：textEditorDemo一个简单的富文本编辑器	Swift	23772	14	3	14
+le	lavv17/le	8697154	LE text editor	C++	1589	14	3	14
+django-elrte	coordt/django-elrte	905503	Using the elrte rich text editor within Django without creating dependencies	JavaScript	978	14	9	14
+ng.ckeditor	miamarti/ng.ckeditor	28830636	The best web text editor for everyone [Angular JS]	JavaScript	39	14	8	14
+fsharp-sublime	pblasucci/fsharp-sublime	7524330	F# package for Sublime 2 text editor	null	112	14	1	14
+encryptedgist	srpeck/encryptedgist	67886066	Client-side encrypted text editor to sync with Gists	CSS	714	14	4	14
+SZRichTextView	fireblue/SZRichTextView	14858416	SZRichTextView is yet another implementation of rich text editor on iOS, aiming to be light-weight, fast and convenient.	Objective-C	738	14	5	14
+TSQLEasy	tosher/TSQLEasy	19424953	TSQL Easy is a plugin for Sublime Text editor (ver. 2/3) that adds possibility to read/write/execute sql requests to Microsoft SQL Server through the use of pyodbc library.	Python	724	14	8	14
+0xVim	DanielRapp/0xVim	4020992	The vim text editor ported to dcpu-16 asm!	DCPU-16 ASM	104	14	1	14
+ex_sponge	fcgrx/ex_sponge	9445591	A real-time HTML filter and WYSIWYG / Microsoft Word / Rich Text editor cleanup plugin for ExpressionEngine	PHP	222	14	0	14
+modern-editor	quanglam2807/modern-editor	46948323	Modern Editor is a text editor for Windows 10 (Universal App Platform), built on ReactJS, WinJS and Ace	JavaScript	226	14	1	14
+Writer	goldsborough/Writer	22983471	PyQt Text Editor	Python	660	13	9	13
+smultron	kjk/smultron	289409	Text editor for Mac	Objective-C	3255	13	5	13
+Python-Notepad	six519/Python-Notepad	1277511	A basic text editor created in Python with Tkinter	Python	92	13	17	13
+TrollEdit	Innovators-Team10/TrollEdit	2650635	Students project. AST driven QT based text editor with graphical enhancements	C++	33543	13	11	13
+xed	linuxmint/xed	50362900	X-Apps [Text] Editor (Cross-DE, backward-compatible, GTK3, traditional UI)	C	17566	13	6	13
+ionic-preview	cabaag/ionic-preview	32125231	Preview your ionic apps in the atom text editor	CoffeeScript	257	13	4	13
+RText	bobbylight/RText	13198054	A syntax highlighting, code folding, programmer's text editor written in Swing.  http://bobbylight.github.io/RText/	Java	56328	13	9	13
+editor-extras	yui/editor-extras	2447669	A collection of text editor syntax files and other extras for working with YUI.	VimL	137	13	5	13
+richie	dnewcome/richie	871343	Richie is a Javascript rich text editor for mobile and desktop browsers	JavaScript	164	13	2	13
+angular-minieditor	jerryhsia/angular-minieditor	29915635	A mini text editor for angularjs.	HTML	196	13	2	13
+jquery.uix.editable	yanickrochon/jquery.uix.editable	802949	A lightweight expandable rich text editor for JQuery UI using the widget factory standards	JavaScript	596	13	3	13
+php-hyperclick	harikt/php-hyperclick	50250918	PHP hyperclick package for atom text editor, open your files on the go	PHP	19	13	2	13
+noedit	noedit/noedit	33389306	Noedit Text Editor, a text editor written in 100% pure JavaScript (Node.js)	JavaScript	256	13	0	13
+CSS-Color-Marker	unsyllable/CSS-Color-Marker	47452915	A versatile color marker for CSS created to help designers/developers view assigned color values without leaving the text-editor or hover insist.	JavaScript	139	13	3	13
+ry-v02	kiasaki/ry-v02	45708338	A scheme based version of ry, a basic modal text editor.	Scheme	206	13	1	13
+ritzy-demo	ritzyed/ritzy-demo	40746446	Demo of Ritzy: Collaborative web-based rich text editor	JavaScript	84	13	1	13
+RichEditor	renhui/RichEditor	45106298	An useful Rich Text Editor for Android. you can use it edit and edit something . i think this is what you want	Java	3671	13	4	13
+co	leahsteinberg/co	44992120	collaborative text editor, uses woot. front end in Elm, back in node.	JavaScript	5582	13	0	13
+RAConsoleEditor	Augustyniak/RAConsoleEditor	53209000	RAConsoleEditor is an Xcode plugin which makes it really easy to browse Xcode console logs in external text editors.	Swift	1241	13	1	13
+Simple-Java-Text-Editor	pH-7/Simple-Java-Text-Editor	4240901	:memo: PHNotepad is a simple Java text/code editor (notepad) written in Java. It has also nice features such as Search tool, Find/Replace text/code, Auto completion, Nice Image Buttons for better UX, etc.	Java	555	12	17	12
+ICSharpCode.TextEditor	KindDragon/ICSharpCode.TextEditor	6446287	ICSharpCode.TextEditor for WinForms	C#	536	12	9	12
+language-robot-framework	wingyplus/language-robot-framework	20857167	Robot Framework grammar for Atom Text Editor.	CoffeeScript	150	12	10	12
+ZF2Helper	pipe-devnull/ZF2Helper	7378758	Zend Framework 2 helper for Sublime Text editor that helps automate the creation of new modules, controllers and actions.	Python	227	12	10	12
+kate-coffeescript	max99x/kate-coffeescript	1524796	A KDE Advanced Text Editor (Kate) syntax highlighter for CoffeeScript.	null	179	12	3	12
+scite	LuaDist/scite	953475	SciTE is a SCIntilla based Text Editor	C++	2232	12	1	12
+texty	jackdoe/texty	2794970	lightweight text editor for MacOSX Lion	Objective-C	896	12	1	12
+amp	jmacdonald/amp	30156692	A text editor for your terminal. :guitar:	Rust	527	12	1	12
+sublime-code-preview	misaxi/sublime-code-preview	8570334	Preview compiled code (e.g. CoffeeScript, TypeScript) in sublime text editor.	Python	186	12	2	12
+atext-changeset	dmitryuv/atext-changeset	24528928	A library for building collaborative rich-text editors using operational transformation	JavaScript	200	12	2	12
+sublime_drush	vaanwd/sublime_drush	6079638	A simple package to run Drupal drush from Sublime Text editor.	Python	101	12	3	12
+dotatom	FundingCircle/dotatom	39006476	Config for the Atom text editor	CoffeeScript	3204	12	1	12
+textjure	Chouser/textjure	79752	Programmer's text editor with integrated Clojure REPL (ultra-pre-alpha)	Clojure	104	12	0	12
+Coda-TODO-plugin	Yizen/Coda-TODO-plugin	48807139	A sidebar plugin for the Coda text editor from Panic that lists TODO and FIXME in the active document	HTML	50	12	3	12
+HackLime	pravj/HackLime	19338972	Sublime-Text Editor plugin to compile/run using HackerEarth's API	Python	152	12	1	12
+ed-cheat-sheet	pkrumins/ed-cheat-sheet	391073	This is ed (the unix text editor) cheat sheet. It lists all the commands and how to do line addressing.	null	113	12	3	12
+kb_javascript_framework	Xeoncross/kb_javascript_framework	838626	A tiny JavaScript framework for AJAX requests, Modals, Text Editors, Lightboxes, DOM handling, and effects in 5kB	JavaScript	124	12	0	12
+edbee	edbee/edbee	12524969	Text Editor and C++ Editor Component for Qt. Multi-caret, Textmate grammar and highlighting support.	C++	1942	12	1	12
+live	maca/live	1478272	Live is like irb only it is meant to be used from a text editor	Ruby	100	12	0	12
+Notepad3	rizonesoft/Notepad3	46102589	Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath.	C++	3320	12	2	12
+Cuis-Smalltalk-StyledTextEditor	bpieber/Cuis-Smalltalk-StyledTextEditor	3932476	A high quality Styled Text Model and Editor for Cuis Smalltalk	Smalltalk	28246	11	5	11
+plantuml	mrohland/plantuml	35424829	Plantuml package for Atom Text Editor	CoffeeScript	232	11	5	11
+atom-updater	mehcode/atom-updater	37971150	Automatic updates (on Linux) for the Atom text editor	JavaScript	12	11	3	11
+TECOC	blakemcbride/TECOC	36622998	TECOC - TECO text editor	C	784	11	0	11
+sublimetext-silverstripe	jelicanin/sublimetext-silverstripe	3723694	SilverStripe Helpers & Snippets for Sublime Text editor	PHP	160	11	3	11
+py_curses_editor	firecat53/py_curses_editor	8207892	Configurable curses text editor class	Python	237	11	2	11
+tilde	gphalkes/tilde	7976150	The Tilde text editor	C++	1404	11	0	11
+redmine_editor_preview_tab	tleish/redmine_editor_preview_tab	50941882	The Redmine Editor Preview Tab Extension adds a preview tab to the Redmine text editor, similar to the editor on Github.	JavaScript	64	11	3	11
+sublime-xdk-package	gomobile/sublime-xdk-package	30316394	A package for the Sublime Text editor that allows you to direct the focus of key Intel XDK activities, including starting an Emulate, Test or Debug session from your Sublime edit window.	Python	70	11	6	11
+hyperpad	noffle/hyperpad	63182743	 :bamboo: The peer-to-peer collaborative text editor.	JavaScript	9	11	0	11
+gedit_flex	julien/gedit_flex	196478	ActionScript and MXML syntax for the gEdit text editor	null	71	11	0	11
+earthworm.foam	onecrayon/earthworm.foam	372481	A dark, earthy theme for the Espresso text editor for Mac	null	103	11	0	11
+se	screen-editor/se	8989196	se is a screen oriented version of the classic UNIX text editor ed.	C	466	11	1	11
+Text-Editor	narendran/Text-Editor	1816667	A *very* light weight text editor in Python..	Python	93	10	13	10
+android_external_nano	cvpcs/android_external_nano	716798	NANO terminal text editor ported to android	C	2728	10	35	10
+Editor	george-popoiu/Editor	5463360	A basic text editor written in Java.	Java	205	10	17	10
+markitup_rails	jwigal/markitup_rails	2969865	Rails 3.1 engine for Markitup Text Editor	JavaScript	238	10	6	10
+edd	psss/edd	41298023	Always use your favorite text editor, anywhere.	Shell	24	10	4	10
+atom-monokai-extended	danielgtaylor/atom-monokai-extended	17239551	Extended Monokai theme for the Atom text editor	CSS	186	10	3	10
+AkelPad_scripts	Infocatcher/AkelPad_scripts	5714603	Scripts for AkelPad text editor with Scripts plugin	JavaScript	2089	10	3	10
+stretto	stretto-editor/stretto	56234087	A text editor from the 22nd century	Go	294	10	2	10
+dvi-go	dforsyth/dvi-go	1236794	dvi text editor in go	Go	288	10	0	10
+MikrotikScript	Kentzo/MikrotikScript	16693528	Syntax highlighting and completions for the Mikrotik Scripting language for the Sublime Text editor	JavaScript	58	10	4	10
+haxe-pad	ianharrigan/haxe-pad	13966595	Pluggable text editor using HaxeUI - Very much a work in progress	Haxe	8523	10	5	10
+syncopate	coreyti/syncopate	207350	A very simple rich text editor (RTE) in jQuery and Disco	JavaScript	114	10	2	10
+modern-editor	franciscop/modern-editor	46630382	A rich text editor for the modern web	JavaScript	892	10	0	10
+react-native-richtext-editor	HoneyBook/react-native-richtext-editor	62552743	A Flexible Rich Text Editor for React Native	HTML	3195	10	2	10
+NeoEditor	tylerlong/NeoEditor	17537940	An extensible text editor for the 21st Century following Github Atom's example	JavaScript	5612	10	1	10
+taskmate	svenfuchs/taskmate	163462	Simplistic TextMate bundle for getting more done with your favorite missing text editor.	Ruby	91	10	3	10
+miniedit	parmaja/miniedit	1529678	Mini text editor with highlighting code, made for PHP, Pascal, D, HTML and css or any text code.	Pascal	1583	10	2	10
+editor.js	gleicon/editor.js	977742	node.js and diff patch match based multi user text editor (proof of concept)	JavaScript	256	10	0	10
+ace-mode-twig	heygrady/ace-mode-twig	8414975	A mode for the Ace JavaScript text editor for highlighting Twig templates.	JavaScript	128	10	0	10
+buffer_tests	4th-dimention/buffer_tests	44424971	A public domain experiment to measure characteristics of various text buffer data structures, for the text editor project 4coder (4coder is not public domain).	C++	208	10	4	10
+ConvertLinebreaks.sugar	onecrayon/ConvertLinebreaks.sugar	2405475	Adds actions to convert between different types of linebreaks in Espresso text editor for Mac	JavaScript	104	10	1	10
+LineAdornments	tomasr/LineAdornments	227291	A sample VS2010 extension that hilights the current line in the text editor	C#	116	10	0	10
+leggie	wiktor-b/leggie	25324476	A pretty, legible 6x12 and 9x18 bitmap font with over 1700 glyphs. Perfect for terminals and text editors.	C	95	10	0	10
+Slim-Sugar	slim-template/Slim-Sugar	2414098	A "Sugar" to add support for the Slim Template Language to the Espresso text editor from MacRabbits.  	null	109	10	1	10
+advanced-text-editor	jLukeC/advanced-text-editor	11624961	an advanced text editor made in python. Can handle multiple windows and the major mac shortcuts	Python	220	9	10	9
+RichTextEditor	akshaydugar/RichTextEditor	58447317	Replacement for Android's EditText, which allows user to input text with formatting (WYSIWYG)	Java	929	9	5	9
+TextEditor	rchrd2/TextEditor	43270150	Simple Text Editor for Sandstorm built with MeteorJS	HTML	194	9	2	9
+angular-inline-text-editor	Blitzen/angular-inline-text-editor	32337711	A very basic WYSIWYG inline editor for AngularJS	JavaScript	1095	9	4	9
+Draft	coppolaemilio/Draft	8932981	Rich text editor for elementaryOS	Python	109	9	4	9
+TextFlow	textflow/TextFlow	417237	Clean and customizable text editor	Python	643	9	4	9
+Conky-GUI	givanse/Conky-GUI	4344087	Text editor for Conky configuration files.	Scala	1288	9	4	9
+cozy-editor	cozy/cozy-editor	6869266	A cozy text editor	JavaScript	3021	9	2	9
+editor	mazarf/editor	24660004	Text editor using ncurses library	C	146	9	2	9
+PagesTextEdit	dimkanovikov/PagesTextEdit	19339151	Qt page based text editor (like OO Writer, MS Word, etc.)	C++	270	9	4	9
+ged	8l/ged	25416271	simple gtk text editor written in c	C	140	9	4	9
+MODX-Placeholders	mkay/MODX-Placeholders	24456443	MODX Placeholders Snippets for the Sublime Text Editor 	Shell	130	9	3	9
+retext	fzumstein/retext	8039162	Forked from sourceforge. ReText is a simple but powerful text editor for Markdown and reStructuredText. 	Python	753	9	3	9
+vibenotes	rejectedsoftware/vibenotes	4084453	A fast and slim real-time collaborative text editor 	JavaScript	297	9	3	9
+speech-tagger	cosmicexplorer/speech-tagger	40948283	tag parts of speech with nlp libraries for use in text editors	Emacs Lisp	31818	9	3	9
+atom-ruby-debugger	johanlunds/atom-ruby-debugger	30575411	Simple Ruby-debugger for Github's text editor Atom	CoffeeScript	2576	9	2	9
+ih.textile_editor.ee_addon	imagehat/ih.textile_editor.ee_addon	162021	Textile Editor Helper (TEH) toolbar for EE 1.6.x	JavaScript	123	9	1	9
+despin	past/despin	322623	A text editor for Firefox	JavaScript	2212	9	1	9
+spotify-remote	theHazzard/spotify-remote	45590915	Remote control for spotify without leaving your favorite text editor!	CoffeeScript	15	9	2	9
+Sublime-W3CValidators	dubharmonic/Sublime-W3CValidators	14720572	W3C markup validator package for the Sublime Text 2 text editor.	JavaScript	153	9	2	9
+MightEMacs	italia389/MightEMacs	43406025	Fast and full-featured Emacs text editor	C	2433	9	0	9
+chef-dev-workstation	scarolan/chef-dev-workstation	16954940	Chef cookbook for setting up a test-driven cookbook development environment.  Includes vim, nano and emacs text editors, and a suite of tools and plugins to help you test as you develop	Ruby	594	9	5	9
+wysiwyg-cake	froala/wysiwyg-cake	16730957	CakePHP Plugin for Froala Javascript WYSIWYG Text Editor. The editor is free only for non-commercial projects. For commercial applications you have to purchase a license from	JavaScript	1214	9	4	9
+atom-sftp	jules-r/atom-sftp	17783696	SFTP/FTP client for Atom text editor	CoffeeScript	177	9	0	9
+virn	jkramer/virn	191422	Rename lots of files using your favorite text editor.	Shell	116	9	1	9
+react-editor-component	NextThought/react-editor-component	28921252	Rich text editor content editable react component	JavaScript	126	9	0	9
+swizzle	chrissimpkins/swizzle	12716054	A dark Markdown theme for the Mou and Lightpaper Markdown text editors	Shell	220	9	0	9
+nbespin	bengl/nbespin	545849	A text editor with Bespin Embedded as a frontend and Node.js as a backend.	CoffeeScript	100	9	0	9
+RichTextComposer	shirejiang/RichTextComposer	21204460	A simple demo which use webView as rich text editor.	Objective-C	868	9	0	9
+angularTextEditor	vitconte/angularTextEditor	16643800	Text Editor with AngularJS	null	176	8	2	8
+TextPad	maxistar/TextPad	2543820	Simple Text Editor for Android	Java	770	8	5	8
+E-Max	glyph/E-Max	5149152	Emacs keybindings for the Sublime Text editor.	Python	32	8	10	8
+Java-Notepad	six519/Java-Notepad	1277707	A basic text editor created in Java	Java	3	8	11	8
+default-text-editor	eclipselabs/default-text-editor	34222491	Makes the internal text editor of Eclipse to be the default editor for unknown files.	Java	213	8	1	8
+rich-text-fragment	rupertbates/rich-text-fragment	8180938	A rich text editor for Android	Java	523	8	5	8
+SuperbEdit	SuperbEdit/SuperbEdit	24451142	Superbe Text Editor	C#	1375	8	2	8
+writeily	jffrymrtn/writeily	19151064	Android markdown text editor app	C	2918	8	3	8
+tea-qt	psemiletov/tea-qt	51516922	TEA text editor	C++	790	8	2	8
+android-rich-text-editor	adelnizamutdinov/android-rich-text-editor	18573117	playground	Java	1452	8	2	8
+ih.textile_editor.ee2_addon	imagehat/ih.textile_editor.ee2_addon	678059	Textile Editor Helper (TEH) toolbar for EE	JavaScript	160	8	3	8
+sublime-task-timer	jcowgar/sublime-task-timer	8895182	A simple task timer for Sublime Text Editor	Python	103	8	4	8
+sublime-netlinx	amclain/sublime-netlinx	19333842	Develop AMX NetLinx projects in the Sublime Text editor.	NetLinx	509	8	3	8
+ember-froala-editor	froala/ember-froala-editor	53005035	Ember component for Froala WYSIWYG HTML Rich Text Editor.	JavaScript	1573	8	6	8
+latex.sugar	pkalkul/latex.sugar	251420	Latex syntax sugar for the Espresso text editor	null	75	8	5	8
+efte	lanurmi/efte	42006666	eFTE is a fork of FTE -- Folding Text Editor	C++	2645	8	4	8
+Enyo-Calliope	rafabernad/Enyo-Calliope	4088492	An Enyo based graphical text editor	JavaScript	149	8	3	8
+file_browser	eric1234/file_browser	830996	Web-based File Manager with Rich Text editor integration	Ruby	352	8	4	8
+symbols-list	7ute/symbols-list	57117257	An alternate symbol list sidebar for Atom.io text editor	CoffeeScript	274	8	7	8
+tor	kybin/tor	14360795	terminal text editor	Go	1293	8	0	8
+InputfieldAceEditor	adamkiss/InputfieldAceEditor	6945362	[DISCONTINUED] Better ProcessWire text editor for developers and at least 'a little' tech savvy clients.	CSS	1292	8	5	8
+Code-Font	TyGoss/Code-Font	14745844	Code-Font is an extension for the text editor Brackets that allows you to change the font of the coding window to one of ten popular Google Fonts.	null	128	8	13	8
+JavaIME	tushortz/JavaIME	40699139	Turn your Sublime text into a java completion text editor.	JavaScript	3243	8	2	8
+syntaxic	msipos/syntaxic	31066260	Open source text editor: Syntaxic	C++	3802	8	1	8
+yui-rte-tables	bgkittrell/yui-rte-tables	902176	Table Editor for Yui's Rich Text Editor	JavaScript	100	8	0	8
+mt-plugin-table-feature-for-tinymce	movabletype/mt-plugin-table-feature-for-tinymce	4896566	Add table feature to TinyMCE, that is default rich text editor of Movable Type 5.2 or later.	CSS	134	8	3	8
+EditPlus	vim-scripts/EditPlus	4462877	A color scheme that mimics the standard scheme found in the EditPlus text editor	VimL	100	8	3	8
+gedit-plugin-indent-converter	disfated/gedit-plugin-indent-converter	1810621	Plugin for Gedit text editor that adds feature to converts tabs to spaces and spaces to tabs	Python	104	8	3	8
+Getan	bgarber/Getan	30836357	Getan - a modern text editor for old school programmers	C	110	8	0	8
+tedit	lewish/tedit	7765048	Porting gedit to the terminal, a branch from Sanos simple text editor.	C	170	8	0	8
+language-archlinux	fusion809/language-archlinux	60397772	Arch Linux development package for the Atom text editor (https://atom.io). 	CoffeeScript	91	8	1	8
+gh2caret	thomaswilburn/gh2caret	14965006	To Caret, From Github: a demo plugin that sends source code from GitHub to Chrome OS's best text editor	JavaScript	140	8	2	8
+Smarty-syntax-coloration-for-GEdit	dandelionmood/Smarty-syntax-coloration-for-GEdit	1688196	Provides a Smarty syntax coloration file for GEdit (or any GTKSourceView related text editor)	Shell	97	8	0	8
+snowball	chrissimpkins/snowball	12854348	A light, clean Markdown text editor theme for the Mou and Lightpaper Markdown editors	Shell	2042	8	1	8
+Akelpad-syntax-highlighting	Lenchik/Akelpad-syntax-highlighting	8361647	Syntax themes for AkelPad text editor with Coder plugin (AutoHotkey, AviSynth, BibTeX, Grub4Dos, KiXtart, LaTeX, nnCron, Smarty, plain text and many more other syntax highlighting)	null	1427	8	0	8
+IT-Edit	mrcyberfighter/IT-Edit	53237642	It-Edit: an integrated terminal programming text-editor with many functionalities like a manpage reader, a documentation registering with direct accessing mechanism and many others settings and features.	C	24659	8	1	8
+RTEditor	Tulakshana/RTEditor	4660767	RTEditor is a rich text editor which you can include in any iOS app. It is built using both HTML5 and Objective C. You can easily include RTEditor to any app written in Objective C. It supports bold, italic, underline, un-ordered lists, ordered lists, undo and redo. It also allow users to use markdown. This can be deployed in iOS5 or greater versions.	C	160	8	1	8
+TextEditor	Mads-Clausen/TextEditor	9130983	A text editor written in C++.	C++	1078	7	4	7
+XwtPlus.TextEditor	luiscubal/XwtPlus.TextEditor	18780575	A port of Mono.TextEditor to Xwt.	C#	1018	7	1	7
+Wodo.TextEditor_release	kogmbh/Wodo.TextEditor_release	26686115	Wodo.TextEditor: OpenDocument Text Documents Editor (release repo, for package/dependency managers)	JavaScript	1262	7	4	7
+html-text-editor	tovic/html-text-editor	23667845	This is the HTML version of the previous plugin called MTE → https://github.com/tovic/markdown-text-editor	JavaScript	178	7	0	7
+parchment	gpbmike/parchment	3437217	A rich text editor	JavaScript	887	7	2	7
+RTE-Kit	thisismedium/RTE-Kit	235636	Build your own Rich Text Editor	JavaScript	375	7	3	7
+qpad	HouQiming/qpad	55034354	QPad Text Editor	C++	12951	7	1	7
+cfwheels-rte-plugin	russjohnson/cfwheels-rte-plugin	527127	Rich Text Editor form helper plugin for CFWheels.	JavaScript	1556	7	3	7
+sakura	mocaskr/sakura	20338831	Text editor "sakura"	C++	11082	7	0	7
+brackets-twig-syntax-highlighter	adperezmorales/brackets-twig-syntax-highlighter	28782073	Twig syntax highlighter for Brackets text editor	JavaScript	136	7	1	7
+groupeditor	kwhinnery/groupeditor	10249597	A group text editor using socket.io and Twilio	JavaScript	4654	7	3	7
+language-jsonnet	google/language-jsonnet	43018615	Jsonnet language support for the Atom text editor	CoffeeScript	90	7	2	7
+Vim-for-Rails-Developers	alanpeabody/Vim-for-Rails-Developers	940241	Introduction to using Vim as a Ruby On Rails text editor.	null	87	7	3	7
+Sublime-Plugins	fxdgear/Sublime-Plugins	1368120	Plugins for Sublime Text editor	Python	121	7	0	7
+escape-utils	BrightIT/escape-utils	21325651	An Atom text editor plugin to URL encode/decode text	CoffeeScript	734	7	2	7
+texteditor	akshayysharma/texteditor	51849703	Text Editor Application for Windows 7 and above.	C#	614	7	1	7
+snake	maxwells/snake	17781955	Snake game for Github's Atom text editor	CoffeeScript	180	7	0	7
+LazyTextEdit	Andersbakken/LazyTextEdit	303629	A Qt based text editor that lazily loads data from disk when necessary.	C++	572	7	2	7
+coffee-house	atg/coffee-house	101267	A website to manage sugars and themes for the Espresso text editor.	PHP	1484	7	0	7
+ofxEditor	darrenmothersele/ofxEditor	14553732	A simple text editor for openFrameworks for live coding. Features multiple text buffers and the ability to define custom commands.	C++	327	7	3	7
+wysiwyg-editor-v1	froala/wysiwyg-editor-v1	41638174	A flat designed jQuery WYSIWYG Rich Text Editor based on HTML5.	JavaScript	3264	7	0	7
+sublime-text-sidebar-icons	mrliptontea/sublime-text-sidebar-icons	37773063	The collection of file type icons for Sublime Text editor	JavaScript	1701	7	1	7
+DeftDraft	zencephalon/DeftDraft	5209317	A text editor that puts revision at your fingertips.	JavaScript	210	7	1	7
+ShinyDroplets	shinyfrog/ShinyDroplets	486247	Shiny Droplets are small AppleScript-based applications that integrate with the Finder toolbar to provide fast shortcuts to text editors.	Objective-C	185	7	2	7
+pathfinder_open_in_sublime	ramkola/pathfinder_open_in_sublime	7222851	Plugin for Path Finder Mac App - Opens chosen file or folder in Sublime Text Editor (Based on Open in Textmate Plugin)	Objective-C	200	7	2	7
+react-editor	fritx/react-editor	48916371	(WIP) Rich-Text Editor that behaves like Tencent QQ's.	JavaScript	44	7	1	7
+yocto	akrennmair/yocto	142166	yocto is a minimalistic ncurses-based text editor. It is smaller than pico and nano.	C	152	7	0	7
+MomentsApp	aljc/MomentsApp	32881091	Gratitude journal-style iOS app that allows users to create moments using native image and text editors. iPhone and iPad compatible. Find Moments on the App Store today. See: https://github.com/aljc/MomentsApp/blob/master/MarketingMaterials/github-aljc_marketing.pdf	Objective-C	3498	7	2	7
+fmpvc	MartinBoswell/fmpvc	37432208	Process FileMaker Pro Advanced's Database Design Report (DDR) to produce textual representations of the design objects for use with version control systems, text editors, etc.	Ruby	472	7	1	7
+codelines	returningsam/codelines	56442483	Javascript that generates random lines on an html page that looks like code. Modeled after the the mini-map extension for the Atom text editor	JavaScript	14	7	0	7
+rich-text-editor	sproutcore/rich-text-editor	20417179	A rich text editor for SproutCore.	JavaScript	835	6	8	6
+texteditor	antonte/texteditor	16419605	text editor	C++	479	6	4	6
+DropNotes	MatheusBrum/DropNotes	1998644	A DropBox based text editor	Objective-C	385	6	3	6
+linuxgems	kevinthew/linuxgems	8637264	A succinct cheat sheet for newbie linux coders and system administrators, documenting some of the more obscure and useful gems of linux lore. Intended to be viewed in emacs org-mode, or VimOrganizer, though any text editor will suffice.	Shell	60	6	416	6
+atom-zenburn	colindean/atom-zenburn	17927572	Zenburn color scheme for Atom text editor	CSS	203	6	6	6
+FATE-Another-Text-Editor	Z-Shang/FATE-Another-Text-Editor	48301904	A Text Editor Specialized for Small Touch Screen Devices	JavaScript	2895	6	1	6
+SmoothScroll	ricksladkey/SmoothScroll	16423405	Smooth Scrolling for the Visual Studio Text Editor	C#	221	6	3	6
+editor	tdryer/editor	17647273	Simple curses-based text editor	Python	128	6	3	6
+simple-text	eterevsky/simple-text	16694316	A sample Chrome app: very simple text editor	JavaScript	473	6	5	6
+language-graphql	rmosolgo/language-graphql	40733573	GraphQL support for Atom text editor	CoffeeScript	14	6	2	6
+d-quill	derbyjs/d-quill	19588861	Derby rich text editor component based on Quill	JavaScript	32	6	4	6
+WysiwygImageUpload	gdbhosale/WysiwygImageUpload	14774660	Text Editor with Ajax Image Uploader using Bootstrap & Tiny Wysiwyg	CSS	617	6	4	6
+DelphiStyleBookmarks	artkorsun/DelphiStyleBookmarks	6887550	Delphi style bookmarks for Sublime Text Editor	Python	110	6	4	6
+quiedit	smathot/quiedit	2037698	Distraction-free, fullscreen text editor	Python	274	6	2	6
+custom-editfield	tempelmann/custom-editfield	32188407	Powerful text editor class made in Xojo.	REALbasic	1998	6	3	6
+tsunami	AndyMoreland/tsunami	48966341	Typescript IDE for text editors (emacs, vscode)	TypeScript	124	6	2	6
+EditorEngine	continuoustests/EditorEngine	2120068	A background engine for integrating with various text editors	C#	2211	6	3	6
+atom-simple-align	stevenhauser/atom-simple-align	40447923	Simple multiple cursor alignment for Atom text editor	JavaScript	6	6	2	6
+pike-for-sublime	poppa/pike-for-sublime	6719468	Pike syntax definition for the Sublime text editor	Pike	1126	6	2	6
+repl-edit	samsonjs/repl-edit	935496	edit Node repl commands with your text editor	JavaScript	121	6	2	6
+StudioSync	EgoMoose/StudioSync	52703838	Allows for usage of outside text editors in Roblox studio	Lua	3	6	1	6
+InkBar	KeiferMiller/InkBar	2067921	A text editor for android	Java	6872	6	0	6
+sublimeText3-Userfiles	aziz/sublimeText3-Userfiles	15499902	My text-editor config files	JavaScript	998	6	0	6
+SubLAME	ibito/SubLAME	18981985	A webkit-based text editor using CodeMirror that is not splendid or sublime	JavaScript	3196	6	2	6
+vigorsh	kana/vigorsh	52501	vi-like text editor based on Gauche	null	96	6	1	6
+Lethe	esbeto/Lethe	3593589	A dark theme for gedit (text-editor)	null	430	6	0	6
+mdRichEditor	michaelpwilson/mdRichEditor	46241797	A lightweight rich text editor for Angular Material	JavaScript	1237	6	1	6
+nano-win	lhmouse/nano-win	21653131	GNU nano text editor for Windows	C	30088	6	0	6
+Quigley	t3rse/Quigley	4983909	Quigley is a HTML5 / Javascript Text Editor	JavaScript	2140	6	1	6
+pye	ajbonkoski/pye	10546574	PyE is a modern terminal-based text-editor	C	584	6	1	6
+eli	zachwhaley/eli	47435078	A simply made text editor written in C	C	41	6	0	6
+textmash	naleksander/textmash	1339797	general purpose text editor with Clojure support	Clojure	1097	6	0	6
+MavensMate-Brackets	joeferraro/MavensMate-Brackets	17099117	MavensMate plugin for the Brackets text editor	JavaScript	168	6	1	6
+wreditor	WrtApp/wreditor	9182641	Standalone version of the Write.app text editor	JavaScript	2418	6	0	6
+atom-dlang	ColdenCullen/atom-dlang	18340791	A d language binding for the Atom text editor.	CoffeeScript	240	6	2	6
+angular2-froala-wysiwyg	froala/angular2-froala-wysiwyg	63350161	AngularJS2 bindings for Froala WYSIWYG HTML Rich Text Editor.	TypeScript	780	6	2	6
+sublime-text-dev	KaOS-Community-Packages/sublime-text-dev	19010270	Sublime Text is a sophisticated text editor for code, markup and prose.	Shell	5	6	1	6
+ace-minimap	rocketinventor/ace-minimap	41615913	A plugin to add a minimap to ace text editor	JavaScript	220	6	1	6
+GDScript-Geany	haimat/GDScript-Geany	17349298	GDScript (Godot Engine) filetype spec for the Geany text editor	null	164	6	0	6
+iphone-scaffold	mml/iphone-scaffold	192447	minimal Makefile and directory structure to make an iPhone application, fully penetrable with a text editor	Objective-C	77	6	2	6
+atom-language-api-blueprint	danielgtaylor/atom-language-api-blueprint	34705237	API Blueprint and MSON grammars for the Atom.io text editor.	CoffeeScript	140	6	0	6
+tyreese	lf94/tyreese	26377503	tyreese is a text editor that focuses on simplicity, both in code and execution.	C	128	6	1	6
+dfte	d1f/dfte	911586	dFTE is fork of eFTE which is fork of FTE - folding text editor	C++	108	6	0	6
+pyedit	pfalcon/pyedit	33772774	Simple text editor widget for Python and MicroPython. Further developed in https://github.com/pfalcon/picotui	Python	208	6	1	6
+IC_Edit	cuplv/IC_Edit	44281764	Feature-rich text editor written simply, running efficiently with incremental computation by Adapton	Rust	471	6	0	6
+neovim-konsole	harish2704/neovim-konsole	48882194	Wrapper script and config files to use neovim+konsole as a normal gui text editor	Shell	61	6	1	6
+AcidCupcakeColourScheme	jsantell/AcidCupcakeColourScheme	1776613	A vibrant, dark and obnoxiously awesome colour scheme for text editors and terminals.	VimL	101	6	1	6
+Kaleidoscope.sugar	onecrayon/Kaleidoscope.sugar	9107370	Quickly diff files in Kaleidoscope from the Espresso text editor for Mac OS X	Python	204	6	1	6
+Jigger-sugar	onecrayon/Jigger-sugar	6033629	Provides quick color, number, and file URL adjustments for the Espresso text editor on Mac OS X	Objective-C	214	6	0	6
+imitation	code-tree/imitation	31596264	Imitation is a plugin for the gedit text editor, that allows the user to edit a document in multiple places simultaneously, to aid repetitive programming tasks.	Python	3517	6	0	6
+vala-apps	simargl/vala-apps	35345219	Agatha: PDF Viewer in GTK3 and Poppler,   Dlauncher: Desktop file launcher,   Emendo: Text editor with syntax highlighting,  Taeni: Multi-tabbed terminal emulator based on VTE,  Voyager: Fast and elegant image browser,  WPSet: A simple tool for changing your desktop wallpaper	CMake	1693	6	1	6
+code-editor-theme	watsnow/code-editor-theme	2760947	IDE and text editor themes	null	203	5	6	5
+SimpleTextEditor	batizhao/SimpleTextEditor	3521486	My Third iOS App.	Objective-C	96	5	1	5
+Mono.TextEditor.XWT	aBothe/Mono.TextEditor.XWT	11177036	The MonoDevelop text editor component ported to XWT	C#	692	5	1	5
+linden-scripting-language	buildersbrewery/linden-scripting-language	38029987	Linden Scripting Language (LSL) support for your text editor.	CoffeeScript	4804	5	6	5
+dotvim	roryokane/dotvim	2162841	My .vim directory; configuration for the Vim text editor.	VimL	583	5	4	5
+puppet-atom	tarebyte/puppet-atom	19835161	Boxen module to install Atom, GitHub's text editor	Puppet	164	5	5	5
+django-wymeditor	gabrielhurley/django-wymeditor	1621672	A simple Django app that allows you to easily use WYMEditor as your rich text editor for form fields.	JavaScript	241	5	9	5
+Legal-Snippets-Sublime	compleatang/Legal-Snippets-Sublime	8334403	Snippets for Creating Legal Documents within Sublime Text Editor.	Python	130	5	3	5
+atom-laravel-snippets	nmfzone/atom-laravel-snippets	45286389	Laravel Snippets for Atom Text Editor	CoffeeScript	140	5	1	5
+zoinks	mikevoydanoff/zoinks	76964	zoinks text editor	C++	503	5	0	5
+jkl	dcbishop/jkl	24525703	Jkl text editor.	Go	400	5	0	5
+one	halcat0x15a/one	3956062	online text editor	Clojure	3597	5	0	5
+Scribber	senft/Scribber	1823007	A minimalistic text editor.	Python	1011	5	0	5
+te	khamidou/te	162925	A minimalistic text editor	C	136	5	0	5
+Cluffer	robert-strandh/Cluffer	46842881	General-purpose text-editor buffer.	TeX	506	5	1	5
+kent	CodePicnic/kent	60868522	Simple rich text editor	JavaScript	504	5	0	5
+bootstrap-lwrte	synyx/bootstrap-lwrte	6279613	Lightweight Rich Text Editor (RTE / WYSIWYG) plugin for jQuery with Bootstrap Look and Feel	JavaScript	220	5	5	5
+Markdown	idno/Markdown	31136943	Replaces Known's rich text editor with a markdown editor.	PHP	183	5	2	5
+VIM_Themes	VitaminFarmer/VIM_Themes	60120182	Color schemes for the beloved text editor, VIM.	VimL	89	5	2	5
+redcar-sparkup	pockata/redcar-sparkup	1691072	Adds Sparkup capabilities to the Redcar text editor	Ruby	18624	5	2	5
+AlphaPy	tusharmakkar08/AlphaPy	12298359	Text Editor Made in Python 	Python	396	5	1	5
+femto	lambdalisue/femto	8101670	A simple JavaScript Text Editor	CoffeeScript	2806	5	0	5
+phoneme-client	dzucconi/phoneme-client	8973979	Simple text editor that calls to the Corrasable API to convert text into it's Arpabet representation	JavaScript	149	5	3	5
+Wind-Wheel-Theme-for-Espresso	minimalweb/Wind-Wheel-Theme-for-Espresso	1294592	Syntax Highlighting for Espresso Text Editor	null	220	5	0	5
+gmate-editor	lexrupy/gmate-editor	177728	A Plugin based text editor for programmers	null	128	5	0	5
+Minerva	admiral0/Minerva	630096	Minerva is a programmer's text editor	C++	2280	5	0	5
+textadept_pkg	bingalls/textadept_pkg	1720066	Lite text editor, packaged for various OSes	Shell	84615	5	0	5
+kashiki	mitoma/kashiki	18489314	Kashiki is OpenGL base text editor.	Java	9851	5	1	5
+scribes	mystilleef/scribes	8989394	simple and slick text editor for GNOME	null	112	5	0	5
+sith	wx13/sith	43074400	Console text editor written in go	Go	186	5	1	5
+sublime-dev-packages	eduardolundgren/sublime-dev-packages	2125324	Sublime Text Editor 2 developer utils	Python	115	5	1	5
+space-block-jumper	aronj/space-block-jumper	17840146	Navigational package for the atom text editor	CoffeeScript	240	5	0	5
+pim	chiiph/pim	680885	A python vim/emacs like text editor	Python	160	5	0	5
+jQuery.spHtmlEditor	MakingThingsWorkToronto/jQuery.spHtmlEditor	39101777	SharePoint Rich Text Editor jQuery Plugin	JavaScript	7	5	1	5
+edbee-lib	edbee/edbee-lib	16339786	QWidget based Text Editor Component for Qt. Multi-caret, Textmate grammar and highlighting support. 	C++	1316	5	3	5
+Panopto-Button-for-Atto	Panopto/Panopto-Button-for-Atto	24425688	Panopto Button plugin for Atto rich text editor in moodle, enabling the posting of embedded Panopto video	PHP	37	5	3	5
+jedi	wx13/jedi	2614231	A text editor for the unix console	Ruby	978	5	1	5
+sqbrowser	cbess/sqbrowser	2362479	SQLite Query Browser for any text editor. Uses wxPython 2.8+	Python	163	5	1	5
+SublimePerforce	seanhoughton/SublimePerforce	2593190	A perforce plugin for the Sublime Text editor	Python	96	5	0	5
+Smultron	flomac/Smultron	560541	A now unsupported Open Source Text Editor for MAC OS X developed originally by Peter Borg	Objective-C	3440	5	2	5
+sublime-online-searcher	rajeshvaya/sublime-online-searcher	20861299	This plugin enables the user to search online right from the sublime text editor. User can search through input, right-clicking the selected text and through general key-bindings.	Python	245	5	3	5
+wysihatter	wiseleyb/wysihatter	554831	A plugin for 37signals WysiHat rich text editor	Ruby	132	5	0	5
+hodorjs	oltodo/hodorjs	29241958	[WIP] A Javascript Block-Style & Ultra-Structured Text editor	JavaScript	3528	5	0	5
+famousst	sun2rise/famousst	23980918	A Famo.us package for Sublime Text editor	JavaScript	204	5	0	5
+PerspexEdit	danwalmsley/PerspexEdit	34141537	A text editor for Perspex based off AvalonEdit.	C#	848	5	1	5
+BBEdit-Language-Modules	grantneufeld/BBEdit-Language-Modules	810257	Language Modules for the BBEdit text editor on Mac OS X	null	181	5	2	5
+Debulhator	antonioforte/Debulhator	2256440	A text editor built with PyQt and Scintilla.	Python	1352	5	1	5
+mle	adsr/mle	28325201	a small but powerful console text editor (C)	C	438	5	1	5
+blackboard-contrast	miekd/blackboard-contrast	2222278	A more contrasty version of a text-editor theme derived from Blackboard for TextMate.	null	96	5	0	5
+power-gedit	shiloa/power-gedit	184301	collection of themes, plugins, snippets and language files to supercharge gedit text editor for gnome	Python	404	5	1	5
+red	XMPPwocky/red	20067902	Text editor in Rust. Heavy vim influences, designed with the MVC pattern for flexibility.	Rust	248	5	0	5
+newlisp-sublime-text-2-package	cormullion/newlisp-sublime-text-2-package	2505644	first attempt at a newLISP package for the Sublime Text 2 text editor	null	117	5	0	5
+terminal-editor-helpers	benspaulding/terminal-editor-helpers	3476087	A collection of helper scripts for using popular Mac text editors as your terminal EDITOR.	Shell	91	5	0	5
+scroll-searcher	Aakash1312/scroll-searcher	48749102	A package for Atom text editor to display find-and-replace markers on scrollbar 	CoffeeScript	658	5	1	5
+ICSharpCode.TextEditorEx	StefH/ICSharpCode.TextEditorEx	22696856	Extended version based on ICSharpCode.TextEditor which support Search/Replace and Goto	C#	1306	4	7	4
+text-editor	tovic/text-editor	16975240	A text selection range API written in pure JavaScript, for modern browsers.	HTML	125	4	2	4
+AndroidTextEditor	nallagsoc/AndroidTextEditor	24841219	Android Text Editor	Java	250	4	4	4
+cloud-text-editor	vinodc/cloud-text-editor	18422410	A simple example app using the Kloudless SDK to store files to cloud storage.	Python	244	4	2	4
+nektechTextEditor	NEKTech-Labs/nektechTextEditor	32737104	Text Editor Example using QT, C++ and QML	C++	148	4	3	4
+e	eklitzke/e	3369197	A text editor.	Python	855	4	3	4
+moodle-editor_atto	damyon/moodle-editor_atto	13764447	Atto text editor for Moodle	PHP	445	4	6	4
+text-zipper	jtdaugherty/text-zipper	38845196	A text editor zipper libary	Haskell	26	4	4	4
+elm-text-editor	wetmore/elm-text-editor	35472098	Simple modal text editor in Elm	Elm	176	4	1	4
+collaborative-text-editor	mazubieta/collaborative-text-editor	2489446	UNO CSCI 4210 Software Engineering	Java	859	4	0	4
+Lisp-Text-Editor	dradtke/Lisp-Text-Editor	3456096		Common Lisp	4364	4	0	4
+Script-Text-Editor	xupefei/Script-Text-Editor	4421331		C#	524	4	0	4
+KotlinTextEditor	chemickypes/KotlinTextEditor	58318775	Simple Text Editor developed using Kotlin programming language	Kotlin	218	4	0	4
+textile_editor	remear/textile_editor	1084126		Ruby	125	4	1	4
+atom-text-editor-exercise	atom/atom-text-editor-exercise	30626445	Exercise the atom-text-editor HTML in a pane item. Explore usage for packages	CoffeeScript	115	4	2	4
+yi-language	yi-editor/yi-language	23301506	Collection of lexers used by the Yi text editor.	Haskell	98	4	8	4
+tinymce	leanote/tinymce	43039706	Tinymce Rich Text Editor For Leanote http://leanote.org	JavaScript	2413	4	6	4
+LetterBrush	incompl/LetterBrush	2357995	Text editor for drawing, not typing.	JavaScript	218	4	3	4
+jSecureEdit	mrclay/jSecureEdit	1639317	Java desktop encrypted text editor (crude proof-of-concept)	Java	180	4	8	4
+ePad	JeffHoogland/ePad	17792579	A simple text editor written in python and elementary	Python	282	4	7	4
+NotePad	edward344/NotePad	31078345	A simple text editor for python	Python	20	4	4	4
+xkcd-comics	peduxe/xkcd-comics	39559233	View xkcd comics from Atom text editor	JavaScript	20	4	6	4
+ace.modx	manse/ace.modx	6168866	Add a rich text editor ACE for MODX Evo.	JavaScript	705	4	4	4
+steno	NdYAG/steno	41618153	Rich Text Editor	JavaScript	182	4	1	4
+TypeAhead	alvinj/TypeAhead	19464344	A type-ahead, predictive text editor, written in Java	Java	388	4	8	4
+scribe	jmacdonald/scribe	29223054	Text editor components	Rust	193	4	0	4
+NimKate	PhilipWitte/NimKate	20345203	Nimrod programming language support for Kate text editor.	JavaScript	260	4	3	4
+AutoHotkey-Editors	ahkscript/AutoHotkey-Editors	30263504	AutoHotkey Syntax Highlighting for text editors	AutoHotkey	162	4	2	4
+Flex-4-Rich-Text-Editor	tzehon/Flex-4-Rich-Text-Editor	2048305		JavaScript	6604	4	0	4
+TheWindWaker_Text_Editor	Sage-of-Mirrors/TheWindWaker_Text_Editor	45942644	A text and font color editor for The Legend of Zelda: The Wind Waker written by Sage of Mirrors/Gamma.	C#	40	4	0	4
+atom-text-editor-useful-packages	ozluy/atom-text-editor-useful-packages	54623818	some useful atom text editor packages 	null	2	4	1	4
+atom-opencl	podgib/atom-opencl	18837114	OpenCL language support for Atom text editor	CoffeeScript	36	4	2	4
+PyEdit	AwwCookies/PyEdit	11921191	A really basic python text editor with syntax highlighting	Python	90	4	2	4
+migzing	devmaestro/migzing	25525352	Android Rich Text Editor	Java	3392	4	0	4
+delimit	Kazade/delimit	17509416	An opinionated text editor	C++	513	4	1	4
+sublime-iRules	billchurch/sublime-iRules	19616418	iRules Syntax Highlighting for Sublime Text Editor http://www.sublimetext.com	JavaScript	155	4	3	4
+atom-rivescript	aichaos/atom-rivescript	46758321	Syntax highlighting for RiveScript in the Atom text editor.	CoffeeScript	70	4	3	4
+oneteam-rte	oneteam-dev/oneteam-rte	56668458	Oneteam Rich text editor	JavaScript	164	4	0	4
+cleditor-angularjs	victorca/cleditor-angularjs	16957189	Angularjs Directive to work with the jquery plugin CLEditor to rich text editor.	null	356	4	4	4
+Sublime-Text-DocBook-XML-Snippets	ddri/Sublime-Text-DocBook-XML-Snippets	3990693	A collection of DocBook XML snippets for the Sublime Text editor. 	JavaScript	753	4	3	4
+notes	davsket/notes	3184326	ultra basic text editor	JavaScript	2620	4	0	4
+SuperpowersHTML5_TextEditorTheme_IVYSAUR	StuffBySpencer/SuperpowersHTML5_TextEditorTheme_IVYSAUR	51691398	A simple dark color-theme for the SuperpowersHTML5 game engine text editor	CSS	8	4	0	4
+fxite	yetanothergeek/fxite	1037163	The Free Extensible Text Editor	C++	5655	4	1	4
+SpiffGtkWidgets	knipknap/SpiffGtkWidgets	1064910	A collection of GTK widgets, including a calendar and a text editor	Python	420	4	2	4
+nemo	karamfd/nemo	40766473	Dark Theme For Brackets Text Editor	CSS	1799	4	0	4
+Transcriptions	soleil-alpin/Transcriptions	51823266	A rtf-text editor optimized for fast manual transcription of audio- or video material on the Mac.	Objective-C	3871	4	4	4
+ajure	onlyafly/ajure	2630326	Programmers' text editor in Clojure	Clojure	26648	4	0	4
+cmsplugin-simple-gallery	chmeliuk/cmsplugin-simple-gallery	4106221	Simple gallery plugin for django cms. enabled in text editor.	Python	101	4	2	4
+dred	dr-soft/dred	63646546	A fast, ultra lightweight text editor.	C	2313	4	0	4
+atom-printer	postcasio/atom-printer	30940363	Print from the Atom text editor	CoffeeScript	144	4	4	4
+justinemacs	jart/justinemacs	3106213	My emacs24 text editor configuration	Emacs Lisp	291	4	1	4
+jshint.chocmixin	derekr/jshint.chocmixin	5581178	A mixin for the Chocolat text editor that provides jshint features.	JavaScript	241	4	2	4
+komodo-morekomodo	dafizilla/komodo-morekomodo	2547197	MoreKomodo adds some features useful for text editor users and developers.	JavaScript	291	4	2	4
+themegen	atg/themegen	914108	A text editor theme generator	JavaScript	1080	4	0	4
+mad	aktowns/mad	30137531	a ruby based terminal text editor	Ruby	1860	4	0	4
+gutenborg	gcr/gutenborg	103762	Web-based collaborative text editor	JavaScript	652	4	0	4
+Soroban	RyanBurnside/Soroban	27911090	A simple soroban (Japanese abacus) for your Emacs text editor	Emacs Lisp	160	4	0	4
+as3rte	myjerry/as3rte	2004609	Rich text editor for Adobe AIR applications	ActionScript	120	4	0	4
+Jail	JAChapmanII/Jail	1493394	A "for learning" keymap-able text editor inspired by vim	C++	4139	4	0	4
+cknw-editor	insolite/cknw-editor	14509020	node-webkit + CKEditor based WYSIWYG specialized text editor	JavaScript	66172	4	1	4
+wxEditor	mengqvist/wxEditor	13258163	A barebones gui text editor. Written in python, using wxWidgets.	Python	204	4	1	4
+tide-sublime	wass3r/tide-sublime	7515757	TideSDK API autocompletion for Sublime Text editor	null	147	4	1	4
+FwText	joaoneto/FwText	7523695	DEPRECATED DON'T USE - Free WYSIWYG text editor jQuery Plugin.	JavaScript	276	4	1	4
+alignequals.chocmixin	inadarei/alignequals.chocmixin	16246616	Equal Sign Aligner Mixin for Chocolat Text Editor	null	152	4	0	4
+gogala	gophergala/gogala	29736832	An online text editor with chat and multi user features - don't ask why the repo is tagged as JavaScript ?¿ 	JavaScript	2872	4	3	4
+hellfire	odkq/hellfire	6849649	text editor for the terminal written in python, with 2048!	Python	452	4	0	4
+xvi	martinwguy/xvi	9187966	xvi, a portable multi-file text editor	C	4498	4	0	4
+rich-text-area	seanhess/rich-text-area	62965	A refactor of Flex's Rich Text Editor	ActionScript	88	4	1	4
+dockerletion	wingyplus/dockerletion	41243341	A autocompletion docker instructions for Atom text editor	CoffeeScript	3	4	0	4
+HTML5Canvas.sugar	emin/HTML5Canvas.sugar	3843080	HTML5 Canvas sugar for Espresso Text Editor	null	108	4	0	4
+chocolat-solarized	kenips/chocolat-solarized	2743817	Solarized theme for Fileability's Chocolat text editor	null	88	4	0	4
+codemirror-element	dartlab/codemirror-element	30127746	Polymer element wrapping the CodeMirror text editor.	Dart	1944	4	1	4
+wrote-old	hf/wrote-old	3148788	Minimal text editor that lets you just write.	Vala	4225	4	1	4
+codex	ccbrown/codex	19752016	A light-weight programmer's text editor.	Objective-C	1992	4	1	4
+AkelPad_coder	Infocatcher/AkelPad_coder	5714914	Syntax themes for AkelPad text editor with Coder plugin	HTML	468	4	0	4
+megadraft-related-articles-plugin	globocom/megadraft-related-articles-plugin	62244171	Related articles plugin for Megadraft text editor	JavaScript	25	4	0	4
+vue-gdrive	tralves/vue-gdrive	64715345	VueJS text editor with Google Drive integration	JavaScript	2812	4	0	4
+ExCo	matkuki/ExCo	46371518	Extensible GUI text editor written in Python	Python	1799	4	0	4
+FullscreenWriter	reinerspass/FullscreenWriter	2169256	Really simple fullscreen text editor like all the other very simple text editors with fullscreen support. But it is free!	C	27952	4	0	4
+love-edit	finnoleary/love-edit	24407615	A modular text editor in Love2D/lua. /Fully/ (Emacs level) programmable with lua.	Lua	652	4	0	4
+NoteLiner	NathanLaan/NoteLiner	8472627	Windows based text editor that uses a kind of outliner style of editing.	C#	2796	4	0	4
+mimsy	jesse99/mimsy	7104057	Mac OS X text editor that doubles as a light-weight IDE.	Objective-C	1994	4	0	4
+atom-xml-tools	DotJoshJohnson/atom-xml-tools	34765562	A collection of essential XML utilities for the Atom text editor.	CoffeeScript	164	4	1	4
+scratchedit	LouCypher/scratchedit	5235926	Scratchpad Editor - Enables you to use external text editor with Firefox Scratchpad.	JavaScript	256	4	0	4
+mephisto_tinymce	carter/mephisto_tinymce	55646	Adds TinyMCE WYSIWYG rich text editor to Mephisto Article Edit Page	Ruby	315	4	1	4
+bpy_externall	zeffii/bpy_externall	46135048	execute scripts in a running Blender session from any decent text editor.	Python	28	4	1	4
+pinned-tabs-for-atom	ericcornelissen/pinned-tabs-for-atom	48334489	A package for the Atom text editor that allows you to pin tabs.	CoffeeScript	480	4	1	4
+gedit_gherkin	teacup-on-rockingchair/gedit_gherkin	981434	Cucumber's Gherkin syntax for the gEdit text editor and any other gtksourceview based editor	Ruby	216	4	0	4
+textor	Houfeng/textor	16473884	This is a very cool text editor, not a IDE, Only 3s to start using.	HTML	4768	4	1	4
+brackets-codecademy-theme	unsyllable/brackets-codecademy-theme	46902178	Theme inspired and created for Brackets.io "a popular open source text-editor" by Adobe.	CSS	1181	4	0	4
+django-richtextfield	jaap3/django-richtextfield	24059681	A Django model field and widget that renders a customizable WYSIWYG/rich text editor	Python	49	4	1	4
+lestle-theme-collection	lewislepton/lestle-theme-collection	48449020	collection of my theme [for different text editor/IDE] i use in day to day life	CSS	1350	4	0	4
+jQuery-RTE	kamranayub/jQuery-RTE	1253249	Modified version of Batiste Bieler's rich text editor plugin. Super lightweight and modified to work with ASP.NET Web Forms.	JavaScript	116	4	1	4
+Live-CSS-Mod	individuo7/Live-CSS-Mod	3527015	Chrome Extension that modify the HTML/CSS/JS code from your favorite text editor and it'll automatically refresh your web browser to see the changes.	JavaScript	215	4	0	4
+ListPad	jashp/ListPad	5322060	An open-source text editor for Android where lines can be easily added, deleted, reordered and modified. Features include browsing the file-system, bookmarking files and managing recent files. A couple thousand downloads and 4+ stars on Google Play.	Java	780	4	0	4
+TextEditor	jamesguoxin/TextEditor	47975543	Coursera Java Specialisation Project Two	Java	2171	3	5	3
+TextEditor	surajgautam/TextEditor	61993835	null	Java	27	3	3	3
+kissy-editor	hotoo/kissy-editor	887870	KISSY Rich-Text Editor	JavaScript	1724	3	8	3
+Zawgyi-Web-Text-Editor	saturngod/Zawgyi-Web-Text-Editor	3784546	webtexteditor zawgyi version	JavaScript	976	3	3	3
+TextEditor-Qt	dareTake/TextEditor-Qt	4429168	texteditor using Qt	C++	99	3	2	3
+editor	tomsmeding/editor	48890112	My own text editor	C++	102	3	5	3
+TextEditor	Luckygirlllll/TextEditor	45940812	This is very cool TextEditor	Java	2762	3	0	3
+TextEditor	d-kami/TextEditor	1820470	My TextEditor for Android	Java	104	3	0	3
+TextEditor	mparker11/TextEditor	1837586	Simple text editor 	C#	120	3	0	3
+vx	philipdexter/vx	43694734	a text editor	Python	238	3	2	3
+lwe	TheTomster/lwe	28947811	a cursorless text editor	C	211	3	2	3
+RichTextEditor	IainDelaney/RichTextEditor	10746512	Rich Text Editor using webkit based on http://http://ios-blog.co.uk/tutorials/rich-text-editing-a-simple-start-part-1/	Objective-C	136	3	0	3
+JotaTextEditor	jiro-aqua/JotaTextEditor	44470158	Text Editor for Android	Java	28084	3	1	3
+simple-text-editor	hun7err/simple-text-editor	7342194	A simple text editor with syntax highlighting written in Java	Java	12576	3	1	3
+encrypted-text-editor	CaptEmulation/encrypted-text-editor	18716379	Qt/Crypto++ encrypted text editor example	C++	852	3	0	3
+richTextEditor	andrewtdunn/richTextEditor	9799707	In-browser rich-text editor which compiles to svg	JavaScript	2348	3	0	3
+svg-text-editor	tomaash/svg-text-editor	27595070	Angular based text editor for SVG with forth-and-back conversion to contenteditable HTML	CSS	3560	3	1	3
+Ocarina-Text-Editor	Sage-of-Mirrors/Ocarina-Text-Editor	57468616	A text editor for The Legend of Zelda: Ocarina of Time.	C#	1613	3	1	3
+swing-texteditor	sheimi/swing-texteditor	3483210	a text editor implemented by swing	Java	208	3	3	3
+puppet-macvim	boxen/puppet-macvim	6052692	MacVim is the text editor Vim for Mac OS X	Ruby	12	3	8	3
+pi	ac7/pi	22320841	text editor	Go	360	3	0	3
+mute-demo	coast-team/mute-demo	20092020	Multi-User Text Editor running on localhost	JavaScript	6013	3	6	3
+mdiedit	selairi/mdiedit	19933970	Simple text editor with MDI interface	C++	84	3	2	3
+jquery-rte	buntekuh/jquery-rte	214337	a lightweight rich text editor based upon jquery	JavaScript	84	3	3	3
+SessionSaver	guillermo-carrasco/SessionSaver	4599071	Plugin to save sessions in Sublime text editor	Python	151	3	3	3
+espada	cmpitg/espada	8313606	Espada the hackable text editor.	Ruby	875	3	2	3
+lilypad	gperciva/lilypad	3422367	Lightweight text editors for GNU LilyPond	C	559	3	2	3
+Text-Editor-in-Java	rejochandran/Text-Editor-in-Java	24447777	Text Editor in Java with syntax highlighting	Java	1041	3	0	3
+new-new-Text-Editor	PiersonBro/new-new-Text-Editor	7311229	A simple UIKit based text-Editor for iPhone and iPad (partially working).	Objective-C	2154	3	1	3
+XCImageAndTextEditor	jczmdeveloper/XCImageAndTextEditor	57289303	A Mix Picture And Text Editor-使用SpannableString And ImageSpan 实现的图文混排编辑器	Java	3835	3	1	3
+XrmRichTextEditor	BackToTheCrm/XrmRichTextEditor	45839798		JavaScript	348	3	0	3
+html5-text-editor	p-m-p/html5-text-editor	3290051	Text editor built with the FileSystem API	JavaScript	2024	3	0	3
+150819_electron_text_editor	ics-creative/150819_electron_text_editor	40707767	「テキストエディターを作ってElectronの基礎を学ぼう！ HTML5でPCアプリ開発入門」で紹介したデモアプリです。	JavaScript	380	3	1	3
+Teksperanto	nmquirk/Teksperanto	10077217	Esperanto text editor.	Java	1143	3	1	3
+collaborative-editor	ozzimpact/collaborative-editor	32045514	Real-time room based collaborative rich text editor.	JavaScript	5155	3	2	3
+txtedit	terev/txtedit	15402530	A Text Editor	Python	3582	3	1	3
+knockout-froala	froala/knockout-froala	43287754	Knockout.js binding for Froala WYSIWYG HTML Rich Text Editor	HTML	22	3	3	3
+KhtSimpleText	khertan/KhtSimpleText	3639766	A simple plain text editor for Harmattan	Python	2115	3	2	3
+Apex	MarkChuCarroll/Apex	1559644	Apex text editor	Go	22732	3	0	3
+plugins	txt2tags/plugins	18890659	Add txt2tags support to your favorite text editor, CMS, …	PHP	240	3	3	3
+darcula-theme-various-ide	Sash0k/darcula-theme-various-ide	15803756	 Contains color themes like IntelliJ IDEA Darcula for various text editors.	null	176	3	3	3
+FeatherPad	tsujan/FeatherPad	54059569	Lightweight Qt5 Plain-Text Editor for Linux	C++	234	3	2	3
+solylace	madx/solylace	89048	A Shoes text editor	Ruby	108	3	0	3
+tetextedit	OrdinaryMagician/tetextedit	6784587	te is a text editor	C	155	3	1	3
+ckeditor-plugin	Shahiem/ckeditor-plugin	23856140	CKEditor is a ready-for-use HTML text editor designed to simplify web content creation. (This an OctoberCMS plugin)	JavaScript	6530	3	4	3
+atom-remember-folds	forivall/atom-remember-folds	51549414	Remembers and automatically re-folds folds in your text editors in atom	JavaScript	6	3	2	3
+cmacs	krockot/cmacs	11317962	Scriptable text editor for Chrome.	JavaScript	216	3	0	3
+sed	gooselinux/sed	2004741	A GNU stream text editor	null	106	3	0	3
+CodeEditor	Jerryno/CodeEditor	28981754	Blender Addon enhancing Text Editor	Python	124	3	0	3
+todo-pt	hi5/todo-pt	17107343	Universal TODO lists for Text Editors (based on PlainTasks)	AutoHotkey	142	3	2	3
+tcled	slebetman/tcled	17585079	Pure Tcl Console Text Editor	Tcl	213	3	0	3
+rune-editor	dmliao/rune-editor	12988765	jRuby-Swing Text Editor.	Ruby	2748	3	0	3
+reditor	duckinator/reditor	503381	text editor written in ruby	Ruby	112	3	0	3
+tef	joshhartigan/tef	29387922	terminal-based text editor	JavaScript	124	3	0	3
+rte-angular	drejkim/rte-angular	23034222	An AngularJS rich-text editor	JavaScript	22	3	0	3
+WordPress-Editor-Common	wordpress-mobile/WordPress-Editor-Common	30357327	Common code of Android and iOS rich text editor component.	JavaScript	208	3	2	3
+Thoth	Pent00/Thoth	4148127	Csc 332: Text Editor	Python	859	3	1	3
+sublime-haskell-cabal	Twinside/sublime-haskell-cabal	4799941	Syntax for Haskell cabal (build system) for the "Sublime text" editor	null	92	3	2	3
+gherkin-ide	pmazak/gherkin-ide	2386800	Lightweight HTML Text Editor with Auto-Completion for writing your Cucumber Gherkin Steps	Ruby	114	3	4	3
+writeily	jpsullivan/writeily	20932218	Android markdown text editor app	C	2131	3	1	3
+notepad	KaOSx/notepad	21616920	Very simple text-editor for use during kf5/plasma transition	C++	144	3	2	3
+yate	dcestari/yate	3209171	Yet Another Text Editor	Python	172	3	0	3
+werf	hadrianw/werf	38715220	Mouse driven text editor inspired by Acme (text editor from Plan 9).	C	120	3	0	3
+UrWeb-Language-Definition	gwalborn/UrWeb-Language-Definition	29062491	UrWeb Package for Sublime Text Editor	null	212	3	0	3
+Whizzywing	unverse/Whizzywing	2987199	Lightweight WYSIWYG rich text editor in javascript	JavaScript	278	3	0	3
+HtmlArea	thetalecrafter/HtmlArea	2656059	Inkwall's simple but extensible rich-text editor	JavaScript	912	3	0	3
+codeforces-plugin-sublime-text	cpragadeesh/codeforces-plugin-sublime-text	31782017	Codeforces build for Sublime Text Editor	Python	164	3	1	3
+ui-texteditor	Vik2015/ui-texteditor	23493000	Basic text editor written using ui module.	Python	139	3	1	3
+vim-getting-started	jaxbot/vim-getting-started	19312041	Getting Started Tutorial for the Vim Text Editor	CSS	188	3	0	3
+peeredit	jorendorff/peeredit	43442097	A toy collaborative text editor to illustrate CRDTs.	JavaScript	83	3	0	3
+JEditor	musaeed/JEditor	18334886	A lightweight text editor with many modern functions	Java	50666	3	2	3
+e	mtve/e	21990013	minimalistic full screen text editor on ncurses	C	112	3	0	3
+Thunderpad	alex-spataru/Thunderpad	15854225	A simple, powerful and cross-platform text editor	C++	24172	3	0	3
+textserver	tarao/textserver	331502	Edit on Firefox using external text editors. 	JavaScript	148	3	0	3
+quail-ckeditor	quailjs/quail-ckeditor	19985956	Accessibility feedbacl for the CKEditor text editor.	JavaScript	276	3	1	3
+geocode	stingclaw/geocode	54385045	A simple open source text editor for OSX﻿	Objective-C	466	3	1	3
+clangide	pippijn/clangide	4261573	Qt text editor with Clang parser integration.	C++	204	3	1	3
+om-rte	nhusher/om-rte	19624927	A simple rich text editor in Om	Clojure	1552	3	1	3
+restr	nitipit/restr	7573260	Restr - Restructured Text editor for Gnome	Python	1656	3	0	3
+tinymce-tts	owntheweb/tinymce-tts	1352968	Text-to-speech Text Editor Plugin for TinyMCE	JavaScript	224	3	0	3
+GEdit-HAML-Snippets	krzyczak/GEdit-HAML-Snippets	446105	HAML template snippets for GEdit text editor.	Shell	76	3	0	3
+Brackets-Deep-Blue-Theme	Neats29/Brackets-Deep-Blue-Theme	38070864	A theme for the Adobe Brackets Text Editor	CSS	2022	3	1	3
+Noteplaid	amccarthy1/Noteplaid	16581867	Plaid text editor. Perfect for hipsters	C#	1817	3	1	3
+CS-51-Final-Project	yuechen/CS-51-Final-Project	14005266	Text editor with English language syntax highlighting	Java	60	3	1	3
+led	cessen/led	28025559	A simple text editor written in Rust	Rust	408	3	1	3
+tome-editor	NickStefan/tome-editor	52636190	Rich Text Editor entirely in javascript	JavaScript	56	3	0	3
+LittleWriter	Giova84/LittleWriter	10845837	A rich text editor for Haiku	C++	471	3	1	3
+syntaxdb-atom-plugin	Coteh/syntaxdb-atom-plugin	64262963	A SyntaxDB plugin for Atom text editor.	JavaScript	312	3	0	3
+Tincta	CodingFriends/Tincta	67435368	The famous and much-loved text editor Tincta	Objective-C	6991	3	0	3
+recorder.js	mrjoelkemp/recorder.js	15976492	Text recorder for textareas and text editors	JavaScript	3285	3	1	3
+editor	bmcmahen/editor	16113199	structured text editor built w/ contenteditable	JavaScript	6896	3	0	3
+NetPad	thiagoalz/NetPad	1463711	Simple collaborative text editor using OpenOrb.	Java	8722	3	1	3
+Vico	bastibe/Vico	2040759	My site.nu for the text editor Vico	Nu	89	3	0	3
+django-kindeditor	Rykka/django-kindeditor	9273967	Kindeditor widget as django rich text editor.	JavaScript	541	3	0	3
+nTxt	lkjcalc/nTxt	25066987	Text editor for the Nspire calculator series	C	136	3	1	3
+mint-ui	1inus/mint-ui	32720337	a suite of jquery web plugin.include imgcut,dialog,form validator,markdowneditor,rich text editor.	JavaScript	2036	3	2	3
+ace_polymer.dart	danschultz/ace_polymer.dart	23783680	A Polymer.dart component for the Cloud9 Ace text editor	JavaScript	3920	3	0	3
+stylekit	graphiclife/stylekit	8551024	Convenience macros for defining text-editor-like styles for Objective-C	Objective-C	140	3	0	3
+ceditor-test	cheukyin699/ceditor-test	30005063	A simple terminal text editor implementation in C++ with ncurses	C++	148	3	2	3
+browserpad	browserpad/browserpad	30202756	A server-less plain text editor in the browser.	HTML	59	3	0	3
+text_tunnel	jackc/text_tunnel	5059752	Use your local text editor to edit files on remote servers.	Ruby	152	3	0	3
+dropedit	zacclark/dropedit	1012493	Student project for a java-powered web-based Dropbox text editor.	Java	276	3	0	3
+sublime-ariatemplates-snippets	ariatemplates/sublime-ariatemplates-snippets	9375783	A collection of useful Aria Templates snippets for Sublime Text editor.	null	112	3	0	3
+bespin_area	jamesprior/bespin_area	523736	A Rails plugin to replace textareas with Bespin powered text editors	Ruby	592	3	0	3
+gofill	crawshaw/gofill	17315733	gofill is an experimental hinting service for text editors	Go	204	3	0	3
+Slickrock-FlashDevelop	NicoM1/Slickrock-FlashDevelop	23475447	A dark, clean, minimal theme for the FlashDevelop text-editor.	null	216	3	0	3
+atom-typescript	seanhess/atom-typescript	19275691	Typescript Language Support for Atom Text Editor with IDE-like features. 	CoffeeScript	204	3	0	3
+atom-objc-2-rubymotion	ahmetabdi/atom-objc-2-rubymotion	17373498	Objective-C to RubyMotion converter for atom the hackable text editor	CoffeeScript	244	3	1	3
+AirC	MichaelParadis/AirC	53541950	The official text editor of the Aircraft Carrier Squad.	null	0	3	0	3
+s3edit	ladekjaer/s3edit	15885795	Opens a file on Amazon S3 in default text editor.	JavaScript	7	3	1	3
+Slickrock	NicoM1/Slickrock	22860640	A dark, clean, minimal theme for the Brackets text-editor.	CSS	124	3	0	3
+fisked	fisk/fisked	41469918	The world's best text editor for the terminal.	Java	9642	3	1	3
+kohana-lwrte	JDStraughan/kohana-lwrte	1319376	A simple wrapper for the Lightweight Rich Text Editor for jQuery	JavaScript	121	3	0	3
+simple_rte	shaneriley/simple_rte	1522341	Simple RTE - a simple rich text editor jQuery plugin	JavaScript	152	3	0	3
+Cylinder	Adam01/Cylinder	31028006	A web-browser based remote file access manager and text editor	Python	264	3	0	3
+luced	osch/luced	286417	The Lucid Editor - a fast & lightweight text editor for X11.	C++	3823	3	1	3
+richer	nickretallack/richer	40349006	A Collaborative Rich Text Editor that doesn't use contenteditable	CoffeeScript	164	3	0	3
+multiedit	pandeiro/multiedit	3573167	A simple text editor for note-taking from the browser	Clojure	1184	3	0	3
+void	PolyglotSymposium/void	28975242	A fearless modern text editor in the spirit of Vim	F#	925	3	0	3
+editor	schell/editor	15775734	An experimental text editor using freetype2 and OpenGL. Written in Haskell.	Haskell	920	3	0	3
+SVG.sugar	sdussaut/SVG.sugar	1424381	Sugar to add SVG support to Espresso text editor	null	164	3	0	3
+SmartTE	smartboyathome/SmartTE	781256	SmartTE is Smartboy's text editor, with its main feature being BBCode support!	Python	184	3	0	3
+kate_directory_project	cjbottaro/kate_directory_project	18044	Kate (KDE Advanced Text Editor) plugin that mimics TextMate's project functionality.	Python	81	3	1	3
+Brackets-Pronama-Editor	tuyapin/Brackets-Pronama-Editor	27729204	Display "MASCOT CHARACTERS APPS CONTEST 2014"'s characters as the background of text editor.	JavaScript	732	3	0	3
+Alfred-Plain-Text-Note	maguay/Alfred-Plain-Text-Note	9161935	Make a plain text note and open it in your default text editor with Alfred	null	120	3	0	3
+Vegas	vegastexteditor/Vegas	1782024	A configurable, extensable, text editor with a focus on usability and progressive efficiency.	JavaScript	3884	3	0	3
+atom-rename-tabs	jprichardson/atom-rename-tabs	39959333	Rename tabs titles with previous directory. Consistent with Sublime Text Editor behavior.	JavaScript	116	3	2	3
+brackets-cursor	maupin/brackets-cursor	30199055	An extension to add cursor display options to Adobe's Brackets text editor.	JavaScript	29	3	1	3
+artoo-editor	luizperes/artoo-editor	49124879	Artoo Editor is a text editor for terminals based on ncurses library	C	34	3	0	3
+witchr	maciejjankowski/witchr	11471190	Reload browser from your text editor in the simplest, ugliest, socket.io based implementation ever	JavaScript	3200	3	0	3
+language-newlisp	cormullion/language-newlisp	17510329	newLISP (not Lisp) syntax highlighting for atom.io, GitHub's new text editor 	CoffeeScript	296	3	0	3
+react-typewrite	antoniocapelo/react-typewrite	48952013	ReactJS component that simulates the effect of typing on a text editor	JavaScript	351	3	0	3
+tahrir	eslammostafa/tahrir	4019939	Tahrir is a neat text editor designed for linux, it is written in python/gtk.	Python	225	3	0	3
+FrexxEd	vidarh/FrexxEd	730924	FrexxEd is a flexible Amiga text editor with scripting support, ARexx, multiple views, built in filesystem handler for open buffers and more	C	1428	3	0	3
+greengrape	sumpygump/greengrape	6819630	Simplified way of managing a website. No Database, No CMS, No Wysiwyg editor -- Just your text editor and Markdown.	PHP	683	3	1	3
+ZunkoIDE	arinyan/ZunkoIDE	26718556	This extension changes the background of text editor Zunko Tohoku (Japanese Name: 東北ずん子) !	C#	232996	3	0	3
+django-rtf	jerryzhenleicai/django-rtf	4255586	Django Rich Text Editor based on FCKEditor, turn a TextField into a rich field  stored in HTML	JavaScript	1148	3	0	3
+sfNicEditPlugin	fonini/sfNicEditPlugin	851885	The sfNicEditPlugin is a symfony plugin that provides a WYSWYG text editor for your forms, using NicEdit	JavaScript	400	3	0	3
+redmine_jstoolbar_ext_buttons	tleish/redmine_jstoolbar_ext_buttons	20010699	The Redmine jsToolbar Buttons Extension adds some additional buttons to the [Redmine](http://www.redmine.org/) wiki and text editor toolbar. 	JavaScript	61	3	2	3
+gedit-plugin-reopen-tabs	disfated/gedit-plugin-reopen-tabs	1690519	Plugin for Gedit text editor that adds feature to restore recently opened tabs on Gedit startup	Python	747	3	0	3
+atom-background-pic	sayanee/atom-background-pic	49054832	:camera: A new Flickr image every day in the background when there are no open editors for Atom Text Editor	CoffeeScript	1029	3	1	3
+BIDE---Batch-Programming-IDE	shadestreak/BIDE---Batch-Programming-IDE	62306189	An text editor for batch programmers. This comes with some handy feratures which makes it usefull for batch programming	Java	10318	3	1	3
+super-quick-notes	tilek/super-quick-notes	52640114	Chrome extension that tries to provide a quick access to a simple version of QuillJS text editor via Chrome New Tab page.	JavaScript	120	3	0	3
+it-edit-2.91	mrcyberfighter/it-edit-2.91	63516332	It-Edit: an integrated terminal programming text-editor with many functionalities like a manpage reader, a documentation registering with direct accessing mechanism and many others settings and features.	C	1610	3	0	3
+ffgrep	brucehart/ffgrep	15573492	ffgrep - A grep-like command line tool to search text files in a given directory and (optionally) open a text editor to the matching line.	Python	252	3	0	3
+ied-go	alaroldai/ied-go	20445322	A second attempt at writing an IPC-based text editor. The core server is written in Go, clients may be written in platform-specific languages (e.g., Swift on Mac OS X)	Objective-C	308	3	0	3
+brackets-delete-line-start-end	probertson/brackets-delete-line-start-end	10199690	Brackets extension that adds shortcuts for deleting from the current cursor location to the start or end of the line. These are common shortcuts (Cmd+Delete and Cmd+Backspace) in Mac code/text editors. 	JavaScript	117	3	1	3
+BZQWikiMaker	BruceZCQ/BZQWikiMaker	9763600	the BZQWikiMaker is created by Cocoa. You can use the rich text editor edit the pages , and auto create the html pages, you can view the result in real time in your browser.	Objective-C	1020	3	0	3
+CopyTo	pke/CopyTo	511251	Allows to copy content of text editors and other views to services like pastebin.com and placing the resulting link in the clipboard	Java	5212	3	1	3
+redmine_jstoolbar_ext	tleish/redmine_jstoolbar_ext	20010169	The Redmine jsToolbar Extension is the base library for adding additional functionality to the [Redmine](http://www.redmine.org/) wiki and text editor toolbar. 	JavaScript	6	3	1	3
+Whitelist-Validation	Atticuss/Whitelist-Validation	21171698	.NET (C#) class for input validation to help prevent XSS when rich text editors are needed. All credit to eksith (eksith.wordpress.com)	C#	151	3	2	3
+sciai	xpansa/sciai	59571718	SciAI is an extension for the text editors like Google Docs to create structured semantic biomedical papers directly at the moment of writing	JavaScript	84	3	0	3
+very_simple_cms	edikgat/very_simple_cms	12976913	Very-Simple-Cms is a lightweight Content Management System, written in Ruby using     the Ruby on Rails web framework. Very-Simple-Cms has the simplicity of a static site     generator, but (being a fully fledged Rack application) allows you to     serve dynamic content on demand.      Content is stored on disk in plain text files (there is no database).     Edit your content in a text editor and keep it under version control     (most people use git, but any version control system will do fine).	JavaScript	228	3	1	3
+Text-Editor	Sm1996/Text-Editor	28764094	A java built text editor project	null	148	2	3	2
+TextEditor	VikasLShetty/TextEditor	16129639	text editor using C	C	108	2	2	2
+Simple-Javascript-Text-Editor	singhjaideep/Simple-Javascript-Text-Editor	3242170		JavaScript	112	2	3	2
+YATE	benwaffle/YATE	17355829	Yet Another Text Editor	C	204	2	4	2
+text_editor	share-with-me/text_editor	30138216		Python	104	2	1	2
+Text-Editor	markelonn/Text-Editor	36713538	A text editor developed in Python 3 using Tkinter for GUI.	Python	107	2	2	2
+Text-Editor	Seinh/Text-Editor	1300486	Editorsito de Texto	Java	116	2	0	2
+text-editor	phase/text-editor	54868148	text editor using Electron and CodeMirror	JavaScript	686	2	0	2
+TextEditor	fogleman/TextEditor	3441335	Scintilla-based text editor written in Python and wxPython	Python	1360	2	1	2
+Text-Editor	dmulder/Text-Editor	1187765	A simple text editor, originally written for windows. Porting to Linux.	C#	936	2	0	2
+Text-Editor	pedrolinhares/Text-Editor	620218	Basic text editor written in C++ using Qt4 	C++	476	2	0	2
+Text_Editor	rasppie/Text_Editor	21836618		Python	144	2	2	2
+Meta-Text-Editor	jlebrech/Meta-Text-Editor	3452521	A text editor in which you can edit code by typing in code 	null	92	2	0	2
+Rich-Text-Editor	balaarjunan/Rich-Text-Editor	1253652	Rich Text Editor	JavaScript	136	2	0	2
+InterText_editor	czcorpus/InterText_editor	50935765	Editor for aligned parallel texts (personal desktop application).	C++	5593	2	0	2
+Agilitext-Text-Editor	gmcgibbon/Agilitext-Text-Editor	12212094	Agilitext Text Editor is a multiplatform lightweight text editing application.	Java	608	2	0	2
+simple_text_editor	chrisbu/simple_text_editor	7121073		Dart	196	2	1	2
+SimpleTextEditor	thata/SimpleTextEditor	3422616	Your third iOS App's source code	null	124	2	0	2
+WJRichTextEditor	WJachowicz/WJRichTextEditor	9041145	iOS implementation of rich text editor	Objective-C	168	2	0	2
+opalang-text-editor	tavor/opalang-text-editor	4336191		null	88	2	0	2
+ICSharpCode.TextEditor.V4	cepthomas/ICSharpCode.TextEditor.V4	24558267	An evolution of the old WinForm text editor.	C#	1020	2	2	2
+sublimetext-plugins	ePages-rnd/sublimetext-plugins	9472106	Plugins for the Sublime Text editor	JavaScript	354	2	5	2
+atom-editor	sjug/atom-editor	40450627	AUR package for the atom text editor	Shell	57	2	5	2
+note5	fitraditya/note5	12428765	HTML5 Plain Text Editor	CSS	427	2	3	2
+textarea-editor	eivindfjeldstad/textarea-editor	56749425	Simple markdown editor for textareas	JavaScript	11	2	0	2
+sublime-spintools	bitbased/sublime-spintools	7857680	Sublime Text Editor Spin Langauge Tools	null	116	2	3	2
+notepad	zleap/notepad	24800298	basic text editor written in python	Python	22	2	5	2
+fate	Chiel92/fate	11146691	Text Editor	Python	777	2	1	2
+RTE	johnisaac/RTE	2164283	Simple Rich Text Editor	JavaScript	187	2	2	2
+zile-gui	gpaquet/zile-gui	53672	text editor	null	48	2	0	2
+language-bazel	ptsurko/language-bazel	41455970	Bazel language support for Atom text editor	CoffeeScript	59	2	3	2
+firefox-simple-text-editor	kud/firefox-simple-text-editor	19959178	A simple text editor for your firefox.	JavaScript	504	2	0	2
+Jquery-Rich-Text-Editor	neerajkumar/Jquery-Rich-Text-Editor	2503774	A light weight RTE jQuery Plugin	JavaScript	120	2	0	2
+php-rich-text-editor	wesleyegberto/php-rich-text-editor	18709180	Project to integrate rich text editor Tiny MCE and Elfinder file explorer	null	1688	2	0	2
+pistiwique_pie_text_editor	pistiwique/pistiwique_pie_text_editor	45980046		Python	15	2	0	2
+ICSharpCode.TextEditor	nano-byte/ICSharpCode.TextEditor	20960829	text editor used in SharpDevelop 3 with some custom patches	C#	368	2	0	2
+two-column-text-editor	rbenhase/two-column-text-editor	62171421	A Beaver Brewer module which provides two WYSIWYG editors, allowing for side-by-side content panels within a single page builder column.	PHP	4	2	0	2
+RichTextEditorTweaks	mbeijen/RichTextEditorTweaks	1492052	Tweaks for the OTRS Rich Text Editor	JavaScript	104	2	1	2
+qml-shadow-text-editor	gustavosbarreto/qml-shadow-text-editor	18570383		C++	156	2	0	2
+rails_textile_editor	XFinger/rails_textile_editor	1856965	Rails tutorial on creating a textile editor using RedCloth and the textile-editor-helper plugin.	JavaScript	180	2	0	2
+Expression	Bccorb/Expression	26297502	Text Editor Project built on Java	Java	462	2	2	2
+zile	gpaquet/zile	53669	Zile text editor	null	192	2	0	2
+quip	jpetrie/quip	44756092	A text editor.	C++	960	2	0	2
+QTextEditor	jcespinoza/QTextEditor	8384544	Simple Text editor.	C++	160	2	1	2
+sandy	antics/sandy	3207703	sandy text editor	C	111	2	1	2
+NLP	TusharNaik/NLP	18994278	Integrated Text Editor	Java	28212	2	0	2
+ned	joaIW0pC/ned	3462577	ncurses text editor	C++	85	2	0	2
+robot-sublimetext-bundle	bettertest-org/robot-sublimetext-bundle	7839313	Robot Framework bundle for Sublime Text editor	null	93	2	2	2
+Project-Umbra	maxnordlund/Project-Umbra	1555303	Mhasiran text editor	Java	468	2	0	2
+glyph	liehann/glyph	791779	Programmers text editor.	null	96	2	0	2
+jarn	vlatri/jarn	43502125	Handwritten text editor	JavaScript	9524	2	0	2
+lebowski	424f/lebowski	601367	Collaborative text editor	C#	7559	2	0	2
+light-editor	juanma-aguero/light-editor	2316412	A very simple and super light text editor	JavaScript	119	2	3	2
+my-editor-ng	reusee/my-editor-ng	14664765	GtkSourceView based, vim-like modal text editor	Python	1708	2	2	2
+urn	btakita/urn	35375	A Text Editor	Lua	116	2	0	2
+.vim	140am/.vim	39117396	VIM text editor setup for software development	VimL	103	2	2	2
+text-editor-for-windows-mobile	CH3COOH/text-editor-for-windows-mobile	394215	.NET Compact Framework を使って簡易テキストエディタを作ってみた！	C#	100	2	0	2
+textile-editor-helper-examples	katgironpe/textile-editor-helper-examples	5987528	Examples for Textile Editor Helper	Ruby	180	2	0	2
+lswRichTextEditors	dwm9100b/lswRichTextEditors	20267582	How to integrate rich text editors into a LightSwitch HTML Client	JavaScript	7012	2	0	2
+VaEdit	edanniehues/VaEdit	693595	Simple GTK+ Text Editor	Vala	207	2	1	2
+paco	frankencode/paco	4655566	the free text editor	C++	15266	2	1	2
+eEditor_MarkdownEditor	timehzy/eEditor_MarkdownEditor	64379701	A rich text editor	Objective-C	4285	2	0	2
+liri-text	liri-project/liri-text	51027356	Material Design text editor	QML	73	2	0	2
+PACCHIGI-EDITOR	r18/PACCHIGI-EDITOR	21575958	This is Text Editor.	Processing	391	2	1	2
+markpad.github.io	markpad/markpad.github.io	42624729	Markdown live text-editor 	JavaScript	90	2	0	2
+meteor-autoform-ace-editor	TransWebT/meteor-autoform-ace-editor	50807228	AutoForm text editor custom field type based on Ace Editor	JavaScript	15	2	2	2
+gtef	swilmet/gtef	58031733	GNOME Text Editor Framework	C	247	2	1	2
+writers-block	cssndrx/writers-block	11102694	Text editor for augmented writing. Built with nltk and pyqt4	Python	688	2	2	2
+emacs	gooselinux/emacs	2015813	GNU Emacs text editor	null	124	2	0	2
+jk	millere/jk	29047587	The jk text editor	Go	286	2	0	2
+lredit	crftwr/lredit	12020212	python based text editor	Python	1939	2	0	2
+forge	nokaa/forge	50654985	An experimental text editor	Rust	102	2	0	2
+sublime-ariatemplates-highlighter	ariatemplates/sublime-ariatemplates-highlighter	10449046	Aria Templates syntax highlighting for Sublime Text editor.	null	204	2	2	2
+foundry	currysoup/foundry	40571019	Text editor for Rust	Rust	652	2	0	2
+edge	alefore/edge	25402554	Edge - a text editor	C++	1363	2	0	2
+SuperpowersHTML5_TextEditorTheme_ARCHEOPS	StuffBySpencer/SuperpowersHTML5_TextEditorTheme_ARCHEOPS	52657206	a light text-editor theme for the Superpowers HTML5 Game Engine	CSS	9	2	0	2
+sed	freddix/sed	5500780	A GNU stream text editor	null	124	2	0	2
+Sierra5	kvj/Sierra5	4749346	Very special tree-like text editor	Java	1176	2	0	2
+bread	bread-editor/bread	37086687	The Sandwich-Based Text Editor!	Go	9600	2	0	2
+Pyrite	zach-king/Pyrite	31194977	A simple Python text editor	Tcl	29852	2	0	2
+degvi	tyatsumi/degvi	7841804	Degraded vi like text editor	C	140	2	0	2
+corfu	chrisforbes/corfu	324405	Extensible text editor in C#	C#	1132	2	0	2
+snarkdown	arcandio/snarkdown	16484782	a text editor for novelists	C#	3412	2	0	2
+EdSharp	EmpowermentZone/EdSharp	41467530	EdSharp is a full featured text editor that is friendly, powerful, and open source.	TeX	34392	2	1	2
+ed2	tylerneylon/ed2	38174582	an ed-like text editor	C	328	2	0	2
+atom-sugarml	reshape/atom-sugarml	65833845	sugarml syntax for atom text editor	CoffeeScript	5	2	1	2
+dedit	buggins/dedit	67011979	Console text editor written in D	D	1061	2	0	2
+Flood.it-NodeJS	JesusPatate/Flood.it-NodeJS	15136914	Fully decentralized collaborative text editor	JavaScript	635	2	1	2
+roshambo	glitterfang/roshambo	3576209	A little rich text editor CoffeeScript.	JavaScript	155	2	1	2
+pyeditor	humbhenri/pyeditor	4011022	Text Editor written in python - tkinter	Python	115	2	1	2
+Monaco	dwkd/Monaco	5184327	Monaco is a Color Scheme for Sublime Text Editor that emulates Dreamweaver's color formatting for CFML code (so far)	null	102	2	3	2
+emolRTE	sobstel/emolRTE	495231	Unbloated Rich Text Editor for jQuery.	JavaScript	112	2	0	2
+compose	lucthev/compose	18161786	Yet another rich text editor thing.	JavaScript	582	2	0	2
+glitterbomb	robmclarty/glitterbomb	17721770	Glitterbomb theme for Atom text editor.	CSS	148	2	0	2
+Sublime-Text-2-Settings	phocke/Sublime-Text-2-Settings	3954403	my handy settings for sublime text editor - optimized to work well with ruby, rails, html, css and the like	null	16213	2	4	2
+Dashboard_Mindstorm	GigaBots/Dashboard_Mindstorm	19289994	Dashboard for control panel and console-based text editor in The Gigabots project	JavaScript	8662	2	2	2
+racketpad	rmca/racketpad	13199677	A notepad inspired text editor	Racket	140	2	1	2
+pedit	jdsolucoes/pedit	45548148	A little-tiny-almost nothing text editor for short commit messages	Python	56	2	2	2
+jEdit	josephgodwinkimani/jEdit	54373696	Text Editor - java maven project	Java	206	2	0	2
+markup	timurtu/markup	51676693	WYSIWYG Markdown Text Editor Desktop Application.	JavaScript	184057	2	1	2
+evernote-edit	scheeser/evernote-edit	22074378	Evernote package for the Atom text editor	JavaScript	212	2	0	2
+NoteBar	rafkhan/NoteBar	2124637	A notification bar text editor for android.	Java	180	2	0	2
+CodeShow	unicornrainbow/CodeShow	1796976	Broadcast edits made in a text editor (Experimental)	JavaScript	3968	2	0	2
+bonfire-snippets	svizion/bonfire-snippets	5649786	Bonfire Snippets for Sublime Text Editor 2	null	121	2	0	2
+Sublime2-snippets	Granze/Sublime2-snippets	3207476	Useful snippets for Sublime text editor 2	null	104	2	0	2
+Littlechief	razier/Littlechief	4754193	A tiny online text editor written in php	PHP	220	2	1	2
+huruf	auralius/huruf	30913889	A console based super cool text editor!	C	74	2	0	2
+linter-polymer	opus1269/linter-polymer	48031566	Polymer linter for Atom the Hackable Text Editor	CoffeeScript	9	2	0	2
+expedit	fdidier/expedit	51999	a text editor I can experiment with.	C++	256	2	0	2
+micro	amaljoyc/micro	43213866	A command-line text editor using python	Python	4	2	0	2
+ed-pythonista	ywangd/ed-pythonista	29525392	A poor man's text editor in Pythonista	Python	136	2	0	2
+crypto-editor	nilsmehlhorn/crypto-editor	57233320	Simple text-editor to illustrate encryption techniques	Java	9150	2	0	2
+sublime-felix	fuzzthink/sublime-felix	63320241	Felix support for the Sublime Text editor	null	5	2	0	2
+styles-highlighter	Tuchkata/styles-highlighter	48284577	Styles highlighter plugin for the Atom text editor.	CoffeeScript	21	2	1	2
+mesh	palasthotel/mesh	7406551	An HTML5 content-editable and jQuery text-editor	JavaScript	1541	2	1	2
+Sublime-Text-Package---Javascript	vanntastic/Sublime-Text-Package---Javascript	3319851	Javascript package / bundle for sublime text editor	null	112	2	0	2
+xedit	simoncozens/xedit	259402	Generic XML rich text editor in Javascript	JavaScript	100	2	0	2
+CKEditor	mcbryanmd/CKEditor	1387269	Projects dealing with the CKEditor text editor.	null	312	2	0	2
+brackets-velocity-syntax-highlighter	adperezmorales/brackets-velocity-syntax-highlighter	28785323	Velocity templates syntax highlighting for Brackets text editor	JavaScript	132	2	0	2
+run-chrome-app	sondreb/run-chrome-app	23328514	Run Chrome Apps from Atom Text Editor	CoffeeScript	128	2	0	2
+sublime-stackmob-js-snippets	wyne/sublime-stackmob-js-snippets	9389346	StackMob JavaScript Snippets for Sublime Text Editor	null	136	2	0	2
+edchar	zar1/edchar	27554663	A text editor for 1-character displays	C	104	2	0	2
+we-edit	lalalic/we-edit	61996528	text editor based on react and svg	JavaScript	18590	2	0	2
+ThaanaEditText	xahy/ThaanaEditText	44089333	Thaana text editor in swift language for UITextField	Swift	172	2	1	2
+siteleaf-atom	siteleaf/siteleaf-atom	19575296	Siteleaf package for the Atom text editor	CoffeeScript	210	2	1	2
+rtedit	ViktorQvarfordt/rtedit	24699301	Real-time collaborative text* editor - Web service	JavaScript	1610	2	0	2
+jed	olesenm/jed	660985	(patched)  JED is a freely available text editor 	C	1660	2	0	2
+jot	iKlsR/jot	10776016	a minimalistic, lightweight, half-realized text editor..	Java	1716	2	0	2
+dole	darius/dole	10729009	The Doe text editor rewritten in Lua	Lua	300	2	0	2
+dk-nanoc	Pistos/dk-nanoc	922986	A nanoc extension for the Diakonos text editor.	Ruby	92	2	0	2
+ide-editor	corydorning/ide-editor	2406983	Various text editor settings and color schemes/themes	null	323	2	1	2
+mt-plugin-rich-editor-selector	yuji/mt-plugin-rich-editor-selector	395146	You can choose the favorite rich text editor.	null	72	2	0	2
+gfate	Mattias1/gfate	21817157	A gui for Chiel92's fate text editor	Python	173	2	1	2
+sedit	incessantmeraki/sedit	48983691	Minimal Text Editor created using GTK and C	C	954	2	0	2
+se	QuantumNemesis/se	26905228	shell editor (experimental text editor written in bash)	Shell	204	2	0	2
+ace_editor	rocka0/ace_editor	41785353	A working version of the ace text editor	JavaScript	3684	2	0	2
+bootstrap3-plus	jonayad/bootstrap3-plus	55031950	Bootstrap 3 Snippets for your Atom text editor	CoffeeScript	174	2	1	2
+react-rte-filepicker	BMGTech/react-rte-filepicker	61319758	Very simple rich text editor for react	JavaScript	34	2	0	2
+editor	rubenwardy/editor	66742436	Minetest Mod: Flexible formspec based text editor	Lua	30	2	0	2
+pluma-plugins	jsenin/pluma-plugins	10411975	Pluma plugins for MATE desktop text editor. 	Python	268	2	0	2
+googiespell	cbosco/googiespell	869444	Googiespell with HTML and rich text editor additions	JavaScript	128	2	1	2
+micro	sandeep-datta/micro	18567093	A text editor inspired by nano and pico.	Python	116	2	0	2
+atom-haskell-grammar	christiantschoepe/atom-haskell-grammar	29067227	Haskell language support in the Atom text editor.	CoffeeScript	290	2	1	2
+js-richtext	joshmarinacci/js-richtext	26739831	Rich Text editor for HTML Canvas and others.	JavaScript	176	2	0	2
+automatic-octo-computing-machine	eriklovlie/automatic-octo-computing-machine	51029383	OCaml linter for the Atom text editor.	CoffeeScript	28	2	1	2
+zile	Etenil/zile	47848	zile is an emacs-like text editor	null	56	2	0	2
+idiomatic-dark-syntax	blaqbern/idiomatic-dark-syntax	43584775	A minimal syntax theme for Atom text editor	CSS	1104	2	1	2
+chocula-syntax	SeanJM/chocula-syntax	40413955	A Syntax theme for the Atom text editor	CSS	11804	2	0	2
+type	kurisubrooks/type	63426796	:book: Simple Text Editor – made with Electron	JavaScript	735	2	0	2
+EditorialWorkflows	jobbogamer/EditorialWorkflows	16697020	Workflows for Editorial, the text editor for iPad.	null	140	2	0	2
+woot	mkdynamic/woot	62530995	Collaborative text editor using the WOOT algorithm	JavaScript	18	2	0	2
+finpad	drcouzelis/finpad	37283592	A simple text editor for SailfishOS (TinyEdit fork)	QML	148	2	0	2
+fog	jacksondc/fog	24428209	A text editor that blurs your writing.	JavaScript	2109	2	1	2
+git_edit	vain0/git_edit	58997274	A text editor for Git on Windows	C#	883	2	0	2
+scum	CCareaga/scum	67505798	A multi-tab, terminal-based text editor	Python	140	2	0	2
+emacs	id774-2/emacs	914403	GNU Emacs is an extensible, customizable text editor—and more.	Emacs Lisp	55468	2	0	2
+bodybuilder	jmkenz/bodybuilder	14871341	BodyBuilder - A Rich Text Editor That's Tired of Messing Around	JavaScript	794	2	1	2
