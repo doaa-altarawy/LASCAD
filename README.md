@@ -1,6 +1,11 @@
 # LASCAD
 LASCAD: Language-Agnostic Software Categorization and Similar Application Detection
 
+## Paper to reference:
+
+If you use any of the source code, the datasets, or the results of the paper, please reference:
+- Altarawy, Doaa, Hossameldin Shahin, Ayat Mohammed, and Na Meng. "Lascad: Language-agnostic software categorization and similar application detection." Journal of Systems and Software 142 (2018): 21-34.
+
 
 ## Abstract
 Categorizing software and detecting similar programs are useful for various purposes including expertise sharing, program comprehension, and rapid prototyping. However, existing categorization and similar software detection tools are not sufficient. Some tools only handle applications written in certain languages or belonging to specific domains like Java or Android. Other tools require significant configuration effort due to their sensitivity to parameter settings, and may produce excessively large numbers of categories. In this paper, we present a more usable and reliable approach of Language-Agnostic Software Categorization and similar Application Detection (LASCAD). Our approach applies Latent Dirichlet Allocation (LDA) and hierarchical clustering to programs' source code in order to reveal which applications implement similar functionalities.
